@@ -1,4 +1,4 @@
 ### Saludos 👋
 
-- 🔭 Actualmente trabjando: https://blog.lordpedal.duckdns.org/
-- 📫 Puedes encontrarme: https://t.me/lordpedal_rss
+- 🔭 Blog: https://blog.lordpedal.duckdns.org/
+- 📫 Canal Telegram: https://t.me/lordpedal_rss
