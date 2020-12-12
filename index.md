@@ -1,4 +1,4 @@
-### Enlaces:
+### 🌐 Enlaces:
 
 - 🔭 [Blog](https://blog.lordpedal.duckdns.org/ "KISS: Keep It Simple, Stupid!"): **KISS: Keep It Simple, Stupid!**
 - 🖥️ [Bitácora Debian](https://lordpedal.gitlab.io/ "Overclock Server"): **Overclock Server**
