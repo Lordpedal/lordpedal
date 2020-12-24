@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="0" tvg-id="597.movistar.tv" tvh-tags="Movistar TV|SDTV|Ocio y cultura" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/3103.jpg",Movistar+
+http://192.168.1.50:2112/rtp/239.0.5.185:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="1" tvg-id="1.movistar.tv" tvh-tags="Movistar TV|HDTV|Ocio y cultura" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2543.jpg",La 1 HD
+http://192.168.1.50:2112/rtp/239.0.0.185:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="2" tvg-id="3.movistar.tv" tvh-tags="Movistar TV|HDTV|Ocio y cultura" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4455.jpg",La 2 HD
+http://192.168.1.50:2112/rtp/239.0.0.183:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="3" tvg-id="4.movistar.tv" tvh-tags="Movistar TV|HDTV|Ocio y cultura" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2524.jpg",Antena 3 HD
+http://192.168.1.50:2112/rtp/239.0.0.186:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="4" tvg-id="5.movistar.tv" tvh-tags="Movistar TV|HDTV|Toros" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1825.jpg",Cuatro HD
+http://192.168.1.50:2112/rtp/239.0.0.177:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="5" tvg-id="6.movistar.tv" tvh-tags="Movistar TV|HDTV|Ocio y cultura" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1826.jpg",Tele 5 HD
+http://192.168.1.50:2112/rtp/239.0.0.176:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="6" tvg-id="717.movistar.tv" tvh-tags="Movistar TV|HDTV|Ocio y cultura" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2526.jpg",laSexta HD
+http://192.168.1.50:2112/rtp/239.0.0.187:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="7" tvg-id="2803.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2844.jpg",#0 HD
+http://192.168.1.50:2112/rtp/239.0.5.187:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="8" tvg-id="4626.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4627.jpg",#Vamos HD
+http://192.168.1.50:2112/rtp/239.0.5.197:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="9" tvg-id="782.movistar.tv" tvh-tags="Movistar TV|SDTV|Ocio y cultura" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/782.jpg",7 R.Murcia
+http://192.168.1.50:2112/rtp/239.0.0.87:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="11" tvg-id="2804.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2823.jpg",M. Series HD
+http://192.168.1.50:2112/rtp/239.0.5.250:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="12" tvg-id="2807.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2824.jpg",M. Seriesmanía HD
+http://192.168.1.50:2112/rtp/239.0.5.83:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="13" tvg-id="737.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1607.jpg",FOX HD
+http://192.168.1.50:2112/rtp/239.0.9.134:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="14" tvg-id="14.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1608.jpg",AXN HD
+http://192.168.1.50:2112/rtp/239.0.9.131:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="15" tvg-id="457.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1609.jpg",TNT HD
+http://192.168.1.50:2112/rtp/239.0.5.87:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="16" tvg-id="577.movistar.tv" tvh-tags="Movistar TV|HDTV|Comedia" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2224.jpg",Comedy Central HD
+http://192.168.1.50:2112/rtp/239.0.0.174:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="17" tvg-id="13.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1705.jpg",Calle 13HD
+http://192.168.1.50:2112/rtp/239.0.5.74:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="18" tvg-id="21.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1610.jpg",COSMO HD
+http://192.168.1.50:2112/rtp/239.0.5.71:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="19" tvg-id="939.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1613.jpg",AMC HD
+http://192.168.1.50:2112/rtp/239.0.9.132:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="20" tvg-id="960.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2203.jpg",FOX life HD
+http://192.168.1.50:2112/rtp/239.0.0.165:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="21" tvg-id="751.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1611.jpg",AXN W. HD
+http://192.168.1.50:2112/rtp/239.0.5.79:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="22" tvg-id="777.movistar.tv" tvh-tags="Movistar TV|HDTV|Ciencia ficción" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1703.jpg",SyfyHD
+http://192.168.1.50:2112/rtp/239.0.5.75:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="24" tvg-id="2533.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2533.jpg",MTV España
+http://192.168.1.50:2112/rtp/239.0.0.211:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="25" tvg-id="747.movistar.tv" tvh-tags="Movistar TV|SDTV|Comedia" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/747.jpg",FDF
+http://192.168.1.50:2112/rtp/239.0.0.84:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="26" tvg-id="934.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4714.jpg",Neox HD
+http://192.168.1.50:2112/rtp/239.0.5.207:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="27" tvg-id="3186.movistar.tv" tvh-tags="Movistar TV|HDTV|Series" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/3223.jpg",Atreseries HD
+http://192.168.1.50:2112/rtp/239.0.0.190:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="28" tvg-id="884.movistar.tv" tvh-tags="Movistar TV|SDTV|Toros" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/884.jpg",Energy
+http://192.168.1.50:2112/rtp/239.0.0.59:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="37" tvg-id="738.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2204.jpg",TCM HD
+http://192.168.1.50:2112/rtp/239.0.5.89:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="38" tvg-id="15.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1612.jpg",Hollywood HD
+http://192.168.1.50:2112/rtp/239.0.5.76:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="39" tvg-id="1039.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1615.jpg",Sundance HD
+http://192.168.1.50:2112/rtp/239.0.5.72:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="40" tvg-id="341.movistar.tv" tvh-tags="Movistar TV|SDTV|Música" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/341.jpg",DARK
+http://192.168.1.50:2112/rtp/239.0.0.39:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="41" tvg-id="844.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/844.jpg",TRECE
+http://192.168.1.50:2112/rtp/239.0.0.91:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="42" tvg-id="3443.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/3443.jpg",Ten
+http://192.168.1.50:2112/rtp/239.0.0.34:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="43" tvg-id="1221.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine español" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1221.jpg",Paramount Network
+http://192.168.1.50:2112/rtp/239.0.0.90:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="44" tvg-id="2603.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2607.jpg",DEPORTES
+http://192.168.1.50:2112/rtp/239.0.0.180:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="45" tvg-id="4636.movistar.tv" tvh-tags="Movistar TV|HDTV|Deportes" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4637.jpg",#Vamos HD
+http://192.168.1.50:2112/rtp/239.0.5.197:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="58" tvg-id="4883.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4884.jpg",UBEAT HD
+http://192.168.1.50:2112/rtp/239.0.0.178:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="61" tvg-id="118.movistar.tv" tvh-tags="Movistar TV|HDTV|Deportes" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1623.jpg",Eurosport 1 HD
+http://192.168.1.50:2112/rtp/239.0.9.135:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="62" tvg-id="338.movistar.tv" tvh-tags="Movistar TV|HDTV|Deportes" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2720.jpg",Eurosport 2 HD
+http://192.168.1.50:2112/rtp/239.0.5.105:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="63" tvg-id="3325.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4063.jpg",GOL HD
+http://192.168.1.50:2112/rtp/239.0.5.189:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="64" tvg-id="744.movistar.tv" tvh-tags="Movistar TV|HDTV|Deportes" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2544.jpg",Teledeporte HD
+http://192.168.1.50:2112/rtp/239.0.0.188:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="68" tvg-id="2843.movistar.tv" tvh-tags="Movistar TV|HDTV|Fútbol" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/3063.jpg",Real Madrid TV HD
+http://192.168.1.50:2112/rtp/239.0.0.179:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="69" tvg-id="757.movistar.tv" tvh-tags="Movistar TV|HDTV|Deportes" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4809.jpg",Barça TV HD
+http://192.168.1.50:2112/rtp/239.0.5.199:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="70" tvg-id="740.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1643.jpg",NAT GEO HD
+http://192.168.1.50:2112/rtp/239.0.5.78:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="71" tvg-id="1563.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1619.jpg",NG Wild HD
+http://192.168.1.50:2112/rtp/239.0.9.136:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="72" tvg-id="17.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4920.jpg",Historia HD
+http://192.168.1.50:2112/rtp/239.0.0.166:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="73" tvg-id="19.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2205.jpg",Discovery HD
+http://192.168.1.50:2112/rtp/239.0.5.77:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="74" tvg-id="20.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1618.jpg",ODISEA HD
+http://192.168.1.50:2112/rtp/239.0.5.82:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="75" tvg-id="340.movistar.tv" tvh-tags="Movistar TV|SDTV|Documentales" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/340.jpg",BLAZE
+http://192.168.1.50:2112/rtp/239.0.0.38:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="76" tvg-id="18.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1617.jpg",Viajar HD
+http://192.168.1.50:2112/rtp/239.0.5.73:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="77" tvg-id="657.movistar.tv" tvh-tags="Movistar TV|SDTV|Documentales" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/657.jpg",DMAX
+http://192.168.1.50:2112/rtp/239.0.0.32:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="78" tvg-id="697.movistar.tv" tvh-tags="Movistar TV|SDTV|Acción" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/697.jpg",Crimen + Inv.
+http://192.168.1.50:2112/rtp/239.0.0.57:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="80" tvg-id="22.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4921.jpg",Cocina HD
+http://192.168.1.50:2112/rtp/239.0.0.169:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="81" tvg-id="850.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/850.jpg",Decasa
+http://192.168.1.50:2112/rtp/239.0.0.71:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="82" tvg-id="3603.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/3603.jpg",DKISS
+http://192.168.1.50:2112/rtp/239.0.0.6:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="83" tvg-id="663.movistar.tv" tvh-tags="Movistar TV|SDTV|Drama" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/663.jpg",Divinity
+http://192.168.1.50:2112/rtp/239.0.0.48:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="84" tvg-id="935.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4716.jpg",Nova HD
+http://192.168.1.50:2112/rtp/239.0.5.209:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="85" tvg-id="2863.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4715.jpg",MEGA HD
+http://192.168.1.50:2112/rtp/239.0.5.210:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="86" tvg-id="3184.movistar.tv" tvh-tags="Movistar TV|HDTV|Ciencia ficción" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/3185.jpg",BeMad HD
+http://192.168.1.50:2112/rtp/239.0.0.182:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="87" tvg-id="2943.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2943.jpg",Garage TV
+http://192.168.1.50:2112/rtp/239.0.0.99:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="89" tvg-id="12.movistar.tv" tvh-tags="Movistar TV|SDTV|Fútbol" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/12.jpg",Futbol Replay
+http://192.168.1.50:2112/rtp/239.0.0.97:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="90" tvg-id="778.movistar.tv" tvh-tags="Movistar TV|SDTV|Infantil" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/778.jpg",Baby TV
+http://192.168.1.50:2112/rtp/239.0.0.113:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="91" tvg-id="10.movistar.tv" tvh-tags="Movistar TV|HDTV|Infantil" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4915.jpg",Disney Junior HD
+http://192.168.1.50:2112/rtp/239.0.5.181:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="92" tvg-id="1019.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4922.jpg",Canal Panda HD
+http://192.168.1.50:2112/rtp/239.0.0.171:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="93" tvg-id="2532.movistar.tv" tvh-tags="Movistar TV|HDTV|Series infantiles" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4885.jpg",Nick Jr HD
+http://192.168.1.50:2112/rtp/239.0.0.167:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="94" tvg-id="579.movistar.tv" tvh-tags="Movistar TV|HDTV|Infantil" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4734.jpg",Nickelodeon HD
+http://192.168.1.50:2112/rtp/239.0.5.204:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="96" tvg-id="2.movistar.tv" tvh-tags="Movistar TV|HDTV|Infantil" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1616.jpg",Disney Channel HD
+http://192.168.1.50:2112/rtp/239.0.0.173:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="97" tvg-id="578.movistar.tv" tvh-tags="Movistar TV|SDTV|Infantil" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/578.jpg",Boing
+http://192.168.1.50:2112/rtp/239.0.0.66:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="98" tvg-id="745.movistar.tv" tvh-tags="Movistar TV|HDTV|Infantil" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4467.jpg",Clan TVE HD
+http://192.168.1.50:2112/rtp/239.0.0.184:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="105" tvg-id="581.movistar.tv" tvh-tags="Movistar TV|SDTV|Música" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/581.jpg",VH1
+http://192.168.1.50:2112/rtp/239.0.0.75:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="112" tvg-id="743.movistar.tv" tvh-tags="Movistar TV|SDTV|Internacional" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/743.jpg",Canal 24 H.
+http://192.168.1.50:2112/rtp/239.0.0.78:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="113" tvg-id="197.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/197.jpg",BBC World
+http://192.168.1.50:2112/rtp/239.0.0.30:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="114" tvg-id="342.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/342.jpg",CNN Int.
+http://192.168.1.50:2112/rtp/239.0.0.40:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="115" tvg-id="845.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/845.jpg",Fox News
+http://192.168.1.50:2112/rtp/239.0.7.65:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="116" tvg-id="119.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/119.jpg",Euronews
+http://192.168.1.50:2112/rtp/239.0.0.28:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="117" tvg-id="846.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/846.jpg",Al Jazeera
+http://192.168.1.50:2112/rtp/239.0.7.66:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="118" tvg-id="847.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/847.jpg",France 24
+http://192.168.1.50:2112/rtp/239.0.7.67:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="119" tvg-id="848.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/848.jpg",Russia T.
+http://192.168.1.50:2112/rtp/239.0.7.68:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="120" tvg-id="849.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/849.jpg",CNBC Eur.
+http://192.168.1.50:2112/rtp/239.0.7.69:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="122" tvg-id="198.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/198.jpg",TV5 Monde
+http://192.168.1.50:2112/rtp/239.0.0.31:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="123" tvg-id="120.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/120.jpg",Bloomberg
+http://192.168.1.50:2112/rtp/239.0.0.29:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="124" tvg-id="582.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/582.jpg",El Toro TV
+http://192.168.1.50:2112/rtp/239.0.0.63:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="125" tvg-id="4925.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4925.jpg",Negocios TV
+http://192.168.1.50:2112/rtp/239.0.0.85:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="129" tvg-id="1805.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/1805.jpg",CNC World
+http://192.168.1.50:2112/rtp/239.0.0.221:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="143" tvg-id="3363.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/3363.jpg",EWTN
+http://192.168.1.50:2112/rtp/239.0.0.72:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="150" tvg-id="2275.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2275.jpg",Canal Sur Andalucía
+http://192.168.1.50:2112/rtp/239.0.0.1:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="151" tvg-id="2273.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2273.jpg",TVG Europa
+http://192.168.1.50:2112/rtp/239.0.3.37:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="152" tvg-id="4299.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/4299.jpg",Canal Extremadura SAT
+http://192.168.1.50:2112/rtp/239.0.0.52:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="153" tvg-id="2271.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2271.jpg",TV3CAT
+http://192.168.1.50:2112/rtp/239.0.3.36:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="154" tvg-id="2269.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2269.jpg",ETB Sat.
+http://192.168.1.50:2112/rtp/239.0.0.60:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="155" tvg-id="2743.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="http://html5-static.svc.imagenio.telefonica.net/appclientv/nux/incoming/epg/channelLogo/2743.jpg",Aragón TV Int
+http://192.168.1.50:2112/rtp/239.0.0.81:8208
