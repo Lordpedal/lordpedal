@@ -34,11 +34,6 @@ ErrorDocument 500 /500.html
   Deny from all
 </Files>
 
-<Files .htaccess.jmla>
-  Order allow,deny
-  Deny from all
-</Files>
-
 ## Alternative caching using Apache's "mod_headers", if it's installed.
 ## Caching of common files - ENABLED
 <IfModule mod_headers.c>
