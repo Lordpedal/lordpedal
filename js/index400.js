@@ -5,11 +5,11 @@
 $(function(){
   $('.text').typed({
     strings: [
-      "Oops! Pareces perdido. <br /> ^900" +
-      "Te voy a echar un cable. <br /> ^900" +
-      "Nos hemos traslado de dominio, vas a ser redigirido a la nueva web. <br /> ^900" +
+      "Oops! Pareces perdido. <br /> ^950" +
+      "Te voy a echar un cable. <br /> ^950" +
+      "Nos hemos traslado de dominio, vas a ser redigirido a la nueva web en unos segundos. <br /> ^950" +
       " <br /> ^250" +
-      "<a href='http://lordpedal.github.io'>lordpedal.github.io</a> <br /> ^900" +
+      "<a href='https://lordpedal.github.io'>lordpedal.github.io</a> <br /> ^950" +
       " <br /> ^250" +
       " <br /> ^250" +
       "... la culminación de un fin es el comienzo de una realidad."
