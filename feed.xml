@@ -6,21 +6,45 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Webcam Heart Rate Monitor Brings Photoplethysmography to Your PC</title>
+            <link>https://hackaday.com/2020/12/25/webcam-heart-rate-monitor-brings-photoplethysmography-to-your-pc/</link>
+            <description>Webcam Heart Rate Monitor Brings Photoplethysmography to Your PC</description>
+            <pubDate>Sat Dec 26 06:01:01 2020</pubDate>
+            </item>
+            <item>
+            <title>H4ckSeed: Buscar detalles de paquetes: apt-cache</title>
+            <link>https://h4ckseed.wordpress.com/2020/12/26/buscar-detalles-de-paquetes-apt-cache/</link>
+            <description>Buscar detalles de paquetes: apt-cache</description>
+            <pubDate>Sat Dec 26 05:10:00 2020</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Better Security, Harry Potter Style</title>
+            <link>https://hackaday.com/2020/12/25/better-security-harry-potter-style/</link>
+            <description>Better Security, Harry Potter Style</description>
+            <pubDate>Sat Dec 26 03:01:31 2020</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Making Smart Bulbs Smarter With The Power Of MQTT</title>
+            <link>https://hackaday.com/2020/12/25/making-smart-bulbs-smarter-with-the-power-of-mqtt/</link>
+            <description>Making Smart Bulbs Smarter With The Power Of MQTT</description>
+            <pubDate>Sat Dec 26 00:01:22 2020</pubDate>
+            </item>
+            <item>
             <title>uGeek Blog: Trilium. Notas jerárquicas en Markdown</title>
             <link>http://feedproxy.google.com/~r/uGeekBlog/~3/F2TIbwsQ0oQ/2020-12-25-trilium-notas-jerarquicas-en-markdown.html</link>
             <description>Trilium. Notas jerárquicas en Markdown</description>
             <pubDate>Fri Dec 25 21:40:00 2020</pubDate>
             </item>
             <item>
-            <title>Lifehacker: The 10 Best Deals of December 25, 2020</title>
-            <link>https://kinjadeals.theinventory.com/the-10-best-deals-of-december-25-2020-1845949107</link>
-            <description>The 10 Best Deals of December 25, 2020</description>
-            <pubDate>Fri Dec 25 21:00:00 2020</pubDate>
-            </item>
-            <item>
             <title>Blog – Hackaday: Modified Yost Tames Pinout Plethora</title>
             <link>https://hackaday.com/2020/12/25/modified-yost-tames-pinout-plethora/</link>
             <description>Modified Yost Tames Pinout Plethora</description>
+            <pubDate>Fri Dec 25 21:00:00 2020</pubDate>
+            </item>
+            <item>
+            <title>Lifehacker: The 10 Best Deals of December 25, 2020</title>
+            <link>https://kinjadeals.theinventory.com/the-10-best-deals-of-december-25-2020-1845949107</link>
+            <description>The 10 Best Deals of December 25, 2020</description>
             <pubDate>Fri Dec 25 21:00:00 2020</pubDate>
             </item>
             <item>
@@ -46,29 +70,5 @@
             <link>https://www.adslzone.net/como-se-hace/internet/montar-red-domestica/</link>
             <description>Cómo montar tu red doméstica para aprovechar la fibra de 1Gb</description>
             <pubDate>Fri Dec 25 19:00:06 2020</pubDate>
-            </item>
-            <item>
-            <title>Victorhck in the free world: #openSUSE Tumbleweed revisión de la semana 52 de 2020</title>
-            <link>https://victorhckinthefreeworld.com/2020/12/25/opensuse-tumbleweed-revision-de-la-semana-52-de-2020/</link>
-            <description>#openSUSE Tumbleweed revisión de la semana 52 de 2020</description>
-            <pubDate>Fri Dec 25 18:17:54 2020</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Ten Robot Mechanisms For Your Design Toolbox</title>
-            <link>https://hackaday.com/2020/12/25/ten-robot-mechanisms-for-your-design-toolbox/</link>
-            <description>Ten Robot Mechanisms For Your Design Toolbox</description>
-            <pubDate>Fri Dec 25 18:01:20 2020</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Qué es DNS Blockchain y cómo usarlo en Chrome y Firefox</title>
-            <link>https://www.redeszone.net/tutoriales/internet/dns-blockchain-navegar-internet/</link>
-            <description>Qué es DNS Blockchain y cómo usarlo en Chrome y Firefox</description>
-            <pubDate>Fri Dec 25 18:00:58 2020</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: ¡Felices fiestas!</title>
-            <link>https://www.muylinux.com/2020/12/25/felices-fiestas-2020/</link>
-            <description>¡Felices fiestas!</description>
-            <pubDate>Fri Dec 25 17:12:04 2020</pubDate>
             </item></channel>
 </rss>
