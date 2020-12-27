@@ -6,6 +6,18 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A Mechanical Edge-Avoiding Robot</title>
+            <link>https://hackaday.com/2020/12/27/mechanical-edge-avoiding-robot/</link>
+            <description>A Mechanical Edge-Avoiding Robot</description>
+            <pubDate>Sun Dec 27 21:00:26 2020</pubDate>
+            </item>
+            <item>
+            <title>entornos GNU/Linux: Tip XXVI: Hotcorners en BunsenLabs Lithium</title>
+            <link>https://entornosgnulinux.com/2020/12/27/tip-xxvi-hotcorners-en-bunsenlabs-lithium/</link>
+            <description>Tip XXVI: Hotcorners en BunsenLabs Lithium</description>
+            <pubDate>Sun Dec 27 20:10:34 2020</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El editor fotográfico Gimp acaba de publicar su versión 2.99.4</title>
             <link>https://lignux.com/el-editor-fotografico-gimp-acaba-de-publicar-su-version-2-99-4/</link>
             <description>El editor fotográfico Gimp acaba de publicar su versión 2.99.4</description>
@@ -58,17 +70,5 @@
             <link>https://www.adslzone.net/noticias/streaming-tv/series-2021/</link>
             <description>Las series que no querrás perderte en 2021</description>
             <pubDate>Sun Dec 27 17:00:27 2020</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Qué sabemos de Rocky Linux, el 'fork' de RHEL desarrollado por el creador del sentenciado CentOS</title>
-            <link>http://feeds.weblogssl.com/~r/genbeta/~3/vgp4WXZRaDw/que-sabemos-rocky-linux-fork-rhel-desarrollado-creador-sentenciado-centos</link>
-            <description>Qué sabemos de Rocky Linux, el 'fork' de RHEL desarrollado por el creador del sentenciado CentOS</description>
-            <pubDate>Sun Dec 27 16:01:35 2020</pubDate>
-            </item>
-            <item>
-            <title>Lifehacker: Sunday's Best Deals: Belei Skincare Sale, Killer Queen Black, 16GB DDR4 XPG RAM, Nintendo Switch Anker Powerbank, 1080p Webcam, Bathroom Organizers, and More</title>
-            <link>https://kinjadeals.theinventory.com/sundays-best-deals-belei-skincare-sale-killer-queen-b-1845952967</link>
-            <description>Sunday's Best Deals: Belei Skincare Sale, Killer Queen Black, 16GB DDR4 XPG RAM, Nintendo Switch Anker Powerbank, 1080p Webcam, Bathroom Organizers, and More</description>
-            <pubDate>Sun Dec 27 15:45:00 2020</pubDate>
             </item></channel>
 </rss>
