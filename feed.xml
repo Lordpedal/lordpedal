@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: LEDs-On-Chips Will Give Us Lower Cost Optoelectronics</title>
+            <link>https://hackaday.com/2020/12/30/leds-on-chips-will-give-us-lower-cost-optoelectronics/</link>
+            <description>LEDs-On-Chips Will Give Us Lower Cost Optoelectronics</description>
+            <pubDate>Thu Dec 31 06:00:00 2020</pubDate>
+            </item>
+            <item>
+            <title>H4ckSeed: sudo rm -f 2020</title>
+            <link>https://h4ckseed.wordpress.com/2020/12/31/sudo-rm-f-2020/</link>
+            <description>sudo rm -f 2020</description>
+            <pubDate>Thu Dec 31 05:30:00 2020</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Magnetocuring: Curing Epoxy With A Magnetic Field</title>
+            <link>https://hackaday.com/2020/12/30/magnetocuring-curing-epoxy-with-a-magnetic-field/</link>
+            <description>Magnetocuring: Curing Epoxy With A Magnetic Field</description>
+            <pubDate>Thu Dec 31 03:00:00 2020</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Unbricking A SEGGER J-Link v9 Debug Probe</title>
+            <link>https://hackaday.com/2020/12/30/unbricking-a-segger-j-link-v9-debug-probe/</link>
+            <description>Unbricking A SEGGER J-Link v9 Debug Probe</description>
+            <pubDate>Thu Dec 31 00:00:06 2020</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: Lo más visto del 2020 en Hackplayers</title>
+            <link>https://www.hackplayers.com/2020/12/lo-mas-visto-del-2020-en-hackplayers.html</link>
+            <description>Lo más visto del 2020 en Hackplayers</description>
+            <pubDate>Wed Dec 30 23:00:41 2020</pubDate>
+            </item>
+            <item>
+            <title>uGeek Blog: Grabar lo que suena en tu ordenador</title>
+            <link>http://feedproxy.google.com/~r/uGeekBlog/~3/CpI6zPp8PGk/2020-12-30-grabar-lo-que-suena-en-tu-ordenador.html</link>
+            <description>Grabar lo que suena en tu ordenador</description>
+            <pubDate>Wed Dec 30 22:50:00 2020</pubDate>
+            </item>
+            <item>
             <title>Lifehacker: Hey, the 2020 USDA Dietary Guidelines Are Finally Out</title>
             <link>https://vitals.lifehacker.com/hey-the-2020-usda-dietary-guidelines-are-finally-out-1845970070</link>
             <description>Hey, the 2020 USDA Dietary Guidelines Are Finally Out</description>
@@ -34,41 +70,5 @@
             <link>https://kinjadeals.theinventory.com/the-10-best-deals-of-december-30-2020-1845969439</link>
             <description>The 10 Best Deals of December 30, 2020</description>
             <pubDate>Wed Dec 30 21:00:00 2020</pubDate>
-            </item>
-            <item>
-            <title>Lifehacker: What to Stream to Inspire Your New Year's Resolutions</title>
-            <link>https://lifehacker.com/what-to-stream-to-inspire-your-new-years-resolutions-1845968561</link>
-            <description>What to Stream to Inspire Your New Year's Resolutions</description>
-            <pubDate>Wed Dec 30 21:00:00 2020</pubDate>
-            </item>
-            <item>
-            <title>Xataka Foto: Las cámaras que han pasado por nuestras vidas</title>
-            <link>http://feeds.weblogssl.com/~r/xatakafoto/~3/WH0bNHw3JfQ/revision-camaras-que-han-pasado-nuestras-vidas</link>
-            <description>Las cámaras que han pasado por nuestras vidas</description>
-            <pubDate>Wed Dec 30 20:56:24 2020</pubDate>
-            </item>
-            <item>
-            <title>Lifehacker: A Timeline of the Coronavirus in 2020</title>
-            <link>https://lifehacker.com/a-timeline-of-the-coronavirus-in-2020-1845968286</link>
-            <description>A Timeline of the Coronavirus in 2020</description>
-            <pubDate>Wed Dec 30 20:30:00 2020</pubDate>
-            </item>
-            <item>
-            <title>entornos GNU/Linux: Tip XXVII: Cambiando el tema para jgmenu en BunsenLabs Lithium</title>
-            <link>https://entornosgnulinux.com/2020/12/30/tip-xxvii-cambiando-el-tema-para-jgmenu-en-bunsenlabs-lithium/</link>
-            <description>Tip XXVII: Cambiando el tema para jgmenu en BunsenLabs Lithium</description>
-            <pubDate>Wed Dec 30 20:11:22 2020</pubDate>
-            </item>
-            <item>
-            <title>Pymes y Autonomos: ¿Campaña de rebajas 2021 o de liquidación? El negro panorama del pequeño comercio</title>
-            <link>http://feeds.weblogssl.com/~r/pymesyautonomos/~3/MgEFgfSv7SQ/campana-rebajas-2021-liquidacion-negro-panorama-pequeno-comercio</link>
-            <description>¿Campaña de rebajas 2021 o de liquidación? El negro panorama del pequeño comercio</description>
-            <pubDate>Wed Dec 30 20:11:03 2020</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Cómo ha logrado Movistar el 80% de cobertura 5G en 4 meses?</title>
-            <link>https://www.adslzone.net/noticias/operadores/movistar-5g-80-por-ciento-poblacion-2020/</link>
-            <description>¿Cómo ha logrado Movistar el 80% de cobertura 5G en 4 meses?</description>
-            <pubDate>Wed Dec 30 20:00:06 2020</pubDate>
             </item></channel>
 </rss>
