@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: DIY 8-Bit Computer Knows All the Tricks</title>
+            <link>https://hackaday.com/2020/12/31/diy-8-bit-computer-knows-all-the-tricks/</link>
+            <description>DIY 8-Bit Computer Knows All the Tricks</description>
+            <pubDate>Fri Jan  1 06:00:27 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Robotic Melodica Student Is Enthusuastic But Terrible</title>
+            <link>https://hackaday.com/2020/12/31/robotic-melodica-student-is-enthusuastic-but-terrible/</link>
+            <description>Robotic Melodica Student Is Enthusuastic But Terrible</description>
+            <pubDate>Fri Jan  1 03:00:59 2021</pubDate>
+            </item>
+            <item>
+            <title>MuyLinux: ¡Feliz Año Nuevo!</title>
+            <link>https://www.muylinux.com/2021/01/01/feliz-2021/</link>
+            <description>¡Feliz Año Nuevo!</description>
+            <pubDate>Fri Jan  1 01:30:33 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Ambience Lamp Ripples Like Water</title>
+            <link>https://hackaday.com/2020/12/31/ambience-lamp-ripples-like-water/</link>
+            <description>Ambience Lamp Ripples Like Water</description>
+            <pubDate>Fri Jan  1 00:00:40 2021</pubDate>
+            </item>
+            <item>
+            <title>Lifehacker: The Best Superhero Movies To Revisit, Since We Didn’t Get Many in 2020</title>
+            <link>https://theinventory.com/best-superhero-movies-to-revisit-1845970750</link>
+            <description>The Best Superhero Movies To Revisit, Since We Didn’t Get Many in 2020</description>
+            <pubDate>Thu Dec 31 22:00:00 2020</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Cupcake Machine Makes Tasty, If Weird, Creations</title>
             <link>https://hackaday.com/2020/12/31/cupcake-machine-makes-tasty-if-weird-creations/</link>
             <description>Cupcake Machine Makes Tasty, If Weird, Creations</description>
@@ -40,35 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/diariodelviajero/~3/vRNYpUQC3Ks/pasaportes-solo-hay-cuatro-colores-podrian-ser</link>
             <description>Pasaportes: solo los hay de cuatro colores pero podrían ser más</description>
             <pubDate>Thu Dec 31 19:41:03 2020</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Remoticon Video: The Mechanics of Finite Element Analysis</title>
-            <link>https://hackaday.com/2020/12/31/remoticon-video-the-mechanics-of-finite-element-analysis/</link>
-            <description>Remoticon Video: The Mechanics of Finite Element Analysis</description>
-            <pubDate>Thu Dec 31 19:31:18 2020</pubDate>
-            </item>
-            <item>
-            <title>Pymes y Autonomos: 2020, el año del resurgir del portátil en la empresa</title>
-            <link>http://feeds.weblogssl.com/~r/pymesyautonomos/~3/lHl_IC0jTqk/2020-ano-resurgir-portatil-empresa</link>
-            <description>2020, el año del resurgir del portátil en la empresa</description>
-            <pubDate>Thu Dec 31 19:11:26 2020</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: PoCL 1.6, una implementación independiente del estándar OpenCL</title>
-            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/bfVZLaSO1B0/</link>
-            <description>PoCL 1.6, una implementación independiente del estándar OpenCL</description>
-            <pubDate>Thu Dec 31 19:07:13 2020</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Pétalo con estas listas de música para Nochevieja y Año Nuevo</title>
-            <link>https://www.adslzone.net/noticias/internet/mejores-listas-musica-nochevieja-ano-nuevo-2020/</link>
-            <description>Pétalo con estas listas de música para Nochevieja y Año Nuevo</description>
-            <pubDate>Thu Dec 31 19:00:16 2020</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: This Week in Security: Deeper Dive Into SolarWinds, Bouncy Castle, and Docker Images</title>
-            <link>https://hackaday.com/2020/12/31/this-week-in-security-deeper-dive-into-solarwinds-bouncy-castle-and-docker-images/</link>
-            <description>This Week in Security: Deeper Dive Into SolarWinds, Bouncy Castle, and Docker Images</description>
-            <pubDate>Thu Dec 31 18:01:47 2020</pubDate>
             </item></channel>
 </rss>
