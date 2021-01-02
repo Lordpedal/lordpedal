@@ -6,10 +6,40 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Metal Plating Plastic or Metal Parts</title>
+            <link>https://hackaday.com/2021/01/01/metal-plating-plastic-or-metal-parts/</link>
+            <description>Metal Plating Plastic or Metal Parts</description>
+            <pubDate>Sat Jan  2 06:01:07 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Simple Christmas Tree Christmas Tree Ornament</title>
+            <link>https://hackaday.com/2021/01/01/simple-christmas-tree-christmas-tree-ornament/</link>
+            <description>Simple Christmas Tree Christmas Tree Ornament</description>
+            <pubDate>Sat Jan  2 03:01:32 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Fresh Linux For The Most Unexpected Platform – The Nintendo 64</title>
+            <link>https://hackaday.com/2021/01/01/a-fresh-linux-for-the-most-unexpected-platform-the-nintendo-64/</link>
+            <description>A Fresh Linux For The Most Unexpected Platform – The Nintendo 64</description>
+            <pubDate>Sat Jan  2 00:01:21 2021</pubDate>
+            </item>
+            <item>
+            <title>Cartas de Linux: Recuperando un iMac de 2008</title>
+            <link>https://cartaslinux.wordpress.com/2021/01/01/recuperando-un-imac-de-2008/</link>
+            <description>Recuperando un iMac de 2008</description>
+            <pubDate>Fri Jan  1 23:19:14 2021</pubDate>
+            </item>
+            <item>
             <title>56K.ES: Bloquear intentos de acceso a Proxmox 6 con Fail2ban</title>
             <link>https://56k.es/fanta/fail2ban-para-proxmox-6/</link>
             <description>Bloquear intentos de acceso a Proxmox 6 con Fail2ban</description>
             <pubDate>Fri Jan  1 22:11:45 2021</pubDate>
+            </item>
+            <item>
+            <title>Lifehacker: The Great Big, Pink, and Weird World of Kirby Merch</title>
+            <link>https://news.theinventory.com/best-kirby-merchandise-1845976412</link>
+            <description>The Great Big, Pink, and Weird World of Kirby Merch</description>
+            <pubDate>Fri Jan  1 22:00:00 2021</pubDate>
             </item>
             <item>
             <title>Blog – Hackaday: DIY Injection Molding Press</title>
@@ -40,35 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/Vitonica/~3/dcyjmQAwQg8/cuidar-nuestra-salud-cardiovascular-a-largo-nuestra-vida-podria-reducir-riesgo-sufrir-demencia</link>
             <description>Cuidar de nuestra salud cardiovascular a los largo de nuestra vida podría reducir el riesgo de sufrir demencia</description>
             <pubDate>Fri Jan  1 19:00:53 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esto es todo lo que puedes hacer con el puerto USB del router</title>
-            <link>https://www.adslzone.net/como-se-hace/internet/puerto-usb-router/</link>
-            <description>Esto es todo lo que puedes hacer con el puerto USB del router</description>
-            <pubDate>Fri Jan  1 19:00:19 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: The Internet Of Christmas Tree Watering</title>
-            <link>https://hackaday.com/2021/01/01/the-internet-of-christmas-tree-watering/</link>
-            <description>The Internet Of Christmas Tree Watering</description>
-            <pubDate>Fri Jan  1 18:01:05 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Cómo descargar todo tipo de archivos con Aria2 en Linux</title>
-            <link>https://www.redeszone.net/tutoriales/servidores/descargar-archivos-linux-aria2/</link>
-            <description>Cómo descargar todo tipo de archivos con Aria2 en Linux</description>
-            <pubDate>Fri Jan  1 18:00:29 2021</pubDate>
-            </item>
-            <item>
-            <title>Pymes y Autonomos: ¿Será 2021 el año en que los autónomos coticen por ingresos reales?</title>
-            <link>http://feeds.weblogssl.com/~r/pymesyautonomos/~3/twZVpw_2v80/sera-2021-ano-que-autonomos-coticen-ingresos-reales</link>
-            <description>¿Será 2021 el año en que los autónomos coticen por ingresos reales?</description>
-            <pubDate>Fri Jan  1 17:36:06 2021</pubDate>
-            </item>
-            <item>
-            <title>Lifehacker: Friday's Best Deals: Amazon Echo Sale, Society6 Posters, Roomba i6+, Crash Team Racing + Socks, TriggerPoint Foam Rollers, Pantone Sneakers, and More</title>
-            <link>https://kinjadeals.theinventory.com/fridays-best-deals-lg-4k-monitor-google-nest-audio-2-1845975775</link>
-            <description>Friday's Best Deals: Amazon Echo Sale, Society6 Posters, Roomba i6+, Crash Team Racing + Socks, TriggerPoint Foam Rollers, Pantone Sneakers, and More</description>
-            <pubDate>Fri Jan  1 17:30:00 2021</pubDate>
             </item></channel>
 </rss>
