@@ -1,3 +1,8 @@
+html
+{
+    overflow: hidden;
+}
+
 body {
   /* background: #000000; */
   background: #000;
@@ -8,11 +13,15 @@ body {
   /* margin-left: 2%;
   max-width: 80%; */
   margin: 0px;
-  height: 100%;
-  width: 100%;
   /* background-color: #3c4556 */
   /* background-color: #000000 */
+  box-sizing: border-box;
   background-color: #333333
+}
+
+html, body
+{
+    height: 100%;
 }
 
 h1 {
@@ -22,21 +31,6 @@ h1 {
 
 h2 {
     color: #f8f8f2;
-}
-
-#topRight
-{
-    position: fixed;
-    top: 10%;
-    right: 1%;
-    width: 20%;
-    /* -- min-width: 170px; */
-    padding: 3px 3px 3px 3px;
-    /* border-color: #282a36; */
-    /* background: #44475a; */
-    /* mix-blend-mode: multiply; */
-    background-color: #333333
-    text-align: center; /* nuevo */
 }
 
  /* unvisited link */
@@ -55,13 +49,12 @@ a:hover {
 }
 
 /* parrafo */
-
 div.ex2 {
-  max-width: 90%;
-  left: 5%;
+  max-width: 99%;
+  left: 1%;
 }
 
-/* th, td {
+th, td {
   border-bottom: 1px solid #ddd;
   padding: 10px;
-}*/
+}
