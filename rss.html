@@ -84,7 +84,7 @@ body {
 }
 
 .footer {
-  /* overflow: hidden; */
+  overflow: hidden;
   position: -webkit-sticky;
   position: sticky;
   bottom: 1%;
@@ -114,6 +114,11 @@ body {
 </div>
 <table id='tabla_entradas'>
 
+        <tr>
+            <td class='col_blog'>Pymes y Autonomos</td><td class='col_fecha'>2021-1-3</td>
+            <td class='col_enlace'><a href='http://feeds.weblogssl.com/~r/pymesyautonomos/~3/eIqznraKPL4/cliente-que-se-marcha-a-internet-no-vuelve-que-puede-hacer-comercio-tradicional' target='blank'>El cliente que se marcha a Internet no vuelve, ¿qué puede hacer el comercio tradicional?</a></td>
+        </tr>
+        
         <tr>
             <td class='col_blog'>Genbeta</td><td class='col_fecha'>2021-1-3</td>
             <td class='col_enlace'><a href='http://feeds.weblogssl.com/~r/genbeta/~3/S_cRqIs6Kz8/como-crear-iso-personalizada-windows-10-eliminando-componentes-sistema-operativo-win-toolkit' target='blank'>Cómo crear una ISO personalizada de Windows 10 eliminando componentes del sistema operativo con Win Toolkit</a></td>
@@ -5108,30 +5113,22 @@ body {
             <td class='col_blog'>PatoJAD</td><td class='col_fecha'>2020-9-8</td>
             <td class='col_enlace'><a href='https://patojad.com.ar/noticias/2020/09/los-usuarios-de-linux/' target='blank'>Los usuarios de Linux</a></td>
         </tr>
-        
-        <tr>
-            <td class='col_blog'>Eduardo Collado</td><td class='col_fecha'>2020-9-8</td>
-            <td class='col_enlace'><a href='https://www.eduardocollado.com/2020/09/08/rclone-browser-un-gui-para-rclone/' target='blank'>RClone Browser un GUI para Rclone</a></td>
-        </tr>
         </table><p><a href='pagina-1.html'>Siguiente</a></p>
 <!-- Pie de página -->
 </table>
 <script>
-//Get the button
 var mybutton = document.getElementById("myBtnup");
 
-// When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
     mybutton.style.display = "block";
   } else {
     mybutton.style.display = "none";
   }
 }
 
-// When the user clicks on the button, scroll to the top of the document
 function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
