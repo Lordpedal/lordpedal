@@ -27,7 +27,7 @@ body {
   overflow: hidden;
   position: -webkit-sticky;
   position: sticky;
-  top: 0;
+  top: 5%;
   padding: 20px 10px;
   background-color: #f1f1f1;
   border-radius: 12px;
@@ -63,7 +63,7 @@ body {
   float: right;
 }
 
-#myBtn {
+#myBtnup {
   display: none;
   position: fixed;
   bottom: 20px;
@@ -96,7 +96,7 @@ body {
 }
 </style>
 <body>
-<button onclick="topFunction()" id="myBtn" title="Ir arriba">Arriba</button>
+<button onclick="topFunction()" id="myBtnup" title="Subir">Subir</button>
 <div class="header" id="myHeader">
   <a href="rss.html" class="logo">Lordpedal RSS</a>
   <div class="header-right">
@@ -5118,7 +5118,7 @@ body {
 </table>
 <script>
 //Get the button
-var mybutton = document.getElementById("myBtn");
+var mybutton = document.getElementById("myBtnup");
 
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
