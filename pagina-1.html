@@ -15,10 +15,43 @@
 }
 @media only screen and (max-width: 480px) {
     .col_blog  {display: none;}
-	.col_fecha {display: none;}
+        .col_fecha {display: none;}
+}
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
 }
 </style>
 <body>
+<div class="topnav">
+  <a class="active" href="rss.html">Inicio</a>
+  <a href="https://github.com/Lordpedal/lordpedal"target="_blank">Código en GitHub</a>
+  <a href="https://gitlab.com/Lordpedal"target="_blank">GitLab Pages</a>
+</div>
 <h1>Lordpedal RSS</h1>
 <h2>Últimas noticias: Proyectos basados en Linux, Arduino, 3D, Ocio, ...</h2>
 <div id="topRight">
@@ -28,6 +61,91 @@
 </div>
 <table id='tabla_entradas'>
 
+        <tr>
+            <td class='col_blog'>Notxor tiene un blog</td><td class='col_fecha'>2020-9-4</td>
+            <td class='col_enlace'><a href='https://notxor.nueva-actitud.org/2020/09/04/la-calculadora-de-emacs.html' target='blank'>La calculadora de Emacs</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>PatoJAD</td><td class='col_fecha'>2020-9-4</td>
+            <td class='col_enlace'><a href='https://patojad.com.ar/estilo/2020/09/blurredfox-un-tema-moderno-para-firefox/' target='blank'>Blurredfox un tema moderno para Firefox</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>uGeek Blog</td><td class='col_fecha'>2020-9-3</td>
+            <td class='col_enlace'><a href='http://feedproxy.google.com/~r/uGeekBlog/~3/lWPXMIO24ls/2020-09-03-visualizar-aparte-una-cabecera-de-un-orgmode-en-emacs.html' target='blank'>Visualizar aparte una Cabecera de un OrgMode en Emacs</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Linux y Software Libre – LinuxmanR4</td><td class='col_fecha'>2020-9-3</td>
+            <td class='col_enlace'><a href='https://linuxmanr4.com/2020/09/03/descargar-libros-de-texto-gratuitos-o-cualquier-libro-similar/' target='blank'>Descargar libros de texto gratuitos o cualquier libro similar.</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>PatoJAD</td><td class='col_fecha'>2020-9-3</td>
+            <td class='col_enlace'><a href='https://patojad.com.ar/linux/2020/09/manipulando-archivos-y-directorios/' target='blank'>Manipulando archivos y directorios</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Eduardo Collado</td><td class='col_fecha'>2020-9-3</td>
+            <td class='col_enlace'><a href='https://www.eduardocollado.com/2020/09/03/montar-unidades-remotas-con-rclone/' target='blank'>Montar unidades remotas con Rclone</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>PatoJAD</td><td class='col_fecha'>2020-9-2</td>
+            <td class='col_enlace'><a href='https://patojad.com.ar/juegos/2020/09/como-jugar-among-us-en-linux/' target='blank'>¿Como jugar Among Us en Linux?</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Eduardo Collado</td><td class='col_fecha'>2020-9-1</td>
+            <td class='col_enlace'><a href='https://www.eduardocollado.com/2020/09/01/pequenas-modificaciones-en-el-css-de-un-wordpress/' target='blank'>Pequeñas modificaciones en el CSS de un WordPress</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>PatoJAD</td><td class='col_fecha'>2020-9-1</td>
+            <td class='col_enlace'><a href='https://patojad.com.ar/linux/2020/09/mejorar-el-rendimiento-de-tu-placa-de-video/' target='blank'>Mejorar el Rendimiento de tu placa de Video</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>AcastilloG</td><td class='col_fecha'>2020-9-1</td>
+            <td class='col_enlace'><a href='http://acastillog.es/20200901.php' target='blank'>Raspberry Pi OS: Instalar "unrar-nonfree"</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Tecno y Soft</td><td class='col_fecha'>2020-8-30</td>
+            <td class='col_enlace'><a href='https://tecnoysoft.com/es/como-mostrar-el-menu-grub-al-inicio-de-manjaro/' target='blank'>Como mostrar el menú grub al inicio de Manjaro</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Adrianistán</td><td class='col_fecha'>2020-8-29</td>
+            <td class='col_enlace'><a href='https://blog.adrianistan.eu/supertutorial-prolog' target='blank'>Supertutorial de Prolog: aprende Prolog en español</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Eduardo Collado</td><td class='col_fecha'>2020-8-29</td>
+            <td class='col_enlace'><a href='https://www.eduardocollado.com/2020/08/29/capturar-el-trafico-dns-y-reenviar-al-servidor-de-dns-correcto/' target='blank'>Capturar el tráfico DNS y reenviar al servidor de DNS correcto</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Notxor tiene un blog</td><td class='col_fecha'>2020-8-28</td>
+            <td class='col_enlace'><a href='https://notxor.nueva-actitud.org/2020/08/28/problemas-con-emacs-en-opensuse-tumbleweed.html' target='blank'>Problemas con Emacs 27 en OpenSuse Tumbleweed</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>El condón roto de GNU</td><td class='col_fecha'>2020-8-28</td>
+            <td class='col_enlace'><a href='https://elcondonrotodegnu.wordpress.com/2020/08/28/la-universidad-de-los-heroes-disfrazados-video-de-la-fsf/' target='blank'>La Universidad de los Héroes Disfrazados, vídeo de la FSF</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Eduardo Collado</td><td class='col_fecha'>2020-8-28</td>
+            <td class='col_enlace'><a href='https://www.eduardocollado.com/2020/08/28/algoritmos-de-cifrado-en-ssh/' target='blank'>Algoritmos de cifrado en SSH</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>PatoJAD</td><td class='col_fecha'>2020-8-28</td>
+            <td class='col_enlace'><a href='https://patojad.com.ar/linux/2020/08/una-visita-guiada/' target='blank'>Una visita guiada</a></td>
+        </tr>
+        
         <tr>
             <td class='col_blog'>El condón roto de GNU</td><td class='col_fecha'>2020-8-27</td>
             <td class='col_enlace'><a href='https://elcondonrotodegnu.wordpress.com/2020/08/27/sturm-reader-un-lector-de-libros-para-ubuntu-touch-en-innerzaurus/' target='blank'>Sturm Reader, un lector de libros para Ubuntu Touch en InnerZaurus</a></td>
@@ -2251,11 +2369,6 @@
         <tr>
             <td class='col_blog'>uGeek Blog</td><td class='col_fecha'>2020-1-6</td>
             <td class='col_enlace'><a href='http://feedproxy.google.com/~r/uGeekBlog/~3/55NkqZDbIBQ/2020-01-06-descargando-un-directorio-de-git-con-gitdir.html' target='blank'>Descargando un directorio de git con gitdir</a></td>
-        </tr>
-        
-        <tr>
-            <td class='col_blog'>uGeek Blog</td><td class='col_fecha'>2020-1-4</td>
-            <td class='col_enlace'><a href='http://feedproxy.google.com/~r/uGeekBlog/~3/8GlgbwC1buI/2020-01-04-bat-el-cat-enriquecido.html' target='blank'>Bat, el Cat enriquecido</a></td>
         </tr>
         </table><p><a href='rss.html'>Anterior</a></p>
 <!-- Pie de página -->
