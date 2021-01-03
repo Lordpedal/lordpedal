@@ -9,11 +9,6 @@
         <meta name="author" content="Lordpedal" />
 </head>
 <style>
-html, body
-{
-    height: 100%;
-}
-
 body {
   background: #000;
   color: #fff;
@@ -21,6 +16,7 @@ body {
   margin: 0px;
   box-sizing: border-box;
   background-color: #333333
+  height: 100%;
 }
 
 h1 {
@@ -51,6 +47,18 @@ div.ex2 {
 th, td {
   border-bottom: 1px solid #ddd;
   padding: 10px;
+}
+
+.footer {
+  overflow: hidden;
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 1%;
+  background-color: #f1f1f1;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 12px;
 }
 
 .header {
@@ -103,18 +111,6 @@ th, td {
   .header-right {
     float: none;
   }
-}
-
-.footer {
-  overflow: hidden;
-  position: -webkit-sticky;
-  position: sticky;
-  bottom: 1%;
-  background-color: #f1f1f1;
-  color: black;
-  font-weight: bold;
-  text-align: center;
-  border-radius: 12px;
 }
 </style>
 <body>
