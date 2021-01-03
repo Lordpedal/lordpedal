@@ -102,6 +102,18 @@ th, td {
   float: right;
 }
 
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .header-right {
+    float: none;
+  }
+}
+
 .footer {
   overflow: hidden;
   position: -webkit-sticky;
@@ -5133,24 +5145,6 @@ th, td {
         </table><p><a href='pagina-1.html'>Siguiente</a></p>
 <!-- Pie de página -->
 </table>
-<script>
-var mybutton = document.getElementById("myBtnup");
-
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
-
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
-</script>
 </body>
 <div class="footer">
   <p>Another fine release by Lordpedal</p>
