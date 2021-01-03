@@ -24,7 +24,6 @@ body {
 
 .header {
   overflow: hidden;
-  /* background-color: #333; */
   background-color: #f1f1f1;
   padding: 20px 10px;
 }
@@ -52,7 +51,6 @@ body {
 
 .header a.active {
   background-color: #4CAF50;
-  /* background-color: dodgerblue; */
   color: white;
 }
 
@@ -60,32 +58,22 @@ body {
   float: right;
 }
 
-.topnav {
-  overflow: hidden;
-  background-color: #333;
+.content {
+  padding: 16px;
 }
 
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+.sticky + .content {
+  padding-top: 102px;
 }
 </style>
 <body>
-<div class="header">
+<div class="header" id="myHeader">
   <a href="#default" class="logo">Lordpedal RSS</a>
   <div class="header-right">
   <a class="active" href="rss.html">Inicio</a>
@@ -94,7 +82,6 @@ body {
   <a href="https://github.com/Lordpedal/lordpedal"target="_blank">Código en GitHub</a>
   </div>
 </div>
-<h1>Lordpedal RSS</h1>
 <h2>Últimas noticias: Proyectos basados en Linux, Arduino, 3D, Ocio, ...</h2>
 <div id="topRight">
 	<a href="https://lordpedal.github.io/">
@@ -5105,5 +5092,19 @@ body {
         </table><p><a href='pagina-1.html'>Siguiente</a></p>
 <!-- Pie de página -->
 </table>
+<script>
+window.onscroll = function() {myFunction()};
+
+var header = document.getElementById("myHeader");
+var sticky = header.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
+}
+</script>
 </body>
 </html>
