@@ -116,30 +116,8 @@ th, td {
   text-align: center;
   border-radius: 12px;
 }
-
-#myBtn {
-  display: none;
-  position: fixed;
-  bottom: 1%;
-  right: 1%;
-  z-index: 99;
-  font-size: 18px;
-  border: none;
-  outline: none;
-  background-color: #4CAF50;
-  color: white;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 4px;
-}
-
-#myBtn:hover {
-  background-color: #ddd;
-}
 </style>
 <body>
-<button onclick="topFunction()" id="myBtn" title="Subir">Subir</button>
-
 <div class="header" id="myHeader">
   <a href="rss.html" style="display: block; vertical-align: middle;">
 	<img src="images/RSS.gif" style="vertical-align: middle;width:32px;height:32px"/>
@@ -2513,24 +2491,6 @@ th, td {
         </table><p><a href='rss.html'>Anterior</a></p>
 <!-- Pie de página -->
 </table>
-<script>
-var mybutton = document.getElementById("myBtn");
-
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
-
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
-</script>
 </body>
 <div class="footer">
   <p>Another fine release by Lordpedal</p>
