@@ -26,9 +26,10 @@ body {
 .header {
   overflow: hidden;
   background-color: #f1f1f1;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
   padding: 20px 10px;
-  position: fixed;
-  width: 100%;
 }
 
 .header a {
@@ -2415,19 +2416,5 @@ body {
         </table><p><a href='rss.html'>Anterior</a></p>
 <!-- Pie de página -->
 </table>
-<script>
-window.onscroll = function() {myFunction()};
-
-var header = document.getElementById("myHeader");
-var sticky = header.offsetTop;
-
-function myFunction() {
-  if (window.pageYOffset > sticky) {
-    header.classList.add("sticky");
-  } else {
-    header.classList.remove("sticky");
-  }
-}
-</script>
 </body>
 </html>
