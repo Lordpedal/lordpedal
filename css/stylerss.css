@@ -47,8 +47,6 @@ img.a {
   position: -webkit-sticky;
   position: sticky;
   bottom: 1%;
-  left: 1%;
-  right: 1%;
   font-weight: bold;
   color: black;
   text-align: center;
@@ -61,9 +59,7 @@ img.a {
   position: -webkit-sticky;
   position: sticky;
   top: 1%;
-  left: 1%;
-  right: 1%;
-  padding: 18px 8px;
+  /* padding: 18px 8px;*/
   background-color: #f1f1f1;
   border-radius: 12px;
 }
