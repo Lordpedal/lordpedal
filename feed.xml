@@ -6,6 +6,12 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Lifehacker: How to Date Without Alcohol</title>
+            <link>https://lifehacker.com/how-to-date-without-alcohol-1845983644</link>
+            <description>How to Date Without Alcohol</description>
+            <pubDate>Mon Jan  4 18:00:00 2021</pubDate>
+            </item>
+            <item>
             <title>MuyLinux: Linus Torvalds critica la gestión de las memorias ECC por parte de Intel</title>
             <link>https://www.muylinux.com/2021/01/04/linus-torvalds-critica-intel-memorias-ecc/</link>
             <description>Linus Torvalds critica la gestión de las memorias ECC por parte de Intel</description>
@@ -22,6 +28,12 @@
             <link>http://feeds.weblogssl.com/~r/xataka2/~3/7777CRyfZQ0/slack-se-cae-mundo-vuelve-a-oficina</link>
             <description>Slack se cae mientras el mundo vuelve a la “oficina” [actualización]</description>
             <pubDate>Mon Jan  4 17:24:20 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Let’s Encrypt resolvió el problema de los certificados en dispositivos Android más antiguos</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/KwvNcKPnMvY/</link>
+            <description>Let’s Encrypt resolvió el problema de los certificados en dispositivos Android más antiguos</description>
+            <pubDate>Mon Jan  4 17:20:20 2021</pubDate>
             </item>
             <item>
             <title>Xataka Foto: Los principales eventos astronómicos de 2021 para disfrutar de la astrofotografía</title>
@@ -58,17 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/Xatakahome/~3/vPbG9KO3TBI/no-tires-tu-vieja-minicadena-podras-darle-nuevo-uso-como-equipo-sonido-para-tele-incluso-reutilizar-sus-altavoces</link>
             <description>No tires tu vieja minicadena: podrás darle un nuevo uso como equipo de sonido para la tele o incluso reutilizar sus altavoces</description>
             <pubDate>Mon Jan  4 17:00:38 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Cloud PC, el nuevo servicio de Microsoft para el trabajo en la nube</title>
-            <link>https://www.redeszone.net/noticias/redes/cloud-pc-servicio-microsoft-trabajo-nube/</link>
-            <description>Cloud PC, el nuevo servicio de Microsoft para el trabajo en la nube</description>
-            <pubDate>Mon Jan  4 17:00:30 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo grabar programas de la TDT en tu Smart TV de Samsung</title>
-            <link>https://www.adslzone.net/como-se-hace/smart-tv/grabar-tdt-samsung-smart-tv/</link>
-            <description>Cómo grabar programas de la TDT en tu Smart TV de Samsung</description>
-            <pubDate>Mon Jan  4 17:00:23 2021</pubDate>
             </item></channel>
 </rss>
