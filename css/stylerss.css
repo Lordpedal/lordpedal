@@ -70,7 +70,7 @@ img.a {
   text-align: center;
   font-weight: bold;
   font-size: 16px;
-  line-height: 64px;
+  line-height: normal;
   width: 64px;
   
   position: fixed;
