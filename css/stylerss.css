@@ -63,15 +63,13 @@ img.a {
 
 .scrollToTopBtn {
   background-color: #4CAF50;
-  /*border: none;*/
-  border-style: solid;
-  border-color: black;
+  border: none;
   border-radius: 50%;
   color: white;
   cursor: pointer;
-  font-size: 32px;
-  line-height: 64px;
-  width: 64px;
+  font-size: 16px;
+  line-height: 48px;
+  width: 48px;
   
   position: fixed;
   bottom: 7%;
