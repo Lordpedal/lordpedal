@@ -10,12 +10,11 @@ body {
 
 h1 {
   color: #f8f8f2;
+  text-align: center;
 }
 
 h2 {
   color: #f8f8f2;
-  max-width: 90%;
-  left: 5%;
 }
 
 a:link {
