@@ -35,7 +35,7 @@ div.ex2 {
 
 th, td {
   border-bottom: 1px solid #ddd;
-  padding: 5px;
+  padding: 7px;
 }
 
 img.a {
@@ -52,6 +52,7 @@ img.a {
   text-align: center;
   border-radius: 12px;
   background-color: #f1f1f1;
+  padding: 18px 8px;
 }
 
 .header {
