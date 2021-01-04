@@ -79,7 +79,7 @@ img.a {
   z-index: 100;
   opacity: 0;
   transform: translateY(100px);
-  transition: all .5s ease
+  transition: all 1s ease
 }
     
 .showBtn {
