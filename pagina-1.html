@@ -19,10 +19,22 @@
   </div>
 </div>
 
+<button class="scrollToTopBtn">👆</button>
+
 <h2>Últimas noticias: Proyectos GNU/Linux, 3D, Maker & Ocio</h2>
 
 <table id='tabla_entradas'>
 
+        <tr>
+            <td class='col_blog'>DistritoTux</td><td class='col_fecha'>2020-10-9</td>
+            <td class='col_enlace'><a href='https://www.distritotux.cl/2020/10/distritotux-presenta-windows-subsystem.html' target='blank'>Distritotux presenta Windows Subsystem for Linux WSL 2</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Rufián en la Red</td><td class='col_fecha'>2020-10-9</td>
+            <td class='col_enlace'><a href='https://rufianenlared.com/mq-135/' target='blank'>MQ-135, CO2 y la ventilación en tiempos de pandemia</a></td>
+        </tr>
+        
         <tr>
             <td class='col_blog'>PatoJAD</td><td class='col_fecha'>2020-10-9</td>
             <td class='col_enlace'><a href='https://patojad.com.ar/noticias/2020/10/amd-nos-presenta-zen-3/' target='blank'>AMD nos presenta Zen 3</a></td>
@@ -2838,5 +2850,33 @@
 <div class="footer">
   <p>Another fine release by Lorpedal</p>
 </div>
+
+<script>
+var scrollToTopBtn = document.querySelector(".scrollToTopBtn")
+var rootElement = document.documentElement
+
+function handleScroll() {
+  // Do something on scroll
+  var scrollTotal = rootElement.scrollHeight - rootElement.clientHeight
+  if ((rootElement.scrollTop / scrollTotal ) > 0.50) {
+    // Show button
+    scrollToTopBtn.classList.add("showBtn")
+  } else {
+    // Hide button
+    scrollToTopBtn.classList.remove("showBtn")
+  }
+}
+
+function scrollToTop() {
+  // Scroll to top logic
+  rootElement.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  })
+}
+scrollToTopBtn.addEventListener("click", scrollToTop)
+document.addEventListener("scroll", handleScroll)
+</script>
+
 </body>
 </html>
