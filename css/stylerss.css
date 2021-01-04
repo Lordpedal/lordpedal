@@ -71,17 +71,12 @@ img.a {
   line-height: 48px;
   width: 48px;
   
-  /* place it at the bottom right corner */
   position: fixed;
-  bottom: 30px;
-  right: 30px;
-  /* keep it at the top of everything else */
+  bottom: 1%;
+  right: 1%;
   z-index: 100;
-  /* hide with opacity */
   opacity: 0;
-  /* also add a translate effect */
   transform: translateY(100px);
-  /* and a transition */
   transition: all .5s ease
 }
     
