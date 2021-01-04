@@ -47,46 +47,14 @@ img.a {
   position: -webkit-sticky;
   position: sticky;
   bottom: 1%;
-  /*background-color: #f1f1f1;
+  background-color: #f1f1f1;
   font-weight: bold;
   color: black;
   text-align: center;
-  border-radius: 12px;*/
+  border-radius: 12px;
   padding: 18px 8px;
   background-color: #f1f1f1;
   border-radius: 12px;
-}
-
-.footer a {
-  float: left;
-  text-align: center;
-  padding: 9px;
-  text-decoration: none;
-  font-size: 18px;
-  line-height: 24px;
-  border-radius: 4px;
-  color: black;
-}
-
-.footer a.logo {
-  font-size: 24px;
-  font-weight: bold;
-  color: black;
-}
-
-.footer a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.footer a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
-.footer-right {
-  float: right;
-  color: black;
 }
 
 .header {
