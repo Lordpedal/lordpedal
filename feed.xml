@@ -6,6 +6,12 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>MuyLinux: Linus Torvalds critica la gestión de las memorias ECC por parte de Intel</title>
+            <link>https://www.muylinux.com/2021/01/04/linus-torvalds-critica-intel-memorias-ecc/</link>
+            <description>Linus Torvalds critica la gestión de las memorias ECC por parte de Intel</description>
+            <pubDate>Mon Jan  4 17:33:31 2021</pubDate>
+            </item>
+            <item>
             <title>Xataka: Slack se cae mientras el mundo vuelve a la “oficina”</title>
             <link>http://feeds.weblogssl.com/~r/xataka2/~3/7777CRyfZQ0/slack-se-cae-mundo-vuelve-a-oficina</link>
             <description>Slack se cae mientras el mundo vuelve a la “oficina”</description>
@@ -60,15 +66,9 @@
             <pubDate>Mon Jan  4 17:00:23 2021</pubDate>
             </item>
             <item>
-            <title>Atareao: Augurio linuxero</title>
-            <link>https://www.atareao.es/podcast/augurio-linuxero/</link>
-            <description>Augurio linuxero</description>
-            <pubDate>Mon Jan  4 17:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Xolography: A Method To Improve The Accuracy Of Volumetric 3D Printing</title>
-            <link>https://hackaday.com/2021/01/04/xolography-a-method-to-improve-the-accuracy-of-volumetric-3d-printing/</link>
-            <description>Xolography: A Method To Improve The Accuracy Of Volumetric 3D Printing</description>
-            <pubDate>Mon Jan  4 16:30:21 2021</pubDate>
+            <title>Desde Linux: BusyBox 1.33 llega con base32, soporte para el almacenamiento en caché y mas</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/y0IFI1pwxvU/</link>
+            <description>BusyBox 1.33 llega con base32, soporte para el almacenamiento en caché y mas</description>
+            <pubDate>Mon Jan  4 17:00:23 2021</pubDate>
             </item></channel>
 </rss>
