@@ -76,11 +76,11 @@ img.a {
   color: black;
 }
 
-/*.header a.logo {
+.header a.logo {
   font-size: 24px;
   font-weight: bold;
   color: black;
-}*/
+}
 
 .header a:hover {
   background-color: #ddd;
