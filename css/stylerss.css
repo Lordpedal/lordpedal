@@ -109,13 +109,4 @@ img.a {
     float: none;
   }
 
-  .footer a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-
-  .footer-right {
-    float: none;
-  }
 }
