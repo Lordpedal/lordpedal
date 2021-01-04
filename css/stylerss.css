@@ -61,23 +61,24 @@ img.a {
   top: 1%;
   background-color: #f1f1f1;
   border-radius: 12px;
+  padding: 18px 8px;
 }
 
 .header a {
   float: left;
+  color: black;
   text-align: center;
-  padding: 9px;
+  padding: 12px;
   text-decoration: none;
   font-size: 18px;
   line-height: 24px;
   border-radius: 4px;
-  color: black;
 }
 
 .header a.logo {
   font-size: 24px;
   font-weight: bold;
-  color: black;
+  /*color: black;*/
 }
 
 .header a:hover {
@@ -92,7 +93,7 @@ img.a {
 
 .header-right {
   float: right;
-  color: black;
+  /*color: black;*/
 }
 
 @media screen and (max-width: 500px) {
