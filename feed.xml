@@ -6,6 +6,12 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Atareao: Augurio linuxero</title>
+            <link>https://www.atareao.es/podcast/augurio-linuxero/</link>
+            <description>Augurio linuxero</description>
+            <pubDate>Mon Jan  4 17:00:00 2021</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Xolography: A Method To Improve The Accuracy Of Volumetric 3D Printing</title>
             <link>https://hackaday.com/2021/01/04/xolography-a-method-to-improve-the-accuracy-of-volumetric-3d-printing/</link>
             <description>Xolography: A Method To Improve The Accuracy Of Volumetric 3D Printing</description>
@@ -64,11 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/genbeta/~3/NLUNVww7_z0/esta-forma-simple-descargar-reciente-iso-windows-10-directamente-web-microsoft</link>
             <description>Esta es la forma más simple de descargar el más reciente ISO de Windows 10 directamente desde la web de Microsoft</description>
             <pubDate>Mon Jan  4 15:14:39 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: All The Good VR Ideas Were Dreamt Up In The 60s</title>
-            <link>https://hackaday.com/2021/01/04/all-the-good-vr-ideas-were-dreamt-up-in-the-60s/</link>
-            <description>All The Good VR Ideas Were Dreamt Up In The 60s</description>
-            <pubDate>Mon Jan  4 15:01:54 2021</pubDate>
             </item></channel>
 </rss>
