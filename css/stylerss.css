@@ -65,7 +65,7 @@ img.a {
   border-radius: 12px;
 }
 
-/* .header a {
+.header a {
   float: left;
   text-align: center;
   padding: 9px;
@@ -76,7 +76,7 @@ img.a {
   color: black;
 }
 
-.header a.logo {
+/*.header a.logo {
   font-size: 24px;
   font-weight: bold;
   color: black;
