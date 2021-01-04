@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-  position: relative;
+  /*position: relative;*/
   /*color: #f8f8f2;*/
   text-align: center;
   overflow: hidden;
