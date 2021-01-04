@@ -33,7 +33,7 @@ div.ex2 {
   left: 5%;
 }
 
-th, td {
+table, th, td {
   border-bottom: 1px solid #ddd;
   padding: 10px;
 }
