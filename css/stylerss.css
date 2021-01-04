@@ -33,6 +33,10 @@ div.ex2 {
   left: 5%;
 }
 
+img a {
+  vertical-align: middle;
+}
+
 th, td {
   border-bottom: 1px solid #ddd;
   padding: 7px;
@@ -74,7 +78,6 @@ th, td {
 .header a.logo {
   font-size: 24px;
   font-weight: bold;
-  vertical-align: middle;
   /*color: black;*/
 }
 
