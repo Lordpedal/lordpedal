@@ -9,11 +9,13 @@ body {
 }
 
 h1 {
-    color: #f8f8f2;
+  color: #f8f8f2;
+  text-align: center;
 }
 
 h2 {
-    color: #f8f8f2;
+  color: #f8f8f2;
+  text-align: center;
 }
 
 a:link {
@@ -59,12 +61,11 @@ img.a {
   position: -webkit-sticky;
   position: sticky;
   top: 1%;
-  /* padding: 18px 8px;*/
   background-color: #f1f1f1;
   border-radius: 12px;
 }
 
-.header a {
+/* .header a {
   float: left;
   text-align: center;
   padding: 9px;
@@ -79,7 +80,7 @@ img.a {
   font-size: 24px;
   font-weight: bold;
   color: black;
-}
+}*/
 
 .header a:hover {
   background-color: #ddd;
