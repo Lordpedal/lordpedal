@@ -47,6 +47,8 @@ img.a {
   position: -webkit-sticky;
   position: sticky;
   bottom: 1%;
+  left: 1%;
+  right: 1%;
   font-weight: bold;
   color: black;
   text-align: center;
