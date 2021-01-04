@@ -38,6 +38,10 @@ th, td {
   padding: 10px;
 }
 
+img.a {
+  vertical-align: middle;
+}
+
 .footer {
   overflow: hidden;
   position: -webkit-sticky;
