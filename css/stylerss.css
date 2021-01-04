@@ -13,12 +13,12 @@ h1 {
   text-align: center;
 }
 
-h2 {
+/*h2 {
   color: #f8f8f2;
   text-align: center;
-}
+}*/
 
-h3 {
+h2 {
   position: relative;
   text-align: center;
   overflow: hidden;
