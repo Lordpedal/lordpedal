@@ -38,10 +38,6 @@ th, td {
   padding: 7px;
 }
 
-img.a {
-  vertical-align: middle;
-}
-
 .footer {
   overflow: hidden;
   position: -webkit-sticky;
@@ -78,6 +74,7 @@ img.a {
 .header a.logo {
   font-size: 24px;
   font-weight: bold;
+  vertical-align: middle;
   /*color: black;*/
 }
 
