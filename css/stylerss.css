@@ -62,7 +62,6 @@ img.a {
 }
 
 .scrollToTopBtn {
-  /*background-color: black;*/
   background-color: #4CAF50;
   border: none;
   border-radius: 50%;
@@ -73,7 +72,7 @@ img.a {
   width: 64px;
   
   position: fixed;
-  bottom: 1%;
+  bottom: 5%;
   right: 1%;
   z-index: 100;
   opacity: 0;
