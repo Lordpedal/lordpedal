@@ -33,9 +33,9 @@ div.ex2 {
   left: 5%;
 }
 
-table, th, td {
+th, td {
   border-bottom: 1px solid #ddd;
-  padding: 10px;
+  padding: 5px;
 }
 
 img.a {
