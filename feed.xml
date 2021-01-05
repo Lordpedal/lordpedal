@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Tutoriales IT: Acceso remoto mediante SSH a Direct Console User Interface de VMware (DCUI)</title>
+            <link>https://tutorialesit.com/acceso-remoto-mediante-ssh-a-direct-console-user-interface-de-vmware-dcui/</link>
+            <description>Acceso remoto mediante SSH a Direct Console User Interface de VMware (DCUI)</description>
+            <pubDate>Tue Jan  5 07:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Raspberry Pi Tally Lights</title>
+            <link>https://hackaday.com/2021/01/04/raspberry-pi-tally-lights/</link>
+            <description>Raspberry Pi Tally Lights</description>
+            <pubDate>Tue Jan  5 06:00:37 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: SerenityOS: Una Distro moderna Tipo Unix con interfaz clásica de los ’90</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/Xr0RZ884HW4/</link>
+            <description>SerenityOS: Una Distro moderna Tipo Unix con interfaz clásica de los ’90</description>
+            <pubDate>Tue Jan  5 05:00:04 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Adidas Going Natural with Mycelium Leather</title>
+            <link>https://hackaday.com/2021/01/04/adidas-going-natural-with-mycelium-leather/</link>
+            <description>Adidas Going Natural with Mycelium Leather</description>
+            <pubDate>Tue Jan  5 03:00:06 2021</pubDate>
+            </item>
+            <item>
+            <title>Xataka: 20 años después, alguien ha acabado de desarrollar un juego para PS1 que se puede descargar gratis y jugar en un emulador</title>
+            <link>http://feeds.weblogssl.com/~r/xataka2/~3/FTzJLUQH0gA/20-anos-despues-alguien-ha-acabado-desarrollar-juego-para-ps1-que-se-puede-descargar-gratis-jugar-emulador</link>
+            <description>20 años después, alguien ha acabado de desarrollar un juego para PS1 que se puede descargar gratis y jugar en un emulador</description>
+            <pubDate>Tue Jan  5 00:01:32 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Building A Website-Controlled Christmas Tree</title>
+            <link>https://hackaday.com/2021/01/04/building-a-website-controlled-christmas-tree/</link>
+            <description>Building A Website-Controlled Christmas Tree</description>
+            <pubDate>Tue Jan  5 00:00:08 2021</pubDate>
+            </item>
+            <item>
             <title>Genbeta: Microsoft sustituirá sus actuales clientes de e-mail para Windows y Mac por una 'web app' de Outlook unificada</title>
             <link>http://feeds.weblogssl.com/~r/genbeta/~3/T4YcMZhGQMg/microsoft-sustituira-sus-actuales-clientes-e-mail-para-windows-mac-web-app-outlook-unificada</link>
             <description>Microsoft sustituirá sus actuales clientes de e-mail para Windows y Mac por una 'web app' de Outlook unificada</description>
@@ -34,41 +70,5 @@
             <link>https://twocents.lifehacker.com/save-money-with-the-new-covid-relief-fsa-rules-1845986859</link>
             <description>Save Money With the New Covid-Relief FSA Rules</description>
             <pubDate>Mon Jan  4 21:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Lifehacker: Is Discovery+ Worth It?</title>
-            <link>https://lifehacker.com/is-discovery-worth-it-1845985700</link>
-            <description>Is Discovery+ Worth It?</description>
-            <pubDate>Mon Jan  4 21:15:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Low-Cost Head Mounted Display from FPV Gear</title>
-            <link>https://hackaday.com/2021/01/04/low-cost-head-mounted-display-from-fpv-gear/</link>
-            <description>Low-Cost Head Mounted Display from FPV Gear</description>
-            <pubDate>Mon Jan  4 21:00:20 2021</pubDate>
-            </item>
-            <item>
-            <title>Lifehacker: The 10 Best Deals of January 4, 2021</title>
-            <link>https://kinjadeals.theinventory.com/the-10-best-deals-of-january-4-2021-1845985845</link>
-            <description>The 10 Best Deals of January 4, 2021</description>
-            <pubDate>Mon Jan  4 21:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Lifehacker: You Only Really Need One Home Screen</title>
-            <link>https://lifehacker.com/you-only-really-need-one-home-screen-1845985285</link>
-            <description>You Only Really Need One Home Screen</description>
-            <pubDate>Mon Jan  4 21:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Un Outlook para gobernarlos a todos: Microsoft prepara una web app que reemplazará a todas las versiones de PC y Mac actuales</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/9SSewZNklpk/outlook-para-gobernarlos-a-todos-microsoft-prepara-web-app-que-reemplazara-a-todas-versiones-pc-mac-actuales</link>
-            <description>Un Outlook para gobernarlos a todos: Microsoft prepara una web app que reemplazará a todas las versiones de PC y Mac actuales</description>
-            <pubDate>Mon Jan  4 20:36:24 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: Linux y Windows ya comparten el 60% del código de drivers para las gráficas de Intel</title>
-            <link>https://lignux.com/linux-y-windows-ya-comparten-el-60-del-codigo-de-drivers-para-las-graficas-de-intel/</link>
-            <description>Linux y Windows ya comparten el 60% del código de drivers para las gráficas de Intel</description>
-            <pubDate>Mon Jan  4 20:34:35 2021</pubDate>
             </item></channel>
 </rss>
