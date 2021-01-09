@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Replacement LED light build uses a few tricks</title>
+            <link>https://hackaday.com/2021/01/08/replacement-led-light-build-uses-a-few-tricks/</link>
+            <description>Replacement LED light build uses a few tricks</description>
+            <pubDate>Sat Jan  9 06:00:33 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Learning To Speak Peloton</title>
+            <link>https://hackaday.com/2021/01/08/learning-to-speak-peloton/</link>
+            <description>Learning To Speak Peloton</description>
+            <pubDate>Sat Jan  9 03:00:39 2021</pubDate>
+            </item>
+            <item>
+            <title>Planeta Diego: Los límites del modelo del código abierto</title>
+            <link>https://planetadiego.com/los-limites-del-modelo-del-codigo-abierto</link>
+            <description>Los límites del modelo del código abierto</description>
+            <pubDate>Sat Jan  9 00:51:38 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Helping Hands, Reinvented</title>
+            <link>https://hackaday.com/2021/01/08/helping-hands-reinvented/</link>
+            <description>Helping Hands, Reinvented</description>
+            <pubDate>Sat Jan  9 00:00:10 2021</pubDate>
+            </item>
+            <item>
             <title>Overclock Server: Telegram Bot RSS: Python Script</title>
             <link>https://lordpedal.github.io/gnu/linux/bot-python-script/</link>
             <description>Telegram Bot RSS: Python Script</description>
@@ -16,6 +40,12 @@
             <link>https://lifehacker.com/how-to-talk-to-non-americans-about-whats-happening-in-a-1846021473</link>
             <description>How to Talk to Non-Americans About What's Happening in America</description>
             <pubDate>Fri Jan  8 22:30:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Lifehacker: Get Back to the Basics With the Best Pens, According to Reviewers</title>
+            <link>https://roundups.theinventory.com/best-pens-1845050802</link>
+            <description>Get Back to the Basics With the Best Pens, According to Reviewers</description>
+            <pubDate>Fri Jan  8 22:05:00 2021</pubDate>
             </item>
             <item>
             <title>Genbeta: Los gamers de Linux cuentan con un nuevo cliente no-oficial para ejecutar los juegos de la Epic Games Store</title>
@@ -40,35 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/xataka2/~3/8hNODdt8f4w/fortalezas-maunsell-unas-estructuras-militares-ii-guerra-mundial-segunda-vida-como-radio-pirata-micronacion</link>
             <description>Las fortalezas Maunsell: unas estructuras militares de la II Guerra Mundial con una segunda vida como radio pirata y micronación</description>
             <pubDate>Fri Jan  8 21:00:29 2021</pubDate>
-            </item>
-            <item>
-            <title>Lifehacker: The 10 Best Deals of January 8, 2021</title>
-            <link>https://kinjadeals.theinventory.com/the-10-best-deals-of-january-8-2021-1846020517</link>
-            <description>The 10 Best Deals of January 8, 2021</description>
-            <pubDate>Fri Jan  8 21:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Lifehacker: Test Drive Microsoft Outlook's Future Look</title>
-            <link>https://lifehacker.com/test-drive-microsoft-outlooks-future-look-1846021518</link>
-            <description>Test Drive Microsoft Outlook's Future Look</description>
-            <pubDate>Fri Jan  8 21:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Lifehacker: What to Do When Your Sex Drive Is Low</title>
-            <link>https://lifehacker.com/what-to-do-when-your-sex-drive-is-low-1828538859</link>
-            <description>What to Do When Your Sex Drive Is Low</description>
-            <pubDate>Fri Jan  8 20:45:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Epic Games adquiere Rad Game Tools</title>
-            <link>https://www.linuxadictos.com/epic-games-adquiere-rad-game-tools.html</link>
-            <description>Epic Games adquiere Rad Game Tools</description>
-            <pubDate>Fri Jan  8 20:14:39 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Foto: Cómo revelar en blanco y negro las fotografías de las nevadas que estamos haciendo</title>
-            <link>http://feeds.weblogssl.com/~r/xatakafoto/~3/A33mKjiWm9M/como-revelar-blanco-negro-fotografias-nevadas-que-estamos-haciendo</link>
-            <description>Cómo revelar en blanco y negro las fotografías de las nevadas que estamos haciendo</description>
-            <pubDate>Fri Jan  8 20:00:08 2021</pubDate>
             </item></channel>
 </rss>
