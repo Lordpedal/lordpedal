@@ -21,4 +21,8 @@
 - [Bridge Bond: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/bridge-bond-debian-gnu/)
 <!-- BLOG-POST-LIST:END -->
 
+<a href="https://github.com/Lordpedal/https://github.com/Lordpedal/lordpedal.github.io">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lordpedal&repo=lordpedal.github.io&theme=gruvbox" />
+</a>
+
 > ... la culminación de un fin es el comienzo de una realidad.
