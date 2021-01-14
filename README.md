@@ -15,10 +15,10 @@
 
 ### Estadísticas
 <a href="https://github.com/Lordpedal">
-<img align="center" alt="estadísticas de GitHub de Lordpedal" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lordpedal&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" />
+<img align="center" alt="estadísticas de GitHub de Lordpedal" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lordpedal&locale=es&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/Lordpedal">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lordpedal&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lordpedal&layout=compact&locale=es&theme=gruvbox" />
 </a>
 
 > ... la culminación de un fin es el comienzo de una realidad.
