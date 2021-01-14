@@ -13,4 +13,15 @@
 - [Bridge Bond: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/bridge-bond-debian-gnu/)
 <!-- BLOG-POST-LIST:END -->
 
+### Estadísticas
+<a href="https://github.com/Lordpedal">
+<img align="center" alt="estadísticas de GitHub de Lordpedal" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lordpedalk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+</a>
+
+<p>
+
+<a href="https://github.com/Lordpedal">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lordpedalk&layout=compact&theme=radical" />
+</a>
+
 > ... la culminación de un fin es el comienzo de una realidad.
