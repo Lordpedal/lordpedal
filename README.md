@@ -15,7 +15,7 @@
 
 ### Estadísticas
 <a href="https://github.com/Lordpedal">
-<img align="center" alt="estadísticas de GitHub de Lordpedal" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lordpedal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+<img align="center" alt="estadísticas de GitHub de Lordpedal" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lordpedal&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=radical" />
 </a>
 
 <p>
