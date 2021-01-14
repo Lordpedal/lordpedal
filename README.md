@@ -4,6 +4,14 @@
 - 🌈 [Rincón de Iris](https://rincondeiris.club/ "Rincón de Iris"): **Un espacio creativo y personalizado.**
 - 📟 [Canal Telegram](https://t.me/lordpedal_rss "Canal Lordpedal RSS"): **Lordpedal RSS**
 
+### Estadísticas Github
+<a href="https://github.com/Lordpedal">
+  <img align="center" alt="estadísticas de GitHub de Lordpedal" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lordpedal&show_icons=true&count_private=true&include_all_commits=true&locale=es&theme=gruvbox" />
+</a>
+<a href="https://github.com/Lordpedal">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lordpedal&layout=compact&locale=es&theme=gruvbox" />
+</a>
+
 ### Overclock Server: *Últimos artículos*
 <!-- BLOG-POST-LIST:START -->
 - [DockerTG: Docker](https://lordpedal.github.io/gnu/linux/docker/dockertg-docker/)
@@ -12,16 +20,5 @@
 - [FreshRSS: Docker](https://lordpedal.github.io/gnu/linux/docker/freshrss-docker/)
 - [Bridge Bond: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/bridge-bond-debian-gnu/)
 <!-- BLOG-POST-LIST:END -->
-
-### Estadísticas Github
-<a href="https://github.com/Lordpedal">
-<img align="center" alt="estadísticas de GitHub de Lordpedal" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lordpedal&show_icons=true&count_private=true&include_all_commits=true&locale=es&theme=gruvbox" />
-</a>
-<a href="https://github.com/Lordpedal">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lordpedal&layout=compact&locale=es&theme=gruvbox" />
-</a>
-<a href="https://github.com/Lordpedal/https://github.com/Lordpedal/lordpedal.github.io">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lordpedal&repo=lordpedal.github.io&theme=gruvbox" />
-</a>
 
 > ... la culminación de un fin es el comienzo de una realidad.
