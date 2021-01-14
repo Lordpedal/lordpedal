@@ -4,7 +4,7 @@
 - 🌈 [Rincón de Iris](https://rincondeiris.club/ "Rincón de Iris"): **Un espacio creativo y personalizado.**
 - 📟 [Canal Telegram](https://t.me/lordpedal_rss "Canal Lordpedal RSS"): **Lordpedal RSS**
 
-## Últimos artículos en mi blog:
+#### Últimos artículos en Overclock Server
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
