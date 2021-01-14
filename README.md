@@ -13,7 +13,7 @@
 - [Bridge Bond: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/bridge-bond-debian-gnu/)
 <!-- BLOG-POST-LIST:END -->
 
-### Estadísticas
+### Estadísticas Github
 <a href="https://github.com/Lordpedal">
 <img align="center" alt="estadísticas de GitHub de Lordpedal" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lordpedal&show_icons=true&count_private=true&include_all_commits=true&locale=es&theme=gruvbox" />
 </a>
