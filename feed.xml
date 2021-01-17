@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: RGB Glasses Built From PCBs</title>
+            <link>https://hackaday.com/2021/01/16/rgb-glasses-built-from-pcbs/</link>
+            <description>RGB Glasses Built From PCBs</description>
+            <pubDate>Sun Jan 17 06:00:10 2021</pubDate>
+            </item>
+            <item>
+            <title>Wwwhat's new?: Apps de bóveda para guardar archivos de forma segura en el móvil</title>
+            <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/TTHnRNGDiyg/</link>
+            <description>Apps de bóveda para guardar archivos de forma segura en el móvil</description>
+            <pubDate>Sun Jan 17 03:00:51 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: DIY LEGO Record Cleaner is Revolutionary</title>
+            <link>https://hackaday.com/2021/01/16/diy-lego-record-cleaner-is-revolutionary/</link>
+            <description>DIY LEGO Record Cleaner is Revolutionary</description>
+            <pubDate>Sun Jan 17 03:00:22 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D Printing Without Support Material Thanks To An Additional Axis</title>
+            <link>https://hackaday.com/2021/01/16/3d-printing-without-support-material-thanks-to-an-additional-axis/</link>
+            <description>3D Printing Without Support Material Thanks To An Additional Axis</description>
+            <pubDate>Sun Jan 17 00:00:14 2021</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: IPTV y Aplicaciones Web en Linux Mint 20.01</title>
+            <link>https://www.distritotux.cl/2021/01/iptv-y-aplicaciones-web-en-linux-mint.html</link>
+            <description>IPTV y Aplicaciones Web en Linux Mint 20.01</description>
+            <pubDate>Sat Jan 16 23:29:19 2021</pubDate>
+            </item>
+            <item>
+            <title>Wwwhat's new?: Send Files to TV, para transferir archivos a tu Android TV desde el móvil o el ordenador</title>
+            <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/9OITLkiXaSE/</link>
+            <description>Send Files to TV, para transferir archivos a tu Android TV desde el móvil o el ordenador</description>
+            <pubDate>Sat Jan 16 23:00:40 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El creador de partituras MuseScore acaba de liberar su versión 3.6</title>
             <link>https://lignux.com/el-creador-de-partituras-musescore-acaba-de-liberar-su-version-3-6/</link>
             <description>El creador de partituras MuseScore acaba de liberar su versión 3.6</description>
@@ -34,41 +70,5 @@
             <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/ctxZyeKNWsE/</link>
             <description>Mejores reproductores y mezcladores de música online para utilizar con canciones de YouTube</description>
             <pubDate>Sat Jan 16 19:00:17 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¡Cuidado! ¿En qué fijarte si compras una tele usada?</title>
-            <link>https://www.adslzone.net/reportajes/tv-streaming/comprar-tv-segunda-mano/</link>
-            <description>¡Cuidado! ¿En qué fijarte si compras una tele usada?</description>
-            <pubDate>Sat Jan 16 19:00:05 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog Bitix: Documentación para registrar las decisiones de arquitectura en software e infraestructura</title>
-            <link>https://picodotdev.github.io/blog-bitix/2021/01/documentacion-para-registrar-las-decisiones-de-arquitectura-en-software-e-infraestructura/</link>
-            <description>Documentación para registrar las decisiones de arquitectura en software e infraestructura</description>
-            <pubDate>Sat Jan 16 19:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux para todos: Instalar Apache Maven en Ubuntu 20.04</title>
-            <link>http://feedproxy.google.com/~r/sololinux/eoDH/~3/j_GEHkkBrK8/</link>
-            <description>Instalar Apache Maven en Ubuntu 20.04</description>
-            <pubDate>Sat Jan 16 18:57:06 2021</pubDate>
-            </item>
-            <item>
-            <title>DistritoTux: Clientes Torrent de código abierto en Windows 10</title>
-            <link>https://www.distritotux.cl/2021/01/clientes-torrent-de-codigo-abierto-en.html</link>
-            <description>Clientes Torrent de código abierto en Windows 10</description>
-            <pubDate>Sat Jan 16 18:44:37 2021</pubDate>
-            </item>
-            <item>
-            <title>56K.ES: Haiku generator – Un Haiku al día en el Fediverso</title>
-            <link>https://56k.es/fanta/haiku-generator-un-haiku-al-dia-en-el-fediverso/</link>
-            <description>Haiku generator – Un Haiku al día en el Fediverso</description>
-            <pubDate>Sat Jan 16 18:33:31 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: USB-C Programmable Power Supply For Any Project</title>
-            <link>https://hackaday.com/2021/01/16/usb-c-programmable-power-supply-for-any-project/</link>
-            <description>USB-C Programmable Power Supply For Any Project</description>
-            <pubDate>Sat Jan 16 18:01:37 2021</pubDate>
             </item></channel>
 </rss>
