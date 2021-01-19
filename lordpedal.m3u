@@ -89,7 +89,7 @@ http://192.168.1.50:2112/rtp/239.0.5.199:8208
 http://192.168.1.50:2112/rtp/239.0.5.78:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="71" tvg-id="1563.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/1619.jpg",NG Wild HD
 http://192.168.1.50:2112/rtp/239.0.9.136:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="72" tvg-id="17.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/4920.jpg",Historia HD
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="72" tvg-id="17.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/4920.jpg",Canal Historia HD
 http://192.168.1.50:2112/rtp/239.0.0.166:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="73" tvg-id="19.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/2205.jpg",Discovery HD
 http://192.168.1.50:2112/rtp/239.0.5.77:8208
