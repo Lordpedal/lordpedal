@@ -14,11 +14,11 @@
 
 ### Overclock Server: *Últimos artículos*
 <!-- BLOG-POST-LIST:START -->
+- [Bitwarden: Docker](https://lordpedal.github.io/gnu/linux/docker/bitwarden-docker/)
 - [Raspberry Pi 4B+: Servidor ARM](https://lordpedal.github.io/gnu/linux/raspberry-servidor/)
 - [DockerTG: Docker](https://lordpedal.github.io/gnu/linux/docker/dockertg-docker/)
 - [Telegram Bot RSS: Python Script](https://lordpedal.github.io/gnu/linux/bot-python-script/)
 - [DuckDNS: Docker](https://lordpedal.github.io/gnu/linux/docker/duckdns-docker/)
-- [FreshRSS: Docker](https://lordpedal.github.io/gnu/linux/docker/freshrss-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 > ... la culminación de un fin es el comienzo de una realidad.
