@@ -71,8 +71,6 @@ rtp://@239.0.0.90:8208
 rtp://@239.0.0.180:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="45" tvg-id="4636.movistar.tv" tvh-tags="Movistar TV|HDTV|Deportes" tvg-logo="https://lordpedal.github.io/lordpedal/images/4637.jpg",#Vamos HD
 rtp://@239.0.5.197:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="58" tvg-id="4883.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4884.jpg",UBEAT HD
-rtp://@239.0.0.178:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="61" tvg-id="118.movistar.tv" tvh-tags="Movistar TV|HDTV|Deportes" tvg-logo="https://lordpedal.github.io/lordpedal/images/1623.jpg",Eurosport 1 HD
 rtp://@239.0.9.135:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="62" tvg-id="338.movistar.tv" tvh-tags="Movistar TV|HDTV|Deportes" tvg-logo="https://lordpedal.github.io/lordpedal/images/2720.jpg",Eurosport 2 HD
@@ -119,6 +117,8 @@ rtp://@239.0.5.210:8208
 rtp://@239.0.0.182:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="87" tvg-id="2943.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2943.jpg",Garage TV
 rtp://@239.0.0.99:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="88" tvg-id="4883.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4884.jpg",UBEAT HD
+rtp://@239.0.0.178:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="89" tvg-id="12.movistar.tv" tvh-tags="Movistar TV|SDTV|Fútbol" tvg-logo="https://lordpedal.github.io/lordpedal/images/12.jpg",Futbol Replay
 rtp://@239.0.0.97:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="90" tvg-id="778.movistar.tv" tvh-tags="Movistar TV|SDTV|Infantil" tvg-logo="https://lordpedal.github.io/lordpedal/images/778.jpg",Baby TV
