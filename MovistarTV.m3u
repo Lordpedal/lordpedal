@@ -114,7 +114,7 @@ rtp://@239.0.5.210:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="86" tvg-id="3184.movistar.tv" tvh-tags="Movistar TV|HDTV|Ciencia ficción" tvg-logo="https://lordpedal.github.io/lordpedal/images/3185.jpg",BeMad HD
 rtp://@239.0.0.182:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="87" tvg-id="2943.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2943.jpg",Garage TV
-rtp://@239.0.0.99:8208
+rtp://@239.0.3.26:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="88" tvg-id="4883.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4884.jpg",UBEAT HD
 rtp://@239.0.0.178:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="89" tvg-id="12.movistar.tv" tvh-tags="Movistar TV|SDTV|Fútbol" tvg-logo="https://lordpedal.github.io/lordpedal/images/12.jpg",Futbol Replay
