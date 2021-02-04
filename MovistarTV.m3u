@@ -175,7 +175,7 @@ rtp://@239.0.3.37:8208
 rtp://@239.0.0.52:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="153" tvg-id="2271.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2271.jpg",TV3CAT
 rtp://@239.0.3.36:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="154" tvg-id="2269.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2269.jpg",ETB Sat.
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="154" tvg-id="2269.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2269.jpg",EITB Basque
 rtp://@239.0.0.60:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="155" tvg-id="2743.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2743.jpg",Aragón TV Int
 rtp://@239.0.0.81:8208
