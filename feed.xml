@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Xataka: Enseñar programación a un niño con Scratch desde cero: consejos, tutoriales y vídeos</title>
+            <link>http://feeds.weblogssl.com/~r/xataka2/~3/0etOVhPWwWY/ensenar-programacion-a-nino-scratch-cero-consejos-tutoriales-videos</link>
+            <description>Enseñar programación a un niño con Scratch desde cero: consejos, tutoriales y vídeos</description>
+            <pubDate>Sun Feb  7 08:28:01 2021</pubDate>
+            </item>
+            <item>
+            <title>Diario del Viajero: Compañeros de ruta: temperaturas agradables, sueños más próximos</title>
+            <link>http://feeds.weblogssl.com/~r/diariodelviajero/~3/uaQJDRjywCY/companeros-ruta-temperaturas-agradables-suenos-proximos</link>
+            <description>Compañeros de ruta: temperaturas agradables, sueños más próximos</description>
+            <pubDate>Sun Feb  7 07:01:35 2021</pubDate>
+            </item>
+            <item>
+            <title>Wwwhat's new?: Kobalos, el malware para Linux que esta atacando superordenadores en todo el mundo</title>
+            <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/O4DcW9MozHQ/</link>
+            <description>Kobalos, el malware para Linux que esta atacando superordenadores en todo el mundo</description>
+            <pubDate>Sun Feb  7 07:00:47 2021</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: GBA Gets Homebrew USB-C Charging Upgrade</title>
             <link>https://hackaday.com/2021/02/06/gba-gets-homebrew-usb-c-charging-upgrade/</link>
             <description>GBA Gets Homebrew USB-C Charging Upgrade</description>
@@ -52,23 +70,5 @@
             <link>https://lordpedal.github.io/gnu/linux/docker/hass-docker/</link>
             <description>HASS: Docker</description>
             <pubDate>Sat Feb  6 23:45:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Cartas de Linux: Instalando Mathics en Linux</title>
-            <link>https://cartaslinux.wordpress.com/2021/02/06/instalando-mathics-en-linux/</link>
-            <description>Instalando Mathics en Linux</description>
-            <pubDate>Sat Feb  6 23:27:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Wwwhat's new?: Mascarillas desechadas como material para la construcción de carreteras</title>
-            <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/AAjfLKqoMBI/</link>
-            <description>Mascarillas desechadas como material para la construcción de carreteras</description>
-            <pubDate>Sat Feb  6 23:00:53 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Google propone establecer nuevas reglas para mejorar la seguridad del open source</title>
-            <link>https://www.linuxadictos.com/google-propone-establecer-nuevas-reglas-para-mejorar-la-seguridad-del-open-source.html</link>
-            <description>Google propone establecer nuevas reglas para mejorar la seguridad del open source</description>
-            <pubDate>Sat Feb  6 22:48:10 2021</pubDate>
             </item></channel>
 </rss>
