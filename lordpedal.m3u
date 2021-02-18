@@ -129,6 +129,8 @@ http://192.168.1.50:2112/rtp/239.0.0.171:8208
 http://192.168.1.50:2112/rtp/239.0.0.167:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="94" tvg-id="579.movistar.tv" tvh-tags="Movistar TV|HDTV|Infantil" tvg-logo="https://lordpedal.github.io/lordpedal/images/4734.jpg",Nickelodeon HD
 http://192.168.1.50:2112/rtp/239.0.5.204:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="95" tvg-id="4963.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4964.jpg",Dreamworks HD
+http://192.168.1.50:2112/rtp/239.0.5.180:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="96" tvg-id="2.movistar.tv" tvh-tags="Movistar TV|HDTV|Infantil" tvg-logo="https://lordpedal.github.io/lordpedal/images/1616.jpg",Disney Channel HD
 http://192.168.1.50:2112/rtp/239.0.0.173:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="97" tvg-id="578.movistar.tv" tvh-tags="Movistar TV|SDTV|Infantil" tvg-logo="https://lordpedal.github.io/lordpedal/images/578.jpg",Boing
