@@ -14,11 +14,11 @@
 
 ### Overclock Server: *Últimos artículos*
 <!-- BLOG-POST-LIST:START -->
+- [Scrutiny: Docker](https://lordpedal.github.io/gnu/linux/docker/scrutiny-docker/)
 - [Samba: Docker](https://lordpedal.github.io/gnu/linux/docker/samba-docker/)
 - [HASS: Docker](https://lordpedal.github.io/gnu/linux/docker/hass-docker/)
 - [Grocy: Docker](https://lordpedal.github.io/gnu/linux/docker/grocy-docker/)
 - [Pwndrop: Docker](https://lordpedal.github.io/gnu/linux/docker/pwndrop-docker/)
-- [Bitwarden: Docker](https://lordpedal.github.io/gnu/linux/docker/bitwarden-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 > ... la culminación de un fin es el comienzo de una realidad.
