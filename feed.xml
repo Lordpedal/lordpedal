@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: It’s Noodles All the Way Down: Ramen comes to 3D Printer Support</title>
+            <link>https://hackaday.com/2021/02/20/its-noodles-all-the-way-down-ramen-comes-to-3d-printer-support/</link>
+            <description>It’s Noodles All the Way Down: Ramen comes to 3D Printer Support</description>
+            <pubDate>Sun Feb 21 06:00:48 2021</pubDate>
+            </item>
+            <item>
+            <title>Ubuntu Buzz !: Internet Communication without Phone Number or Email</title>
+            <link>http://feedproxy.google.com/~r/Ubuntubuzz/~3/ImFASIzLG98/internet-communication-without-phone-number-or-email.html</link>
+            <description>Internet Communication without Phone Number or Email</description>
+            <pubDate>Sun Feb 21 05:16:16 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: GOS-P4: Explorando el amplio y creciente Google Open Source – Parte 4</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/Oam_tDJcVS4/</link>
+            <description>GOS-P4: Explorando el amplio y creciente Google Open Source – Parte 4</description>
+            <pubDate>Sun Feb 21 05:00:25 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: How Did The Nintendo Virtual Boy Work?</title>
+            <link>https://hackaday.com/2021/02/20/how-did-the-nintendo-virtual-boy-work/</link>
+            <description>How Did The Nintendo Virtual Boy Work?</description>
+            <pubDate>Sun Feb 21 03:00:37 2021</pubDate>
+            </item>
+            <item>
+            <title>Wwwhat's new?: ¿Qué tipo de vídeos debo crear para mi negocio? Aquí tenemos 3 ideas</title>
+            <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/FRt4ZfeIaHY/</link>
+            <description>¿Qué tipo de vídeos debo crear para mi negocio? Aquí tenemos 3 ideas</description>
+            <pubDate>Sun Feb 21 03:00:25 2021</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Siduction 21.1.0 Distribución basada en Debian Inestable</title>
+            <link>https://www.distritotux.cl/2021/02/siduction-2110-distribucion-basada-en.html</link>
+            <description>Siduction 21.1.0 Distribución basada en Debian Inestable</description>
+            <pubDate>Sun Feb 21 02:49:24 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Vintage Calculator Design Shows Just How Much We Take for Granted Today</title>
+            <link>https://hackaday.com/2021/02/20/vintage-calculator-design-shows-just-how-much-we-take-for-granted-today/</link>
+            <description>Vintage Calculator Design Shows Just How Much We Take for Granted Today</description>
+            <pubDate>Sun Feb 21 00:00:24 2021</pubDate>
+            </item>
+            <item>
+            <title>Wwwhat's new?: La bicicleta eléctrica más ligera del mundo</title>
+            <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/p4K_0h7qcJI/</link>
+            <description>La bicicleta eléctrica más ligera del mundo</description>
+            <pubDate>Sat Feb 20 23:00:51 2021</pubDate>
+            </item>
+            <item>
             <title>Engadget: One of the first known black holes is more massive than once thought</title>
             <link>https://www.engadget.com/cygnus-x-1-black-hole-more-massive-than-thought-224954350.html</link>
             <description>One of the first known black holes is more massive than once thought</description>
@@ -22,53 +70,5 @@
             <link>https://www.engadget.com/endangered-ferret-cloned-215247042.html</link>
             <description>A ferret is the first North American endangered animal to be cloned</description>
             <pubDate>Sat Feb 20 21:52:47 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: El software de Hp llamado HPLIP anuncia su nueva versión 3.21.2</title>
-            <link>https://lignux.com/el-software-de-hp-llamado-hplip-anuncia-su-nueva-version-3-21-2/</link>
-            <description>El software de Hp llamado HPLIP anuncia su nueva versión 3.21.2</description>
-            <pubDate>Sat Feb 20 21:37:23 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Look at The “Risky” Tech in NASA’s Martian Helicopter</title>
-            <link>https://hackaday.com/2021/02/20/a-look-at-the-risky-tech-in-nasas-martian-helicopter/</link>
-            <description>A Look at The “Risky” Tech in NASA’s Martian Helicopter</description>
-            <pubDate>Sat Feb 20 21:00:23 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: Watch Amazon's full trailer for Robert Kirkman's 'Invincible'</title>
-            <link>https://www.engadget.com/watch-amazons-full-trailer-for-robert-kirkmans-invincible-205945002.html</link>
-            <description>Watch Amazon's full trailer for Robert Kirkman's 'Invincible'</description>
-            <pubDate>Sat Feb 20 20:59:45 2021</pubDate>
-            </item>
-            <item>
-            <title>Una al Día: CVE en Agora SDK que expone información sensible en servicios de videollamada</title>
-            <link>https://unaaldia.hispasec.com/2021/02/cve-en-agora-sdk-que-expone-informacion-sensible-en-servicios-de-videollamada.html</link>
-            <description>CVE en Agora SDK que expone información sensible en servicios de videollamada</description>
-            <pubDate>Sat Feb 20 20:43:27 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: Twitch dubbed Metallica's BlizzCon performance to avoid a copyright claim</title>
-            <link>https://www.engadget.com/twitch-dubs-metallica-blizzcon-performance-over-copyright-194847915.html</link>
-            <description>Twitch dubbed Metallica's BlizzCon performance to avoid a copyright claim</description>
-            <pubDate>Sat Feb 20 19:48:47 2021</pubDate>
-            </item>
-            <item>
-            <title>C3PO: Por una web mejor</title>
-            <link>https://write.privacytools.io/c3po/por-una-web-mejor</link>
-            <description>Por una web mejor</description>
-            <pubDate>Sat Feb 20 19:22:01 2021</pubDate>
-            </item>
-            <item>
-            <title>Wwwhat's new?: Móviles que se desarrollaron y nunca fueron lanzados al mercado</title>
-            <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/qHCm8mhJcp4/</link>
-            <description>Móviles que se desarrollaron y nunca fueron lanzados al mercado</description>
-            <pubDate>Sat Feb 20 19:00:25 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo buscar mensajes antiguos en WhatsApp y no perderte nada</title>
-            <link>https://www.adslzone.net/esenciales/whatsapp/buscar-mensajes-whatsapp/</link>
-            <description>Cómo buscar mensajes antiguos en WhatsApp y no perderte nada</description>
-            <pubDate>Sat Feb 20 19:00:18 2021</pubDate>
             </item></channel>
 </rss>
