@@ -14,7 +14,7 @@
 
 ### Overclock Server: *Últimos artículos*
 <!-- BLOG-POST-LIST:START -->
-- [Cortar piezas 3D: Meperiun3D](https://lordpedal.github.io/3d/slic3r-meperiun3d/)
+- [Slic3r Cut 3D: Meperiun3D](https://lordpedal.github.io/3d/slic3r-meperiun3d/)
 - [AdGuard: Docker](https://lordpedal.github.io/gnu/linux/docker/adguard-docker/)
 - [Curseradio: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/curseradio-debian-gnu/)
 - [IPFS: Docker](https://lordpedal.github.io/gnu/linux/docker/ipfs-docker/)
