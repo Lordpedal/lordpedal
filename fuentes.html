@@ -161,7 +161,40 @@
 <div class="footer">
   <p>Another fine release by Lorpedal || Code by Selairi <a href="https://github.com/selairi/planetlibre" target="_blank">(Github)</a></p>
 </div>
-
+<table style="border: 5px solid #CCC; width: 100%; text-align: left;">
+	<tr>
+		<th>IP:</th>
+		<td id="ip"></td>
+	</tr>
+	<tr>
+		<th>Proveedor internet:</th>
+		<td id="proveedor"></td>
+	</tr>
+	<tr>
+		<th>Continente:</th>
+		<td id="continente"></td>
+	</tr>
+	<tr>
+		<th>País:</th>
+		<td id="pais"></td>
+	</tr>
+	<tr>
+		<th>Región:</th>
+		<td id="region"></td>
+	</tr>
+	<tr>
+		<th>Ciudad:</th>
+		<td id="ciudad"></td>
+	</tr>
+	<tr>
+		<th>Código postal:</th>
+		<td id="postal"></td>
+	</tr>
+	<tr>
+		<th>Zona horaria:</th>
+		<td id="horario"></td>
+	</tr>
+</table>
 <script>
 var scrollToTopBtn = document.querySelector(".scrollToTopBtn")
 var rootElement = document.documentElement
@@ -187,6 +220,38 @@ function scrollToTop() {
 }
 scrollToTopBtn.addEventListener("click", scrollToTop)
 document.addEventListener("scroll", handleScroll)
+
+function httpGetAsync(url, callback) {
+  var xmlHttp = new XMLHttpRequest();
+  xmlHttp.onreadystatechange = function() {
+    if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+      callback(xmlHttp.responseText);
+  }
+  xmlHttp.open("GET", url, true); // true for asynchronous
+  xmlHttp.send(null);
+}
+
+var url = "https://ipgeolocation.abstractapi.com/v1/?api_key=4efddbe3eb0a467f88bc18ead50bd098"
+
+httpGetAsync(url, function(data) {
+json = JSON.parse(data)
+element = document.getElementById('ip');
+element.innerHTML = json.ip_address;
+element = document.getElementById('proveedor');
+element.innerHTML = json.connection.autonomous_system_organization;
+element = document.getElementById('horario');
+element.innerHTML = json.timezone.name;
+element = document.getElementById('pais');
+element.innerHTML = json.country;
+element = document.getElementById('region');
+element.innerHTML = json.region;
+element = document.getElementById('ciudad');
+element.innerHTML = json.city;
+element = document.getElementById('postal');
+element.innerHTML = json.postal_code;
+element = document.getElementById('continente');
+element.innerHTML = json.continent;
+})
 </script>
 
 </body>
