@@ -6,16 +6,34 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Meteoclimatic - RSS: Cartagena - Los Barreros (Murcia)</title>
+            <link>http://www.meteoclimatic.net/perfil/ESMUR3000000030310C</link>
+            <description>Cartagena - Los Barreros (Murcia)</description>
+            <pubDate>Mon Mar  1 20:18:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Meteoclimatic - RSS: Cartagena-U.Mediterraneo (Murcia)</title>
+            <link>http://www.meteoclimatic.net/perfil/ESMUR3000000030310B</link>
+            <description>Cartagena-U.Mediterraneo (Murcia)</description>
+            <pubDate>Mon Mar  1 20:17:46 2021</pubDate>
+            </item>
+            <item>
+            <title>Lifehacker: There Are Three COVID Vaccines Now and They're All Good</title>
+            <link>https://vitals.lifehacker.com/there-are-three-covid-vaccines-now-and-theyre-all-good-1846381855</link>
+            <description>There Are Three COVID Vaccines Now and They're All Good</description>
+            <pubDate>Mon Mar  1 20:15:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Ming-Chi Kuo traza la hoja de ruta del iPhone: sin notch, más batería, pantalla de 120 Hz y hasta uno plegable en 2023</title>
+            <link>http://feeds.weblogssl.com/~r/xataka2/~3/Zjc5WFrcXtI/ming-chi-kuo-traza-hoja-ruta-iphone-notch-bateria-pantalla-120-hz-uno-plegable-2023</link>
+            <description>Ming-Chi Kuo traza la hoja de ruta del iPhone: sin notch, más batería, pantalla de 120 Hz y hasta uno plegable en 2023</description>
+            <pubDate>Mon Mar  1 20:07:10 2021</pubDate>
+            </item>
+            <item>
             <title>Engadget: Google updates Gmail and other iOS apps for the first time in months</title>
             <link>https://www.engadget.com/google-ios-apps-update-gmail-meet-sheets-docs-calendar-tasks-200335624.html</link>
             <description>Google updates Gmail and other iOS apps for the first time in months</description>
             <pubDate>Mon Mar  1 20:03:35 2021</pubDate>
-            </item>
-            <item>
-            <title>Meteoclimatic - RSS: Cartagena - Los Barreros (Murcia)</title>
-            <link>http://www.meteoclimatic.net/perfil/ESMUR3000000030310C</link>
-            <description>Cartagena - Los Barreros (Murcia)</description>
-            <pubDate>Mon Mar  1 20:02:00 2021</pubDate>
             </item>
             <item>
             <title>Xataka Foto: La enemistad entre Robert Frank y Henri Cartier Bresson, dos genios enfrentados</title>
@@ -52,23 +70,5 @@
             <link>https://es.gizmodo.com/los-gatos-son-tan-desleales-como-sospechabas-segun-un-1846382202</link>
             <description>Los gatos son tan desleales como sospechabas, según un estudio</description>
             <pubDate>Mon Mar  1 19:51:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Lifehacker: How to Stay Engaged During a Videoconference</title>
-            <link>https://lifehacker.com/how-to-stay-engaged-during-a-videoconference-1846379366</link>
-            <description>How to Stay Engaged During a Videoconference</description>
-            <pubDate>Mon Mar  1 19:45:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Lifehacker: How to Watch Tonight's SpaceX Rocket Launch</title>
-            <link>https://lifehacker.com/how-to-watch-tonights-spacex-rocket-launch-1846381472</link>
-            <description>How to Watch Tonight's SpaceX Rocket Launch</description>
-            <pubDate>Mon Mar  1 19:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Street-Legalize Your Ebike With A Magnet</title>
-            <link>https://hackaday.com/2021/03/01/street-legalize-your-ebike-with-a-magnet/</link>
-            <description>Street-Legalize Your Ebike With A Magnet</description>
-            <pubDate>Mon Mar  1 19:30:00 2021</pubDate>
             </item></channel>
 </rss>
