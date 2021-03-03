@@ -17,8 +17,8 @@ rtp://@239.0.0.187:8208
 rtp://@239.0.5.187:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="8" tvg-id="4626.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4627.jpg",#Vamos HD
 rtp://@239.0.5.197:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="9" tvg-id="782.movistar.tv" tvh-tags="Movistar TV|SDTV|Ocio y cultura" tvg-logo="https://lordpedal.github.io/lordpedal/images/782.jpg",7 R.Murcia
-rtp://@239.0.0.87:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="9" tvg-id="843.movistar.tv" tvh-tags="Movistar TV|SDTV|Ocio y cultura" tvg-logo="https://lordpedal.github.io/lordpedal/images/843.jpg",TPA
+rtp://@239.0.0.86:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="13" tvg-id="737.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1607.jpg",FOX HD
 rtp://@239.0.9.134:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="14" tvg-id="14.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1608.jpg",AXN HD
