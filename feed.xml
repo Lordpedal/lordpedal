@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Web Pages (and More) via Shortwave</title>
+            <link>https://hackaday.com/2021/03/13/web-pages-and-more-via-shortwave/</link>
+            <description>Web Pages (and More) via Shortwave</description>
+            <pubDate>Sun Mar 14 06:00:14 2021</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Can You 3D Print Dies for Metal Forming?</title>
+            <link>https://blog.adafruit.com/2021/03/13/can-you-3d-print-dies-for-metal-forming/</link>
+            <description>Can You 3D Print Dies for Metal Forming?</description>
+            <pubDate>Sun Mar 14 03:00:33 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: It’s Not A Computer If It Doesn’t Have A Cartridge Slot</title>
+            <link>https://hackaday.com/2021/03/13/its-not-a-computer-if-it-doesnt-have-a-cartridge-slot/</link>
+            <description>It’s Not A Computer If It Doesn’t Have A Cartridge Slot</description>
+            <pubDate>Sun Mar 14 03:00:07 2021</pubDate>
+            </item>
+            <item>
+            <title>Wwwhat's new?: ¿Qué debería tener la nueva versión de la Nintendo Switch?</title>
+            <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/0cLZ-Q3Khlw/</link>
+            <description>¿Qué debería tener la nueva versión de la Nintendo Switch?</description>
+            <pubDate>Sun Mar 14 03:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Networked Nightlights Glow Together</title>
+            <link>https://hackaday.com/2021/03/13/networked-nightlights-glow-together/</link>
+            <description>Networked Nightlights Glow Together</description>
+            <pubDate>Sun Mar 14 00:00:36 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: USBRIP: Seguimiento Historial de Eventos USB en GNU/Linux</title>
+            <link>https://esgeeks.com/usbrip-historial-eventos-usb-linux/</link>
+            <description>USBRIP: Seguimiento Historial de Eventos USB en GNU/Linux</description>
+            <pubDate>Sat Mar 13 23:06:28 2021</pubDate>
+            </item>
+            <item>
+            <title>Wwwhat's new?: El cuerpo humano como batería eléctrica</title>
+            <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/X-jEf9dASb4/</link>
+            <description>El cuerpo humano como batería eléctrica</description>
+            <pubDate>Sat Mar 13 23:00:10 2021</pubDate>
+            </item>
+            <item>
             <title>Engadget: Sports giant Neymar appears headed to 'Fortnite'</title>
             <link>https://www.engadget.com/neymar-fortnite-teaser-222544175.html</link>
             <description>Sports giant Neymar appears headed to 'Fortnite'</description>
@@ -28,47 +70,5 @@
             <link>https://jugandoenlinux.com/index.php/homepage/carreras/1289-classic-racers-estara-de-vuelta-con-su-version-elite</link>
             <description>Classic Racers estará de vuelta con su versión "Elite"</description>
             <pubDate>Sat Mar 13 21:42:33 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: Google will face lawsuit over Incognito mode tracking</title>
-            <link>https://www.engadget.com/google-must-face-incognito-mode-lawsuit-212859134.html</link>
-            <description>Google will face lawsuit over Incognito mode tracking</description>
-            <pubDate>Sat Mar 13 21:28:59 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: EE. UU. quiere liderar la fusión nuclear, y para lograrlo planea tener preparada una planta piloto entre 2035 y 2040</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/kmR53_2itsc/ee-uu-quiere-liderar-fusion-nuclear-para-lograrlo-planea-tener-preparada-planta-piloto-2035-2040</link>
-            <description>EE. UU. quiere liderar la fusión nuclear, y para lograrlo planea tener preparada una planta piloto entre 2035 y 2040</description>
-            <pubDate>Sat Mar 13 21:25:59 2021</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: SocialPwned: OSINT para obtener Correos en Redes Sociales + PwnDB</title>
-            <link>https://esgeeks.com/socialpwned-osint-obtener-correos-redes-pwndb/</link>
-            <description>SocialPwned: OSINT para obtener Correos en Redes Sociales + PwnDB</description>
-            <pubDate>Sat Mar 13 21:17:30 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 3D-Printed Press-Forming Tools Dos and Don’ts</title>
-            <link>https://hackaday.com/2021/03/13/3d-printed-press-forming-tools-dos-and-donts/</link>
-            <description>3D-Printed Press-Forming Tools Dos and Don’ts</description>
-            <pubDate>Sat Mar 13 21:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: 'Fallout 4' and other Bethesda games will get a frame rate boost on Xbox</title>
-            <link>https://www.engadget.com/fallout-4-other-bethesda-games-fps-boost-xbox-203044566.html</link>
-            <description>'Fallout 4' and other Bethesda games will get a frame rate boost on Xbox</description>
-            <pubDate>Sat Mar 13 20:30:44 2021</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: LitePhish: Phishing con Panel Gráfico y más de 19 Páginas</title>
-            <link>https://esgeeks.com/litephish-phishing-panel-grafico/</link>
-            <description>LitePhish: Phishing con Panel Gráfico y más de 19 Páginas</description>
-            <pubDate>Sat Mar 13 20:07:14 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: Tesla factory reported hundreds of COVID-19 cases after reopening</title>
-            <link>https://www.engadget.com/tesla-fremont-factory-covid-19-cases-200515835.html</link>
-            <description>Tesla factory reported hundreds of COVID-19 cases after reopening</description>
-            <pubDate>Sat Mar 13 20:05:15 2021</pubDate>
             </item></channel>
 </rss>
