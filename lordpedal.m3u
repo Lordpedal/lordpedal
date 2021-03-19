@@ -17,8 +17,8 @@ http://192.168.1.50:2112/rtp/239.0.0.187:8208
 http://192.168.1.50:2112/rtp/239.0.5.187:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="8" tvg-id="4626.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4627.jpg",#Vamos HD
 http://192.168.1.50:2112/rtp/239.0.5.197:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="9" tvg-id="843.movistar.tv" tvh-tags="Movistar TV|SDTV|Ocio y cultura" tvg-logo="https://lordpedal.github.io/lordpedal/images/843.jpg",TPA
-http://192.168.1.50:2112/rtp/239.0.0.86:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="9" tvg-id="782.movistar.tv" tvh-tags="Movistar TV|SDTV|Ocio y cultura" tvg-logo="https://lordpedal.github.io/lordpedal/images/782.jpg",7 R.Murcia
+http://192.168.1.50:2112/rtp/239.0.0.87:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="13" tvg-id="737.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1607.jpg",FOX HD
 http://192.168.1.50:2112/rtp/239.0.9.134:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="14" tvg-id="14.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1608.jpg",AXN HD
@@ -119,7 +119,7 @@ http://192.168.1.50:2112/rtp/239.0.3.26:8208
 http://192.168.1.50:2112/rtp/239.0.0.178:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="89" tvg-id="12.movistar.tv" tvh-tags="Movistar TV|SDTV|Fútbol" tvg-logo="https://lordpedal.github.io/lordpedal/images/12.jpg",Futbol Replay
 http://192.168.1.50:2112/rtp/239.0.0.97:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="90" tvg-id="778.movistar.tv" tvh-tags="Movistar TV|SDTV|Infantil" tvg-logo="https://lordpedal.github.io/lordpedal/images/778.jpg",Baby TV
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="90" tvg-id="778.movistar.tv" tvh-tags="Movistar TV|SDTV|Infantil" tvg-logo="https://lordpedal.github.io/lordpedal/images/778.jpg",BabyTV
 http://192.168.1.50:2112/rtp/239.0.0.113:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="91" tvg-id="10.movistar.tv" tvh-tags="Movistar TV|HDTV|Infantil" tvg-logo="https://lordpedal.github.io/lordpedal/images/4915.jpg",Disney Junior HD
 http://192.168.1.50:2112/rtp/239.0.5.181:8208
