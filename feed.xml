@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>TutorialesIT: Eliminar archivos en Linux con una antigüedad superior a X días</title>
+            <link>https://tutorialesit.com/eliminar-archivos-en-linux-con-una-antiguedad-superior-a-x-dias/</link>
+            <description>Eliminar archivos en Linux con una antigüedad superior a X días</description>
+            <pubDate>Sun Mar 21 07:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>KDE Blog: KDE estará presente en SWYP 2021 VIGO</title>
+            <link>https://www.kdeblog.com/kde-estara-presente-en-swyp-2021-vigo.html</link>
+            <description>KDE estará presente en SWYP 2021 VIGO</description>
+            <pubDate>Sun Mar 21 06:27:14 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Video Ram Transplant Doubles RTX 3070 Memory to 16 GB</title>
+            <link>https://hackaday.com/2021/03/20/video-ram-transplant-doubles-rtx-3070-memory-to-16-gb/</link>
+            <description>Video Ram Transplant Doubles RTX 3070 Memory to 16 GB</description>
+            <pubDate>Sun Mar 21 05:01:21 2021</pubDate>
+            </item>
+            <item>
+            <title>Wwwhat's new?: El último juego de The Walking Dead para Android que deberás probar</title>
+            <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/VWBWeoqjArY/</link>
+            <description>El último juego de The Walking Dead para Android que deberás probar</description>
+            <pubDate>Sun Mar 21 03:00:02 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Arduino Serial vs SerialUSB</title>
+            <link>https://hackaday.com/2021/03/20/arduino-serial-vs-serialusb/</link>
+            <description>Arduino Serial vs SerialUSB</description>
+            <pubDate>Sun Mar 21 02:01:38 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Handy Reference for Display Drivers and LCD Controllers</title>
+            <link>https://hackaday.com/2021/03/20/a-handy-reference-for-display-drivers-and-lcd-controllers/</link>
+            <description>A Handy Reference for Display Drivers and LCD Controllers</description>
+            <pubDate>Sat Mar 20 23:01:30 2021</pubDate>
+            </item>
+            <item>
+            <title>Wwwhat's new?: Gana dinero haciendo lo que te piden tus seguidores</title>
+            <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/OurstxrTrK8/</link>
+            <description>Gana dinero haciendo lo que te piden tus seguidores</description>
+            <pubDate>Sat Mar 20 23:00:20 2021</pubDate>
+            </item>
+            <item>
+            <title>Diario del Viajero: La colina de Uisneach: el centro simbólico de Irlanda</title>
+            <link>http://feeds.weblogssl.com/~r/diariodelviajero/~3/XPjga7itl1g/colina-uisneach-centro-simbolico-irlanda</link>
+            <description>La colina de Uisneach: el centro simbólico de Irlanda</description>
+            <pubDate>Sat Mar 20 22:57:27 2021</pubDate>
+            </item>
+            <item>
             <title>Engadget: Apple wants Tim Cook, Tim Sweeney to testify in Epic lawsuit</title>
             <link>https://www.engadget.com/tim-cook-sweeney-may-testify-in-apple-epic-lawsuit-214754232.html</link>
             <description>Apple wants Tim Cook, Tim Sweeney to testify in Epic lawsuit</description>
@@ -22,53 +70,5 @@
             <link>https://blog.adafruit.com/2021/03/20/adam-savage-gets-a-new-form-3l-resin-printer-and-builds-a-stand-for-it/</link>
             <description>Adam Savage Gets a New Form 3L Resin Printer and Builds a Stand for It</description>
             <pubDate>Sat Mar 20 20:30:46 2021</pubDate>
-            </item>
-            <item>
-            <title>Tomates Asesinos: Estan comenzando un tileset cuqui o kawaii nuevo para Cataclysm DDA</title>
-            <link>https://tomatesasesinos.com/2021/03/20/estan-comenzando-un-tileset-cuqui-o-kawaii-nuevo-para-cataclysm-dda/</link>
-            <description>Estan comenzando un tileset cuqui o kawaii nuevo para Cataclysm DDA</description>
-            <pubDate>Sat Mar 20 20:05:06 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Reproducing a Reproducer: Servicing a Cylinder Phonograph in the Year 2021</title>
-            <link>https://hackaday.com/2021/03/20/reproducing-a-reproducer-servicing-a-cylinder-phonograph-in-the-year-2021/</link>
-            <description>Reproducing a Reproducer: Servicing a Cylinder Phonograph in the Year 2021</description>
-            <pubDate>Sat Mar 20 20:01:59 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: Microsoft Defender will automatically prevent Exchange server exploits</title>
-            <link>https://www.engadget.com/microsoft-defender-prevent-exchange-server-exploits-191547916.html</link>
-            <description>Microsoft Defender will automatically prevent Exchange server exploits</description>
-            <pubDate>Sat Mar 20 19:15:47 2021</pubDate>
-            </item>
-            <item>
-            <title>Wwwhat's new?: Así puedes evitar que Netflix reproduzca tráileres automáticamente</title>
-            <link>http://feedproxy.google.com/~r/WwwhatsNew/~3/Dig7qo8q2mQ/</link>
-            <description>Así puedes evitar que Netflix reproduzca tráileres automáticamente</description>
-            <pubDate>Sat Mar 20 19:00:34 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Qué router Xiaomi comprar? Estos son los modelos disponibles</title>
-            <link>https://www.adslzone.net/listas/gadgets/routers-xiaomi/</link>
-            <description>¿Qué router Xiaomi comprar? Estos son los modelos disponibles</description>
-            <pubDate>Sat Mar 20 19:00:18 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: Twitter creates an entity in Turkey to obey a social media law</title>
-            <link>https://www.engadget.com/twitter-legal-entity-in-turkey-184858342.html</link>
-            <description>Twitter creates an entity in Turkey to obey a social media law</description>
-            <pubDate>Sat Mar 20 18:48:58 2021</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Cargo y Nix: 2 Sistemas de gestión de paquetes más para GNU/Linux</title>
-            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/mYsqukaQ0Wg/</link>
-            <description>Cargo y Nix: 2 Sistemas de gestión de paquetes más para GNU/Linux</description>
-            <pubDate>Sat Mar 20 18:31:01 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'Calls': la serie de ciencia-ficción más sugerente del año hereda lo mejor del cine apocalíptico y de los podcasts de misterio</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/L-Fz9ZPM9QM/calls-serie-ciencia-ficcion-sugerente-ano-hereda-mejor-cine-apocaliptico-podcasts-misterio</link>
-            <description>'Calls': la serie de ciencia-ficción más sugerente del año hereda lo mejor del cine apocalíptico y de los podcasts de misterio</description>
-            <pubDate>Sat Mar 20 18:01:18 2021</pubDate>
             </item></channel>
 </rss>
