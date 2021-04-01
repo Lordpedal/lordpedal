@@ -14,11 +14,11 @@
 
 ### Overclock Server: *Últimos artículos*
 <!-- BLOG-POST-LIST:START -->
+- [Tasmotizer: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/tasmotizer-debian-gnu/)
 - [RetroPie: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/retropie-debian-gnu/)
 - [TubeSync: Docker](https://lordpedal.github.io/gnu/linux/docker/tubesync-docker/)
 - [Servidor FTP: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/ftp-debian-gnu/)
 - [Fichero de intercambio SWAP: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/swap-debian-gnu/)
-- [Dozzle: Docker](https://lordpedal.github.io/gnu/linux/docker/dozzle-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 > ... la culminación de un fin es el comienzo de una realidad.
