@@ -14,7 +14,7 @@
 
 ### Overclock Server: *Últimos artículos*
 <!-- BLOG-POST-LIST:START -->
-- [Sonoff Basic: Tasmota](https://lordpedal.github.io/gnu/linux/domotica/sonoff-tasmota-gnu/)
+- [Sonoff Basic Tasmota: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/domotica/sonoff-tasmota-gnu/)
 - [Tasmotizer: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/domotica/tasmotizer-debian-gnu/)
 - [RetroPie: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/retropie-debian-gnu/)
 - [TubeSync: Docker](https://lordpedal.github.io/gnu/linux/docker/tubesync-docker/)
