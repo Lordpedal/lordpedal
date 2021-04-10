@@ -14,11 +14,11 @@
 
 ### Overclock Server: *Últimos artículos*
 <!-- BLOG-POST-LIST:START -->
+- [Kodi: Docker](https://lordpedal.github.io/gnu/linux/docker/kodi-docker/)
 - [dupeGuru: Docker](https://lordpedal.github.io/gnu/linux/docker/dupeguru-docker/)
 - [Sonoff Basic Tasmota: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/domotica/sonoff-tasmota-gnu/)
 - [Tasmotizer: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/domotica/tasmotizer-debian-gnu/)
 - [RetroPie: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/retropie-debian-gnu/)
-- [TubeSync: Docker](https://lordpedal.github.io/gnu/linux/docker/tubesync-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 > ... la culminación de un fin es el comienzo de una realidad.
