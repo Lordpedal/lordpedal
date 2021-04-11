@@ -1,0 +1,190 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="https://unpkg.com/pdf-lib"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.0.943/pdf.min.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <style>
+        canvas {
+            width: 100px;
+            height: 100px;
+            overflow: auto;
+        }
+        #pages {
+            display: flex;
+            flex-wrap: wrap;
+            background-color: #F8F8FF;
+
+            width: 100%
+        }
+
+        #pages > div {
+            margin: 15px;
+            box-shadow: 10px 10px 5px grey;
+        }
+
+        #wait {
+            display: none;
+            font-size: 64px;
+            text-align: center;
+            width: 100%;
+        }
+
+        #main {
+            display: flex;
+            flex-direction: column;
+        }
+
+        #layout {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: row;
+            align-items: flex-start; 
+        }
+
+        #archivo1 {
+            display: none;
+        }
+
+        #menu {
+            background-color: white;
+        }
+        
+        .button {
+            background-color: #008CBA;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        body {
+            background-color: #F8F8FF;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+<body>
+<div id='main'>
+    <div id='menu'>
+        <input type="file" id="archivo1" name="archivo1" accept="application/pdf" onchange='loadPDF()' >
+        <button class='button' onclick="openDialog()">+</button>
+        <button class='button' onclick="buildPDF()"></button><br>
+    </div>
+    <div id = 'layout'>
+        <div id='pages'></div>
+        <div id='wait'><br/><br/><br/></div>
+    </div>
+</div>
+<script>
+    let archivos = [];
+
+    function openDialog() {
+        var archivo1 = document.getElementById("archivo1");
+        archivo1.click();
+    }
+    
+    async function loadPDF() {
+        var archivo1 = document.getElementById('archivo1').files[0];
+
+        var archivo1Reader = new FileReader();
+        archivo1Reader.onload = function () {
+            viewPDF(archivo1Reader.result);
+        };
+        archivo1Reader.readAsDataURL(archivo1);
+    }
+
+    async function viewPDF(archivo) {
+        pdfjsLib.getDocument(archivo).then((pdf) => {
+            // Se añaden todas las páginas al visor
+            var pagesDiv = document.getElementById("pages");
+            PDFLib.PDFDocument.load(archivo).then((pdfDoc) => {
+                var divWait = document.getElementById("wait");
+                divWait.style.display = 'block';
+                pagesDiv.style.display = 'none';
+                for(var nPage = 1; nPage <=pdf._pdfInfo.numPages; nPage++) {
+                    let div = document.createElement("div");
+                    let canvas = document.createElement("canvas");
+                    pdf.getPage(nPage).then((page) => {
+                        var ctx = canvas.getContext('2d');
+                        var viewport = page.getViewport(0.1);
+                        canvas.width = viewport.width;
+                        canvas.height = viewport.height;
+                        page.render({
+                            canvasContext: ctx,
+                            viewport: viewport
+                        });
+                    });
+                    let divH = document.createElement("div");
+                    let pagLabel = document.createElement("div");
+                    pagLabel.innerHTML = ""+ nPage;
+                    divH.appendChild(pagLabel);
+                    pagLabel.style.display = 'inline';
+                    let deleteButton = document.createElement("button");
+                    deleteButton.innerHTML = "";
+                    divH.appendChild(deleteButton);
+                    deleteButton.addEventListener( "click", function() {div.remove();}, false);
+
+                    div.nPage = nPage;
+                    div.pdfDoc = pdfDoc;
+
+                    div.style.display = 'compat';
+                    div.appendChild(canvas);
+                    div.appendChild(divH);
+                    pagesDiv.appendChild(div);
+                }
+                divWait.style.display = 'none';
+                pagesDiv.style.display = 'flex';
+            });
+        });
+    }
+
+    async function buildPDF() {
+        const pdfDoc = await PDFLib.PDFDocument.create();
+
+        var divWait = document.getElementById("wait");
+        divWait.style.display = 'block';
+        var pages = document.getElementById("pages");
+        pages.style.display = 'none';
+        var divs = document.getElementById("pages").children;
+        for(var i = 0; i < divs.length; i++) {
+            var div = divs[i];
+            const [page] = await pdfDoc.copyPages(div.pdfDoc, [div.nPage - 1]);
+            pdfDoc.addPage(page);
+        }
+        const pdfDataUri = await pdfDoc.saveAsBase64({ dataUri: true });
+        //pdfView.src = pdfDataUri;
+        divWait.style.display = 'none';
+        pages.style.display = 'flex';
+
+        download("doc.pdf", pdfDataUri);
+    }
+
+    function download(filename, text) {
+        var element = document.createElement('a');
+        element.setAttribute('href', text);
+        element.setAttribute('download', filename);
+        
+        element.style.display = 'none';
+        document.body.appendChild(element);
+        
+        element.click();
+        
+        document.body.removeChild(element);
+    }
+</script>
+<script>
+    $( function() {
+        $( "#pages" ).sortable();
+        $( "#pages" ).disableSelection();
+    } );
+</script>
+</body>
+</html>
