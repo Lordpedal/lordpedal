@@ -76,11 +76,11 @@
     <div id='menu'>
         <input type="file" id="archivo1" name="archivo1" accept="application/pdf" onchange='loadPDF()' >
         <button class='button' onclick="openDialog()">+</button>
-        <button class='button' onclick="buildPDF()"></button><br>
+        <button class='button' onclick="buildPDF()">▶</button><br>
     </div>
     <div id = 'layout'>
         <div id='pages'></div>
-        <div id='wait'><br/><br/><br/></div>
+        <div id='wait'><br/><br/><br/>⌛</div>
     </div>
 </div>
 <script>
@@ -128,7 +128,7 @@
                     divH.appendChild(pagLabel);
                     pagLabel.style.display = 'inline';
                     let deleteButton = document.createElement("button");
-                    deleteButton.innerHTML = "";
+                    deleteButton.innerHTML = "🗑️";
                     divH.appendChild(deleteButton);
                     deleteButton.addEventListener( "click", function() {div.remove();}, false);
 
