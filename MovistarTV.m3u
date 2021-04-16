@@ -19,6 +19,10 @@ rtp://@239.0.5.187:8208
 rtp://@239.0.5.197:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="9" tvg-id="782.movistar.tv" tvh-tags="Movistar TV|SDTV|Ocio y cultura" tvg-logo="https://lordpedal.github.io/lordpedal/images/782.jpg",7 R.Murcia
 rtp://@239.0.0.87:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="11" tvg-id="2804.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2823.jpg",M. Series HD
+rtp://@239.0.5.250:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="12" tvg-id="2807.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2824.jpg",M. Seriesmanía HD
+rtp://@239.0.5.83:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="13" tvg-id="737.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1607.jpg",FOX HD
 rtp://@239.0.9.134:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="14" tvg-id="14.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1608.jpg",AXN HD
@@ -39,6 +43,8 @@ rtp://@239.0.0.165:8208
 rtp://@239.0.5.79:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="22" tvg-id="777.movistar.tv" tvh-tags="Movistar TV|HDTV|Ciencia ficción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1703.jpg",SyfyHD
 rtp://@239.0.5.75:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="23" tvg-id="4953.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4954.jpg",M. Oscars HD
+rtp://@239.0.5.193:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="24" tvg-id="2533.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2533.jpg",MTV España
 rtp://@239.0.0.211:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="25" tvg-id="747.movistar.tv" tvh-tags="Movistar TV|SDTV|Comedia" tvg-logo="https://lordpedal.github.io/lordpedal/images/747.jpg",FDF
@@ -49,6 +55,20 @@ rtp://@239.0.5.207:8208
 rtp://@239.0.0.190:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="28" tvg-id="884.movistar.tv" tvh-tags="Movistar TV|SDTV|Toros" tvg-logo="https://lordpedal.github.io/lordpedal/images/884.jpg",Energy
 rtp://@239.0.0.59:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="30" tvg-id="2812.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2828.jpg",M. Estrenos HD
+rtp://@239.0.5.111:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="31" tvg-id="2813.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2829.jpg",M. CineDoc&Roll HD
+rtp://@239.0.5.112:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="32" tvg-id="4898.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine infantil y familiar" tvg-logo="https://lordpedal.github.io/lordpedal/images/4899.jpg",Disney+ HD
+rtp://@239.0.5.208:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="33" tvg-id="2814.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2830.jpg",M. Acción HD
+rtp://@239.0.5.113:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="34" tvg-id="2815.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2831.jpg",M. Comedia HD
+rtp://@239.0.5.114:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="35" tvg-id="2816.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2832.jpg",M. Drama HD
+rtp://@239.0.5.115:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="36" tvg-id="2817.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4763.jpg",M. Cine Español HD
+rtp://@239.0.5.109:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="37" tvg-id="738.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2204.jpg",TCM HD
 rtp://@239.0.5.89:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="38" tvg-id="15.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/1612.jpg",Hollywood HD
