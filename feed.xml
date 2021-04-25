@@ -12,6 +12,54 @@
             <pubDate>Tue Jun  1 22:45:00 2021</pubDate>
             </item>
             <item>
+            <title>Blog – Hackaday: Was Novell’s NE2000 Really That Bad?</title>
+            <link>https://hackaday.com/2021/04/24/was-novells-ne2000-really-that-bad/</link>
+            <description>Was Novell’s NE2000 Really That Bad?</description>
+            <pubDate>Sun Apr 25 05:01:14 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Prohiben a la Universidad de Minnesota realizar contribuciones al kernel de Linux</title>
+            <link>https://unaaldia.hispasec.com/2021/04/prohiben-a-la-universidad-de-minnesota-realizar-contribuciones-al-kernel-de-linux.html</link>
+            <description>Prohiben a la Universidad de Minnesota realizar contribuciones al kernel de Linux</description>
+            <pubDate>Sun Apr 25 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Hacking Tools: Útiles herramientas de Hacking para usar sobre GNU/Linux</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/43XqAoG_GuY/</link>
+            <description>Hacking Tools: Útiles herramientas de Hacking para usar sobre GNU/Linux</description>
+            <pubDate>Sun Apr 25 04:00:34 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: HackTools: Extensión Firefox para Pentesting con Ejemplos de Uso</title>
+            <link>https://esgeeks.com/hacktools-extension-pentesting-ejemplos/</link>
+            <description>HackTools: Extensión Firefox para Pentesting con Ejemplos de Uso</description>
+            <pubDate>Sun Apr 25 02:10:36 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Modern Mac Using An Ancient Mac Display</title>
+            <link>https://hackaday.com/2021/04/24/a-modern-mac-using-an-ancient-mac-display/</link>
+            <description>A Modern Mac Using An Ancient Mac Display</description>
+            <pubDate>Sun Apr 25 02:01:08 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Instalar y Configurar bWAPP para Pentesting Web</title>
+            <link>https://esgeeks.com/instalar-configurar-bwapp/</link>
+            <description>Instalar y Configurar bWAPP para Pentesting Web</description>
+            <pubDate>Sun Apr 25 01:10:42 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Virtual Reality Experiment Tricks Your Feet Into Walking While Sitting Down</title>
+            <link>https://hackaday.com/2021/04/24/virtual-reality-experiment-tricks-your-feet-into-walking-while-sitting-down/</link>
+            <description>Virtual Reality Experiment Tricks Your Feet Into Walking While Sitting Down</description>
+            <pubDate>Sat Apr 24 23:01:46 2021</pubDate>
+            </item>
+            <item>
+            <title>De Novato A Novato GNU/Linux: Comando -which-</title>
+            <link>https://denovatoanovato.net/comando-which/</link>
+            <description>Comando -which-</description>
+            <pubDate>Sat Apr 24 21:41:39 2021</pubDate>
+            </item>
+            <item>
             <title>Engadget: Dutch politicians were tricked by a deepfake video chat</title>
             <link>https://www.engadget.com/netherlands-deepfake-video-chat-navalny-212606049.html</link>
             <description>Dutch politicians were tricked by a deepfake video chat</description>
@@ -22,53 +70,5 @@
             <link>https://lignux.com/quiet-audio-fade-nos-ayuda-a-ajustar-el-volumen-mas-bajo-en-nuestro-ordenador/</link>
             <description>Quiet Audio Fade nos ayuda a ajustar el volumen más bajo en nuestro ordenador</description>
             <pubDate>Sat Apr 24 20:58:58 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: Elon Musk will host 'Saturday Night Live' on May 8th</title>
-            <link>https://www.engadget.com/elon-musk-to-host-saturday-night-live-202950558.html</link>
-            <description>Elon Musk will host 'Saturday Night Live' on May 8th</description>
-            <pubDate>Sat Apr 24 20:29:50 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: The Pentagon gave a company control of 175 million IP addresses</title>
-            <link>https://www.engadget.com/pentagon-gives-ip-address-control-to-florida-company-200249879.html</link>
-            <description>The Pentagon gave a company control of 175 million IP addresses</description>
-            <pubDate>Sat Apr 24 20:02:49 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Clay Pot MP3 Player Whipped Up With The Freedom-K64F</title>
-            <link>https://hackaday.com/2021/04/24/clay-pot-mp3-player-whipped-up-with-the-freedom-k64f/</link>
-            <description>Clay Pot MP3 Player Whipped Up With The Freedom-K64F</description>
-            <pubDate>Sat Apr 24 20:01:52 2021</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: Critical RCE Bug Found in Homebrew Package Manager for macOS and Linux</title>
-            <link>http://feedproxy.google.com/~r/TheHackersNews/~3/JgNcfCyhnCE/critical-rce-bug-found-in-homebrew.html</link>
-            <description>Critical RCE Bug Found in Homebrew Package Manager for macOS and Linux</description>
-            <pubDate>Sat Apr 24 19:18:26 2021</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: Passwordstate Password Manager Update Hijacked to Install Backdoor on Thousands of PCs</title>
-            <link>http://feedproxy.google.com/~r/TheHackersNews/~3/N8mi3pz9fwc/passwordstate-password-manager-update.html</link>
-            <description>Passwordstate Password Manager Update Hijacked to Install Backdoor on Thousands of PCs</description>
-            <pubDate>Sat Apr 24 19:04:55 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: Supreme Court asked to review case against border device searches</title>
-            <link>https://www.engadget.com/aclu-supreme-court-airport-device-searches-190406882.html</link>
-            <description>Supreme Court asked to review case against border device searches</description>
-            <pubDate>Sat Apr 24 19:04:06 2021</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Secure Code Wiki: Una web de buenas prácticas de codificación segura</title>
-            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/YlFHlVi_6wg/</link>
-            <description>Secure Code Wiki: Una web de buenas prácticas de codificación segura</description>
-            <pubDate>Sat Apr 24 18:15:52 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux para todos: Test de conocimientos linux en 10 preguntas</title>
-            <link>http://feedproxy.google.com/~r/sololinux/eoDH/~3/w8yrgurriDE/</link>
-            <description>Test de conocimientos linux en 10 preguntas</description>
-            <pubDate>Sat Apr 24 18:11:43 2021</pubDate>
             </item></channel>
 </rss>
