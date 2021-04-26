@@ -12,63 +12,63 @@
             <pubDate>Tue Jun  1 22:45:00 2021</pubDate>
             </item>
             <item>
+            <title>el blog de lázaro: Zsh, resaltado de sintaxis estilo Fish</title>
+            <link>https://elblogdelazaro.org/2021-04-26-zsh-resaltado-de-sintaxis-estilo-fish.html</link>
+            <description>Zsh, resaltado de sintaxis estilo Fish</description>
+            <pubDate>Mon Apr 26 06:30:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Pybonacci: PyboEnlaces de la semana (2021-04-19 a 2021-04-25)</title>
+            <link>https://pybonacci.org/2021/04/26/pyboenlaces-de-la-semana-2021-04-19-a-2021-04-25/</link>
+            <description>PyboEnlaces de la semana (2021-04-19 a 2021-04-25)</description>
+            <pubDate>Mon Apr 26 05:30:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Keep In Touch With Grandma, With This Lo-Tech Interface</title>
+            <link>https://hackaday.com/2021/04/25/keep-in-touch-with-grandma-with-this-lo-tech-interface/</link>
+            <description>Keep In Touch With Grandma, With This Lo-Tech Interface</description>
+            <pubDate>Mon Apr 26 05:01:39 2021</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Ubuntu 21.04 - Hirsute Hippo - disponible para descargar</title>
+            <link>https://cambiatealinux.com/ubuntu-21.04-hirsute-hippo-disponible-para-descargar</link>
+            <description>Ubuntu 21.04 - Hirsute Hippo - disponible para descargar</description>
+            <pubDate>Mon Apr 26 04:51:52 2021</pubDate>
+            </item>
+            <item>
+            <title>masGNULinux Blog: Feminista por los Derechos Humanos defiende a Stallman</title>
+            <link>https://masgnulinux.es/feminista-por-los-derechos-humanos-defiende-a-stallman/</link>
+            <description>Feminista por los Derechos Humanos defiende a Stallman</description>
+            <pubDate>Mon Apr 26 04:00:31 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Small Open Source Vehicle Hacking Platform</title>
+            <link>https://hackaday.com/2021/04/25/small-open-source-vehicle-hacking-platform/</link>
+            <description>Small Open Source Vehicle Hacking Platform</description>
+            <pubDate>Mon Apr 26 02:01:56 2021</pubDate>
+            </item>
+            <item>
+            <title>Gizmodo en Español: Estos son los ganadores de los Premios Oscar 2021</title>
+            <link>https://es.gizmodo.com/estos-son-los-ganadores-de-los-premios-oscar-2021-1846760899</link>
+            <description>Estos son los ganadores de los Premios Oscar 2021</description>
+            <pubDate>Mon Apr 26 01:07:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: April 25, 2021</title>
+            <link>https://hackaday.com/2021/04/25/hackaday-links-april-25-2021/</link>
+            <description>Hackaday Links: April 25, 2021</description>
+            <pubDate>Sun Apr 25 23:00:41 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: MoonPlayer: Reproductor de Vídeo Online y Local</title>
+            <link>https://esgeeks.com/moonplayer-reproductor-video-open-source/</link>
+            <description>MoonPlayer: Reproductor de Vídeo Online y Local</description>
+            <pubDate>Sun Apr 25 22:30:06 2021</pubDate>
+            </item>
+            <item>
             <title>EsGeeks: Toutatis: Extraer Información de Cuentas de Instagram</title>
             <link>https://esgeeks.com/toutatis-extraer-informacion-cuentas-ig/</link>
             <description>Toutatis: Extraer Información de Cuentas de Instagram</description>
             <pubDate>Sun Apr 25 21:27:21 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: California plans to end oil extraction by 2045</title>
-            <link>https://www.engadget.com/california-to-end-oil-extraction-by-2045-212138255.html</link>
-            <description>California plans to end oil extraction by 2045</description>
-            <pubDate>Sun Apr 25 21:21:38 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: El cliente de email Geary publica su versión 40</title>
-            <link>https://lignux.com/el-cliente-de-email-geary-publica-su-version-40/</link>
-            <description>El cliente de email Geary publica su versión 40</description>
-            <pubDate>Sun Apr 25 20:52:25 2021</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: DNSX: Kit de Herramientas DNS Multipropósito</title>
-            <link>https://esgeeks.com/dnsx-kit-herramientas-dns/</link>
-            <description>DNSX: Kit de Herramientas DNS Multipropósito</description>
-            <pubDate>Sun Apr 25 20:36:48 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Arduino MKR Makes Nespresso Monitoring Easy</title>
-            <link>https://hackaday.com/2021/04/25/473709/</link>
-            <description>Arduino MKR Makes Nespresso Monitoring Easy</description>
-            <pubDate>Sun Apr 25 20:27:56 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: NASA's Mars helicopter travels further and faster on its third flight</title>
-            <link>https://www.engadget.com/nasa-ingenuity-mars-helicopter-third-flight-202654194.html</link>
-            <description>NASA's Mars helicopter travels further and faster on its third flight</description>
-            <pubDate>Sun Apr 25 20:26:54 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: An ESP32 Development Board For Sailors</title>
-            <link>https://hackaday.com/2021/04/25/an-esp32-development-board-for-sailors/</link>
-            <description>An ESP32 Development Board For Sailors</description>
-            <pubDate>Sun Apr 25 20:01:16 2021</pubDate>
-            </item>
-            <item>
-            <title>Diario del Viajero: La primera universidad de estilo europeo en África subsahariana occidental</title>
-            <link>http://feeds.weblogssl.com/~r/diariodelviajero/~3/n5CXH8LoAms/primera-universidad-estilo-europeo-africa-subsahariana-occidental</link>
-            <description>La primera universidad de estilo europeo en África subsahariana occidental</description>
-            <pubDate>Sun Apr 25 19:30:47 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: Report: Russia 'likely' kept access to US networks after SolarWinds hack</title>
-            <link>https://www.engadget.com/russia-us-network-access-after-solarwinds-hack-192305973.html</link>
-            <description>Report: Russia 'likely' kept access to US networks after SolarWinds hack</description>
-            <pubDate>Sun Apr 25 19:23:05 2021</pubDate>
-            </item>
-            <item>
-            <title>56K.ES: dBASE III Plus sobre GNU+Linux en 2021</title>
-            <link>https://56k.es/fanta/dbase-iii-plus-sobre-gnulinux-en-2020/</link>
-            <description>dBASE III Plus sobre GNU+Linux en 2021</description>
-            <pubDate>Sun Apr 25 19:20:14 2021</pubDate>
             </item></channel>
 </rss>
