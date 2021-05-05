@@ -1,0 +1,9 @@
+@media (prefers-color-scheme: dark) {
+body {
+    color: white;
+    background: #1D1E23;
+  }
+  .jumbotron {
+    background: #222;
+  }
+}
