@@ -2,12 +2,12 @@ function submitURL() {
   vidURL = document.getElementById("URL").value;
   vidURLSplit = vidURL.split("=")
   if(vidURLSplit.length < 2) {
-    alert("Bad URL")
+    alert("Enlace invalido")
     return false;
   }
   cleanID = vidURLSplit[1].split("&")[0]
   if(cleanID.length != 11) {
-    alert("Bad URL!")
+    alert("Enlace invalido!")
     return false;
   }
   document.getElementById("contentMain").style.textAlign="center"
