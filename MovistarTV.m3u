@@ -43,7 +43,7 @@ rtp://@239.0.0.165:8208
 rtp://@239.0.5.79:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="22" tvg-id="777.movistar.tv" tvh-tags="Movistar TV|HDTV|Ciencia ficción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1703.jpg",SyfyHD
 rtp://@239.0.5.75:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="23" tvg-id="4953.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4954.jpg",M. Oscars HD
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="23" tvg-id="4953.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4954.jpg",M. Tolkien HD
 rtp://@239.0.5.193:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="24" tvg-id="2533.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2533.jpg",MTV España
 rtp://@239.0.0.211:8208
