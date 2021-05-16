@@ -4,7 +4,7 @@
 - 📟 [Lordpedal RSS](https://lordpedal.github.io/lordpedal "Lordpedal RSS"): **Recopilación de noticias RSS.**
 - 🌈 [Rincón de Iris](https://rincondeiris.club/ "Rincón de Iris"): **Un espacio creativo y personalizado.**
 
-### Estadísticas **Github**
+### Estadísticas Github
 <a href="https://github.com/Lordpedal">
   <img align="center" alt="estadísticas de GitHub de Lordpedal" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lordpedal&show_icons=true&count_private=true&include_all_commits=true&locale=es&theme=gruvbox" />
 </a>
