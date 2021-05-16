@@ -4,14 +4,6 @@
 - 📟 [Lordpedal RSS](https://lordpedal.github.io/lordpedal "Lordpedal RSS"): **Recopilación de noticias RSS.**
 - 🌈 [Rincón de Iris](https://rincondeiris.club/ "Rincón de Iris"): **Un espacio creativo y personalizado.**
 
-### Estadísticas Github
-<a href="https://github.com/Lordpedal">
-  <img align="center" alt="estadísticas de GitHub de Lordpedal" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lordpedal&show_icons=true&count_private=true&include_all_commits=true&locale=es&theme=gruvbox" />
-</a>
-<a href="https://github.com/Lordpedal">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lordpedal&layout=compact&locale=es&theme=gruvbox" />
-</a>
-
 ### Overclock Server: *Últimos artículos*
 - [Why?](https://lordpedal.github.io/personal/why-cita/)
 - [Kodi: Docker](https://lordpedal.github.io/gnu/linux/docker/kodi-docker/)
