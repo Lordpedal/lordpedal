@@ -59,8 +59,6 @@ rtp://@239.0.0.59:8208
 rtp://@239.0.5.111:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="31" tvg-id="2813.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2829.jpg",M. CineDoc&Roll HD
 rtp://@239.0.5.112:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="32" tvg-id="4898.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine infantil y familiar" tvg-logo="https://lordpedal.github.io/lordpedal/images/4899.jpg",Disney+ HD
-rtp://@239.0.5.208:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="33" tvg-id="2814.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2830.jpg",M. Acción HD
 rtp://@239.0.5.113:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="34" tvg-id="2815.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2831.jpg",M. Comedia HD
