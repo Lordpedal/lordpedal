@@ -12,6 +12,36 @@
             <pubDate>Mon Jun 21 19:00:00 2021</pubDate>
             </item>
             <item>
+            <title>Blog – Hackaday: Apollo Shift Register is Discrete</title>
+            <link>https://hackaday.com/2021/06/19/apollo-shift-register-is-discrete/</link>
+            <description>Apollo Shift Register is Discrete</description>
+            <pubDate>Sun Jun 20 05:00:32 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Cómo Ver y Cambiar las Marcas de Tiempo en Linux</title>
+            <link>https://esgeeks.com/ver-cambiar-marcas-tiempo-linux/</link>
+            <description>Cómo Ver y Cambiar las Marcas de Tiempo en Linux</description>
+            <pubDate>Sun Jun 20 02:55:09 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Turning GameCube & N64 Pads Into MIDI Controllers</title>
+            <link>https://hackaday.com/2021/06/19/turning-gamecube-n64-pads-into-midi-controllers/</link>
+            <description>Turning GameCube & N64 Pads Into MIDI Controllers</description>
+            <pubDate>Sun Jun 20 02:00:35 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: iPod HiFi Gains New High Notes</title>
+            <link>https://hackaday.com/2021/06/19/ipod-hifi-gains-new-high-notes/</link>
+            <description>iPod HiFi Gains New High Notes</description>
+            <pubDate>Sat Jun 19 23:00:08 2021</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: BigLinux una distro Kde Plasma con un toque personalizado</title>
+            <link>https://www.distritotux.cl/2021/06/biglinux-una-distro-kde-plasma-con-un.html</link>
+            <description>BigLinux una distro Kde Plasma con un toque personalizado</description>
+            <pubDate>Sat Jun 19 22:32:54 2021</pubDate>
+            </item>
+            <item>
             <title>Engadget: 'Seinfeld' might not be available to stream for months</title>
             <link>https://www.engadget.com/seinfeld-netflix-wait-213643513.html?src=rss_b2c</link>
             <description>'Seinfeld' might not be available to stream for months</description>
@@ -40,35 +70,5 @@
             <link>https://hackaday.com/2021/06/19/1700-regulatory-approvals-revoked-in-south-korea/</link>
             <description>1700 Regulatory Approvals Revoked in South Korea</description>
             <pubDate>Sat Jun 19 20:00:40 2021</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Acaba de ser lanzada una actualización para Debian GNU/Linux 10.10 «Buster»</title>
-            <link>https://nksistemas.com/acaba-de-ser-lanzada-una-actualizacion-para-debian-gnu-linux-10-10-buster/</link>
-            <description>Acaba de ser lanzada una actualización para Debian GNU/Linux 10.10 «Buster»</description>
-            <pubDate>Sat Jun 19 19:27:56 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: iPhone bug 'breaks' your WiFi when you join an oddly-named network</title>
-            <link>https://www.engadget.com/iphone-wifi-network-name-bug-191550155.html?src=rss_b2c</link>
-            <description>iPhone bug 'breaks' your WiFi when you join an oddly-named network</description>
-            <pubDate>Sat Jun 19 19:15:50 2021</pubDate>
-            </item>
-            <item>
-            <title>56K.ES: Reglas iptables para mitigar ataques ddos</title>
-            <link>https://56k.es/fanta/reglas-iptables-para-mitigar-ataques-ddos/</link>
-            <description>Reglas iptables para mitigar ataques ddos</description>
-            <pubDate>Sat Jun 19 18:54:32 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Sorprende a tus contactos con los mejores Stickers para WhatsApp</title>
-            <link>https://www.adslzone.net/esenciales/whatsapp/mejores-stickers-whatsapp/</link>
-            <description>Sorprende a tus contactos con los mejores Stickers para WhatsApp</description>
-            <pubDate>Sat Jun 19 17:57:18 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: Facial recognition systems are denying unemployment benefits across the US</title>
-            <link>https://www.engadget.com/facial-recognition-failures-id-me-unemployment-benefits-172654494.html?src=rss_b2c</link>
-            <description>Facial recognition systems are denying unemployment benefits across the US</description>
-            <pubDate>Sat Jun 19 17:26:54 2021</pubDate>
             </item></channel>
 </rss>
