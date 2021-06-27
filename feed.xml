@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Coding a Custom Driver For The Adafruit Mini Thermal Printer</title>
+            <link>https://hackaday.com/2021/06/26/coding-a-custom-driver-for-the-adafruit-mini-thermal-printer/</link>
+            <description>Coding a Custom Driver For The Adafruit Mini Thermal Printer</description>
+            <pubDate>Sun Jun 27 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Cube 2 Sauerbraten: Otro divertido y moderno juego FPS para GNU/Linux</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/a9Emn4tmDe8/</link>
+            <description>Cube 2 Sauerbraten: Otro divertido y moderno juego FPS para GNU/Linux</description>
+            <pubDate>Sun Jun 27 04:00:12 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Emulating a Power Grid</title>
+            <link>https://hackaday.com/2021/06/26/emulating-a-power-grid/</link>
+            <description>Emulating a Power Grid</description>
+            <pubDate>Sun Jun 27 02:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>HijosDeInit: [HowTo] concatenar 2 ó más documentos '.pdf' desde línea de comandos sin instalar nada</title>
+            <link>https://hijosdeinit.gitlab.io/howto_concatenar_archivos_pdf_desde_linea_de_comandos_sin_instalar_nada/</link>
+            <description>[HowTo] concatenar 2 ó más documentos '.pdf' desde línea de comandos sin instalar nada</description>
+            <pubDate>Sun Jun 27 00:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Custom 3D Printer Cart Hides Clever Features</title>
+            <link>https://hackaday.com/2021/06/26/custom-3d-printer-cart-hides-clever-features/</link>
+            <description>Custom 3D Printer Cart Hides Clever Features</description>
+            <pubDate>Sat Jun 26 23:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: BaikalDB, OpenRASP, EasyFaaS: Baidu Open Source – Parte 2</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/oLS2bpJTdVI/</link>
+            <description>BaikalDB, OpenRASP, EasyFaaS: Baidu Open Source – Parte 2</description>
+            <pubDate>Sat Jun 26 22:48:10 2021</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: Aravalli OS 0.1 Home Edition</title>
             <link>https://www.distritotux.cl/2021/06/aravalli-os-01-home-edition.html</link>
             <description>Aravalli OS 0.1 Home Edition</description>
@@ -34,41 +70,5 @@
             <link>https://hackaday.com/2021/06/26/lora-messenger-in-nokias-shell/</link>
             <description>LoRa Messenger in Nokia’s Shell</description>
             <pubDate>Sat Jun 26 20:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: YouTube took down videos documenting Xinjiang human rights abuses</title>
-            <link>https://www.engadget.com/youtube-takes-down-xinjiang-human-rights-videos-195316297.html?src=rss_b2c</link>
-            <description>YouTube took down videos documenting Xinjiang human rights abuses</description>
-            <pubDate>Sat Jun 26 19:53:16 2021</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: EmailFinder: Buscar Correos de Dominio a través de Motores de Búsqueda</title>
-            <link>https://esgeeks.com/emailfinder-buscar-correos-dominio/</link>
-            <description>EmailFinder: Buscar Correos de Dominio a través de Motores de Búsqueda</description>
-            <pubDate>Sat Jun 26 18:36:32 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Netflix en Movistar, ¿qué ventajas tiene y cuánto vale contratarlo?</title>
-            <link>https://www.adslzone.net/operadores/movistar/ver-netflix-movistar/</link>
-            <description>Netflix en Movistar, ¿qué ventajas tiene y cuánto vale contratarlo?</description>
-            <pubDate>Sat Jun 26 18:08:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Engadget: VW will stop selling combustion engine cars in Europe by 2035</title>
-            <link>https://www.engadget.com/vw-to-end-combustion-engine-car-sales-in-europe-171750290.html?src=rss_b2c</link>
-            <description>VW will stop selling combustion engine cars in Europe by 2035</description>
-            <pubDate>Sat Jun 26 17:17:50 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'Solos': un experimento de ciencia-ficción intimista en Amazon tan irregular como interesante</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/e0AT9pAeKmE/solos-experimento-ciencia-ficcion-intimista-amazon-irregular-como-interesante</link>
-            <description>'Solos': un experimento de ciencia-ficción intimista en Amazon tan irregular como interesante</description>
-            <pubDate>Sat Jun 26 17:01:57 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Raspberry Pi Pico Oscilloscope</title>
-            <link>https://hackaday.com/2021/06/26/raspberry-pi-pico-oscilloscope/</link>
-            <description>Raspberry Pi Pico Oscilloscope</description>
-            <pubDate>Sat Jun 26 17:01:43 2021</pubDate>
             </item></channel>
 </rss>
