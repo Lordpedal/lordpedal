@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Home Automation for Fans of Quick-and-Dirty Solutions</title>
+            <link>https://hackaday.com/2021/07/09/a-home-automation-solution-for-fans-of-quick-and-dirty-solutions/</link>
+            <description>Home Automation for Fans of Quick-and-Dirty Solutions</description>
+            <pubDate>Sat Jul 10 05:00:04 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Terminales: Aminal, Cool Retro Term y trucos varios de personalización</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/sq0c8jZblaM/</link>
+            <description>Terminales: Aminal, Cool Retro Term y trucos varios de personalización</description>
+            <pubDate>Sat Jul 10 04:00:23 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D Printed Copper Rocket Nozzle Costs Under Two Grand</title>
+            <link>https://hackaday.com/2021/07/09/3d-printed-copper-rocket-nozzle-costs-under-two-grand/</link>
+            <description>3D Printed Copper Rocket Nozzle Costs Under Two Grand</description>
+            <pubDate>Sat Jul 10 02:00:31 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Custom Car Horn Makes Many Sounds</title>
+            <link>https://hackaday.com/2021/07/09/custom-car-horn-makes-many-sounds/</link>
+            <description>Custom Car Horn Makes Many Sounds</description>
+            <pubDate>Fri Jul  9 23:00:59 2021</pubDate>
+            </item>
+            <item>
             <title>h4ckseed: Diferencias entre Xorg, X11, Wayland</title>
             <link>https://h4ckseed.wordpress.com/2021/07/09/diferencias-entre-xorg-x11-wayland/</link>
             <description>Diferencias entre Xorg, X11, Wayland</description>
@@ -30,6 +54,12 @@
             <pubDate>Fri Jul  9 20:00:36 2021</pubDate>
             </item>
             <item>
+            <title>Linux Adictos: Epic Games contra Apple. Corte australiana acepta la jurisdicción</title>
+            <link>https://www.linuxadictos.com/epic-games-contra-apple-corte-australiana-acepta-la-jurisdiccion.html</link>
+            <description>Epic Games contra Apple. Corte australiana acepta la jurisdicción</description>
+            <pubDate>Fri Jul  9 19:26:33 2021</pubDate>
+            </item>
+            <item>
             <title>Genbeta: Ya puedes descargar Linux Mint 20.2, una versión que facilita la actualización del sistema… y te anima a hacerlo frecuentemente</title>
             <link>http://feeds.weblogssl.com/~r/genbeta/~3/6vhFMPm9yeI/puedes-descargar-linux-mint-20-2-version-que-facilita-actualizacion-sistema-te-anima-a-hacerlo-frecuentemente</link>
             <description>Ya puedes descargar Linux Mint 20.2, una versión que facilita la actualización del sistema… y te anima a hacerlo frecuentemente</description>
@@ -40,35 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/xataka2/~3/hBXW_yE6N_4/13-estrenos-lanzamientos-imprescindibles-para-fin-semana-viuda-negra-resident-evil-oscuridad-infinita-daleks-mucho</link>
             <description>13 estrenos y lanzamientos imprescindibles para el fin de semana: 'Viuda Negra', 'Resident Evil: Oscuridad infinita', Daleks y mucho más</description>
             <pubDate>Fri Jul  9 19:00:42 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Te obligará Microsoft a actualizar a Windows 11 este año?</title>
-            <link>https://www.adslzone.net/noticias/windows/sera-obligatorio-actualizar-windows-11/</link>
-            <description>¿Te obligará Microsoft a actualizar a Windows 11 este año?</description>
-            <pubDate>Fri Jul  9 19:00:05 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: Linux Mint 20.2 con actualizaciones varias y Cinnamon 5.0</title>
-            <link>https://lignux.com/linux-mint-20-2-con-actualizaciones-varias-y-cinnamon-5-0/</link>
-            <description>Linux Mint 20.2 con actualizaciones varias y Cinnamon 5.0</description>
-            <pubDate>Fri Jul  9 18:56:22 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Raspberry Pi Cameras Stand in for Stereo Microscope</title>
-            <link>https://hackaday.com/2021/07/09/raspberry-pi-cameras-stand-in-for-stereo-microscope/</link>
-            <description>Raspberry Pi Cameras Stand in for Stereo Microscope</description>
-            <pubDate>Fri Jul  9 18:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Prusa Printers: 3D printing with kids – building and having fun together!</title>
-            <link>https://blog.prusaprinters.org/3d-printing-with-kids-building-and-having-fun-together_52597/</link>
-            <description>3D printing with kids – building and having fun together!</description>
-            <pubDate>Fri Jul  9 18:09:38 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El mecanismo de las auroras de rayos X de Júpiter por fin resuelto: el proceso deja de ser un misterio tras 40 años, según la ESA</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/SKvkRLxnumE/mecanismo-auroras-rayos-x-jupiter-fin-resuelto-proceso-deja-ser-misterio-40-anos-esa</link>
-            <description>El mecanismo de las auroras de rayos X de Júpiter por fin resuelto: el proceso deja de ser un misterio tras 40 años, según la ESA</description>
-            <pubDate>Fri Jul  9 18:00:42 2021</pubDate>
             </item></channel>
 </rss>
