@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Atareao: Recursos para inciarse y dominar Vim</title>
+            <link>https://atareao.es/podcast/recursos-para-inciarse-y-dominar-vim/</link>
+            <description>Recursos para inciarse y dominar Vim</description>
+            <pubDate>Thu Jul 15 06:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Xataka Foto: Pentax-DA 16-50mm F2.8: un zoom resistente a climas adversos para sistemas APS-C de montura K de Pentax</title>
+            <link>http://feeds.weblogssl.com/~r/xatakafoto/~3/xTX3fzifcWc/pentax-da-16-50mm-f2-8-zoom-resistente-a-climas-adversos-para-sistemas-aps-c-montura-k-pentax</link>
+            <description>Pentax-DA 16-50mm F2.8: un zoom resistente a climas adversos para sistemas APS-C de montura K de Pentax</description>
+            <pubDate>Thu Jul 15 05:00:29 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Microsoft publica parches para 117 vulnerabilidades, 8 de ellas de día cero</title>
+            <link>https://unaaldia.hispasec.com/2021/07/microsoft-publica-parches-para-117-vulnerabilidades-8-de-ellas-de-dia-cero.html</link>
+            <description>Microsoft publica parches para 117 vulnerabilidades, 8 de ellas de día cero</description>
+            <pubDate>Thu Jul 15 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Down the Fabrication Rabbit Hole to Build a Recumbent Bike</title>
+            <link>https://hackaday.com/2021/07/14/down-the-fabrication-rabbit-hole-to-build-a-recumbent-bike/</link>
+            <description>Down the Fabrication Rabbit Hole to Build a Recumbent Bike</description>
+            <pubDate>Thu Jul 15 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>masGNULinux Blog: Redo Rescue: Una alternativa a Clonezilla</title>
+            <link>https://masgnulinux.es/redo-rescue-una-alternativa-a-clonezilla/</link>
+            <description>Redo Rescue: Una alternativa a Clonezilla</description>
+            <pubDate>Thu Jul 15 04:33:53 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: TaskJuggler: Software de administración de proyectos gratuito y abierto</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/qJs9qLxWV8g/</link>
+            <description>TaskJuggler: Software de administración de proyectos gratuito y abierto</description>
+            <pubDate>Thu Jul 15 04:00:17 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Peeking Inside a Volcano Sensor</title>
+            <link>https://hackaday.com/2021/07/14/peeking-inside-a-volcano-sensor/</link>
+            <description>Peeking Inside a Volcano Sensor</description>
+            <pubDate>Thu Jul 15 02:00:14 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: BiG Brother: Encontrar Cámaras de Videovigilancia en Todo el Mundo</title>
+            <link>https://esgeeks.com/big-brother-encontrar-camaras-videovigilancia/</link>
+            <description>BiG Brother: Encontrar Cámaras de Videovigilancia en Todo el Mundo</description>
+            <pubDate>Thu Jul 15 00:24:44 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Design A Custom Enclosure Using Modelling Clay And Photogrammetry</title>
+            <link>https://hackaday.com/2021/07/14/design-a-custom-enclosure-using-modelling-clay-and-photogrammetry/</link>
+            <description>Design A Custom Enclosure Using Modelling Clay And Photogrammetry</description>
+            <pubDate>Wed Jul 14 23:00:48 2021</pubDate>
+            </item>
+            <item>
             <title>MuyLinux: ‘le9’, un parche para mitigar la escasez de RAM en Linux</title>
             <link>https://www.muylinux.com/2021/07/14/le9-poca-ram-linux/</link>
             <description>‘le9’, un parche para mitigar la escasez de RAM en Linux</description>
@@ -16,59 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/xataka2/~3/S35zRmlNKH0/destripamos-escritor-carlos-sisi-secretos-su-exito-su-ultimo-libro-homine-ex-machina-laberinto-papel-2x06</link>
             <description>Destripamos con el escritor Carlos Sisí los secretos de su éxito y de su último libro, 'Homine Ex Machina' (Laberinto de Papel 2x06)</description>
             <pubDate>Wed Jul 14 21:00:02 2021</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: NEW GUIDE: Automatic Naughty Cat Detector using Lobe #AdafruitLearningSystem @lobe_ai @Raspberry_Pi @CircuitPython #MachineLearning @MakerMelissa</title>
-            <link>https://blog.adafruit.com/2021/07/14/new-guide-automatic-naughty-cat-detector-using-lobe-adafruitlearningsystem-lobe_ai-raspberry_pi-circuitpython-machinelearning-makermelissa/</link>
-            <description>NEW GUIDE: Automatic Naughty Cat Detector using Lobe #AdafruitLearningSystem @lobe_ai @Raspberry_Pi @CircuitPython #MachineLearning @MakerMelissa</description>
-            <pubDate>Wed Jul 14 20:20:33 2021</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Best practices for writing code comments</title>
-            <link>https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/</link>
-            <description>Best practices for writing code comments</description>
-            <pubDate>Wed Jul 14 20:17:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Analog Style VU Meter with Arduino and OLED Display</title>
-            <link>https://hackaday.com/2021/07/14/analog-style-vu-meter-with-arduino-and-oled-display/</link>
-            <description>Analog Style VU Meter with Arduino and OLED Display</description>
-            <pubDate>Wed Jul 14 20:00:55 2021</pubDate>
-            </item>
-            <item>
-            <title>Una al Día: Un fallo en el lenguaje de preprocesamiento CSS Less.js hace que el sitio web pueda filtrar las claves secretas en AWS</title>
-            <link>https://unaaldia.hispasec.com/2021/07/un-fallo-en-el-lenguaje-de-preprocesamiento-css-less-js-hace-que-el-sitio-web-pueda-filtrar-las-claves-secretas-en-aws.html</link>
-            <description>Un fallo en el lenguaje de preprocesamiento CSS Less.js hace que el sitio web pueda filtrar las claves secretas en AWS</description>
-            <pubDate>Wed Jul 14 19:27:17 2021</pubDate>
-            </item>
-            <item>
-            <title>Prusa Printers: Tabletop Games and Puzzles Contest</title>
-            <link>https://blog.prusaprinters.org/tabletop-games-and-puzzles-contest_52177/</link>
-            <description>Tabletop Games and Puzzles Contest</description>
-            <pubDate>Wed Jul 14 19:00:56 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: 319 terabits por segundo: pulverizado el récord de velocidad de Internet</title>
-            <link>https://www.adslzone.net/noticias/redes/record-velocidad-fibra-nict-319-tbps/</link>
-            <description>319 terabits por segundo: pulverizado el récord de velocidad de Internet</description>
-            <pubDate>Wed Jul 14 19:00:55 2021</pubDate>
-            </item>
-            <item>
-            <title>Prusa Printers: Time Keepers Contest Winners</title>
-            <link>https://blog.prusaprinters.org/time-keepers-contest-winners_52573/</link>
-            <description>Time Keepers Contest Winners</description>
-            <pubDate>Wed Jul 14 18:59:51 2021</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Twitter dice adiós a Fleets: sus historias no han triunfado y busca alternativas para motivar las interacciones privadas</title>
-            <link>http://feeds.weblogssl.com/~r/genbeta/~3/o9P7D6-T4jg/twitter-dice-adios-a-fleets-sus-historias-no-han-triunfado-busca-alternativas-para-motivar-interacciones-privadas</link>
-            <description>Twitter dice adiós a Fleets: sus historias no han triunfado y busca alternativas para motivar las interacciones privadas</description>
-            <pubDate>Wed Jul 14 18:35:58 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: End Of An Era: NTSC Finally Goes Dark In America</title>
-            <link>https://hackaday.com/2021/07/14/end-of-an-era-ntsc-finally-goes-dark-in-america/</link>
-            <description>End Of An Era: NTSC Finally Goes Dark In America</description>
-            <pubDate>Wed Jul 14 18:31:34 2021</pubDate>
             </item></channel>
 </rss>
