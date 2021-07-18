@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Control an IRL Home From Minecraft</title>
+            <link>https://hackaday.com/2021/07/17/control-an-irl-home-from-minecraft/</link>
+            <description>Control an IRL Home From Minecraft</description>
+            <pubDate>Sun Jul 18 05:00:37 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Yuzu: Un interesante Emulador de Nintendo Switch de código abierto</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/BIV_H3WjGGc/</link>
+            <description>Yuzu: Un interesante Emulador de Nintendo Switch de código abierto</description>
+            <pubDate>Sun Jul 18 04:00:18 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: PNG Image Decoding Library Does it With Minimal RAM</title>
+            <link>https://hackaday.com/2021/07/17/png-image-decoding-library-does-it-with-minimal-ram/</link>
+            <description>PNG Image Decoding Library Does it With Minimal RAM</description>
+            <pubDate>Sun Jul 18 02:00:21 2021</pubDate>
+            </item>
+            <item>
+            <title>Xataka Ciencia: El consumo excesivo de cafeína puede estar relacionado con un mayor riesgo de osteoporosis</title>
+            <link>http://feeds.weblogssl.com/~r/xatakaciencia/~3/NzYqv2rEy1M/consumo-excesivo-cafeina-puede-estar-relacionado-mayor-riesgo-osteoporosis</link>
+            <description>El consumo excesivo de cafeína puede estar relacionado con un mayor riesgo de osteoporosis</description>
+            <pubDate>Sat Jul 17 23:00:52 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: CNC Saves Water Cooling Setup</title>
+            <link>https://hackaday.com/2021/07/17/cnc-saves-water-cooling-setup/</link>
+            <description>CNC Saves Water Cooling Setup</description>
+            <pubDate>Sat Jul 17 23:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>masGNULinux Blog: ¿KDE Plasma recopila datos? Sí (Podcast)</title>
+            <link>https://masgnulinux.es/kde-plasma-recopila-datos-si-podcast/</link>
+            <description>¿KDE Plasma recopila datos? Sí (Podcast)</description>
+            <pubDate>Sat Jul 17 22:08:54 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Se vienen cambios!! ¿¿Nuevo diseño??</title>
             <link>https://lignux.com/se-vienen-cambios-nuevo-diseno/</link>
             <description>Se vienen cambios!! ¿¿Nuevo diseño??</description>
@@ -34,41 +70,5 @@
             <link>https://esgeeks.com/seguridad-en-juegos-online/</link>
             <description>La Seguridad en los Juegos Online</description>
             <pubDate>Sat Jul 17 17:41:37 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: Estos son los principales factores que debes considerar antes de comprar un purificador de aire para tu hogar</title>
-            <link>http://feeds.weblogssl.com/~r/Xatakahome/~3/ygTiaPtX_PY/pensando-hacerte-purificador-aire-estos-algunos-factores-interesantes-a-tener-cuenta-antes-pasar-caja</link>
-            <description>Estos son los principales factores que debes considerar antes de comprar un purificador de aire para tu hogar</description>
-            <pubDate>Sat Jul 17 17:10:01 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Tales from the Global Chip Shortage: Smoothieboard</title>
-            <link>https://hackaday.com/2021/07/17/tales-from-the-global-chip-shortage-smoothieboard/</link>
-            <description>Tales from the Global Chip Shortage: Smoothieboard</description>
-            <pubDate>Sat Jul 17 17:01:48 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'La calle del terror': así experimenta Netflix con las posibilidades del streaming mientras lo baña de sangre</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/ylgX5Do-I-8/calle-terror-asi-experimenta-netflix-posibilidades-streaming-bana-sangre</link>
-            <description>'La calle del terror': así experimenta Netflix con las posibilidades del streaming mientras lo baña de sangre</description>
-            <pubDate>Sat Jul 17 17:01:30 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Qué es el protocolo DTLS que mejora la seguridad en servidores</title>
-            <link>https://www.redeszone.net/tutoriales/seguridad/protocolo-dtls-mejora-seguridad/</link>
-            <description>Qué es el protocolo DTLS que mejora la seguridad en servidores</description>
-            <pubDate>Sat Jul 17 17:00:29 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Siente la acción con estas series recomendadas en Disney Plus</title>
-            <link>https://www.adslzone.net/reportajes/series/series-accion-disney-plus/</link>
-            <description>Siente la acción con estas series recomendadas en Disney Plus</description>
-            <pubDate>Sat Jul 17 16:10:11 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Huawei Watch 3, análisis: HarmonyOS convence y lleva al smartwatch de Huawei al siguiente nivel (por fin)</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/AErx7T7uqaI/huawei-watch-3-analisis-caracteristicas-precio-especificaciones</link>
-            <description>Huawei Watch 3, análisis: HarmonyOS convence y lleva al smartwatch de Huawei al siguiente nivel (por fin)</description>
-            <pubDate>Sat Jul 17 15:01:25 2021</pubDate>
             </item></channel>
 </rss>
