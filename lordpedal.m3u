@@ -205,3 +205,9 @@ http://192.168.1.50:2112/rtp/239.0.3.36:8208
 http://192.168.1.50:2112/rtp/239.0.0.60:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="155" tvg-id="2743.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2743.jpg",Aragón TV Int
 http://192.168.1.50:2112/rtp/239.0.0.81:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="444" tvg-id="5026.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5026.jpg",Eurosport UHD
+http://192.168.1.50:2112/rtp/239.0.7.6:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="1009" tvg-id="5022.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5022.jpg",Eurosport UHD HD
+http://192.168.1.50:2112/rtp/239.0.5.139:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="1010" tvg-id="5027.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5027.jpg",PiP Eurosport UHD
+http://192.168.1.50:2112/rtp/239.0.1.176:8208
