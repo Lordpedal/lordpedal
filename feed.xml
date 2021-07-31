@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Build That Catan Board You Designed</title>
+            <link>https://hackaday.com/2021/07/30/build-that-catan-board-you-designed/</link>
+            <description>Build That Catan Board You Designed</description>
+            <pubDate>Sat Jul 31 05:00:06 2021</pubDate>
+            </item>
+            <item>
+            <title>masGNULinux Blog: Llega Solus OS 4.3 con pocos cambios</title>
+            <link>https://masgnulinux.es/llega-solus-os-4-3-con-pocos-cambios/</link>
+            <description>Llega Solus OS 4.3 con pocos cambios</description>
+            <pubDate>Sat Jul 31 04:11:40 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Rare Radio Receiver Teardown</title>
+            <link>https://hackaday.com/2021/07/30/rare-radio-receiver-teardown/</link>
+            <description>Rare Radio Receiver Teardown</description>
+            <pubDate>Sat Jul 31 02:00:45 2021</pubDate>
+            </item>
+            <item>
+            <title>Changelog: The Changelog 451: Modern unix tools</title>
+            <link>https://changelog.com/podcast/451</link>
+            <description>The Changelog 451: Modern unix tools</description>
+            <pubDate>Sat Jul 31 01:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Step ‘n Snack Fanny Pack Motivates with M&Ms</title>
+            <link>https://hackaday.com/2021/07/30/step-n-snack-fanny-pack-motivates-with-mms/</link>
+            <description>Step ‘n Snack Fanny Pack Motivates with M&Ms</description>
+            <pubDate>Fri Jul 30 23:00:52 2021</pubDate>
+            </item>
+            <item>
+            <title>Diario del Viajero: Las 13 etapas del Camino de Santiago Primitivo: de Oviedo a Compostela en una experiencia única</title>
+            <link>http://feeds.weblogssl.com/~r/diariodelviajero/~3/iqvDSXMzDC0/13-etapas-camino-santiago-primitivo-oviedo-a-compostela-experiencia-unica</link>
+            <description>Las 13 etapas del Camino de Santiago Primitivo: de Oviedo a Compostela en una experiencia única</description>
+            <pubDate>Fri Jul 30 21:58:38 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El reproductor Pragha anuncia su segunda versión candidata 1.4</title>
             <link>https://lignux.com/el-reproductor-pragha-anuncia-su-segunda-version-candidata-1-4/</link>
             <description>El reproductor Pragha anuncia su segunda versión candidata 1.4</description>
@@ -34,41 +70,5 @@
             <link>https://www.omgubuntu.co.uk/2021/07/xubuntu-21-10-development-update</link>
             <description>Xubuntu 21.10 to Include New Apps, Including a Clipboard Manager</description>
             <pubDate>Fri Jul 30 18:50:58 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Build A Barebones 68000</title>
-            <link>https://hackaday.com/2021/07/30/build-a-barebones-68000/</link>
-            <description>Build A Barebones 68000</description>
-            <pubDate>Fri Jul 30 18:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Debes confiar en un proxy o es mejor usar una VPN para navegar?</title>
-            <link>https://www.redeszone.net/noticias/seguridad/navegar-anonimo-proxy-vpn-diferencias/</link>
-            <description>¿Debes confiar en un proxy o es mejor usar una VPN para navegar?</description>
-            <pubDate>Fri Jul 30 18:06:04 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Todos los estrenos en agosto 2021 de Amazon, Filmin y Disney+</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/YFEYZrrdNY4/todos-estrenos-agosto-2021-amazon-filmin-disney</link>
-            <description>Todos los estrenos en agosto 2021 de Amazon, Filmin y Disney+</description>
-            <pubDate>Fri Jul 30 18:00:33 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Presta atención al suplemento de proteína en polvo que compras: algunas trampas que cometen los fabricantes</title>
-            <link>http://feeds.weblogssl.com/~r/Vitonica/~3/k0ruHlEwM2c/presta-atencion-al-suplemento-proteina-polvo-que-compras-algunas-trampas-que-cometen-fabricantes</link>
-            <description>Presta atención al suplemento de proteína en polvo que compras: algunas trampas que cometen los fabricantes</description>
-            <pubDate>Fri Jul 30 18:00:33 2021</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Los números de tarjeta de los desarrolladores de Python, amenazados por paquetes de malware subidos al repositorio PyPI</title>
-            <link>http://feeds.weblogssl.com/~r/genbeta/~3/b0BiKIdXeLs/numeros-tarjeta-desarrolladores-python-amenazados-paquetes-malware-subidos-al-repositorio-pypi</link>
-            <description>Los números de tarjeta de los desarrolladores de Python, amenazados por paquetes de malware subidos al repositorio PyPI</description>
-            <pubDate>Fri Jul 30 17:48:27 2021</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Flathub Vs RPMFusion: ¿cuál ofrece las mejores aplicaciones?</title>
-            <link>https://www.muylinux.com/2021/07/30/flathub-vs-rpmfusion-fedora/</link>
-            <description>Flathub Vs RPMFusion: ¿cuál ofrece las mejores aplicaciones?</description>
-            <pubDate>Fri Jul 30 17:37:47 2021</pubDate>
             </item></channel>
 </rss>
