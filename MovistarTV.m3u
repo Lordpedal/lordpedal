@@ -157,7 +157,7 @@ rtp://@239.0.0.173:8208
 rtp://@239.0.0.66:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="98" tvg-id="745.movistar.tv" tvh-tags="Movistar TV|HDTV|Infantil" tvg-logo="https://lordpedal.github.io/lordpedal/images/4467.jpg",Clan TVE HD
 rtp://@239.0.0.184:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="105" tvg-id="581.movistar.tv" tvh-tags="Movistar TV|SDTV|Música" tvg-logo="https://lordpedal.github.io/lordpedal/images/581.jpg",VH1
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="105" tvg-id="581.movistar.tv" tvh-tags="Movistar TV|SDTV|Música" tvg-logo="https://lordpedal.github.io/lordpedal/images/581.jpg",MTV 00s
 rtp://@239.0.0.75:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="112" tvg-id="743.movistar.tv" tvh-tags="Movistar TV|SDTV|Internacional" tvg-logo="https://lordpedal.github.io/lordpedal/images/743.jpg",Canal 24 H.
 rtp://@239.0.0.78:8208
