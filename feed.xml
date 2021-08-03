@@ -6,10 +6,58 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: EXPS/2 Keyboard Adapter Translates PS/2 and USB to MSX</title>
+            <link>https://hackaday.com/2021/08/02/exps-2-keyboard-adapter-translates-ps-2-and-usb-to-msx/</link>
+            <description>EXPS/2 Keyboard Adapter Translates PS/2 and USB to MSX</description>
+            <pubDate>Tue Aug  3 05:00:22 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Vultur, novedoso troyano bancario para Android</title>
+            <link>https://unaaldia.hispasec.com/2021/08/vultur-novedoso-troyano-bancario-para-android.html</link>
+            <description>Vultur, novedoso troyano bancario para Android</description>
+            <pubDate>Tue Aug  3 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Convertir el panel del Ubuntu en un dock</title>
+            <link>https://cambiatealinux.com/convertir-el-panel-del-ubuntu-en-un-dock</link>
+            <description>Convertir el panel del Ubuntu en un dock</description>
+            <pubDate>Tue Aug  3 04:26:55 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Horizon Chase Turbo: Divertido juego de carreras para Linux con Steam</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/JuKkHll9xSs/</link>
+            <description>Horizon Chase Turbo: Divertido juego de carreras para Linux con Steam</description>
+            <pubDate>Tue Aug  3 04:00:13 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Levitation by Sound</title>
+            <link>https://hackaday.com/2021/08/02/levitation-by-sound/</link>
+            <description>Levitation by Sound</description>
+            <pubDate>Tue Aug  3 02:00:51 2021</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: Filtros RPC (NETSH) para bloquear PetitPotam</title>
+            <link>https://www.hackplayers.com/2021/08/filtros-rpc-netsh-para-bloquear-ataques.html</link>
+            <description>Filtros RPC (NETSH) para bloquear PetitPotam</description>
+            <pubDate>Mon Aug  2 23:34:48 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Dedicated LED Animation Framework For ESP32</title>
+            <link>https://hackaday.com/2021/08/02/dedicated-led-animation-framework-for-esp32/</link>
+            <description>Dedicated LED Animation Framework For ESP32</description>
+            <pubDate>Mon Aug  2 23:00:40 2021</pubDate>
+            </item>
+            <item>
             <title>Xataka: De 24 a 162 dólares al mes: estos son los precios de Windows 365, el sistema operativo en la nube de Microsoft</title>
             <link>http://feeds.weblogssl.com/~r/xataka2/~3/KWwW0pecbhk/24-a-162-dolares-al-mes-estos-precios-windows-365-sistema-operativo-nube-microsoft</link>
             <description>De 24 a 162 dólares al mes: estos son los precios de Windows 365, el sistema operativo en la nube de Microsoft</description>
             <pubDate>Mon Aug  2 21:49:31 2021</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: DXVK 1.9.1 llega con correcciones de errores, mejoras de rendimiento y mas</title>
+            <link>https://www.linuxadictos.com/dxvk-1-9-1-llega-con-correcciones-de-errores-mejoras-de-rendimiento-y-mas.html</link>
+            <description>DXVK 1.9.1 llega con correcciones de errores, mejoras de rendimiento y mas</description>
+            <pubDate>Mon Aug  2 21:12:09 2021</pubDate>
             </item>
             <item>
             <title>Changelog: Better coordination, or better software?</title>
@@ -22,53 +70,5 @@
             <link>https://hackaday.com/2021/08/02/single-wheel-motorcycle-trailer/</link>
             <description>Single-Wheel Motorcycle Trailer</description>
             <pubDate>Mon Aug  2 20:00:10 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La espectacular serie de ‘El Señor de los Anillos’ de Amazon tiene fecha de estreno: el 22 de septiembre de 2022</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/TAdQVDzr3BU/espectacular-serie-senor-anillos-amazon-tiene-fecha-estreno-22-septiembre-2022</link>
-            <description>La espectacular serie de ‘El Señor de los Anillos’ de Amazon tiene fecha de estreno: el 22 de septiembre de 2022</description>
-            <pubDate>Mon Aug  2 19:38:25 2021</pubDate>
-            </item>
-            <item>
-            <title>Make: DIY Projects and Ideas for Makers: “History-making” Maker Camp in San Anselmo</title>
-            <link>https://makezine.com/2021/08/02/history-making-maker-camp-in-san-anselmo/</link>
-            <description>“History-making” Maker Camp in San Anselmo</description>
-            <pubDate>Mon Aug  2 19:21:10 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Golpe sobre la mesa de Movistar: ahora una Smart TV gratis con Fusión</title>
-            <link>https://www.adslzone.net/noticias/operadores/fusion-smart-tv-gratis-agosto-2021/</link>
-            <description>Golpe sobre la mesa de Movistar: ahora una Smart TV gratis con Fusión</description>
-            <pubDate>Mon Aug  2 19:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Mag-Lev Switches Are the Future of Clacking</title>
-            <link>https://hackaday.com/2021/08/02/mag-lev-switches-are-the-future-of-clacking/</link>
-            <description>Mag-Lev Switches Are the Future of Clacking</description>
-            <pubDate>Mon Aug  2 18:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Valve reconoce haber aprendido de errores del pasado con la Steam Deck</title>
-            <link>https://www.muylinux.com/2021/08/02/valve-errores-steam-deck/</link>
-            <description>Valve reconoce haber aprendido de errores del pasado con la Steam Deck</description>
-            <pubDate>Mon Aug  2 18:21:02 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Router gaming ASUS ROG STRIX GS-AX5400</title>
-            <link>https://www.redeszone.net/analisis/routers/asus-rog-strix-gs-ax5400/</link>
-            <description>Router gaming ASUS ROG STRIX GS-AX5400</description>
-            <pubDate>Mon Aug  2 18:05:54 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Qué beber y qué no beber para mantenernos bien hidratados este verano</title>
-            <link>http://feeds.weblogssl.com/~r/Vitonica/~3/piISmV1KIPk/que-beber-que-no-beber-mantenernos-bien-hidratados-este-verano</link>
-            <description>Qué beber y qué no beber para mantenernos bien hidratados este verano</description>
-            <pubDate>Mon Aug  2 18:02:24 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Foto: ‘El shogun y la lolita’, un retrato íntimo de Japón con sus miserias y sus grandezas, por Javier Aranburu</title>
-            <link>http://feeds.weblogssl.com/~r/xatakafoto/~3/qNjhMrTe-_U/shogun-lolita-retrato-intimo-japon-sus-miserias-sus-grandezas-javier-aranburu</link>
-            <description>‘El shogun y la lolita’, un retrato íntimo de Japón con sus miserias y sus grandezas, por Javier Aranburu</description>
-            <pubDate>Mon Aug  2 18:01:26 2021</pubDate>
             </item></channel>
 </rss>
