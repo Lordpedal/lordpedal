@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>KDE Blog: Cómo convertir tu Linux en un Windows 11 – Vídeo</title>
+            <link>https://www.kdeblog.com/como-convertir-tu-linux-en-un-windows-11-video.html</link>
+            <description>Cómo convertir tu Linux en un Windows 11 – Vídeo</description>
+            <pubDate>Sun Aug  8 05:57:37 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Magnetosphere Has a Ton Of Energy. Can A Guitar Amp Company Tap Into It?</title>
+            <link>https://hackaday.com/2021/08/07/the-magnetosphere-has-a-ton-of-energy-can-a-guitar-amp-company-tap-into-it/</link>
+            <description>The Magnetosphere Has a Ton Of Energy. Can A Guitar Amp Company Tap Into It?</description>
+            <pubDate>Sun Aug  8 05:00:30 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Stack Overflow Developer Survey 2021: Explorando los resultados del año</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/RCGyJ6QtaeM/</link>
+            <description>Stack Overflow Developer Survey 2021: Explorando los resultados del año</description>
+            <pubDate>Sun Aug  8 04:00:49 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Nintendo Zapper Reborn as Home Automation Remote</title>
+            <link>https://hackaday.com/2021/08/07/nintendo-zapper-reborn-as-home-automation-remote/</link>
+            <description>Nintendo Zapper Reborn as Home Automation Remote</description>
+            <pubDate>Sun Aug  8 02:00:50 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: RAMPS Rebuild Keeps Robox 3D Printer Out of Junk Bin</title>
+            <link>https://hackaday.com/2021/08/07/ramps-rebuild-keeps-robox-3d-printer-out-of-junk-bin/</link>
+            <description>RAMPS Rebuild Keeps Robox 3D Printer Out of Junk Bin</description>
+            <pubDate>Sat Aug  7 23:00:05 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El gestor de portapapeles avanzado CopyQ acaba de publicar su versión 4.1.0</title>
             <link>https://lignux.com/el-gestor-de-portapapeles-avanzado-copyq-acaba-de-publicar-su-version-4-1-0/</link>
             <description>El gestor de portapapeles avanzado CopyQ acaba de publicar su versión 4.1.0</description>
@@ -40,35 +70,5 @@
             <link>https://hackaday.com/2021/08/07/multics-gets-a-new-release-52-years-after-launch/</link>
             <description>MULTICS Gets A New Release… 52 Years After Launch</description>
             <pubDate>Sat Aug  7 17:01:56 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'El escuadrón suicida': la mejor película de superhéroes en años y el revulsivo Anti-Marvel que necesitaba DC</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/KZTB1Ekm9l4/escuadron-suicida-mejor-pelicula-superheroes-anos-revulsivo-anti-marvel-que-necesitaba-dc</link>
-            <description>'El escuadrón suicida': la mejor película de superhéroes en años y el revulsivo Anti-Marvel que necesitaba DC</description>
-            <pubDate>Sat Aug  7 17:01:32 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Gusano informático: qué es y cómo evitar esta amenaza</title>
-            <link>https://www.redeszone.net/tutoriales/seguridad/gusano-informatico-que-es-evitarlo/</link>
-            <description>Gusano informático: qué es y cómo evitar esta amenaza</description>
-            <pubDate>Sat Aug  7 17:00:52 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux para todos: Error: Sudo Command Not Found en Debian 10</title>
-            <link>http://feedproxy.google.com/~r/sololinux/eoDH/~3/zNMaDtfmcks/</link>
-            <description>Error: Sudo Command Not Found en Debian 10</description>
-            <pubDate>Sat Aug  7 16:52:47 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las series adolescentes imprescindibles en Disney Channel</title>
-            <link>https://www.adslzone.net/reportajes/series/series-disney-channel-adolescentes/</link>
-            <description>Las series adolescentes imprescindibles en Disney Channel</description>
-            <pubDate>Sat Aug  7 16:03:33 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Si vas a empezar a practicar Bikram Yoga, estas 7 claves te ayudarán a superar tu primera clase con éxito</title>
-            <link>http://feeds.weblogssl.com/~r/Vitonica/~3/9sgYVDCPsZc/vas-a-empezar-a-practicar-bikram-yoga-estas-7-claves-te-ayudaran-a-superar-tu-primera-clase-exito</link>
-            <description>Si vas a empezar a practicar Bikram Yoga, estas 7 claves te ayudarán a superar tu primera clase con éxito</description>
-            <pubDate>Sat Aug  7 16:01:30 2021</pubDate>
             </item></channel>
 </rss>
