@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: From Tube And Wing To Just Wing: The Future Of Airliners</title>
+            <link>https://hackaday.com/2021/08/08/from-tube-and-wing-to-just-wing-the-future-of-airliners/</link>
+            <description>From Tube And Wing To Just Wing: The Future Of Airliners</description>
+            <pubDate>Mon Aug  9 05:00:37 2021</pubDate>
+            </item>
+            <item>
+            <title>Atareao: Sobre webp, reducir imágenes y aumentar velocidad</title>
+            <link>https://atareao.es/podcast/sobre-webp-reducir-imagenes-y-aumentar-velocidad/</link>
+            <description>Sobre webp, reducir imágenes y aumentar velocidad</description>
+            <pubDate>Mon Aug  9 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Expadir carpetas en Ubuntu</title>
+            <link>https://cambiatealinux.com/expadir-carpetas-en-ubuntu</link>
+            <description>Expadir carpetas en Ubuntu</description>
+            <pubDate>Mon Aug  9 04:48:06 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: KDEApps1: Un primer vistazo por las aplicaciones de la Comunidad KDE</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/hfrKe522xJk/</link>
+            <description>KDEApps1: Un primer vistazo por las aplicaciones de la Comunidad KDE</description>
+            <pubDate>Mon Aug  9 04:00:55 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Accurate Digital Clock Keeps Ticking with FPGA</title>
+            <link>https://hackaday.com/2021/08/08/accurate-digital-clock-keeps-ticking-with-fpga/</link>
+            <description>Accurate Digital Clock Keeps Ticking with FPGA</description>
+            <pubDate>Mon Aug  9 02:00:17 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: August 8, 2021</title>
+            <link>https://hackaday.com/2021/08/08/hackaday-links-august-8-2021/</link>
+            <description>Hackaday Links: August 8, 2021</description>
+            <pubDate>Sun Aug  8 23:00:22 2021</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Windows 11 tendrá un “modo concentración” integrado con To Do, con pomodoro y listas de reproducción de Spotify</title>
+            <link>http://feeds.weblogssl.com/~r/xataka2/~3/xeI3hdJZXBw/windows-11-tendra-modo-concentracion-integrado-to-do-pomodoro-listas-reproduccion-spotify</link>
+            <description>Windows 11 tendrá un “modo concentración” integrado con To Do, con pomodoro y listas de reproducción de Spotify</description>
+            <pubDate>Sun Aug  8 22:05:29 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El reproductor de vídeo Celluloid (anteriormente Gnome MPV) pública su versión 0.21</title>
             <link>https://lignux.com/el-reproductor-de-video-celluloid-anteriormente-gnome-mpv-publica-su-version-0-21/</link>
             <description>El reproductor de vídeo Celluloid (anteriormente Gnome MPV) pública su versión 0.21</description>
@@ -28,47 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/genbeta/~3/PJJxuAhEfhA/historia-gopher-protocolo-que-domino-internet-antes-llegada-http-www</link>
             <description>La historia de Gopher, el protocolo que dominó Internet antes de la llegada del HTTP y la WWW</description>
             <pubDate>Sun Aug  8 20:09:19 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: ReactOS Is Going Places, With More Stable AMD64, SMP, And Multi-Monitor Support</title>
-            <link>https://hackaday.com/2021/08/08/reactos-is-going-places-with-more-stable-amd64-smp-and-multi-monitor-support/</link>
-            <description>ReactOS Is Going Places, With More Stable AMD64, SMP, And Multi-Monitor Support</description>
-            <pubDate>Sun Aug  8 20:00:14 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Ciencia: Los algoritmos están proporcionando una forma de seleccionar de manera más justa y democrática las asambleas de ciudadanos</title>
-            <link>http://feeds.weblogssl.com/~r/xatakaciencia/~3/lbbQo3ipsqU/algoritmos-estan-proporcionando-forma-seleccionar-manera-justa-democratica-asambleas-ciudadanos</link>
-            <description>Los algoritmos están proporcionando una forma de seleccionar de manera más justa y democrática las asambleas de ciudadanos</description>
-            <pubDate>Sun Aug  8 19:18:32 2021</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Adafruit Weekly Editorial Round-Up: CircuitPython Day, Chip Shortage Update, CircuitPython Webcam with OV2640, & more!</title>
-            <link>https://blog.adafruit.com/2021/08/08/adafruit-weekly-editorial-round-up-circuitpython-day-chip-shortage-update-circuitpython-webcam-with-ov2640-more/</link>
-            <description>Adafruit Weekly Editorial Round-Up: CircuitPython Day, Chip Shortage Update, CircuitPython Webcam with OV2640, & more!</description>
-            <pubDate>Sun Aug  8 19:00:54 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Aprende a usar Photoshop con estos trucos básicos y fáciles</title>
-            <link>https://www.adslzone.net/como-se-hace/photoshop/trucos-basicos-photoshop/</link>
-            <description>Aprende a usar Photoshop con estos trucos básicos y fáciles</description>
-            <pubDate>Sun Aug  8 18:04:34 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Ya fue liberada la nueva version de Nmap 7.92 y estas son sus novedades</title>
-            <link>https://www.linuxadictos.com/ya-fue-liberada-la-nueva-version-de-nmap-7-92-y-estas-son-sus-novedades.html</link>
-            <description>Ya fue liberada la nueva version de Nmap 7.92 y estas son sus novedades</description>
-            <pubDate>Sun Aug  8 17:37:22 2021</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Ya fue liberada la nueva version de Bottlerocket 1.2.0, la distro para contenedores de AWS</title>
-            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/Epn4ZHM9AHs/</link>
-            <description>Ya fue liberada la nueva version de Bottlerocket 1.2.0, la distro para contenedores de AWS</description>
-            <pubDate>Sun Aug  8 17:20:17 2021</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: Terra: Herramienta OSINT para Twitter e Instagram</title>
-            <link>https://esgeeks.com/terra-osint-twitter-instagram/</link>
-            <description>Terra: Herramienta OSINT para Twitter e Instagram</description>
-            <pubDate>Sun Aug  8 17:10:33 2021</pubDate>
             </item></channel>
 </rss>
