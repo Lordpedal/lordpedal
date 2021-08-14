@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: USB Mouse Hack for Pachyderm Protection</title>
+            <link>https://hackaday.com/2021/08/13/usb-mouse-hack-for-pachyderm-protection/</link>
+            <description>USB Mouse Hack for Pachyderm Protection</description>
+            <pubDate>Sat Aug 14 05:00:03 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Disponible software de desencriptado para Prometheus</title>
+            <link>https://unaaldia.hispasec.com/2021/08/disponible-software-desencriptado-prometheus.html</link>
+            <description>Disponible software de desencriptado para Prometheus</description>
+            <pubDate>Sat Aug 14 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Ataque APT: Amenazas Avanzadas Persistentes ¿Pueden afectar a Linux?</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/XEi__1BzR8E/</link>
+            <description>Ataque APT: Amenazas Avanzadas Persistentes ¿Pueden afectar a Linux?</description>
+            <pubDate>Sat Aug 14 04:00:05 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Ivacy VPN: Promoción (5 años por 80 USD), Calificación y Análisis</title>
+            <link>https://esgeeks.com/revision-ivacy-vpn/</link>
+            <description>Ivacy VPN: Promoción (5 años por 80 USD), Calificación y Análisis</description>
+            <pubDate>Sat Aug 14 03:49:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Google’s Periodic Table</title>
+            <link>https://hackaday.com/2021/08/13/googles-periodic-table/</link>
+            <description>Google’s Periodic Table</description>
+            <pubDate>Sat Aug 14 02:00:17 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Filtering Coffee Through 3D Printed Glass</title>
+            <link>https://hackaday.com/2021/08/13/filtering-coffee-through-3d-printed-glass/</link>
+            <description>Filtering Coffee Through 3D Printed Glass</description>
+            <pubDate>Fri Aug 13 23:00:06 2021</pubDate>
+            </item>
+            <item>
             <title>masGNULinux Blog: Un reflejo</title>
             <link>https://masgnulinux.es/reflejo/</link>
             <description>Un reflejo</description>
@@ -18,6 +54,12 @@
             <pubDate>Fri Aug 13 21:45:29 2021</pubDate>
             </item>
             <item>
+            <title>Linux Adictos: WINE 6.15 llega con la biblioteca WinSock convertida a PE y casi 400 cambios</title>
+            <link>https://www.linuxadictos.com/wine-6-15-llega-con-la-biblioteca-winsock-convertida-a-pe-y-casi-400-cambios.html</link>
+            <description>WINE 6.15 llega con la biblioteca WinSock convertida a PE y casi 400 cambios</description>
+            <pubDate>Fri Aug 13 20:49:16 2021</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Hacked IKEA Air Quality Sensor Gets Custom PCB</title>
             <link>https://hackaday.com/2021/08/13/hacked-ikea-air-quality-sensor-gets-custom-pcb/</link>
             <description>Hacked IKEA Air Quality Sensor Gets Custom PCB</description>
@@ -28,47 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/xatakaciencia/~3/ZYjX6MMCRDU/esta-nueva-herramienta-inteligencia-artificial-podria-diagnosticar-demencia-a-partir-solo-escaner-cerebral</link>
             <description>Esta nueva herramienta de inteligencia artificial podría diagnosticar la demencia a partir de un solo escáner cerebral</description>
             <pubDate>Fri Aug 13 19:26:17 2021</pubDate>
-            </item>
-            <item>
-            <title>Changelog: On reading code with your eyebrows</title>
-            <link>https://nedbatchelder.com/blog/202108/pythonic_monotonic.html</link>
-            <description>On reading code with your eyebrows</description>
-            <pubDate>Fri Aug 13 18:43:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Ciencia: El diagnóstico de quemaduras solares fue más común entre las mujeres y los pacientes más jóvenes</title>
-            <link>http://feeds.weblogssl.com/~r/xatakaciencia/~3/7dDcLP0yCvs/diagnostico-quemaduras-solares-fue-comun-mujeres-pacientes-jovenes</link>
-            <description>El diagnóstico de quemaduras solares fue más común entre las mujeres y los pacientes más jóvenes</description>
-            <pubDate>Fri Aug 13 18:42:11 2021</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Entre los cambios de la última 'preview' de .NET 6 y C# 10 se incluyen versiones preliminares de las API de .NET 7</title>
-            <link>http://feeds.weblogssl.com/~r/genbeta/~3/vhobCPExq9Y/cambios-ultima-preview-net-6-c-10-se-incluyen-versiones-preliminares-api-net-7</link>
-            <description>Entre los cambios de la última 'preview' de .NET 6 y C# 10 se incluyen versiones preliminares de las API de .NET 7</description>
-            <pubDate>Fri Aug 13 18:33:57 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Rotary Time Tracker Puts a New Spin on Productivity</title>
-            <link>https://hackaday.com/2021/08/13/rotary-time-tracker-puts-a-new-spin-on-productivity/</link>
-            <description>Rotary Time Tracker Puts a New Spin on Productivity</description>
-            <pubDate>Fri Aug 13 18:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>56K.ES: Llega el Amiga 500 Mini</title>
-            <link>https://56k.es/fanta/llega-el-amiga-500-mini/</link>
-            <description>Llega el Amiga 500 Mini</description>
-            <pubDate>Fri Aug 13 18:15:47 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo saber cuántos gigas usas utilizando la fibra en casa</title>
-            <link>https://www.adslzone.net/operadores/en-detalle/consumo-banda-ancha-fija/</link>
-            <description>Cómo saber cuántos gigas usas utilizando la fibra en casa</description>
-            <pubDate>Fri Aug 13 18:04:19 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Pitahaya o fruta de dragón: propiedades, beneficios y su uso en la cocina</title>
-            <link>http://feeds.weblogssl.com/~r/Vitonica/~3/0xNZ8w_RCNc/pitahaya-fruta-dragon-propiedades-beneficios-su-uso-cocina</link>
-            <description>Pitahaya o fruta de dragón: propiedades, beneficios y su uso en la cocina</description>
-            <pubDate>Fri Aug 13 18:03:17 2021</pubDate>
             </item></channel>
 </rss>
