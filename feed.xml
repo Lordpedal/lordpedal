@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Yo Dawg, We Heard You Like Retrocomputers</title>
+            <link>https://hackaday.com/2021/08/14/yo-dawg-we-heard-you-like-retrocomputers/</link>
+            <description>Yo Dawg, We Heard You Like Retrocomputers</description>
+            <pubDate>Sun Aug 15 05:00:13 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Roban más de 600 millones en criptomonedas de la plataforma Poly Network</title>
+            <link>https://unaaldia.hispasec.com/2021/08/roban-mas-de-600-millones-en-criptomonedas-de-la-plataforma-poly-network.html</link>
+            <description>Roban más de 600 millones en criptomonedas de la plataforma Poly Network</description>
+            <pubDate>Sun Aug 15 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Nueva vulnerabilidad en Moodle</title>
+            <link>https://unaaldia.hispasec.com/2021/08/nueva-vulnerabilidad-en-moodle.html</link>
+            <description>Nueva vulnerabilidad en Moodle</description>
+            <pubDate>Sun Aug 15 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Making Ferroelectric Solar Cells Better</title>
+            <link>https://hackaday.com/2021/08/14/making-ferroelectric-solar-cells-better/</link>
+            <description>Making Ferroelectric Solar Cells Better</description>
+            <pubDate>Sun Aug 15 02:00:27 2021</pubDate>
+            </item>
+            <item>
+            <title>▶ Noticias desde entreunosyceros: Philips Ambilight 50PUS8505/12 – Televisor Smart TV de 50 Pulgadas</title>
+            <link>http://feedproxy.google.com/~r/listado/actualizaciones/~3/5tCyed9551s/</link>
+            <description>Philips Ambilight 50PUS8505/12 – Televisor Smart TV de 50 Pulgadas</description>
+            <pubDate>Sat Aug 14 23:41:40 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D Printed Smart Glasses Put Linux in Your Face</title>
+            <link>https://hackaday.com/2021/08/14/3d-printed-smart-glasses-put-linux-in-your-face/</link>
+            <description>3D Printed Smart Glasses Put Linux in Your Face</description>
+            <pubDate>Sat Aug 14 23:01:33 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Debian Day 2021: ¿Fue liberada Debian 11 Bullseye en el Día de Debian?</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/dJbPHK8nTig/</link>
+            <description>Debian Day 2021: ¿Fue liberada Debian 11 Bullseye en el Día de Debian?</description>
+            <pubDate>Sat Aug 14 22:11:20 2021</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Debian 11 Bullseye ya disponible con Linux 5.10, GNOME 3.38, Plasma 5.20 y muchos paquetes actualizados</title>
+            <link>https://www.linuxadictos.com/debian-11-bullseye-ya-disponible-con-linux-5-10-gnome-3-38-plasma-5-20-y-mucho-paquetes-actualizados.html</link>
+            <description>Debian 11 Bullseye ya disponible con Linux 5.10, GNOME 3.38, Plasma 5.20 y muchos paquetes actualizados</description>
+            <pubDate>Sat Aug 14 21:19:21 2021</pubDate>
+            </item>
+            <item>
             <title>MuyLinux: Disponible Debian 11 Bullseye con mejores implementaciones de systemd y Wayland</title>
             <link>https://www.muylinux.com/2021/08/14/debian-11-bullseye/</link>
             <description>Disponible Debian 11 Bullseye con mejores implementaciones de systemd y Wayland</description>
@@ -18,57 +66,9 @@
             <pubDate>Sat Aug 14 21:05:39 2021</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: The Zeloof Z2 Intergrated Circuit Has 100 Transistors</title>
-            <link>https://hackaday.com/2021/08/14/the-zeloof-z2-intergrated-circuit-has-100-transistors/</link>
-            <description>The Zeloof Z2 Intergrated Circuit Has 100 Transistors</description>
-            <pubDate>Sat Aug 14 20:00:18 2021</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: Bifrost: Bot C2 Post-Explotación mediante API de Discord</title>
-            <link>https://esgeeks.com/bifrost-bot-c2-discord-post-explotacion/</link>
-            <description>Bifrost: Bot C2 Post-Explotación mediante API de Discord</description>
-            <pubDate>Sat Aug 14 19:41:13 2021</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: De que se trata Razer Gold, la Moneda Virtual de Razer</title>
-            <link>https://esgeeks.com/de-que-trata-razer-gold/</link>
-            <description>De que se trata Razer Gold, la Moneda Virtual de Razer</description>
-            <pubDate>Sat Aug 14 18:43:28 2021</pubDate>
-            </item>
-            <item>
-            <title>DistritoTux: elementary OS 6.0 con su tienda Flatpak</title>
-            <link>https://www.distritotux.cl/2021/08/elementary-os-60-con-su-tienda-flatpak.html</link>
-            <description>elementary OS 6.0 con su tienda Flatpak</description>
-            <pubDate>Sat Aug 14 18:38:42 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Usa un QR para conectarte al WiFi sin saber la contraseña</title>
-            <link>https://www.adslzone.net/como-se-hace/wifi/codigo-qr-wifi/</link>
-            <description>Usa un QR para conectarte al WiFi sin saber la contraseña</description>
-            <pubDate>Sat Aug 14 18:30:15 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Surplus Syringes Make Satisfactory Tuner for Amateur Radio Experimentation</title>
-            <link>https://hackaday.com/2021/08/14/surplus-syringes-make-satisfactory-tuner-for-amateur-radio-experimentation/</link>
-            <description>Surplus Syringes Make Satisfactory Tuner for Amateur Radio Experimentation</description>
-            <pubDate>Sat Aug 14 17:01:47 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Error 0x89231806 en la configuración de red: cómo solucionarlo</title>
-            <link>https://www.redeszone.net/tutoriales/redes-cable/error-0x89231806-configuracion-red-solucion/</link>
-            <description>Error 0x89231806 en la configuración de red: cómo solucionarlo</description>
-            <pubDate>Sat Aug 14 17:00:49 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Todas las series y películas de Mickey y sus amigos en Disney+</title>
-            <link>https://www.adslzone.net/reportajes/series/series-peliculas-mickey/</link>
-            <description>Todas las series y películas de Mickey y sus amigos en Disney+</description>
-            <pubDate>Sat Aug 14 16:10:28 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Calorías líquidas: así es como pueden echar a perder tu dieta</title>
-            <link>http://feeds.weblogssl.com/~r/Vitonica/~3/o7E-NO9hLDc/calorias-liquidas-asi-como-pueden-echar-a-perder-tu-dieta</link>
-            <description>Calorías líquidas: así es como pueden echar a perder tu dieta</description>
-            <pubDate>Sat Aug 14 16:03:28 2021</pubDate>
+            <title>LiGNUx: Wine acaba de anunciar su versión 6.15</title>
+            <link>https://lignux.com/wine-acaba-de-anunciar-su-version-6-15/</link>
+            <description>Wine acaba de anunciar su versión 6.15</description>
+            <pubDate>Sat Aug 14 20:00:31 2021</pubDate>
             </item></channel>
 </rss>
