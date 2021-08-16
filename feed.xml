@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Light Painting With An 19th Century Inspired Plotter</title>
+            <link>https://hackaday.com/2021/08/15/light-painting-with-an-19th-century-inspired-plotter/</link>
+            <description>Light Painting With An 19th Century Inspired Plotter</description>
+            <pubDate>Mon Aug 16 05:00:51 2021</pubDate>
+            </item>
+            <item>
+            <title>Atareao: Dotdrop, un completo gestor de dotfiles</title>
+            <link>https://atareao.es/podcast/dotdrop-un-completo-gestor-de-dotfiles/</link>
+            <description>Dotdrop, un completo gestor de dotfiles</description>
+            <pubDate>Mon Aug 16 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: KDEApps2: Continuando la exploración de las apps de la Comunidad KDE</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/ot9GxWcpN3A/</link>
+            <description>KDEApps2: Continuando la exploración de las apps de la Comunidad KDE</description>
+            <pubDate>Mon Aug 16 04:00:17 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Robot Pet is A Chip Off The Old Logic Block</title>
+            <link>https://hackaday.com/2021/08/15/robot-pet-is-a-chip-off-the-old-logic-block/</link>
+            <description>Robot Pet is A Chip Off The Old Logic Block</description>
+            <pubDate>Mon Aug 16 02:00:35 2021</pubDate>
+            </item>
+            <item>
+            <title>56K.ES: Toots con fecha de caducidad – Borrando nuestro pasado en mastodon</title>
+            <link>https://56k.es/fanta/ephemetoot-toots-con-fecha-de-caducidad-borrando-nuestro-pasado-en-mastodon/</link>
+            <description>Toots con fecha de caducidad – Borrando nuestro pasado en mastodon</description>
+            <pubDate>Sun Aug 15 23:10:40 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: August 15, 2021</title>
+            <link>https://hackaday.com/2021/08/15/hackaday-links-august-15-2021/</link>
+            <description>Hackaday Links: August 15, 2021</description>
+            <pubDate>Sun Aug 15 23:00:43 2021</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu!: How to Access Extra Dock Settings in elementary OS 6</title>
+            <link>https://www.omgubuntu.co.uk/2021/08/how-to-access-extra-dock-settings-in-elementary-os-6</link>
+            <description>How to Access Extra Dock Settings in elementary OS 6</description>
+            <pubDate>Sun Aug 15 22:59:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Venus de cerca: estos son los sonidos producidos por dos sondas de la Agencia Espacial Europea al acercarse al infernal planeta</title>
+            <link>http://feeds.weblogssl.com/~r/xataka2/~3/uemLgHtNhUs/venus-cerca-estos-sonidos-producidos-dos-sondas-agencia-espacial-europea-al-acercarse-al-infernal-planeta</link>
+            <description>Venus de cerca: estos son los sonidos producidos por dos sondas de la Agencia Espacial Europea al acercarse al infernal planeta</description>
+            <pubDate>Sun Aug 15 22:09:39 2021</pubDate>
+            </item>
+            <item>
             <title>EsGeeks: BYOB: Framework de Post-explotación de Código Abierto</title>
             <link>https://esgeeks.com/byob-framework-post-explotacion/</link>
             <description>BYOB: Framework de Post-explotación de Código Abierto</description>
@@ -22,53 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/xataka2/~3/lYkHcEhCJ8A/nueva-funcion-android-permite-controlar-movil-utilizando-expresiones-faciales</link>
             <description>Una nueva función de Android permite controlar el móvil utilizando expresiones faciales</description>
             <pubDate>Sun Aug 15 20:34:07 2021</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Linux Play: Lost Ruins, HUNTDOWN, Outbreak: Endless Nightmares, Realpolitiks II…</title>
-            <link>https://www.muylinux.com/2021/08/15/linux-play-118/</link>
-            <description>Linux Play: Lost Ruins, HUNTDOWN, Outbreak: Endless Nightmares, Realpolitiks II…</description>
-            <pubDate>Sun Aug 15 20:10:02 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Solar Display Case is a Portable Triple Monitor Setup</title>
-            <link>https://hackaday.com/2021/08/15/solar-display-case-is-a-portable-triple-monitor-setup/</link>
-            <description>Solar Display Case is a Portable Triple Monitor Setup</description>
-            <pubDate>Sun Aug 15 20:01:17 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así es Tivify, la plataforma para ver y grabar la TDT gratis</title>
-            <link>https://www.adslzone.net/reportajes/tv-streaming/tivify-canales-streaming/</link>
-            <description>Así es Tivify, la plataforma para ver y grabar la TDT gratis</description>
-            <pubDate>Sun Aug 15 18:25:10 2021</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu!: PineNote is a $399 E-ink Tablet that Runs Linux</title>
-            <link>https://www.omgubuntu.co.uk/2021/08/pine64-pinenote-e-ink-tablet-running-linux</link>
-            <description>PineNote is a $399 E-ink Tablet that Runs Linux</description>
-            <pubDate>Sun Aug 15 18:13:12 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La historia de "la venganza" tras una accidentada caída que acabó en un prototipo real de bicicleta autónoma y autoestable</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/LbaBMb1wQuY/historia-accidentada-caida-que-acabo-prototipo-real-bicicleta-autonoma-autoestable</link>
-            <description>La historia de "la venganza" tras una accidentada caída que acabó en un prototipo real de bicicleta autónoma y autoestable</description>
-            <pubDate>Sun Aug 15 18:01:39 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Este es mi gadget imprescindible cuando me voy de vacaciones: 14 dispositivos recomendados por los editores de Xataka</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/ivq5_cIi9wM/este-mi-gadget-imprescindible-cuando-me-voy-vacaciones-14-dispositivos-recomendados-editores-xataka</link>
-            <description>Este es mi gadget imprescindible cuando me voy de vacaciones: 14 dispositivos recomendados por los editores de Xataka</description>
-            <pubDate>Sun Aug 15 17:48:15 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Cold Gas Thruster On an RC Car</title>
-            <link>https://hackaday.com/2021/08/15/a-cold-gas-thruster-on-an-rc-car/</link>
-            <description>A Cold Gas Thruster On an RC Car</description>
-            <pubDate>Sun Aug 15 17:00:42 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: El Wi-Fi se desconecta al descargar: soluciona este problema</title>
-            <link>https://www.redeszone.net/tutoriales/redes-wifi/wi-fi-se-desconecta-descargar-solucion/</link>
-            <description>El Wi-Fi se desconecta al descargar: soluciona este problema</description>
-            <pubDate>Sun Aug 15 17:00:00 2021</pubDate>
             </item></channel>
 </rss>
