@@ -6,10 +6,58 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Commander X16: A Dreamy 8 bit Computer Comes Closer To Reality</title>
+            <link>https://hackaday.com/2021/08/18/commander-x16-a-dreamy-8-bit-computer-comes-closer-to-reality/</link>
+            <description>Commander X16: A Dreamy 8 bit Computer Comes Closer To Reality</description>
+            <pubDate>Thu Aug 19 05:00:56 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Nueva vulnerabilidad crítica en Linux denominada Sequoia</title>
+            <link>https://unaaldia.hispasec.com/2021/08/nueva-vulnerabilidad-critica-en-linux-denominada-sequoia.html</link>
+            <description>Nueva vulnerabilidad crítica en Linux denominada Sequoia</description>
+            <pubDate>Thu Aug 19 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Atareao: Donde alojar tu bot de Telegram. Una de preguntas y respuestas.</title>
+            <link>https://atareao.es/podcast/donde-alojar-tu-bot-de-telegram-una-de-preguntas-y-respuestas/</link>
+            <description>Donde alojar tu bot de Telegram. Una de preguntas y respuestas.</description>
+            <pubDate>Thu Aug 19 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Cockpit: Aplicación con interfaz web para la administración de servidores</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/LScOyXSVDpY/</link>
+            <description>Cockpit: Aplicación con interfaz web para la administración de servidores</description>
+            <pubDate>Thu Aug 19 04:00:27 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Phased Array Levitation Is Science in Action</title>
+            <link>https://hackaday.com/2021/08/18/phased-array-levitation-is-science-in-action/</link>
+            <description>Phased Array Levitation Is Science in Action</description>
+            <pubDate>Thu Aug 19 02:00:22 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: DIY Source Measurement Unit Shows All The Details</title>
+            <link>https://hackaday.com/2021/08/18/diy-source-measurement-unit-shows-all-the-details/</link>
+            <description>DIY Source Measurement Unit Shows All The Details</description>
+            <pubDate>Wed Aug 18 23:00:53 2021</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Baidu desvela Robocar, su concepto de coche autónomo que refleja la visión a futuro de la compañía china</title>
+            <link>http://feeds.weblogssl.com/~r/xataka2/~3/pxPZIFMwfZk/baidu-desvela-robocar-su-concepto-coche-autonomo-que-refleja-vision-a-futuro-compania-china</link>
+            <description>Baidu desvela Robocar, su concepto de coche autónomo que refleja la visión a futuro de la compañía china</description>
+            <pubDate>Wed Aug 18 22:11:44 2021</pubDate>
+            </item>
+            <item>
             <title>Adrianistán: Reinforcement Learning (Aprendizaje por refuerzo): Q-Learning (parte 3)</title>
             <link>https://blog.adrianistan.eu/reinforcement-learning-aprendizaje-refuerzo-q-learning-3</link>
             <description>Reinforcement Learning (Aprendizaje por refuerzo): Q-Learning (parte 3)</description>
             <pubDate>Wed Aug 18 20:38:19 2021</pubDate>
+            </item>
+            <item>
+            <title>MuyLinux: Zorin OS 16, una actualización comedida con versión Pro</title>
+            <link>https://www.muylinux.com/2021/08/18/zorin-os-16/</link>
+            <description>Zorin OS 16, una actualización comedida con versión Pro</description>
+            <pubDate>Wed Aug 18 20:35:46 2021</pubDate>
             </item>
             <item>
             <title>EsGeeks: NinjaDroid: Ingeniería Inversa en Paquetes APK de Android</title>
@@ -22,53 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/xataka2/~3/2e5bQ3uf3lY/unos-compran-bitcoin-otros-vuelves-al-oro-palantir-se-hace-lingotes-valor-50-millones-dolares</link>
             <description>Unos compran Bitcoin y otros vuelven al oro: Palantir se hace con lingotes por valor de más de 50 millones de dólares</description>
             <pubDate>Wed Aug 18 20:30:01 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Build an Amphibious Robot Using Pool Noodles for Wheels</title>
-            <link>https://hackaday.com/2021/08/18/build-an-amphibious-robot-using-pool-noodles-for-wheels/</link>
-            <description>Build an Amphibious Robot Using Pool Noodles for Wheels</description>
-            <pubDate>Wed Aug 18 20:00:50 2021</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: SerenityOS, el sistema Unix con aspecto de Windows de los 90 creado desde cero por un solo hombre como proyecto terapéutico</title>
-            <link>http://feeds.weblogssl.com/~r/genbeta/~3/8_uNpBez_48/serenityos-sistema-unix-aspecto-windows-90-creado-cero-solo-hombre-como-proyecto-terapeutico</link>
-            <description>SerenityOS, el sistema Unix con aspecto de Windows de los 90 creado desde cero por un solo hombre como proyecto terapéutico</description>
-            <pubDate>Wed Aug 18 19:00:35 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Este nuevo estándar para Smart TV permitirá usar cualquier altavoz por WiFi</title>
-            <link>https://www.adslzone.net/noticias/productos/dts-play-fi-home-theater-wifi-estandar/</link>
-            <description>Este nuevo estándar para Smart TV permitirá usar cualquier altavoz por WiFi</description>
-            <pubDate>Wed Aug 18 19:00:27 2021</pubDate>
-            </item>
-            <item>
-            <title>Pymes y Autonomos: ¿Se valora más una nómina que a un autónomo solvente para  acceder a un crédito?</title>
-            <link>http://feeds.weblogssl.com/~r/pymesyautonomos/~3/1W_zxRWQfxI/se-valora-nomina-que-a-autonomo-solvente-para-acceder-a-credito</link>
-            <description>¿Se valora más una nómina que a un autónomo solvente para  acceder a un crédito?</description>
-            <pubDate>Wed Aug 18 19:00:22 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Raspberry Pi Powered Standing Desk Rises To New Heights</title>
-            <link>https://hackaday.com/2021/08/18/raspberry-pi-powered-standing-desk-rises-to-new-heights/</link>
-            <description>Raspberry Pi Powered Standing Desk Rises To New Heights</description>
-            <pubDate>Wed Aug 18 18:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Foto: Penélope Cruz, fotógrafa en la nueva película de Almodóvar, y otras actrices que cogieron la cámara</title>
-            <link>http://feeds.weblogssl.com/~r/xatakafoto/~3/09bML8O0Z6A/penelope-cruz-interpreta-a-fotografa-proxima-pelicula-almodovar-otras-actrices-que-tambien-fueron</link>
-            <description>Penélope Cruz, fotógrafa en la nueva película de Almodóvar, y otras actrices que cogieron la cámara</description>
-            <pubDate>Wed Aug 18 18:06:25 2021</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Google como alternativa a la Universidad: certificados en seis meses que ellos consideran equivalente a una carrera de cuatro años</title>
-            <link>http://feeds.weblogssl.com/~r/genbeta/~3/-nhhBO_zdJ8/google-como-alternativa-a-universidad-certificados-seis-meses-que-ellos-consideran-equivalente-a-carrera-cuatro-anos</link>
-            <description>Google como alternativa a la Universidad: certificados en seis meses que ellos consideran equivalente a una carrera de cuatro años</description>
-            <pubDate>Wed Aug 18 18:02:57 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Una rutina completa que te ayuda a quemar grasa y ganar músculo</title>
-            <link>http://feeds.weblogssl.com/~r/Vitonica/~3/N0wnXuW68CE/rutina-completa-que-te-ayuda-a-quemar-grasa-ganar-musculo</link>
-            <description>Una rutina completa que te ayuda a quemar grasa y ganar músculo</description>
-            <pubDate>Wed Aug 18 18:00:35 2021</pubDate>
             </item></channel>
 </rss>
