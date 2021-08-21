@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Traditional Analogue And An FPGA Make This Junkbox HF Receiver A Bit Special</title>
+            <link>https://hackaday.com/2021/08/20/traditional-analogue-and-an-fpga-make-this-junkbox-hf-receiver-a-bit-special/</link>
+            <description>Traditional Analogue And An FPGA Make This Junkbox HF Receiver A Bit Special</description>
+            <pubDate>Sat Aug 21 05:00:45 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Publicado parche de seguridad para FortiWeb</title>
+            <link>https://unaaldia.hispasec.com/2021/08/publicado-parche-de-seguridad-para-fortiweb.html</link>
+            <description>Publicado parche de seguridad para FortiWeb</description>
+            <pubDate>Sat Aug 21 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: CopyQ 4.1.0: Novedades del avanzado administrador del portapapeles</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/Lp2yluyW5IU/</link>
+            <description>CopyQ 4.1.0: Novedades del avanzado administrador del portapapeles</description>
+            <pubDate>Sat Aug 21 04:00:49 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Re-Engineering an RC Helicopter via Tinkercad</title>
+            <link>https://hackaday.com/2021/08/20/re-engineering-an-rc-helicopter-via-tinkercad/</link>
+            <description>Re-Engineering an RC Helicopter via Tinkercad</description>
+            <pubDate>Sat Aug 21 02:00:03 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Spaghetti Detective Users Boiled by Security Gaffe</title>
+            <link>https://hackaday.com/2021/08/20/spaghetti-detective-users-boiled-by-security-gaffe__trashed/</link>
+            <description>Spaghetti Detective Users Boiled by Security Gaffe</description>
+            <pubDate>Fri Aug 20 23:00:06 2021</pubDate>
+            </item>
+            <item>
             <title>Genbeta: Qué versión de Linux elegir si eres principiante y quieres poder seguir jugando a tus videojuegos favoritos</title>
             <link>http://feeds.weblogssl.com/~r/genbeta/~3/SkFXAcn0u7Y/que-version-linux-elegir-eres-principiante-quieres-poder-seguir-jugando-a-tus-videojuegos-favoritos</link>
             <description>Qué versión de Linux elegir si eres principiante y quieres poder seguir jugando a tus videojuegos favoritos</description>
@@ -40,35 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/Vitonica/~3/TdbhmSfYMQ0/cinco-ejercicios-tu-peso-corporal-para-mejorar-flacidez-tus-brazos</link>
             <description>Cinco ejercicios con tu peso corporal para mejorar la flacidez de tus brazos</description>
             <pubDate>Fri Aug 20 18:00:57 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Impresiona a los demás con estos Stickers ocultos en Instagram</title>
-            <link>https://www.adslzone.net/como-se-hace/instagram/mejores-stickers-instagram/</link>
-            <description>Impresiona a los demás con estos Stickers ocultos en Instagram</description>
-            <pubDate>Fri Aug 20 17:59:43 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 13 estrenos y lanzamientos imprescindibles para el fin de semana: 'Free Guy', 'Ghost of Tsushima Director's Cut', lovecraft y mucho más</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/p8lu4uH9tmk/13-estrenos-lanzamientos-imprescindibles-para-fin-semana-free-guy-ghost-of-tsushima-directors-cut-lovecraft-mucho</link>
-            <description>13 estrenos y lanzamientos imprescindibles para el fin de semana: 'Free Guy', 'Ghost of Tsushima Director's Cut', lovecraft y mucho más</description>
-            <pubDate>Fri Aug 20 17:55:14 2021</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: ¡Muestra tu escritorio, hijo de Tux! (2021)</title>
-            <link>https://www.muylinux.com/2021/08/20/muestra-tu-escritorio-2021/</link>
-            <description>¡Muestra tu escritorio, hijo de Tux! (2021)</description>
-            <pubDate>Fri Aug 20 17:21:29 2021</pubDate>
-            </item>
-            <item>
-            <title>56K.ES: Auriculares por suscripción y Ransomware como servicio</title>
-            <link>https://56k.es/fanta/auriculares-por-suscripcion-y-ransomware-como-servicio/</link>
-            <description>Auriculares por suscripción y Ransomware como servicio</description>
-            <pubDate>Fri Aug 20 17:18:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Changelog: GoKart – a static analysis tool for securing Go code</title>
-            <link>https://github.com/praetorian-inc/gokart</link>
-            <description>GoKart – a static analysis tool for securing Go code</description>
-            <pubDate>Fri Aug 20 17:16:00 2021</pubDate>
             </item></channel>
 </rss>
