@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Atareao: Sobre túneles romanos y túneles virtuales</title>
+            <link>https://atareao.es/podcast/sobre-tuneles-romanos-y-tuneles-virtuales/</link>
+            <description>Sobre túneles romanos y túneles virtuales</description>
+            <pubDate>Mon Aug 23 05:25:20 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: RGB LED Matrix Helps Etch-a-Sketch Scratch Out a 21st Century Existence</title>
+            <link>https://hackaday.com/2021/08/22/rgb-led-matrix-helps-etch-a-sketch-scratch-out-a-21st-century-existence/</link>
+            <description>RGB LED Matrix Helps Etch-a-Sketch Scratch Out a 21st Century Existence</description>
+            <pubDate>Mon Aug 23 05:00:50 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Quake: ¿Cómo jugar el FPS Quake1 con QuakeSpasm sobre GNU/Linux?</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/4xGKH3Glqy0/</link>
+            <description>Quake: ¿Cómo jugar el FPS Quake1 con QuakeSpasm sobre GNU/Linux?</description>
+            <pubDate>Mon Aug 23 04:00:57 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Hidamari: Fondo de Pantalla de Vídeo para Linux</title>
+            <link>https://esgeeks.com/hidamari-fondo-pantalla-video-linux/</link>
+            <description>Hidamari: Fondo de Pantalla de Vídeo para Linux</description>
+            <pubDate>Mon Aug 23 03:24:55 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Artful Nixie Bot Sculpture Sees, Thinks, and Talks</title>
+            <link>https://hackaday.com/2021/08/22/artful-nixie-bot-sculpture-sees-thinks-and-talks/</link>
+            <description>Artful Nixie Bot Sculpture Sees, Thinks, and Talks</description>
+            <pubDate>Mon Aug 23 02:00:58 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: August 22, 2021</title>
+            <link>https://hackaday.com/2021/08/22/hackaday-links-august-22-2021/</link>
+            <description>Hackaday Links: August 22, 2021</description>
+            <pubDate>Sun Aug 22 23:00:30 2021</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Cloudflare dice haber mitigado el mayor ataque DDoS de la historia: 17,2 millones de peticiones por segundo</title>
+            <link>https://www.xataka.com/seguridad/cloudflare-dice-haber-mitigado-mayor-ataque-ddos-historia-17-2-millones-peticiones-segundo</link>
+            <description>Cloudflare dice haber mitigado el mayor ataque DDoS de la historia: 17,2 millones de peticiones por segundo</description>
+            <pubDate>Sun Aug 22 22:11:20 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.13.12</title>
             <link>https://lignux.com/tutorial-para-instalar-la-version-de-mantenimiento-del-kernel-linux-5-13-12/</link>
             <description>Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.13.12</description>
@@ -18,57 +60,15 @@
             <pubDate>Sun Aug 22 20:33:00 2021</pubDate>
             </item>
             <item>
+            <title>MuyLinux: Linux Play: Griftlands, Wildermyth, ﻿Astalon: Tears of the Earth, Muck﻿…</title>
+            <link>https://www.muylinux.com/2021/08/22/linux-play-119/</link>
+            <description>Linux Play: Griftlands, Wildermyth, ﻿Astalon: Tears of the Earth, Muck﻿…</description>
+            <pubDate>Sun Aug 22 20:22:52 2021</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: 3D Printing Liquid Crystal</title>
             <link>https://hackaday.com/2021/08/22/3d-printing-liquid-crystal/</link>
             <description>3D Printing Liquid Crystal</description>
             <pubDate>Sun Aug 22 20:00:27 2021</pubDate>
-            </item>
-            <item>
-            <title>entornos GNU/Linux: Odin Tip I: AppCenter, Flatpak, FlatHub, y más en elementary OS Odin</title>
-            <link>https://entornosgnulinux.com/2021/08/22/odin-tip-i-appcenter-flatpak-flathub-y-mas-en-elementary-os-odin/</link>
-            <description>Odin Tip I: AppCenter, Flatpak, FlatHub, y más en elementary OS Odin</description>
-            <pubDate>Sun Aug 22 18:33:30 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Todo sobre la Inteligencia Artificial: Qué es y qué usos tiene</title>
-            <link>https://www.adslzone.net/reportajes/tecnologia/ia-inteligencia-artificial/</link>
-            <description>Todo sobre la Inteligencia Artificial: Qué es y qué usos tiene</description>
-            <pubDate>Sun Aug 22 18:20:39 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Multizork: rememorando el clásico videojuego de los 80</title>
-            <link>https://www.linuxadictos.com/multizork-clasico-videojuego-zork-80s-multijugador.html</link>
-            <description>Multizork: rememorando el clásico videojuego de los 80</description>
-            <pubDate>Sun Aug 22 17:26:54 2021</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Gemini, el protocolo alternativo al HTTP que promueve un Internet más ligero y seguro, más basado en el texto que en lo multimedia</title>
-            <link>http://feeds.weblogssl.com/~r/genbeta/~3/zxycYfay0b4/gemini-protocolo-alternativo-al-http-que-promueve-internet-ligero-seguro-basado-texto-que-multimedia</link>
-            <description>Gemini, el protocolo alternativo al HTTP que promueve un Internet más ligero y seguro, más basado en el texto que en lo multimedia</description>
-            <pubDate>Sun Aug 22 17:09:51 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Dime de qué país eres y te diré las probabilidades de que vuelvas a la oficina</title>
-            <link>https://www.xataka.com/pro/dime-que-pais-eres-te-dire-probabilidades-que-vuelvas-a-oficina</link>
-            <description>Dime de qué país eres y te diré las probabilidades de que vuelvas a la oficina</description>
-            <pubDate>Sun Aug 22 17:01:19 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Filtración de dirección IP pública: cómo puede ocurrir y cómo nos afecta</title>
-            <link>https://www.redeszone.net/tutoriales/seguridad/filtrar-direccion-ip-publica-seguridad-privacidad/</link>
-            <description>Filtración de dirección IP pública: cómo puede ocurrir y cómo nos afecta</description>
-            <pubDate>Sun Aug 22 17:00:55 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: DIY LED Cube for the Masses</title>
-            <link>https://hackaday.com/2021/08/22/diy-led-cube-for-the-masses/</link>
-            <description>DIY LED Cube for the Masses</description>
-            <pubDate>Sun Aug 22 17:00:28 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La mejor sesión de cine de intriga con estas películas de Disney+</title>
-            <link>https://www.adslzone.net/reportajes/series/peliculas-misterio-disney/</link>
-            <description>La mejor sesión de cine de intriga con estas películas de Disney+</description>
-            <pubDate>Sun Aug 22 16:10:11 2021</pubDate>
             </item></channel>
 </rss>
