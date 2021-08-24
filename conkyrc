@@ -70,9 +70,9 @@ ${color1}${goto 35}Core 7 : ${color}${freq_g 7}GHz ${alignr}${cpu cpu7}% ${cpuba
 
 ${color2}${font ConkySymbols:size=16}h${font} ${voffset -10} Temperaturas${color}
 ${color1}${goto 35}Core 0 : ${color}${execi 3 sensors | grep 'Core 0' | cut -c16-25} ${color1}TSH : ${color}${execi 3 sensors | grep 'Core 0' | cut -c34-41} ${color1}TSHH : ${color}${execi 3 sensors | grep 'Core 0' | cut -c51-59}
-${color1}${goto 35}Core 1 : ${color}${execi 3 sensors | grep 'Core 1' | cut -c16-25} ${color1}TSH : ${color}${execi 3 sensors | grep 'Core 1' | cut -c34-41} ${color1}TSHH : ${color}${execi 3 sensors | grep 'Core 0' | cut -c51-59}
-${color1}${goto 35}Core 2 : ${color}${execi 3 sensors | grep 'Core 2' | cut -c16-25} ${color1}TSH : ${color}${execi 3 sensors | grep 'Core 2' | cut -c34-41} ${color1}TSHH : ${color}${execi 3 sensors | grep 'Core 0' | cut -c51-59}
-${color1}${goto 35}Core 3 : ${color}${execi 3 sensors | grep 'Core 3' | cut -c16-25} ${color1}TSH : ${color}${execi 3 sensors | grep 'Core 3' | cut -c34-41} ${color1}TSHH : ${color}${execi 3 sensors | grep 'Core 0' | cut -c51-59}
+${color1}${goto 35}Core 1 : ${color}${execi 3 sensors | grep 'Core 1' | cut -c16-25} ${color1}TSH : ${color}${execi 3 sensors | grep 'Core 1' | cut -c34-41} ${color1}TSHH : ${color}${execi 3 sensors | grep 'Core 1' | cut -c51-59}
+${color1}${goto 35}Core 2 : ${color}${execi 3 sensors | grep 'Core 2' | cut -c16-25} ${color1}TSH : ${color}${execi 3 sensors | grep 'Core 2' | cut -c34-41} ${color1}TSHH : ${color}${execi 3 sensors | grep 'Core 2' | cut -c51-59}
+${color1}${goto 35}Core 3 : ${color}${execi 3 sensors | grep 'Core 3' | cut -c16-25} ${color1}TSH : ${color}${execi 3 sensors | grep 'Core 3' | cut -c34-41} ${color1}TSHH : ${color}${execi 3 sensors | grep 'Core 3' | cut -c51-59}
 ${color1}${goto 35}Core 4 : ${color}Virtual
 ${color1}${goto 35}Core 5 : ${color}Virtual
 ${color1}${goto 35}Core 6 : ${color}Virtual
