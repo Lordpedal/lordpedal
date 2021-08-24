@@ -59,14 +59,14 @@ ${color1}${goto 35}Promedios: ${color}$loadavg
 ${color1}${goto 35}Total Procesos: ${color}$processes
 
 ${color2}${font ConkySymbols:size=16}f${font} ${voffset -10} Sistema${color}
-${color1}${goto 35}Core 0 : ${color}${freq_g 1}GHz ${alignr}${cpu cpu0}% ${cpubar cpu0 4,100}
-${color1}${goto 35}Core 1 : ${color}${freq_g 2}GHz ${alignr}${cpu cpu1}% ${cpubar cpu1 4,100}
-${color1}${goto 35}Core 2 : ${color}${freq_g 3}GHz ${alignr}${cpu cpu2}% ${cpubar cpu2 4,100}
-${color1}${goto 35}Core 3 : ${color}${freq_g 4}GHz ${alignr}${cpu cpu3}% ${cpubar cpu3 4,100}
-${color1}${goto 35}Core 4 : ${color}${freq_g 4}GHz ${alignr}${cpu cpu3}% ${cpubar cpu4 4,100}
-${color1}${goto 35}Core 5 : ${color}${freq_g 4}GHz ${alignr}${cpu cpu3}% ${cpubar cpu5 4,100}
-${color1}${goto 35}Core 6 : ${color}${freq_g 4}GHz ${alignr}${cpu cpu3}% ${cpubar cpu6 4,100}
-${color1}${goto 35}Core 7 : ${color}${freq_g 4}GHz ${alignr}${cpu cpu3}% ${cpubar cpu7 4,100}
+${color1}${goto 35}Core 0 : ${color}${freq_g 0}GHz ${alignr}${cpu cpu0}% ${cpubar cpu0 4,100}
+${color1}${goto 35}Core 1 : ${color}${freq_g 1}GHz ${alignr}${cpu cpu1}% ${cpubar cpu1 4,100}
+${color1}${goto 35}Core 2 : ${color}${freq_g 2}GHz ${alignr}${cpu cpu2}% ${cpubar cpu2 4,100}
+${color1}${goto 35}Core 3 : ${color}${freq_g 3}GHz ${alignr}${cpu cpu3}% ${cpubar cpu3 4,100}
+${color1}${goto 35}Core 4 : ${color}${freq_g 4}GHz ${alignr}${cpu cpu4}% ${cpubar cpu4 4,100}
+${color1}${goto 35}Core 5 : ${color}${freq_g 5}GHz ${alignr}${cpu cpu5}% ${cpubar cpu5 4,100}
+${color1}${goto 35}Core 6 : ${color}${freq_g 6}GHz ${alignr}${cpu cpu6}% ${cpubar cpu6 4,100}
+${color1}${goto 35}Core 7 : ${color}${freq_g 7}GHz ${alignr}${cpu cpu7}% ${cpubar cpu7 4,100}
 
 ${color2}${font ConkySymbols:size=16}h${font} ${voffset -10} Temperaturas${color}
 ${color1}${goto 35}Core 0 : ${color}${execi 3 sensors | grep 'Core 0' | cut -c16-25} ${color1}TSH : ${color}${execi 3 sensors | grep 'Core 0' | cut -c34-41} ${color1}TSHH : ${color}${execi 3 sensors | grep 'Core 0' | cut -c51-59}
