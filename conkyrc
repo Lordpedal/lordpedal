@@ -1,0 +1,114 @@
+--[[
+# Overclock Server Conky
+# Another fine release by Lordpedal
+# https://lordpedal.github.io
+]]
+
+conky.config = {
+    alignment = 'top_right',
+    background = true,
+    border_width = 1,
+    cpu_avg_samples = 2,
+    default_color = 'gray',
+    default_outline_color = 'white',
+    default_shade_color = 'white',
+    color1 = '#1793d1',
+    color2 = '#f7347a',
+    double_buffer = true,
+    draw_borders = false,
+    draw_graph_borders = true,
+    draw_outline = false,
+    draw_shades = false,
+    extra_newline = false,
+    font = 'Roboto Mono:size=10',
+    gap_x = 30,
+    gap_y = 30,
+    minimum_height = 250,
+    minimum_width = 220,
+    net_avg_samples = 2,
+    no_buffers = true,
+    out_to_console = false,
+    out_to_ncurses = false,
+    out_to_stderr = false,
+    out_to_x = true,
+    own_window = true,
+    own_window_transparent = true,
+    own_window_argb_visual = true,
+    own_window_class = 'Conky',
+    own_window_type = 'normal',
+    own_window_hints ='undecorated,sticky,skip_taskbar,skip_pager,below',
+    show_graph_range = false,
+    show_graph_scale = false,
+    stippled_borders = 0,
+    update_interval = 3.0,
+    uppercase = false,
+    use_spacer = 'none',
+    use_xft = true,
+}
+
+conky.text = [[
+
+${color2}${font ConkySymbols:size=16}s${font} ${voffset -10} GNU/Linux${color}
+${color1}${goto 35}OS: ${color}${execi 86400 cat `ls -atr /etc/*-release | tail -2` | grep "PRETTY_NAME" | cut -d= -f2 |  sed 's/"//g'}
+${color1}${goto 35}Kernel: ${color}$kernel on $machine
+${color1}${goto 35}Usuario: ${color}${exec whoami}
+${color1}${goto 35}Fecha: ${color}${time %a,%d %B}
+${color1}${goto 35}Hora: ${color}${time %k:%M:%S}
+${color1}${goto 35}Actividad: ${color}$uptime
+${color1}${goto 35}Promedios: ${color}$loadavg
+${color1}${goto 35}Total Procesos: ${color}$processes
+
+${color2}${font ConkySymbols:size=16}f${font} ${voffset -10} Sistema${color}
+${color1}${goto 35}Core 0 : ${color}${freq_g 1}GHz ${alignr}${cpu cpu0}% ${cpubar cpu0 4,100}
+${color1}${goto 35}Core 1 : ${color}${freq_g 2}GHz ${alignr}${cpu cpu1}% ${cpubar cpu1 4,100}
+${color1}${goto 35}Core 2 : ${color}${freq_g 3}GHz ${alignr}${cpu cpu2}% ${cpubar cpu2 4,100}
+${color1}${goto 35}Core 3 : ${color}${freq_g 4}GHz ${alignr}${cpu cpu3}% ${cpubar cpu3 4,100}
+${color1}${goto 35}Core 4 : ${color}${freq_g 4}GHz ${alignr}${cpu cpu3}% ${cpubar cpu4 4,100}
+${color1}${goto 35}Core 5 : ${color}${freq_g 4}GHz ${alignr}${cpu cpu3}% ${cpubar cpu5 4,100}
+${color1}${goto 35}Core 6 : ${color}${freq_g 4}GHz ${alignr}${cpu cpu3}% ${cpubar cpu6 4,100}
+${color1}${goto 35}Core 7 : ${color}${freq_g 4}GHz ${alignr}${cpu cpu3}% ${cpubar cpu7 4,100}
+
+${color2}${font ConkySymbols:size=16}h${font} ${voffset -10} Temperaturas${color}
+${color1}${goto 35}Core 0 : ${color}${execi 3 sensors | grep 'Core 0' | cut -c16-25} ${color1}TSH : ${color}${execi 3 sensors | grep 'Core 0' | cut -c34-41} ${color1}TSHH : ${color}${execi 3 sensors | grep 'Core 0' | cut -c51-59}
+${color1}${goto 35}Core 1 : ${color}${execi 3 sensors | grep 'Core 1' | cut -c16-25} ${color1}TSH : ${color}${execi 3 sensors | grep 'Core 1' | cut -c34-41} ${color1}TSHH : ${color}${execi 3 sensors | grep 'Core 0' | cut -c51-59}
+${color1}${goto 35}Core 2 : ${color}${execi 3 sensors | grep 'Core 2' | cut -c16-25} ${color1}TSH : ${color}${execi 3 sensors | grep 'Core 2' | cut -c34-41} ${color1}TSHH : ${color}${execi 3 sensors | grep 'Core 0' | cut -c51-59}
+${color1}${goto 35}Core 3 : ${color}${execi 3 sensors | grep 'Core 3' | cut -c16-25} ${color1}TSH : ${color}${execi 3 sensors | grep 'Core 3' | cut -c34-41} ${color1}TSHH : ${color}${execi 3 sensors | grep 'Core 0' | cut -c51-59}
+${color1}${goto 35}Core 4 : ${color}Virtual
+${color1}${goto 35}Core 5 : ${color}Virtual
+${color1}${goto 35}Core 6 : ${color}Virtual
+${color1}${goto 35}Core 7 : ${color}Virtual
+
+${color2}${font ConkySymbols:size=16}k${font} ${voffset -10} Almacenamiento${color}
+${color1}${goto 35}SSD${color} $alignr ${fs_used /} / ${fs_size /}
+${goto 35}${fs_bar /}
+${color1}${goto 35}RAID${color} $alignr ${fs_used /media/raidnas} / ${fs_size /media/raidnas} 
+${goto 35}${fs_bar /media/raidnas}
+
+${color2}${font ConkySymbols:size=16}J${font} ${voffset -10} Memoria${color}
+${color1}${goto 35}RAM${color} $alignr $mem / $memmax
+${goto 35}${membar}
+${color1}${goto 35}SWAP${color} $alignr $swap / $swapmax
+${goto 35}$swapbar
+
+${color2}${font ConkySymbols:size=16}n${font} ${voffset -10} Procesos${color}
+${color1}${goto 35}Top consumo CPU${color}
+${goto 35}${top name 1}$alignr${top cpu 1}%
+${goto 35}${top name 2}$alignr${top cpu 2}%
+${goto 35}${top name 3}$alignr${top cpu 3}%
+${goto 35}${top name 4}$alignr${top cpu 4}%
+${goto 35}${top name 5}$alignr${top cpu 5}%
+${color1}${goto 35}Top consumo RAM${color}
+${goto 35}${top_mem name 1}$alignr${top_mem mem 1}%
+${goto 35}${top_mem name 2}$alignr${top_mem mem 2}%
+${goto 35}${top_mem name 3}$alignr${top_mem mem 3}%
+${goto 35}${top_mem name 4}$alignr${top_mem mem 4}%
+${goto 35}${top_mem name 5}$alignr${top_mem mem 5}%
+
+${color2}${font ConkySymbols:size=16}i${font} ${voffset -10} Red${color}
+${color1}${goto 35}IP Red: ${color}${addr br0}
+${color1}${goto 35}Subida: ${color}${totalup br0}  ${color1}Velocidad: ${color}${upspeed br0}/s
+${goto 35}${upspeedgraph br0 30,250 0000ff ff0000}
+${color1}${goto 35}Bajada: ${color}${totaldown br0}  ${color1}Velocidad: ${color}${downspeed br0}/s
+${goto 35}${downspeedgraph br0 30,250 01df01 10fd10}
+
+]]
