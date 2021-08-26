@@ -5,6 +5,7 @@
 - 🌈 [Rincón de Iris](https://rincondeiris.club/ "Rincón de Iris"): **Un espacio creativo y personalizado.**
 
 ### Overclock Server: *Últimos artículos*
+- [Conky: Debian GNU/Linux ](https://lordpedal.github.io/gnu/linux/conky-debian.gnu/)
 - [Debian 11 Bullseye: Servidor PC](https://lordpedal.github.io/gnu/linux/debian-11-servidor/)
 - [Node-RED: Docker](https://lordpedal.github.io/gnu/linux/docker/nodered-docker/)
 - [Arduino UNO TTL: Debian GNU/Linux](https://lordpedal.github.io/gnu/linux/domotica/arduino-ttl-gnu/)
