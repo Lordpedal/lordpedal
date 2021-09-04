@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Retro Shield Replaces Springs With Jumpers, Includes Blinkenlights!</title>
+            <link>https://hackaday.com/2021/09/03/retro-shield-replaces-springs-with-jumpers-includes-blinkenlights/</link>
+            <description>Retro Shield Replaces Springs With Jumpers, Includes Blinkenlights!</description>
+            <pubDate>Sat Sep  4 05:00:51 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: InviZible Pro: Una App Android para la privacidad y la seguridad en línea</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/eq5SXrC-804/</link>
+            <description>InviZible Pro: Una App Android para la privacidad y la seguridad en línea</description>
+            <pubDate>Sat Sep  4 04:00:46 2021</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Neither Windows, nor Linux! Shrine is ‘God’s Operating System’</title>
+            <link>https://itsfoss.com/shrine-os/</link>
+            <description>Neither Windows, nor Linux! Shrine is ‘God’s Operating System’</description>
+            <pubDate>Sat Sep  4 03:58:02 2021</pubDate>
+            </item>
+            <item>
+            <title>masGNULinux Blog: A propósito de Apropos</title>
+            <link>https://masgnulinux.es/apropos-recordar-comandos-olvidados-en-el-terminal/</link>
+            <description>A propósito de Apropos</description>
+            <pubDate>Sat Sep  4 03:54:38 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Smooth Servo Motion For Lifelike Animatronics</title>
+            <link>https://hackaday.com/2021/09/03/smooth-servo-motion-for-lifelike-animatronics/</link>
+            <description>Smooth Servo Motion For Lifelike Animatronics</description>
+            <pubDate>Sat Sep  4 02:00:14 2021</pubDate>
+            </item>
+            <item>
+            <title>3D Insider: Alabama Nuclear Plant to Use 3D Printed Parts</title>
+            <link>https://3dinsider.com/alabama-nuclear-3d-printing/</link>
+            <description>Alabama Nuclear Plant to Use 3D Printed Parts</description>
+            <pubDate>Sat Sep  4 00:23:26 2021</pubDate>
+            </item>
+            <item>
+            <title>3D Insider: Diode Lasers Vs. CO2 Lasers – Which One is Best for Laser Engraving?</title>
+            <link>https://3dinsider.com/diode-lasers-vs-co2-lasers/</link>
+            <description>Diode Lasers Vs. CO2 Lasers – Which One is Best for Laser Engraving?</description>
+            <pubDate>Sat Sep  4 00:23:07 2021</pubDate>
+            </item>
+            <item>
+            <title>3D Insider: The Paralympics as a Showcase of 3D Printing Technology</title>
+            <link>https://3dinsider.com/3d-printing-technology-paralympics/</link>
+            <description>The Paralympics as a Showcase of 3D Printing Technology</description>
+            <pubDate>Sat Sep  4 00:22:54 2021</pubDate>
+            </item>
+            <item>
+            <title>3D Insider: Niantic Acquires Scaniverse – What This Could Mean for Augmented Reality</title>
+            <link>https://3dinsider.com/niantic-acquires-scaniverse/</link>
+            <description>Niantic Acquires Scaniverse – What This Could Mean for Augmented Reality</description>
+            <pubDate>Sat Sep  4 00:22:42 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An Earthquake Display To Keep You Abreast of Rumblings Worldwide</title>
+            <link>https://hackaday.com/2021/09/03/an-earthquake-display-to-keep-you-abreast-of-rumblings-worldwide/</link>
+            <description>An Earthquake Display To Keep You Abreast of Rumblings Worldwide</description>
+            <pubDate>Fri Sep  3 23:00:26 2021</pubDate>
+            </item>
+            <item>
             <title>Xataka: Los relámpagos del Catatumbo: un monstruoso fenómeno meteorológico capaz de generar energía para iluminar 100 millones de bombillas</title>
             <link>http://feeds.weblogssl.com/~r/xataka2/~3/j2UKS9U3G-I/relampagos-catatumbo-monstruoso-fenomeno-meteorologico-capaz-generar-energia-para-iluminar-100-millones-bombillas</link>
             <description>Los relámpagos del Catatumbo: un monstruoso fenómeno meteorológico capaz de generar energía para iluminar 100 millones de bombillas</description>
             <pubDate>Fri Sep  3 20:00:30 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Arduino Measures 20V Signals Using Quantizer</title>
-            <link>https://hackaday.com/2021/09/03/arduino-measures-20v-signals-using-quantizer/</link>
-            <description>Arduino Measures 20V Signals Using Quantizer</description>
-            <pubDate>Fri Sep  3 20:00:09 2021</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Founders Talk 80: Iterating to globally distributed apps and databases</title>
-            <link>https://changelog.com/founderstalk/80</link>
-            <description>Founders Talk 80: Iterating to globally distributed apps and databases</description>
-            <pubDate>Fri Sep  3 20:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las IPv4 valen el triple en 2021: ¿afectará al precio de la fibra?</title>
-            <link>https://www.adslzone.net/noticias/operadores/ipv4-triplican-precio-2021/</link>
-            <description>Las IPv4 valen el triple en 2021: ¿afectará al precio de la fibra?</description>
-            <pubDate>Fri Sep  3 19:00:19 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.14.1</title>
-            <link>https://lignux.com/tutorial-para-instalar-la-version-de-mantenimiento-del-kernel-linux-5-14-1/</link>
-            <description>Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.14.1</description>
-            <pubDate>Fri Sep  3 18:59:53 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Wearable Scope Lets Your Fingers Do The Probing</title>
-            <link>https://hackaday.com/2021/09/03/wearable-scope-lets-your-fingers-do-the-probing/</link>
-            <description>Wearable Scope Lets Your Fingers Do The Probing</description>
-            <pubDate>Fri Sep  3 18:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Activa alertas para no perderte nuevas series en Netflix</title>
-            <link>https://www.adslzone.net/como-se-hace/plataformas-tv/conocer-novedades-netflix/</link>
-            <description>Activa alertas para no perderte nuevas series en Netflix</description>
-            <pubDate>Fri Sep  3 18:08:01 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Foto: La ergonomía para fotografiar con los teléfonos móviles es una utopía</title>
-            <link>http://feeds.weblogssl.com/~r/xatakafoto/~3/3Khiw9GwbOQ/ergonomia-telefonos-moviles</link>
-            <description>La ergonomía para fotografiar con los teléfonos móviles es una utopía</description>
-            <pubDate>Fri Sep  3 18:07:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: 17 ensaladas con legumbres para saciarnos sumando fibra y proteínas a la dieta</title>
-            <link>http://feeds.weblogssl.com/~r/Vitonica/~3/winvJd2hu3o/17-ensaladas-legumbres-para-saciarnos-sumando-fibra-proteinas-a-dieta</link>
-            <description>17 ensaladas con legumbres para saciarnos sumando fibra y proteínas a la dieta</description>
-            <pubDate>Fri Sep  3 18:02:49 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 13 estrenos y lanzamientos imprescindibles para el fin de semana: 'Shang-Chi', 'See', 'Psychonauts 2', Swamp Thing y mucho más</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/519mfx040_A/13-estrenos-lanzamientos-imprescindibles-para-fin-semana-shang-chi-see-psychonauts-2-swamp-thing-mucho</link>
-            <description>13 estrenos y lanzamientos imprescindibles para el fin de semana: 'Shang-Chi', 'See', 'Psychonauts 2', Swamp Thing y mucho más</description>
-            <pubDate>Fri Sep  3 18:00:27 2021</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Linux From Scratch 11, una distro para aprender sobre Linux</title>
-            <link>https://www.muylinux.com/2021/09/03/linux-from-scratch-11/</link>
-            <description>Linux From Scratch 11, una distro para aprender sobre Linux</description>
-            <pubDate>Fri Sep  3 17:11:53 2021</pubDate>
             </item></channel>
 </rss>
