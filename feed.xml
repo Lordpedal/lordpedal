@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Retro Stereo SID Synth Looks and Sounds Sensational</title>
+            <link>https://hackaday.com/2021/09/10/retro-stereo-sid-synth-looks-and-sounds-sensational/</link>
+            <description>Retro Stereo SID Synth Looks and Sounds Sensational</description>
+            <pubDate>Sat Sep 11 05:00:01 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Hispasec y la formación dirigida a empresas</title>
+            <link>https://unaaldia.hispasec.com/2021/09/hispasec-y-la-formacion-dirigida-a-empresas.html</link>
+            <description>Hispasec y la formación dirigida a empresas</description>
+            <pubDate>Sat Sep 11 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Project OutFox: Nueva versión 5.3 Alpha 4.9.10 disponible desde agosto</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/vHTYX7DjdHg/</link>
+            <description>Project OutFox: Nueva versión 5.3 Alpha 4.9.10 disponible desde agosto</description>
+            <pubDate>Sat Sep 11 04:00:16 2021</pubDate>
+            </item>
+            <item>
+            <title>Changelog: The Changelog 459: Coding in the cloud with Codespaces</title>
+            <link>https://changelog.com/podcast/459</link>
+            <description>The Changelog 459: Coding in the cloud with Codespaces</description>
+            <pubDate>Sat Sep 11 04:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Auxtral escritorios Cinnamon y Mate</title>
+            <link>https://www.distritotux.cl/2021/09/auxtral-escritorios-cinnamon-y-mate.html</link>
+            <description>Auxtral escritorios Cinnamon y Mate</description>
+            <pubDate>Sat Sep 11 03:14:53 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: GNU Radio Decodes Voyager Data</title>
+            <link>https://hackaday.com/2021/09/10/gnu-radio-decodes-voyager-data/</link>
+            <description>GNU Radio Decodes Voyager Data</description>
+            <pubDate>Sat Sep 11 02:00:32 2021</pubDate>
+            </item>
+            <item>
+            <title>masGNULinux Blog: antiX 19.4</title>
+            <link>https://masgnulinux.es/antix-19-4/</link>
+            <description>antiX 19.4</description>
+            <pubDate>Sat Sep 11 01:32:11 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Old School Fastener Tutorial Is Riveting</title>
+            <link>https://hackaday.com/2021/09/10/old-school-fastener-tutorial-is-riveting/</link>
+            <description>Old School Fastener Tutorial Is Riveting</description>
+            <pubDate>Fri Sep 10 23:00:30 2021</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: WINE 6.17 vuelve a mejorar el soporte para DPI e introduce casi 400 cambios</title>
+            <link>https://www.linuxadictos.com/wine-6-17-vuelve-a-mejorar-el-soporte-para-dpi-e-introduce-casi-400-cambios.html</link>
+            <description>WINE 6.17 vuelve a mejorar el soporte para DPI e introduce casi 400 cambios</description>
+            <pubDate>Fri Sep 10 21:44:55 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El emulador de juegos de PSP, Emulator ‘PPSSPP’ llega a su versión 1.11.3</title>
             <link>https://lignux.com/el-emulador-de-juegos-de-psp-emulator-ppsspp-llega-a-su-version-1-11-3/</link>
             <description>El emulador de juegos de PSP, Emulator ‘PPSSPP’ llega a su versión 1.11.3</description>
@@ -16,59 +70,5 @@
             <link>https://hackaday.com/2021/09/10/ic-clock-uses-ammeters-for-a-unique-time-telling-display/</link>
             <description>IC Clock Uses Ammeters for a Unique Time-Telling Display</description>
             <pubDate>Fri Sep 10 20:01:31 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Baihetan es la presa de arco más grande del mundo y un monstruo energético para abastecer a 500.000 habitantes durante un año</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/-FLq6eqEMRM/baihetan-presa-arco-grande-mundo-monstruo-energetico-para-abastecer-a-500-000-habitantes-durante-ano</link>
-            <description>Baihetan es la presa de arco más grande del mundo y un monstruo energético para abastecer a 500.000 habitantes durante un año</description>
-            <pubDate>Fri Sep 10 20:00:39 2021</pubDate>
-            </item>
-            <item>
-            <title>Changelog: youtube-del gets an Electron-based GUI</title>
-            <link>https://github.com/jely2002/youtube-dl-gui</link>
-            <description>youtube-del gets an Electron-based GUI</description>
-            <pubDate>Fri Sep 10 19:28:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Auto-generate vanilla JS alternatives for jQuery methods</title>
-            <link>https://github.com/sachinchoolur/replace-jquery</link>
-            <description>Auto-generate vanilla JS alternatives for jQuery methods</description>
-            <pubDate>Fri Sep 10 18:36:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Minimal Mill: The Minamil</title>
-            <link>https://hackaday.com/2021/09/10/minimal-mill-the-minamil/</link>
-            <description>Minimal Mill: The Minamil</description>
-            <pubDate>Fri Sep 10 18:31:07 2021</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: New Guide! Wireless BLE Gesture Controlled Mouse @ecken @BlitzCityDIY #CircuitPython #3DPrinting</title>
-            <link>https://blog.adafruit.com/2021/09/10/new-guide-wireless-ble-gesture-controlled-mouse-ecken-blitzcitydiy-circuitpython-3dprinting/</link>
-            <description>New Guide! Wireless BLE Gesture Controlled Mouse @ecken @BlitzCityDIY #CircuitPython #3DPrinting</description>
-            <pubDate>Fri Sep 10 18:30:52 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Haz gameplays con estos programas para grabar pantalla</title>
-            <link>https://www.adslzone.net/listas/mejores-programas/grabar-pantalla-videojuegos/</link>
-            <description>Haz gameplays con estos programas para grabar pantalla</description>
-            <pubDate>Fri Sep 10 18:06:54 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 13 estrenos y lanzamientos imprescindibles para el fin de semana: 'Lost in Random', 'Gunpowder Milkshake', Cixin Liu y mucho más</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/G_jFcx-vsP0/13-estrenos-lanzamientos-imprescindibles-para-fin-semana-lost-in-random-gunpowder-milkshake-cixin-liu-mucho</link>
-            <description>13 estrenos y lanzamientos imprescindibles para el fin de semana: 'Lost in Random', 'Gunpowder Milkshake', Cixin Liu y mucho más</description>
-            <pubDate>Fri Sep 10 18:00:38 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Cómo descongelar alimentos de manera segura con estos sencillos pasos</title>
-            <link>http://feeds.weblogssl.com/~r/Vitonica/~3/1Uhr5HiNB8k/como-descongelar-alimentos-manera-segura-estos-sencillos-pasos</link>
-            <description>Cómo descongelar alimentos de manera segura con estos sencillos pasos</description>
-            <pubDate>Fri Sep 10 18:00:38 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: LG anuncia River OS, un sistema operativo para teles controlado con la voz que sabrá quién la ve para recomendar contenidos y anuncios</title>
-            <link>http://feeds.weblogssl.com/~r/Xatakahome/~3/algZS555Pto/lg-anuncia-river-os-sistema-operativo-para-teles-controlado-voz-que-sabra-quien-ve-para-recomendar-contenidos-anuncios</link>
-            <description>LG anuncia River OS, un sistema operativo para teles controlado con la voz que sabrá quién la ve para recomendar contenidos y anuncios</description>
-            <pubDate>Fri Sep 10 17:38:39 2021</pubDate>
             </item></channel>
 </rss>
