@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: 3D Printed Hat Blasts The Rain Away</title>
+            <link>https://hackaday.com/2021/09/11/3d-printed-hat-blasts-the-rain-away/</link>
+            <description>3D Printed Hat Blasts The Rain Away</description>
+            <pubDate>Sun Sep 12 05:01:01 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: GNOMEApps1: Las aplicaciones del núcleo de la Comunidad GNOME</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/Kc6Ol4lCfU4/</link>
+            <description>GNOMEApps1: Las aplicaciones del núcleo de la Comunidad GNOME</description>
+            <pubDate>Sun Sep 12 04:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>geekland: Montar servidor WebDAV en un sistema de archivos con Davfs2</title>
+            <link>http://feedproxy.google.com/~r/geeklandlinux/~3/ty38u-rjYT0/</link>
+            <description>Montar servidor WebDAV en un sistema de archivos con Davfs2</description>
+            <pubDate>Sun Sep 12 03:21:35 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: You Can 3D Print Your Own RC Motorbikes</title>
+            <link>https://hackaday.com/2021/09/11/you-can-3d-print-your-own-rc-motorbikes/</link>
+            <description>You Can 3D Print Your Own RC Motorbikes</description>
+            <pubDate>Sun Sep 12 02:30:41 2021</pubDate>
+            </item>
+            <item>
+            <title>masGNULinux Blog: Sobre Manjaro Cinnamon, Firefox, Vivalid, navegadores (Podcast)</title>
+            <link>https://masgnulinux.es/sobre-manjaro-cinnamon-firefox-vivalid-navegadores-podcast/</link>
+            <description>Sobre Manjaro Cinnamon, Firefox, Vivalid, navegadores (Podcast)</description>
+            <pubDate>Sun Sep 12 01:50:40 2021</pubDate>
+            </item>
+            <item>
+            <title>▶ Noticias desde entreunosyceros: VideoJS, reproduce vídeos en tu página web</title>
+            <link>http://feedproxy.google.com/~r/listado/actualizaciones/~3/2z38LFeWE14/</link>
+            <description>VideoJS, reproduce vídeos en tu página web</description>
+            <pubDate>Sat Sep 11 23:01:50 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: EM-Glitching For Nintendo DSi Boot ROMs</title>
+            <link>https://hackaday.com/2021/09/11/em-glitching-for-nintendo-dsi-boot-roms/</link>
+            <description>EM-Glitching For Nintendo DSi Boot ROMs</description>
+            <pubDate>Sat Sep 11 23:01:41 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog Bitix: Añadir un mapa cartográfico con JavaScript, Leaflet y OpenStreetMap a una página web</title>
+            <link>https://picodotdev.github.io/blog-bitix/2021/09/anadir-un-mapa-cartografico-con-javascript-leaflet-y-openstreetmap-a-una-pagina-web/</link>
+            <description>Añadir un mapa cartográfico con JavaScript, Leaflet y OpenStreetMap a una página web</description>
+            <pubDate>Sat Sep 11 22:30:00 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El gestor de contraseñas Open Source KeePass acaba de anunciar su versión 2.49</title>
             <link>https://lignux.com/el-gestor-de-contrasenas-open-source-keepass-acaba-de-anunciar-su-version-2-49/</link>
             <description>El gestor de contraseñas Open Source KeePass acaba de anunciar su versión 2.49</description>
@@ -22,53 +70,5 @@
             <link>https://www.adslzone.net/esenciales/windows/funciones-eliminadas-windows/</link>
             <description>¿Qué hay en Windows 10 que no estará en Windows 11?</description>
             <pubDate>Sat Sep 11 18:08:04 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Don’t Sleep On The Lawn, There’s an AI-Powered, Flamethrower-Wielding Robot About</title>
-            <link>https://hackaday.com/2021/09/11/dont-sleep-on-the-lawn-theres-an-ai-powered-flamethrower-wielding-robot-about/</link>
-            <description>Don’t Sleep On The Lawn, There’s an AI-Powered, Flamethrower-Wielding Robot About</description>
-            <pubDate>Sat Sep 11 17:01:46 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Concluye 'Rick y Morty' 5: por qué el giro radical de este final de temporada podría suponer un punto y aparte para la serie</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/N2nS32ELj-Y/concluye-rick-morty-5-que-giro-radical-este-final-temporada-podria-suponer-punto-aparte-para-serie</link>
-            <description>Concluye 'Rick y Morty' 5: por qué el giro radical de este final de temporada podría suponer un punto y aparte para la serie</description>
-            <pubDate>Sat Sep 11 17:00:50 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Air Live Drive: monta Google Drive o Dropbox como un disco local</title>
-            <link>https://www.redeszone.net/analisis/software/air-live-drive-montar-google-drive-dropbox-disco-local/</link>
-            <description>Air Live Drive: monta Google Drive o Dropbox como un disco local</description>
-            <pubDate>Sat Sep 11 17:00:25 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: Denon y Marantz lanzan un switch HDMI 2.1 para conectar hasta tres fuentes diferentes 4K a 120 Hz o 8K a 60 Hz a sus receptores AV</title>
-            <link>http://feeds.weblogssl.com/~r/Xatakahome/~3/z2fY-MoSv5c/denon-marantz-lanzan-switch-hdmi-2-1-para-conectar-tres-fuentes-diferentes-4k-a-120-hz-8k-a-60-hz-a-sus-receptores-av</link>
-            <description>Denon y Marantz lanzan un switch HDMI 2.1 para conectar hasta tres fuentes diferentes 4K a 120 Hz o 8K a 60 Hz a sus receptores AV</description>
-            <pubDate>Sat Sep 11 16:31:45 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Fan del anime? No puedes perderte estas series en Amazon</title>
-            <link>https://www.adslzone.net/reportajes/series/anime-amazon-prime-video/</link>
-            <description>¿Fan del anime? No puedes perderte estas series en Amazon</description>
-            <pubDate>Sat Sep 11 16:10:58 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Consigue una espalda y hombros fuertes con estos seis ejercicios con pesa rusa o kettlebell</title>
-            <link>http://feeds.weblogssl.com/~r/Vitonica/~3/Wny75H4WOQ0/consigue-espalda-hombros-fuertes-estos-seis-ejercicios-pesa-rusa-kettlebell</link>
-            <description>Consigue una espalda y hombros fuertes con estos seis ejercicios con pesa rusa o kettlebell</description>
-            <pubDate>Sat Sep 11 16:00:48 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Esta es la estrella más pequeña descubierta hasta la fecha: del tamaño de Saturno y con 300 veces más gravedad que La Tierra</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/JmMLfea3a_E/esta-estrella-pequena-descubierta-fecha-tamano-saturno-300-veces-gravedad-que-tierra</link>
-            <description>Esta es la estrella más pequeña descubierta hasta la fecha: del tamaño de Saturno y con 300 veces más gravedad que La Tierra</description>
-            <pubDate>Sat Sep 11 15:00:48 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Ciencia: Los médicos prescriben opioides con más frecuencia a blancos que se quejan de dolor lumbar que a negros, asiáticos e hispanos</title>
-            <link>http://feeds.weblogssl.com/~r/xatakaciencia/~3/wuSHmeigaAw/medicos-prescriben-opioides-frecuencia-a-blancos-que-se-quejan-dolor-lumbar-que-a-negros-asiaticos-e-hispanos</link>
-            <description>Los médicos prescriben opioides con más frecuencia a blancos que se quejan de dolor lumbar que a negros, asiáticos e hispanos</description>
-            <pubDate>Sat Sep 11 14:53:38 2021</pubDate>
             </item></channel>
 </rss>
