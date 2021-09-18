@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Automatic Microfiche Scanner Digitizes Docs</title>
+            <link>https://hackaday.com/2021/09/17/automatic-microfiche-scanner-digitizes-docs/</link>
+            <description>Automatic Microfiche Scanner Digitizes Docs</description>
+            <pubDate>Sat Sep 18 05:00:14 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Vulnerabilidades críticas en OMI afectan a usuarios de Azure</title>
+            <link>https://unaaldia.hispasec.com/2021/09/vulnerabilidades-criticas-en-omi-afectan-a-usuarios-de-azure.html</link>
+            <description>Vulnerabilidades críticas en OMI afectan a usuarios de Azure</description>
+            <pubDate>Sat Sep 18 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Ethernity CLOUD: Red de Computación en la nube con código abierto</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/soY0DFFwZI0/</link>
+            <description>Ethernity CLOUD: Red de Computación en la nube con código abierto</description>
+            <pubDate>Sat Sep 18 04:00:59 2021</pubDate>
+            </item>
+            <item>
+            <title>masGNULinux Blog: Usando WGET con ejemplos (y un extra)</title>
+            <link>https://masgnulinux.es/aprende-a-usar-el-comando-wget-con-12-ejemplos/</link>
+            <description>Usando WGET con ejemplos (y un extra)</description>
+            <pubDate>Sat Sep 18 03:38:34 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D-Printing Complex Sensors and Controls with Metamaterials</title>
+            <link>https://hackaday.com/2021/09/17/3d-printing-complex-sensors-and-controls-with-metamaterials/</link>
+            <description>3D-Printing Complex Sensors and Controls with Metamaterials</description>
+            <pubDate>Sat Sep 18 02:00:40 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Banish Early Morning Zombification With The zom-b-gone!</title>
+            <link>https://hackaday.com/2021/09/17/banish-early-morning-zombification-with-the-zom-b-gone/</link>
+            <description>Banish Early Morning Zombification With The zom-b-gone!</description>
+            <pubDate>Fri Sep 17 23:00:26 2021</pubDate>
+            </item>
+            <item>
             <title>Changelog: The Changelog 460: The business model of open source</title>
             <link>https://changelog.com/podcast/460</link>
             <description>The Changelog 460: The business model of open source</description>
@@ -34,41 +70,5 @@
             <link>https://56k.es/fanta/trasteando-con-spectrum-0x01-cargar-juegos-desde-el-smartphone/</link>
             <description>Trasteando con ZX Spectrum – 003 – Cargar juegos desde el Smartphone</description>
             <pubDate>Fri Sep 17 19:35:43 2021</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: Critical Flaws Discovered in Azure App That Microsoft Secretly Installs on Linux VMs</title>
-            <link>http://feedproxy.google.com/~r/TheHackersNews/~3/cYBHGdbUNVY/critical-flaws-discovered-in-azure-app.html</link>
-            <description>Critical Flaws Discovered in Azure App That Microsoft Secretly Installs on Linux VMs</description>
-            <pubDate>Fri Sep 17 19:17:45 2021</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: 9 alternativas gratuitas a la Wikipedia para consultar información fiable online</title>
-            <link>http://feeds.weblogssl.com/~r/genbeta/~3/yvrY03sYRUI/9-alternativas-gratuitas-a-wikipedia-para-consultar-informacion-fiable-online</link>
-            <description>9 alternativas gratuitas a la Wikipedia para consultar información fiable online</description>
-            <pubDate>Fri Sep 17 18:59:11 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Qué pasa si usas fotos sin permiso del autor? Esto dice la ley</title>
-            <link>https://www.adslzone.net/reportajes/privacidad/derechos-autor-fotos-internet/</link>
-            <description>¿Qué pasa si usas fotos sin permiso del autor? Esto dice la ley</description>
-            <pubDate>Fri Sep 17 18:31:09 2021</pubDate>
-            </item>
-            <item>
-            <title>56K.ES: Trasteando con ZX Spectrum – 002 – Grabar programas a cinta y leerlos</title>
-            <link>https://56k.es/fanta/trasteando-con-spectrum-0x00-grabar-programas-a-cinta-y-leerlos/</link>
-            <description>Trasteando con ZX Spectrum – 002 – Grabar programas a cinta y leerlos</description>
-            <pubDate>Fri Sep 17 18:30:18 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: DIY Laser Speckle Imaging Uncovers Hidden Details</title>
-            <link>https://hackaday.com/2021/09/17/diy-laser-speckle-imaging-uncovers-hidden-details/</link>
-            <description>DIY Laser Speckle Imaging Uncovers Hidden Details</description>
-            <pubDate>Fri Sep 17 18:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Vivir en Marte? Estos son los últimos diseños de casas</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/vida-marte-nuevos-disenos-casas/</link>
-            <description>¿Vivir en Marte? Estos son los últimos diseños de casas</description>
-            <pubDate>Fri Sep 17 18:14:04 2021</pubDate>
             </item></channel>
 </rss>
