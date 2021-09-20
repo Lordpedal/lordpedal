@@ -45,6 +45,8 @@ rtp://@239.0.5.79:8208
 rtp://@239.0.5.75:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="23" tvg-id="884.movistar.tv" tvh-tags="Movistar TV|SDTV|Toros" tvg-logo="https://lordpedal.github.io/lordpedal/images/884.jpg",Energy
 rtp://@239.0.0.59:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="24" tvg-id="5030.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5031.jpg",La Resistencia HD
+rtp://@239.0.5.140:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="25" tvg-id="747.movistar.tv" tvh-tags="Movistar TV|SDTV|Comedia" tvg-logo="https://lordpedal.github.io/lordpedal/images/747.jpg",FDF
 rtp://@239.0.0.84:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="26" tvg-id="934.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/4714.jpg",Neox HD
@@ -211,5 +213,3 @@ rtp://@239.0.0.60:8208
 rtp://@239.0.0.81:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="159" tvg-id="5029.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5029.jpg",8tv
 rtp://@239.0.0.82:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="464" tvg-id="5030.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5031.jpg",La Resistencia HD
-rtp://@239.0.5.140:8208
