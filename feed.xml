@@ -6,6 +6,18 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>RedesZone: Administra los usuarios de Windows por consola con Net User</title>
+            <link>https://www.redeszone.net/tutoriales/seguridad/administrar-usuarios-windows-net-user/</link>
+            <description>Administra los usuarios de Windows por consola con Net User</description>
+            <pubDate>Tue Sep 21 17:00:31 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Unpatched High-Severity Vulnerability Affects Apple macOS Computers</title>
+            <link>http://feedproxy.google.com/~r/TheHackersNews/~3/9L96LFgOB5w/unpatched-high-severity-vulnerability.html</link>
+            <description>Unpatched High-Severity Vulnerability Affects Apple macOS Computers</description>
+            <pubDate>Tue Sep 21 16:48:15 2021</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: La TDT cada vez se ve menos, ¿quién le roba espectadores?</title>
             <link>https://www.adslzone.net/noticias/streaming-tv/problemas-tdt-robar-espectadores-competencia/</link>
             <description>La TDT cada vez se ve menos, ¿quién le roba espectadores?</description>
@@ -58,17 +70,5 @@
             <link>https://hackaday.com/2021/09/21/toilet-training-cows-is-no-bull/</link>
             <description>Toilet-Training Cows is No Bull</description>
             <pubDate>Tue Sep 21 15:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Magnet: España compra a otros países el 75% de la energía que consume. Y eso explica la escalada de la luz</title>
-            <link>https://magnet.xataka.com/en-diez-minutos/espana-compra-a-otros-paises-75-energia-que-consume-eso-explica-escalada-luz</link>
-            <description>España compra a otros países el 75% de la energía que consume. Y eso explica la escalada de la luz</description>
-            <pubDate>Tue Sep 21 15:09:13 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La Comunidad Valenciana, primera CCAA en potenciar la semana laboral de cuatro días: lanzará un programa de ayudas dotado con 10 millones de euros</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/B_prkenFDEk/comunitat-valenciana-primera-ccaa-potenciar-semana-laboral-cuatro-dias-lanzara-programa-ayudas-dotado-10-millones-euros</link>
-            <description>La Comunidad Valenciana, primera CCAA en potenciar la semana laboral de cuatro días: lanzará un programa de ayudas dotado con 10 millones de euros</description>
-            <pubDate>Tue Sep 21 15:01:26 2021</pubDate>
             </item></channel>
 </rss>
