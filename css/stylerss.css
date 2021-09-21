@@ -33,8 +33,8 @@ h2 {
 table.sortable th::after, th.sorttable_sorted::after, th.sorttable_sorted_reverse::after {
   content: " ";
   display: inline-block;
-  width: 24px;
-  height: 24px;
+  width: 15px;
+  height: 15px;
 }
 th.sorttable_sorted::after {
   background: url(images/up.png);
