@@ -30,18 +30,6 @@ h2 {
   -webkit-text-fill-color: rgba(255, 255, 255, 0);
 }
 
-/* Sortable tables */
-table.sortable thead {
-    background-color:#eee;
-    color:#666666;
-    font-weight: bold;
-    cursor: default;
-}
-
-table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after { 
-    content: " \25B4\25BE" 
-}
-
 @keyframes animate {
   0% {
     background-position: -500%;
