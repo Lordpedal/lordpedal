@@ -37,11 +37,11 @@ table.sortable th::after, th.sorttable_sorted::after, th.sorttable_sorted_revers
   height: 15px;
 }
 th.sorttable_sorted::after {
-  background: url("./images/up.png");
+  background: url(/images/up.png);
   background-size: contain;
 }
 th.sorttable_sorted_reverse::after {
-  background: url("./images/down.png");
+  background: url(/images/down.png);
   background-size: cover;
 }
 #sorttable_sortfwdind, #sorttable_sortrevind { display: none; }
