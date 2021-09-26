@@ -6,10 +6,40 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: COVID Green Pass Validator with Raspberry Pi</title>
+            <link>https://hackaday.com/2021/09/25/covid-green-pass-validator-with-raspberry-pi/</link>
+            <description>COVID Green Pass Validator with Raspberry Pi</description>
+            <pubDate>Sun Sep 26 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: KDEApps6: Aplicaciones de la Comunidad KDE en el ámbito multimedia</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/iRTZtnbFjOk/</link>
+            <description>KDEApps6: Aplicaciones de la Comunidad KDE en el ámbito multimedia</description>
+            <pubDate>Sun Sep 26 04:00:53 2021</pubDate>
+            </item>
+            <item>
+            <title>masGNULinux Blog: Oferta de empleo para DevOps de la Fundación Linux</title>
+            <link>https://masgnulinux.es/oferta-de-empleo-para-devops-de-la-fundacion-linux/</link>
+            <description>Oferta de empleo para DevOps de la Fundación Linux</description>
+            <pubDate>Sun Sep 26 02:43:51 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Simplest FT8 Transceiver You’ll Ever Build</title>
+            <link>https://hackaday.com/2021/09/25/the-simplest-ft8-transceiver-youll-ever-build/</link>
+            <description>The Simplest FT8 Transceiver You’ll Ever Build</description>
+            <pubDate>Sun Sep 26 02:00:00 2021</pubDate>
+            </item>
+            <item>
             <title>BricoGeek.com Blog: Un 3DBenchy convertido en avión RC</title>
             <link>http://blog.bricogeek.com/noticias/modelismo/un-3dbenchy-convertido-en-avion-rc/?utm_source=blogfeed&utm_medium=atom10&utm_term=modelismo&utm_content=un-3dbenchy-convertido-en-avion-rc&utm_campaign=blog</link>
             <description>Un 3DBenchy convertido en avión RC</description>
             <pubDate>Sat Sep 25 23:08:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Making Linux Offline Voice Recognition Easier</title>
+            <link>https://hackaday.com/2021/09/25/making-linux-offline-voice-recognition-easier/</link>
+            <description>Making Linux Offline Voice Recognition Easier</description>
+            <pubDate>Sat Sep 25 23:00:00 2021</pubDate>
             </item>
             <item>
             <title>Overclock Server: Dráscula: The Vampire Strikes Back GNU/Linux</title>
@@ -30,45 +60,15 @@
             <pubDate>Sat Sep 25 21:00:08 2021</pubDate>
             </item>
             <item>
+            <title>Blog Bitix: Contenedores en macOS con Lima y minikube</title>
+            <link>https://picodotdev.github.io/blog-bitix/2021/09/contenedores-en-macos-con-lima-y-minikube/</link>
+            <description>Contenedores en macOS con Lima y minikube</description>
+            <pubDate>Sat Sep 25 21:00:00 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: La biblioteca de recursos gráficos MESA acaba de publicar su última versión 21.2.2</title>
             <link>https://lignux.com/la-biblioteca-de-recursos-graficos-mesa-acaba-de-publicar-su-ultima-version-21-2-2/</link>
             <description>La biblioteca de recursos gráficos MESA acaba de publicar su última versión 21.2.2</description>
             <pubDate>Sat Sep 25 20:51:37 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Design and Build Your Own Circular Slide Rule</title>
-            <link>https://hackaday.com/2021/09/25/design-and-build-your-own-circular-slide-rule/</link>
-            <description>Design and Build Your Own Circular Slide Rule</description>
-            <pubDate>Sat Sep 25 20:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Quieres compartir Amazon Prime? Todas las opciones</title>
-            <link>https://www.adslzone.net/esenciales/amazon/compartir-cuenta-amazon/</link>
-            <description>¿Quieres compartir Amazon Prime? Todas las opciones</description>
-            <pubDate>Sat Sep 25 18:03:36 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Aprende a eliminar todos los metadatos de un archivo o fotografía</title>
-            <link>https://www.redeszone.net/tutoriales/seguridad/eliminar-metadatos-archivos-mejorar-privacidad/</link>
-            <description>Aprende a eliminar todos los metadatos de un archivo o fotografía</description>
-            <pubDate>Sat Sep 25 17:03:47 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Promising Start for the Doritos Space Program</title>
-            <link>https://hackaday.com/2021/09/25/a-promising-start-for-the-doritos-space-program/</link>
-            <description>A Promising Start for the Doritos Space Program</description>
-            <pubDate>Sat Sep 25 17:01:33 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Netflix ha encontrado en el creador de 'Misa de medianoche' una de sus grandes bazas creativas: así funciona la mente de Mike Flanagan</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/DZF8eMMGTts/netflix-ha-encontrado-creador-misa-medianoche-sus-grandes-bazas-creativas-asi-funciona-mente-mike-flanagan</link>
-            <description>Netflix ha encontrado en el creador de 'Misa de medianoche' una de sus grandes bazas creativas: así funciona la mente de Mike Flanagan</description>
-            <pubDate>Sat Sep 25 17:00:31 2021</pubDate>
-            </item>
-            <item>
-            <title>56K.ES: 🔴 Enfermedad que se transmite por internet y Linux en el Escritorio – 031</title>
-            <link>https://56k.es/fanta/enfermedad-que-se-transmite-por-internet-y-linux-en-el-escritorio-031/</link>
-            <description>🔴 Enfermedad que se transmite por internet y Linux en el Escritorio – 031</description>
-            <pubDate>Sat Sep 25 16:39:13 2021</pubDate>
             </item></channel>
 </rss>
