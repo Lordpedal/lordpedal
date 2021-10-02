@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Mouse and Keyboard Controls On The N64</title>
+            <link>https://hackaday.com/2021/10/01/mouse-and-keyboard-controls-on-the-n64/</link>
+            <description>Mouse and Keyboard Controls On The N64</description>
+            <pubDate>Sat Oct  2 05:00:19 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Vulnerabilidad en la pantalla de bloqueo de iPhone en iOS 15</title>
+            <link>https://unaaldia.hispasec.com/2021/10/vulnerabilidad-en-la-pantalla-de-bloqueo-de-iphone-en-ios-15.html</link>
+            <description>Vulnerabilidad en la pantalla de bloqueo de iPhone en iOS 15</description>
+            <pubDate>Sat Oct  2 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Protocolo Nym: Sistema de privacidad de código abierto y descentralizado</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/6q3IiwXCF3c/</link>
+            <description>Protocolo Nym: Sistema de privacidad de código abierto y descentralizado</description>
+            <pubDate>Sat Oct  2 04:00:18 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Drone Replaces Kite in Recreation of Famous Atmospheric Electricity Experiment</title>
+            <link>https://hackaday.com/2021/10/01/drone-replaces-kite-in-recreation-of-famous-atmospheric-electricity-experiment/</link>
+            <description>Drone Replaces Kite in Recreation of Famous Atmospheric Electricity Experiment</description>
+            <pubDate>Sat Oct  2 02:00:45 2021</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: It’s National Manufacturing Day. Take A Tour Of Adafruit</title>
+            <link>https://makezine.com/2021/10/01/its-national-manufacturing-day-take-a-tour-of-adafruit/</link>
+            <description>It’s National Manufacturing Day. Take A Tour Of Adafruit</description>
+            <pubDate>Fri Oct  1 23:22:52 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Secret Keychain Safe Looks Just Like A Bolt</title>
+            <link>https://hackaday.com/2021/10/01/secret-keychain-safe-looks-just-like-a-bolt/</link>
+            <description>Secret Keychain Safe Looks Just Like A Bolt</description>
+            <pubDate>Fri Oct  1 23:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Explicación del Ransomware. Qué Es y Cómo Funciona</title>
+            <link>https://esgeeks.com/ransomware-que-es-como-funciona/</link>
+            <description>Explicación del Ransomware. Qué Es y Cómo Funciona</description>
+            <pubDate>Fri Oct  1 22:31:34 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Mariana Trench, el analizador de código estático open source de Facebook</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/LMiDaJ1WVIw/</link>
+            <description>Mariana Trench, el analizador de código estático open source de Facebook</description>
+            <pubDate>Fri Oct  1 22:04:39 2021</pubDate>
+            </item>
+            <item>
             <title>EsGeeks: 170+ Herramientas Gratuitas de Descifrado de Ransomware</title>
             <link>https://esgeeks.com/herramientas-gratuitas-descifrar-ransomware/</link>
             <description>170+ Herramientas Gratuitas de Descifrado de Ransomware</description>
@@ -22,53 +70,5 @@
             <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/bUlIncOO0Hc/</link>
             <description>JShelter, el complemento de la FSF para restringir la API de JavaScript</description>
             <pubDate>Fri Oct  1 21:30:30 2021</pubDate>
-            </item>
-            <item>
-            <title>Changelog: The Changelog Learning-focused engineering</title>
-            <link>https://changelog.com/podcast/edu</link>
-            <description>The Changelog Learning-focused engineering</description>
-            <pubDate>Fri Oct  1 21:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.14.9</title>
-            <link>https://lignux.com/tutorial-para-instalar-la-version-de-mantenimiento-del-kernel-linux-5-14-9/</link>
-            <description>Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.14.9</description>
-            <pubDate>Fri Oct  1 20:02:22 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: The Star es un gran (y caro) proyecto de llamativo diseño que destaca por su propósito: ser un "edificio antipandemia"</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/yMkAUgLOnvk/the-star-gran-caro-proyecto-llamativo-diseno-que-destaca-su-proposito-ser-edificio-antipandemia</link>
-            <description>The Star es un gran (y caro) proyecto de llamativo diseño que destaca por su propósito: ser un "edificio antipandemia"</description>
-            <pubDate>Fri Oct  1 20:02:01 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Minimalist Timer Counts Down With LED Matrix</title>
-            <link>https://hackaday.com/2021/10/01/minimalist-timer-counts-down-with-led-matrix/</link>
-            <description>Minimalist Timer Counts Down With LED Matrix</description>
-            <pubDate>Fri Oct  1 20:00:07 2021</pubDate>
-            </item>
-            <item>
-            <title>Changelog: JS Party 195: Do you know the muffin fairy?</title>
-            <link>https://changelog.com/jsparty/195</link>
-            <description>JS Party 195: Do you know the muffin fairy?</description>
-            <pubDate>Fri Oct  1 19:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Haz que tus pedidos de AliExpress no paren en aduanas</title>
-            <link>https://www.adslzone.net/noticias/internet/como-hacer-evitar-aduanas-pedidos-aliexpress/</link>
-            <description>Haz que tus pedidos de AliExpress no paren en aduanas</description>
-            <pubDate>Fri Oct  1 19:00:40 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Foto: Cómo atrapar los colores del otoño con cuatro técnicas de Adobe</title>
-            <link>http://feeds.weblogssl.com/~r/xatakafoto/~3/3RTF8tq5kHk/como-atrapar-colores-otono-cuatro-tecnicas-adobe</link>
-            <description>Cómo atrapar los colores del otoño con cuatro técnicas de Adobe</description>
-            <pubDate>Fri Oct  1 18:43:20 2021</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Lollypop, un reproductor de audio para GNOME con un enorme potencial</title>
-            <link>https://www.muylinux.com/2021/10/01/lollypop-gnome/</link>
-            <description>Lollypop, un reproductor de audio para GNOME con un enorme potencial</description>
-            <pubDate>Fri Oct  1 18:33:23 2021</pubDate>
             </item></channel>
 </rss>
