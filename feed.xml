@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Borehole Camera Rig Makes Life Easier In Mining</title>
+            <link>https://hackaday.com/2021/10/09/borehole-camera-rig-makes-life-easier-in-mining/</link>
+            <description>Borehole Camera Rig Makes Life Easier In Mining</description>
+            <pubDate>Sun Oct 10 05:00:45 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: La nueva versión de Apache server deja expuestos a mas de 112.000 servidores</title>
+            <link>https://unaaldia.hispasec.com/2021/10/la-nueva-version-de-apache-server-deja-expuestos-a-mas-de-112-000-servidores.html</link>
+            <description>La nueva versión de Apache server deja expuestos a mas de 112.000 servidores</description>
+            <pubDate>Sun Oct 10 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: El hackeo de Twitch termino en la filtración de información interna y su código fuente</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/3yKMfXMLanU/</link>
+            <description>El hackeo de Twitch termino en la filtración de información interna y su código fuente</description>
+            <pubDate>Sun Oct 10 04:37:50 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Speed Dreams: Un juego de carreras de código abierto y multiplataforma</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/upmXuGjcWm4/</link>
+            <description>Speed Dreams: Un juego de carreras de código abierto y multiplataforma</description>
+            <pubDate>Sun Oct 10 04:00:24 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Dial A for Arduino</title>
+            <link>https://hackaday.com/2021/10/09/dial-a-for-arduino/</link>
+            <description>Dial A for Arduino</description>
+            <pubDate>Sun Oct 10 02:00:58 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Single Event Upsets: High Energy Particles From Outer Space Flipping Bits</title>
+            <link>https://hackaday.com/2021/10/09/single-event-upsets-high-energy-particles-from-outer-space-flipping-bits/</link>
+            <description>Single Event Upsets: High Energy Particles From Outer Space Flipping Bits</description>
+            <pubDate>Sat Oct  9 23:00:20 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Network Analyzer Wireshark alcanza su versión 3.4.9</title>
             <link>https://lignux.com/network-analyzer-wireshark-alcanza-su-version-3-4-9/</link>
             <description>Network Analyzer Wireshark alcanza su versión 3.4.9</description>
@@ -34,41 +70,5 @@
             <link>https://www.linuxadictos.com/10-anos-sin-jobs-un-visionario-al-estilo-mr-magoo.html</link>
             <description>10 años sin Jobs, un visionario al estilo Mr Magoo</description>
             <pubDate>Sat Oct  9 18:16:13 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así debería ser tu contraseña WiFi para evitar hackeos</title>
-            <link>https://www.adslzone.net/reportajes/wifi/clave-contrasena-wifi/</link>
-            <description>Así debería ser tu contraseña WiFi para evitar hackeos</description>
-            <pubDate>Sat Oct  9 18:03:18 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Consejos para evitar el rastreo al navegar en modo privado</title>
-            <link>https://www.redeszone.net/tutoriales/seguridad/evitar-rastreo-navegar-modo-privado/</link>
-            <description>Consejos para evitar el rastreo al navegar en modo privado</description>
-            <pubDate>Sat Oct  9 17:08:24 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'Mad God': 30 años de rodaje para un paseo de pesadilla por el lado oscuro del creador de los efectos de 'Parque Jurásico'</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/SNAoVcJ61GM/mad-god-30-anos-rodaje-para-paseo-pesadilla-lado-oscuro-creador-efectos-parque-jurasico</link>
-            <description>'Mad God': 30 años de rodaje para un paseo de pesadilla por el lado oscuro del creador de los efectos de 'Parque Jurásico'</description>
-            <pubDate>Sat Oct  9 17:00:20 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Making Coffee with Hydrogen</title>
-            <link>https://hackaday.com/2021/10/09/making-coffee-with-hydrogen/</link>
-            <description>Making Coffee with Hydrogen</description>
-            <pubDate>Sat Oct  9 17:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Aprende en Netflix: Los mejores documentales históricos</title>
-            <link>https://www.adslzone.net/reportajes/series/documentales-historicos-netflix/</link>
-            <description>Aprende en Netflix: Los mejores documentales históricos</description>
-            <pubDate>Sat Oct  9 16:03:47 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Orbea Rise, análisis: la e-bike de montaña más real aparece cuando Orbea se permite mapear el motor de Shimano</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/77nGTj_xSS4/orbea-rise-analisis-e-bike-montana-real-aparece-cuando-orbea-se-permite-mapear-motor-shimano</link>
-            <description>Orbea Rise, análisis: la e-bike de montaña más real aparece cuando Orbea se permite mapear el motor de Shimano</description>
-            <pubDate>Sat Oct  9 16:00:20 2021</pubDate>
             </item></channel>
 </rss>
