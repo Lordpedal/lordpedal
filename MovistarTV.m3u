@@ -157,10 +157,16 @@ rtp://@239.0.0.173:8208
 rtp://@239.0.0.66:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="98" tvg-id="745.movistar.tv" tvh-tags="Movistar TV|HDTV|Infantil" tvg-logo="https://lordpedal.github.io/lordpedal/images/4467.jpg",Clan TVE HD
 rtp://@239.0.0.184:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="103" tvg-id="5046.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5046.jpg",XTRM
+rtp://@239.0.1.180:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="104" tvg-id="5047.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5047.jpg",Somos
+rtp://@239.0.1.181:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="105" tvg-id="581.movistar.tv" tvh-tags="Movistar TV|SDTV|Música" tvg-logo="https://lordpedal.github.io/lordpedal/images/581.jpg",MTV 00s
 rtp://@239.0.0.75:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="106" tvg-id="2533.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2533.jpg",MTV España
 rtp://@239.0.0.211:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="110" tvg-id="5045.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5045.jpg",Sol Música
+rtp://@239.0.1.179:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="112" tvg-id="743.movistar.tv" tvh-tags="Movistar TV|SDTV|Internacional" tvg-logo="https://lordpedal.github.io/lordpedal/images/743.jpg",Canal 24 H.
 rtp://@239.0.0.78:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="113" tvg-id="197.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/197.jpg",BBC World
