@@ -189,8 +189,8 @@ http://192.168.1.50:2112/rtp/239.0.7.69:8208
 http://192.168.1.50:2112/rtp/239.0.0.31:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="123" tvg-id="120.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/120.jpg",Bloomberg
 http://192.168.1.50:2112/rtp/239.0.0.29:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="124" tvg-id="582.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/582.jpg",El Toro TV
-http://192.168.1.50:2112/rtp/239.0.0.63:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="124" tvg-id="582.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/4990.jpg",El Toro TV HD
+http://192.168.1.50:2112/rtp/239.0.0.168:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="125" tvg-id="4925.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/4925.jpg",Negocios TV
 http://192.168.1.50:2112/rtp/239.0.0.85:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="126" tvg-id="3603.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/3603.jpg",DKISS
