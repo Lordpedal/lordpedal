@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>cambiatealinux.com: Instalar aplicaciones en Ubuntu desde el Gestor de Software</title>
+            <link>https://www.cambiatealinux.com/instalar-aplicaciones-en-ubuntu-desde-el-gestor-de-software</link>
+            <description>Instalar aplicaciones en Ubuntu desde el Gestor de Software</description>
+            <pubDate>Mon Oct 25 06:08:11 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: La estafa del “Servicio de Verificación DHL”</title>
+            <link>https://unaaldia.hispasec.com/2021/10/la-estafa-del-servicio-de-verificacion-dhl.html</link>
+            <description>La estafa del “Servicio de Verificación DHL”</description>
+            <pubDate>Mon Oct 25 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Omni-Wheeled Cane Steers the Visually-Impaired Away From Obstacles</title>
+            <link>https://hackaday.com/2021/10/24/omni-wheeled-cane-steers-the-visually-impaired-away-from-obstacles/</link>
+            <description>Omni-Wheeled Cane Steers the Visually-Impaired Away From Obstacles</description>
+            <pubDate>Mon Oct 25 05:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Fixing “Unable to acquire dpkg frontend lock. Are You Root?” Error on Ubuntu and Other Linux Distributions</title>
+            <link>https://itsfoss.com/fixed-are-you-root-error/</link>
+            <description>Fixing “Unable to acquire dpkg frontend lock. Are You Root?” Error on Ubuntu and Other Linux Distributions</description>
+            <pubDate>Mon Oct 25 04:48:14 2021</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Recursos Educativos Distritotux Edu</title>
+            <link>https://www.distritotux.cl/2021/10/recursos-educativos-distritotux-edu.html</link>
+            <description>Recursos Educativos Distritotux Edu</description>
+            <pubDate>Mon Oct 25 02:08:34 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Humble NE-2 Neon Lamp Has A New Trick</title>
+            <link>https://hackaday.com/2021/10/24/the-humble-ne-2-neon-lamp-has-a-new-trick/</link>
+            <description>The Humble NE-2 Neon Lamp Has A New Trick</description>
+            <pubDate>Mon Oct 25 02:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: October 24, 2021</title>
+            <link>https://hackaday.com/2021/10/24/hackaday-links-october-24-2021/</link>
+            <description>Hackaday Links: October 24, 2021</description>
+            <pubDate>Sun Oct 24 23:00:41 2021</pubDate>
+            </item>
+            <item>
             <title>Xataka Ciencia: Un nuevo estudio sugiere que la lactancia materna no solo es buena para los bebés: previene el deterioro cognitivo de la madre</title>
             <link>http://feeds.weblogssl.com/~r/xatakaciencia/~3/d5WJ1zNPa6Q/nuevo-estudio-sugiere-que-lactancia-materna-no-solo-buena-para-bebes-previene-deterioro-cognitivo-madre</link>
             <description>Un nuevo estudio sugiere que la lactancia materna no solo es buena para los bebés: previene el deterioro cognitivo de la madre</description>
@@ -28,47 +70,5 @@
             <link>https://hackaday.com/2021/10/24/is-a-diode-a-switch/</link>
             <description>Is a Diode a Switch?</description>
             <pubDate>Sun Oct 24 20:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: El editor fotográfico Glimpse (Fork de GIMP) acaba de publicar su versión 0.2.0</title>
-            <link>https://lignux.com/el-editor-fotografico-glimpse-fork-de-gimp-acaba-de-publicar-su-version-0-2-0/</link>
-            <description>El editor fotográfico Glimpse (Fork de GIMP) acaba de publicar su versión 0.2.0</description>
-            <pubDate>Sun Oct 24 19:03:55 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿El WiFi puede perjudicar a tu salud? Esto dice la ciencia</title>
-            <link>https://www.adslzone.net/reportajes/tecnologia/wifi-salud/</link>
-            <description>¿El WiFi puede perjudicar a tu salud? Esto dice la ciencia</description>
-            <pubDate>Sun Oct 24 18:02:05 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Eso que se ve en la imagen no es un jardín, es el futuro de la agricultura: así es como estamos multiplicando por cuatro la productividad de la tierra de cultivo</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/Bjcs6P35-Ys/eso-que-se-ve-imagen-no-jardin-futuro-agricultura-asi-como-estamos-multiplicando-cuatro-productividad-tierra-cultivo</link>
-            <description>Eso que se ve en la imagen no es un jardín, es el futuro de la agricultura: así es como estamos multiplicando por cuatro la productividad de la tierra de cultivo</description>
-            <pubDate>Sun Oct 24 18:00:42 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Soluciona el error cuando el escritorio remoto no se conecta</title>
-            <link>https://www.redeszone.net/tutoriales/redes-cable/solucionar-error-escritorio-remoto-no-conecta/</link>
-            <description>Soluciona el error cuando el escritorio remoto no se conecta</description>
-            <pubDate>Sun Oct 24 17:15:45 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Tricky Screw Heads Have Disappearing Slots</title>
-            <link>https://hackaday.com/2021/10/24/tricky-screw-heads-have-disappearing-slots/</link>
-            <description>Tricky Screw Heads Have Disappearing Slots</description>
-            <pubDate>Sun Oct 24 17:01:01 2021</pubDate>
-            </item>
-            <item>
-            <title>Diario del Viajero: Compañeros de Ruta: escapadas de cercanía perfectas para el otoño</title>
-            <link>http://feeds.weblogssl.com/~r/diariodelviajero/~3/jH1a4_lRPTU/companeros-ruta-escapadas-cercania-perfectas-para-otono</link>
-            <description>Compañeros de Ruta: escapadas de cercanía perfectas para el otoño</description>
-            <pubDate>Sun Oct 24 16:24:39 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Viaja a Marte en estos documentales del planeta rojo</title>
-            <link>https://www.adslzone.net/reportajes/series/documentales-marte-espacio/</link>
-            <description>Viaja a Marte en estos documentales del planeta rojo</description>
-            <pubDate>Sun Oct 24 16:10:01 2021</pubDate>
             </item></channel>
 </rss>
