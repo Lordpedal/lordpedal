@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Atareao: NoiseTorch, efectos y multimedia</title>
+            <link>https://atareao.es/podcast/noisetorch-efectos-y-multimedia/</link>
+            <description>NoiseTorch, efectos y multimedia</description>
+            <pubDate>Thu Oct 28 06:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Only 4 MB? How to Fix USB Destroyed by Etcher and Rufus After Creating Live Linux USB</title>
+            <link>https://itsfoss.com/format-live-linux-usb/</link>
+            <description>Only 4 MB? How to Fix USB Destroyed by Etcher and Rufus After Creating Live Linux USB</description>
+            <pubDate>Thu Oct 28 05:26:42 2021</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Squid Game Giant Doll #3DThursday #3DPrinting</title>
+            <link>https://blog.adafruit.com/2021/10/28/squid-game-giant-doll-3dthursday-3dprinting/</link>
+            <description>Squid Game Giant Doll #3DThursday #3DPrinting</description>
+            <pubDate>Thu Oct 28 05:00:46 2021</pubDate>
+            </item>
+            <item>
+            <title>masGNULinux Blog: PinePhone tiene ahora una versión PRO</title>
+            <link>https://masgnulinux.es/pinephone-vende-un-celular-pro/</link>
+            <description>PinePhone tiene ahora una versión PRO</description>
+            <pubDate>Thu Oct 28 03:23:26 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: magicRecon: Rápido, Sencillo y Eficaz Script de Reconnaissance</title>
+            <link>https://esgeeks.com/magicrecon-script-shell-reconnaissance/</link>
+            <description>magicRecon: Rápido, Sencillo y Eficaz Script de Reconnaissance</description>
+            <pubDate>Thu Oct 28 02:36:09 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Halloween-Themed Talking Clock Relies on Pi Pico</title>
+            <link>https://hackaday.com/2021/10/27/halloween-themed-talking-clock-relies-on-pi-pico/</link>
+            <description>Halloween-Themed Talking Clock Relies on Pi Pico</description>
+            <pubDate>Thu Oct 28 02:01:00 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Phishious: Evaluación de Secure Email Gateway (SEG) para Equipos Rojos</title>
+            <link>https://esgeeks.com/phishious-evaluacion-secure-email-gateway/</link>
+            <description>Phishious: Evaluación de Secure Email Gateway (SEG) para Equipos Rojos</description>
+            <pubDate>Thu Oct 28 01:19:54 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Tidy Clamshell Keyboard for the Pinephone</title>
+            <link>https://hackaday.com/2021/10/27/a-tidy-clamshell-keyboard-for-the-pinephone/</link>
+            <description>A Tidy Clamshell Keyboard for the Pinephone</description>
+            <pubDate>Wed Oct 27 23:01:29 2021</pubDate>
+            </item>
+            <item>
             <title>Xataka: Este barrio de Austin no se va a construir, será impreso en 3D</title>
             <link>http://feeds.weblogssl.com/~r/xataka2/~3/5UPLxo9MMNQ/este-barrio-austin-no-se-va-a-construir-sera-impreso-3d</link>
             <description>Este barrio de Austin no se va a construir, será impreso en 3D</description>
@@ -22,53 +70,5 @@
             <link>http://feeds.weblogssl.com/~r/xataka2/~3/5v8OHRhyvcE/problemas-para-compra-arm-nvidia-union-europea-investigara-operacion</link>
             <description>Más problemas para la compra de ARM desde Nvidia: la Unión Europea investigará la operación</description>
             <pubDate>Wed Oct 27 19:31:25 2021</pubDate>
-            </item>
-            <item>
-            <title>Prusa Printers: Contest: Quick and Useful Prints</title>
-            <link>https://blog.prusaprinters.org/contest-quick-and-useful-prints_57286/</link>
-            <description>Contest: Quick and Useful Prints</description>
-            <pubDate>Wed Oct 27 19:01:27 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: 5 razones por las que tu conexión a Internet va lenta</title>
-            <link>https://www.adslzone.net/noticias/redes/5-razones-conexion-internet-lenta/</link>
-            <description>5 razones por las que tu conexión a Internet va lenta</description>
-            <pubDate>Wed Oct 27 19:00:54 2021</pubDate>
-            </item>
-            <item>
-            <title>Prusa Printers: Upgrades and Accessories Contest Winners</title>
-            <link>https://blog.prusaprinters.org/upgrades-and-accessories-contest-winners_57514/</link>
-            <description>Upgrades and Accessories Contest Winners</description>
-            <pubDate>Wed Oct 27 19:00:13 2021</pubDate>
-            </item>
-            <item>
-            <title>El Pingüino Tolkiano: Cuadernos experimentales: efecto Zeeman</title>
-            <link>https://elpinguinotolkiano.wordpress.com/2021/10/27/cuadernos-experimentales-efecto-zeeman/</link>
-            <description>Cuadernos experimentales: efecto Zeeman</description>
-            <pubDate>Wed Oct 27 19:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Intel saca pecho con su nueva gama de chips Core de 12º generación</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/5dUKqQ8eqPI/intel-saca-pecho-su-nueva-gama-chips-core-12o-generacion</link>
-            <description>Intel saca pecho con su nueva gama de chips Core de 12º generación</description>
-            <pubDate>Wed Oct 27 18:31:27 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Heavy Metal Lathe Build Doesn’t Spare the Steel</title>
-            <link>https://hackaday.com/2021/10/27/heavy-metal-lathe-build-doesnt-spare-the-steel/</link>
-            <description>Heavy Metal Lathe Build Doesn’t Spare the Steel</description>
-            <pubDate>Wed Oct 27 18:31:05 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: Wine acaba de anunciar su versión 6.20</title>
-            <link>https://lignux.com/wine-acaba-de-anunciar-su-version-6-20/</link>
-            <description>Wine acaba de anunciar su versión 6.20</description>
-            <pubDate>Wed Oct 27 18:18:26 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Nuestras 12 canciones favoritas para hacer ejercicio (y venirte muy arriba)</title>
-            <link>http://feeds.weblogssl.com/~r/Vitonica/~3/MRxn-vpLTgc/nuestras-12-canciones-favoritas-para-hacer-ejercicio-motivarte</link>
-            <description>Nuestras 12 canciones favoritas para hacer ejercicio (y venirte muy arriba)</description>
-            <pubDate>Wed Oct 27 18:01:25 2021</pubDate>
             </item></channel>
 </rss>
