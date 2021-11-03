@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: Beginner’s Guide to Installing Arch Linux on VirtualBox</title>
+            <link>https://itsfoss.com/install-arch-linux-virtualbox/</link>
+            <description>Beginner’s Guide to Installing Arch Linux on VirtualBox</description>
+            <pubDate>Wed Nov  3 05:59:07 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Google Warns of New Android 0-Day Vulnerability Under Active Targeted Attacks</title>
+            <link>http://feedproxy.google.com/~r/TheHackersNews/~3/It85kq0fvT8/google-warns-of-new-android-0-day.html</link>
+            <description>Google Warns of New Android 0-Day Vulnerability Under Active Targeted Attacks</description>
+            <pubDate>Wed Nov  3 05:20:12 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Cute Little iMac Clone Runs MacOS on a Tiny Screen</title>
+            <link>https://hackaday.com/2021/11/02/cute-little-imac-clone-runs-macos-on-a-tiny-screen/</link>
+            <description>Cute Little iMac Clone Runs MacOS on a Tiny Screen</description>
+            <pubDate>Wed Nov  3 05:00:51 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Trisquel: Disponible la versión 9.0 de la Distro GNU/Linux realmente libre</title>
+            <link>http://feedproxy.google.com/~r/desdelinuxweb/~3/ZILsvaNGE3I/</link>
+            <description>Trisquel: Disponible la versión 9.0 de la Distro GNU/Linux realmente libre</description>
+            <pubDate>Wed Nov  3 05:00:42 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Alert! Hackers Exploiting GitLab Unauthenticated RCE Flaw in the Wild</title>
+            <link>http://feedproxy.google.com/~r/TheHackersNews/~3/YfdGQJ54bZw/alert-hackers-exploiting-gitlab.html</link>
+            <description>Alert! Hackers Exploiting GitLab Unauthenticated RCE Flaw in the Wild</description>
+            <pubDate>Wed Nov  3 04:59:02 2021</pubDate>
+            </item>
+            <item>
+            <title>masGNULinux Blog: Conoce más sobre AppImage</title>
+            <link>https://masgnulinux.es/desnudar-un-archivo-appimage/</link>
+            <description>Conoce más sobre AppImage</description>
+            <pubDate>Wed Nov  3 03:29:44 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Malamud’s General Index: Research Gist, No Slap On the Wrist</title>
+            <link>https://hackaday.com/2021/11/02/malamuds-general-index-research-gist-no-slap-on-the-wrist/</link>
+            <description>Malamud’s General Index: Research Gist, No Slap On the Wrist</description>
+            <pubDate>Wed Nov  3 02:00:41 2021</pubDate>
+            </item>
+            <item>
+            <title>Podcast Linux: #142 I Encuentro Podcast Linux</title>
+            <link>https://podcastlinux.com/posts/podcastlinux/142-Podcast-Linux/</link>
+            <description>#142 I Encuentro Podcast Linux</description>
+            <pubDate>Wed Nov  3 00:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Tiny Open Hardware Linux SBC Hides In Plain Sight</title>
+            <link>https://hackaday.com/2021/11/02/tiny-open-hardware-linux-sbc-hides-in-plain-sight/</link>
+            <description>Tiny Open Hardware Linux SBC Hides In Plain Sight</description>
+            <pubDate>Tue Nov  2 23:01:59 2021</pubDate>
+            </item>
+            <item>
             <title>Xataka: 'Harry Potter: Wizards Unite' cerrará oficialmente sus puertas en enero de 2022 con un final de su trama</title>
             <link>http://feeds.weblogssl.com/~r/xataka2/~3/2moSo8AenCk/harry-potter-wizards-unite-cerrara-oficialmente-sus-puertas-enero-2022-final-su-trama</link>
             <description>'Harry Potter: Wizards Unite' cerrará oficialmente sus puertas en enero de 2022 con un final de su trama</description>
@@ -16,59 +70,5 @@
             <link>https://blog.adrianistan.eu/teletexto-011</link>
             <description>Teletexto #011</description>
             <pubDate>Tue Nov  2 21:53:41 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: El navegador web Pale Moon acaba de publicar su versión 29.4.1</title>
-            <link>https://lignux.com/el-navegador-web-pale-moon-acaba-de-publicar-su-version-29-4-1/</link>
-            <description>El navegador web Pale Moon acaba de publicar su versión 29.4.1</description>
-            <pubDate>Tue Nov  2 21:23:54 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Meta borrará los datos de reconocimiento facial de más de mil millones de personas usados en Facebook: más golpes de efectos de Zuckerberg</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/ZalDJ8QmVz8/meta-borrara-datos-reconocimiento-facial-mil-millones-personas-usados-facebook-golpes-efectos-zuckerberg</link>
-            <description>Meta borrará los datos de reconocimiento facial de más de mil millones de personas usados en Facebook: más golpes de efectos de Zuckerberg</description>
-            <pubDate>Tue Nov  2 21:00:53 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Cómete una hamburguesa y gana bitcoins: la última idea de Burger King y Robinhood para atraer a clientes</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/bGtUN6dcwkU/compra-hamburguesa-gana-criptomonedas-ultima-idea-burger-king-robinhood-para-atraer-a-clientes</link>
-            <description>Cómete una hamburguesa y gana bitcoins: la última idea de Burger King y Robinhood para atraer a clientes</description>
-            <pubDate>Tue Nov  2 20:00:53 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Computer Vision Lets You Skip Songs with a Glance</title>
-            <link>https://hackaday.com/2021/11/02/computer-vision-lets-you-skip-songs-with-a-glance/</link>
-            <description>Computer Vision Lets You Skip Songs with a Glance</description>
-            <pubDate>Tue Nov  2 20:00:38 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así es la nueva app de Movistar+ que no funciona en todos los móviles</title>
-            <link>https://www.adslzone.net/noticias/operadores/nueva-app-movistar-plus-noviembre-2021/</link>
-            <description>Así es la nueva app de Movistar+ que no funciona en todos los móviles</description>
-            <pubDate>Tue Nov  2 20:00:04 2021</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Practical AI 156: Photonic computing for AI acceleration</title>
-            <link>https://changelog.com/practicalai/156</link>
-            <description>Practical AI 156: Photonic computing for AI acceleration</description>
-            <pubDate>Tue Nov  2 20:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Foto: Cómo trabajar con una cámara y un móvil: la simbiosis perfecta</title>
-            <link>http://feeds.weblogssl.com/~r/xatakafoto/~3/ml0_yDLSmbQ/como-trabajar-camara-movil-simbiosis-perfecta</link>
-            <description>Cómo trabajar con una cámara y un móvil: la simbiosis perfecta</description>
-            <pubDate>Tue Nov  2 19:58:20 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Ni atún ni pollo: cinco alimentos ricos en proteínas que no son los de siempre (y muchas recetas para prepararlos)</title>
-            <link>http://feeds.weblogssl.com/~r/Vitonica/~3/9mB0fCp1XPI/atun-pollo-cinco-alimentos-ricos-proteinas-que-no-siempre-muchas-recetas-para-prepararlos</link>
-            <description>Ni atún ni pollo: cinco alimentos ricos en proteínas que no son los de siempre (y muchas recetas para prepararlos)</description>
-            <pubDate>Tue Nov  2 19:04:33 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Estos españoles acaban de darse cuenta de que casi todo lo que sabemos sobre el origen de la vida se debe a una enorme casualidad</title>
-            <link>http://feeds.weblogssl.com/~r/xataka2/~3/E5WAb-v5cfI/estos-espanoles-acaban-darse-cuenta-que-casi-todo-que-sabemos-origen-vida-se-debe-a-enorme-casualidad</link>
-            <description>Estos españoles acaban de darse cuenta de que casi todo lo que sabemos sobre el origen de la vida se debe a una enorme casualidad</description>
-            <pubDate>Tue Nov  2 19:00:53 2021</pubDate>
             </item></channel>
 </rss>
