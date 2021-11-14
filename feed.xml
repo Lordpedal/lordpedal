@@ -6,10 +6,46 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Overclock Server: EmulatorJS: Docker</title>
+            <link>https://lordpedal.github.io/gnu/linux/docker/emulatorjs-docker/</link>
+            <description>EmulatorJS: Docker</description>
+            <pubDate>Mon Nov 15 21:45:00 2021</pubDate>
+            </item>
+            <item>
             <title>Overclock Server: aMule: Docker</title>
             <link>https://lordpedal.github.io/gnu/linux/docker/amule-docker/</link>
             <description>aMule: Docker</description>
             <pubDate>Sun Nov 14 21:45:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Prototyping Your Way to Better Prototypes</title>
+            <link>https://hackaday.com/2021/11/13/prototyping-your-way-to-better-prototypes/</link>
+            <description>Prototyping Your Way to Better Prototypes</description>
+            <pubDate>Sun Nov 14 06:00:34 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Bluetooth RC Car Packs In A Few Sensors</title>
+            <link>https://hackaday.com/2021/11/13/bluetooth-rc-car-packs-in-a-few-sensors/</link>
+            <description>Bluetooth RC Car Packs In A Few Sensors</description>
+            <pubDate>Sun Nov 14 03:00:41 2021</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Itd OS Kde Plasma hermosa distribución basada en Ubuntu</title>
+            <link>https://www.distritotux.cl/2021/11/itd-os-kde-plasma-hermosa-distribucion.html</link>
+            <description>Itd OS Kde Plasma hermosa distribución basada en Ubuntu</description>
+            <pubDate>Sun Nov 14 02:56:42 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Cómo Utilizar el Comando wget con Ejemplos</title>
+            <link>https://esgeeks.com/uso-comando-wget-ejemplos/</link>
+            <description>Cómo Utilizar el Comando wget con Ejemplos</description>
+            <pubDate>Sun Nov 14 00:44:57 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Improving a Mini-Lathe with a Few Clever Hacks</title>
+            <link>https://hackaday.com/2021/11/13/improving-a-mini-lathe-with-a-few-clever-hacks/</link>
+            <description>Improving a Mini-Lathe with a Few Clever Hacks</description>
+            <pubDate>Sun Nov 14 00:00:33 2021</pubDate>
             </item>
             <item>
             <title>LiGNUx: El reproductor Open Source Qmmp pública su versión 1.5.2</title>
@@ -34,41 +70,5 @@
             <link>https://www.luisllamas.es/como-cross-compilar-c-para-arm-desde-un-ordenador-x86-x64/</link>
             <description>Cómo cross compilar C++ para ARM desde un ordenador X86/X64</description>
             <pubDate>Sat Nov 13 20:28:03 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Slimbook: Adelanta el Black Friday con descuentos de más de 100€</title>
-            <link>https://www.linuxadictos.com/slimbook-black-friday-2021.html</link>
-            <description>Slimbook: Adelanta el Black Friday con descuentos de más de 100€</description>
-            <pubDate>Sat Nov 13 20:21:39 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: El mejor software de gestión de proyectos para Linux</title>
-            <link>https://www.linuxadictos.com/software-gestion-proyectos-linux.html</link>
-            <description>El mejor software de gestión de proyectos para Linux</description>
-            <pubDate>Sat Nov 13 20:17:33 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Ciencia: Un grupo de investigadores descubre la mejor manera de evitar la procrastinación</title>
-            <link>https://www.xatakaciencia.com/psicologia/grupo-investigadores-descubre-mejor-manera-evitar-procrastinacion</link>
-            <description>Un grupo de investigadores descubre la mejor manera de evitar la procrastinación</description>
-            <pubDate>Sat Nov 13 20:01:14 2021</pubDate>
-            </item>
-            <item>
-            <title>Make: DIY Projects and Ideas for Makers: Maker Faire Orlando: Awesome and In-Person!</title>
-            <link>https://makezine.com/2021/11/13/maker-faire-orlando-awesome-and-in-person/</link>
-            <description>Maker Faire Orlando: Awesome and In-Person!</description>
-            <pubDate>Sat Nov 13 19:21:51 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo conectarse a WhatsApp en cualquier dispositivo sin tu móvil</title>
-            <link>https://www.adslzone.net/esenciales/whatsapp/whatsapp-multidispositivo/</link>
-            <description>Cómo conectarse a WhatsApp en cualquier dispositivo sin tu móvil</description>
-            <pubDate>Sat Nov 13 19:09:28 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Android 12 ahora disponible para tu Raspberry Pi 4</title>
-            <link>https://www.linuxadictos.com/android-12-raspberry-pi-4.html</link>
-            <description>Android 12 ahora disponible para tu Raspberry Pi 4</description>
-            <pubDate>Sat Nov 13 18:26:35 2021</pubDate>
             </item></channel>
 </rss>
