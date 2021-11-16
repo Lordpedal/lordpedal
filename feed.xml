@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: New 'Moses Staff' Hacker Group Targets Israeli Companies With Destructive Attacks</title>
+            <link>https://thehackernews.com/2021/11/new-moses-staff-hacker-group-targets.html</link>
+            <description>New 'Moses Staff' Hacker Group Targets Israeli Companies With Destructive Attacks</description>
+            <pubDate>Tue Nov 16 06:52:38 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Pluto Spectrum Analyzer Uses Command Line</title>
+            <link>https://hackaday.com/2021/11/15/pluto-spectrum-analyzer-uses-command-line/</link>
+            <description>Pluto Spectrum Analyzer Uses Command Line</description>
+            <pubDate>Tue Nov 16 06:00:12 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Movistar afectada por un nuevo ciberataque</title>
+            <link>https://unaaldia.hispasec.com/2021/11/movistar-afectada-por-un-nuevo-ciberataque.html</link>
+            <description>Movistar afectada por un nuevo ciberataque</description>
+            <pubDate>Tue Nov 16 06:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: SharkBot — A New Android Trojan Stealing Banking and Cryptocurrency Accounts</title>
+            <link>https://thehackernews.com/2021/11/sharkbot-new-android-trojan-stealing.html</link>
+            <description>SharkBot — A New Android Trojan Stealing Banking and Cryptocurrency Accounts</description>
+            <pubDate>Tue Nov 16 05:38:51 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Hackers Increasingly Using HTML Smuggling in Malware and Phishing Attacks</title>
+            <link>https://thehackernews.com/2021/11/hackers-increasingly-using-html.html</link>
+            <description>Hackers Increasingly Using HTML Smuggling in Malware and Phishing Attacks</description>
+            <pubDate>Tue Nov 16 03:09:50 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Machine Learning Shushes Stressed Dogs</title>
+            <link>https://hackaday.com/2021/11/15/machine-learning-shushes-stressed-dogs/</link>
+            <description>Machine Learning Shushes Stressed Dogs</description>
+            <pubDate>Tue Nov 16 03:00:47 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Designing Electronics That Work</title>
+            <link>https://hackaday.com/2021/11/15/designing-electronics-that-work/</link>
+            <description>Designing Electronics That Work</description>
+            <pubDate>Tue Nov 16 00:00:56 2021</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Un salón dentro de tu coche: el Hyundai Seven quiere demostrar que el interior de los coches puede cambiar</title>
+            <link>https://www.xataka.com/vehiculos/salon-dentro-tu-coche-hyundai-seven-quiere-demostrar-que-interior-coches-puede-cambiar</link>
+            <description>Un salón dentro de tu coche: el Hyundai Seven quiere demostrar que el interior de los coches puede cambiar</description>
+            <pubDate>Mon Nov 15 22:58:37 2021</pubDate>
+            </item>
+            <item>
             <title>Ubunlog: WineVDM, una capa de emulación de app de Windows de 16 bits</title>
             <link>https://ubunlog.com/winevdm-una-capa-de-emulacion-de-app-de-windows-de-16-bits/</link>
             <description>WineVDM, una capa de emulación de app de Windows de 16 bits</description>
@@ -22,53 +70,5 @@
             <link>https://lordpedal.github.io/gnu/linux/docker/emulatorjs-docker/</link>
             <description>EmulatorJS: Docker</description>
             <pubDate>Mon Nov 15 21:45:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Luis Llamas: M5Stack Unit V2, un mini PC con cámara para aplicaciones de IA</title>
-            <link>https://www.luisllamas.es/m5stack-unit-v2-un-mini-pc-con-camara-para-aplicaciones-de-ia/</link>
-            <description>M5Stack Unit V2, un mini PC con cámara para aplicaciones de IA</description>
-            <pubDate>Mon Nov 15 21:35:48 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Extending an E-Bike Range from Good to Wheelie Good</title>
-            <link>https://hackaday.com/2021/11/15/extending-an-e-bike-range-from-good-to-wheelie-good/</link>
-            <description>Extending an E-Bike Range from Good to Wheelie Good</description>
-            <pubDate>Mon Nov 15 21:00:52 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'Halo: the Series' llega en 2022: Microsoft muestra un corto pero prometedor teaser de la serie del jefe maestro</title>
-            <link>https://www.xataka.com/cine-y-tv/halo-the-series-llega-2022-microsoft-muestra-corto-prometedor-teaser-serie-jefe-maestro</link>
-            <description>'Halo: the Series' llega en 2022: Microsoft muestra un corto pero prometedor teaser de la serie del jefe maestro</description>
-            <pubDate>Mon Nov 15 21:00:37 2021</pubDate>
-            </item>
-            <item>
-            <title>Make: DIY Projects and Ideas for Makers: Make:cast – Innovation as a Material Practice</title>
-            <link>https://makezine.com/2021/11/15/makecast-innovation-as-a-material-practice/</link>
-            <description>Make:cast – Innovation as a Material Practice</description>
-            <pubDate>Mon Nov 15 20:45:10 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: El reproductor de vídeo Celluloid (anteriormente Gnome MPV) pública su versión 0.22</title>
-            <link>https://lignux.com/el-reproductor-de-video-celluloid-anteriormente-gnome-mpv-publica-su-version-0-22/</link>
-            <description>El reproductor de vídeo Celluloid (anteriormente Gnome MPV) pública su versión 0.22</description>
-            <pubDate>Mon Nov 15 20:24:45 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Xbox suma 76 nuevos juegos a catálogo de retrocompatibles y les aplica un aumento de resolución: aquí tienes la lista completa</title>
-            <link>https://www.xataka.com/videojuegos/xbox-suma-76-nuevos-juegos-a-catalogo-retrocompatibles-les-aplica-aumento-resolucion-aqui-tienes-lista-completa</link>
-            <description>Xbox suma 76 nuevos juegos a catálogo de retrocompatibles y les aplica un aumento de resolución: aquí tienes la lista completa</description>
-            <pubDate>Mon Nov 15 20:00:36 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Cuál es la mejor tarifa de fibra y móvil por 30 euros? ¿y por 40 euros?</title>
-            <link>https://www.adslzone.net/noticias/operadores/fibra-movil-noviembre-2021-30-40-euros/</link>
-            <description>¿Cuál es la mejor tarifa de fibra y móvil por 30 euros? ¿y por 40 euros?</description>
-            <pubDate>Mon Nov 15 20:00:13 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: El cardio, ¿antes o después del entrenamiento de fuerza? Depende de tu objetivo en el gimnasio</title>
-            <link>https://www.vitonica.com/entrenamiento/cardio-antes-despues-entrenamiento-fuerza-depende-tu-objetivo-gimnasio</link>
-            <description>El cardio, ¿antes o después del entrenamiento de fuerza? Depende de tu objetivo en el gimnasio</description>
-            <pubDate>Mon Nov 15 19:01:20 2021</pubDate>
             </item></channel>
 </rss>
