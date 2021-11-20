@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: PinePhone Speed Up Takes Soldering</title>
+            <link>https://hackaday.com/2021/11/19/pinephone-speed-up-takes-soldering/</link>
+            <description>PinePhone Speed Up Takes Soldering</description>
+            <pubDate>Sat Nov 20 06:00:51 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Microsoft Defender utilizará IA para prevenir ransomware</title>
+            <link>https://unaaldia.hispasec.com/2021/11/microsoft-defender-utilizara-ia-para-prevenir-ransomware.html</link>
+            <description>Microsoft Defender utilizará IA para prevenir ransomware</description>
+            <pubDate>Sat Nov 20 06:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Arduino + Ham Radio = Texting</title>
+            <link>https://hackaday.com/2021/11/19/arduino-ham-radio-texting/</link>
+            <description>Arduino + Ham Radio = Texting</description>
+            <pubDate>Sat Nov 20 03:00:33 2021</pubDate>
+            </item>
+            <item>
+            <title>Blackhold: Ceph: El maldito deep scrubbing</title>
+            <link>https://blackhold.nusepas.com/2021/11/20/ceph-el-maldito-deep-scrubbing/</link>
+            <description>Ceph: El maldito deep scrubbing</description>
+            <pubDate>Sat Nov 20 00:50:24 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Run UNIX On Microcontrollers With PDP-11 Emulator</title>
+            <link>https://hackaday.com/2021/11/19/run-unix-on-microcontrollers-with-pdp-11-emulator/</link>
+            <description>Run UNIX On Microcontrollers With PDP-11 Emulator</description>
+            <pubDate>Sat Nov 20 00:00:46 2021</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Electric Mini Rat Rod Starts ‘Em Young</title>
             <link>https://hackaday.com/2021/11/19/electric-mini-rat-rod-starts-em-young/</link>
             <description>Electric Mini Rat Rod Starts ‘Em Young</description>
@@ -40,35 +70,5 @@
             <link>https://lignux.com/el-software-de-virtualizacion-virtualbox-acaba-de-liberar-su-version-6-1-28/</link>
             <description>El software de virtualización Virtualbox acaba de liberar su versión 6.1.28</description>
             <pubDate>Fri Nov 19 20:01:56 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: ¡Vuelve Winamp! El reproductor se relanzará con un nuevo logotipo y una próxima versión beta</title>
-            <link>https://www.xataka.com/aplicaciones/vuelve-winamp-reproductor-se-relanzara-nuevo-logotipo-proxima-version-beta</link>
-            <description>¡Vuelve Winamp! El reproductor se relanzará con un nuevo logotipo y una próxima versión beta</description>
-            <pubDate>Fri Nov 19 20:00:05 2021</pubDate>
-            </item>
-            <item>
-            <title>Changelog: JS Party 202: Sophie is the bomb diggity</title>
-            <link>https://changelog.com/jsparty/202</link>
-            <description>JS Party 202: Sophie is the bomb diggity</description>
-            <pubDate>Fri Nov 19 20:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: The Silent Dripper Dispenses Water Without Making Any Sound</title>
-            <link>https://hackaday.com/2021/11/19/the-silent-dripper-dispenses-water-without-making-any-sound/</link>
-            <description>The Silent Dripper Dispenses Water Without Making Any Sound</description>
-            <pubDate>Fri Nov 19 19:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: El gestor de paquetes APT ha sido parcheado para impedir la desinstalación de componentes esenciales</title>
-            <link>https://www.muylinux.com/2021/11/19/apt-2-3-12/</link>
-            <description>El gestor de paquetes APT ha sido parcheado para impedir la desinstalación de componentes esenciales</description>
-            <pubDate>Fri Nov 19 19:27:32 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Comparte tu música y perfil Spotify con códigos QR</title>
-            <link>https://www.adslzone.net/como-se-hace/spotify/qr-spotify/</link>
-            <description>Comparte tu música y perfil Spotify con códigos QR</description>
-            <pubDate>Fri Nov 19 19:00:22 2021</pubDate>
             </item></channel>
 </rss>
