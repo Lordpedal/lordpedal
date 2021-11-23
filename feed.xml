@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A PDP 11 by Any Other Name: Heathkit H11 Teardown and Repair</title>
+            <link>https://hackaday.com/2021/11/22/a-pdp-11-by-any-other-name-heathkit-h11-teardown-and-repair/</link>
+            <description>A PDP 11 by Any Other Name: Heathkit H11 Teardown and Repair</description>
+            <pubDate>Tue Nov 23 06:00:35 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Paquetes maliciosos en el repositorio PyPI</title>
+            <link>https://unaaldia.hispasec.com/2021/11/paquetes-maliciosos-en-el-repositorio-pypi.html</link>
+            <description>Paquetes maliciosos en el repositorio PyPI</description>
+            <pubDate>Tue Nov 23 06:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Ubuntu Buzz !: Running Windows Programs on Trisquel with WINE</title>
+            <link>http://www.ubuntubuzz.com/2021/11/running-windows-programs-on-trisquel-with-wine.html</link>
+            <description>Running Windows Programs on Trisquel with WINE</description>
+            <pubDate>Tue Nov 23 05:03:08 2021</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Manage Flatpak Permissions Graphically With Flatseal</title>
+            <link>https://itsfoss.com/flatseal/</link>
+            <description>Manage Flatpak Permissions Graphically With Flatseal</description>
+            <pubDate>Tue Nov 23 05:01:54 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Visualizing WiFi with a Converted 3D Printer</title>
+            <link>https://hackaday.com/2021/11/22/visualizing-wifi-with-a-converted-3d-printer/</link>
+            <description>Visualizing WiFi with a Converted 3D Printer</description>
+            <pubDate>Tue Nov 23 03:00:19 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Shop-Built Rig Measures Strength of Wood Accurately</title>
+            <link>https://hackaday.com/2021/11/22/shop-built-rig-measure-strength-of-wood-accurately/</link>
+            <description>Shop-Built Rig Measures Strength of Wood Accurately</description>
+            <pubDate>Tue Nov 23 00:00:09 2021</pubDate>
+            </item>
+            <item>
             <title>EsGeeks: Seguimiento del Número de Teléfono: Mitos y Realidades</title>
             <link>https://esgeeks.com/seguimiento-numero-telefono/</link>
             <description>Seguimiento del Número de Teléfono: Mitos y Realidades</description>
@@ -34,41 +70,5 @@
             <link>https://www.xataka.com/moviles/han-dado-nuevo-modo-localizar-micro-camaras-ocultas-solo-necesitas-sensor-tof-tu-movil-para-usarlo</link>
             <description>Han dado con un nuevo modo de localizar micro-cámaras ocultas, y sólo necesitas el sensor TOF de tu móvil para usarlo</description>
             <pubDate>Mon Nov 22 21:00:59 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: GBA Remote Play Upgrade Lets You Play PlayStation On The Bus</title>
-            <link>https://hackaday.com/2021/11/22/gba-remote-play-upgrade-lets-you-play-playstation-on-the-bus/</link>
-            <description>GBA Remote Play Upgrade Lets You Play PlayStation On The Bus</description>
-            <pubDate>Mon Nov 22 21:00:46 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Foto: Cómo enfocar una fotografía con el modo de fusión Luz intensa en Adobe Photoshop</title>
-            <link>https://www.xatakafoto.com/trucos-y-consejos/como-enfocar-fotografia-modo-fusion-luz-intensa-adobe-photoshop</link>
-            <description>Cómo enfocar una fotografía con el modo de fusión Luz intensa en Adobe Photoshop</description>
-            <pubDate>Mon Nov 22 20:45:07 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Todo lo que sabemos de la arma hipersónica de China: desde el avión Xian H-20 hasta el misil DF-17 que tiene a los Estados Unidos en alerta</title>
-            <link>https://www.xataka.com/otros-dispositivos/todo-que-sabemos-arma-hipersonica-china-avion-xian-h-20-misil-df-17-que-tiene-a-estados-unidos-alerta</link>
-            <description>Todo lo que sabemos de la arma hipersónica de China: desde el avión Xian H-20 hasta el misil DF-17 que tiene a los Estados Unidos en alerta</description>
-            <pubDate>Mon Nov 22 20:01:00 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Movistar, Vodafone, Orange o Yoigo ¿quién tiene mejores ofertas para el Black Friday?</title>
-            <link>https://www.adslzone.net/noticias/operadores/mejores-ofertas-operadores-black-friday-2021/</link>
-            <description>Movistar, Vodafone, Orange o Yoigo ¿quién tiene mejores ofertas para el Black Friday?</description>
-            <pubDate>Mon Nov 22 20:00:28 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Simple But Stylish Numitron Clock Can Display Time, Date and Temperature</title>
-            <link>https://hackaday.com/2021/11/22/simple-but-stylish-numitron-clock-can-display-time-date-and-temperature/</link>
-            <description>Simple But Stylish Numitron Clock Can Display Time, Date and Temperature</description>
-            <pubDate>Mon Nov 22 19:30:14 2021</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu!: Cutefish OS 0.6 Beta Released with Lock Screen Controls, More Settings</title>
-            <link>https://www.omgubuntu.co.uk/2021/11/cutefish-os-0-6-beta-released-adds-lock-screen-controls-and-more-settings</link>
-            <description>Cutefish OS 0.6 Beta Released with Lock Screen Controls, More Settings</description>
-            <pubDate>Mon Nov 22 19:11:37 2021</pubDate>
             </item></channel>
 </rss>
