@@ -6,10 +6,46 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>Ubunlog: Cinnamon 5.2 ya fue liberado y estas son sus novedades</title>
-            <link>https://ubunlog.com/cinnamon-5-2-ya-fue-liberado-y-estas-son-sus-novedades/</link>
-            <description>Cinnamon 5.2 ya fue liberado y estas son sus novedades</description>
-            <pubDate>Sun Nov 28 22:37:04 2021</pubDate>
+            <title>Atareao: Como reemplazar Firefox Send</title>
+            <link>https://atareao.es/podcast/como-reemplazar-firefox-send/</link>
+            <description>Como reemplazar Firefox Send</description>
+            <pubDate>Mon Nov 29 07:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Desactivar sonidos del sistema en kde</title>
+            <link>https://www.cambiatealinux.com/desactivar-sonidos-del-sistema-en-kde</link>
+            <description>Desactivar sonidos del sistema en kde</description>
+            <pubDate>Mon Nov 29 06:00:04 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Z80 Video Output Via The Raspberry Pi Pico</title>
+            <link>https://hackaday.com/2021/11/28/z80-video-output-via-the-raspberry-pi-pico/</link>
+            <description>Z80 Video Output Via The Raspberry Pi Pico</description>
+            <pubDate>Mon Nov 29 06:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Noviembre 2021: Lo bueno, lo malo y lo interesante del Software Libre</title>
+            <link>https://blog.desdelinux.net/noviembre-2021-bueno-malo-interesante-software-libre/</link>
+            <description>Noviembre 2021: Lo bueno, lo malo y lo interesante del Software Libre</description>
+            <pubDate>Mon Nov 29 05:00:21 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Calculator Charm: Calculatorium Leviosa!</title>
+            <link>https://hackaday.com/2021/11/28/the-calculator-charm-calculatorium-leviosa/</link>
+            <description>The Calculator Charm: Calculatorium Leviosa!</description>
+            <pubDate>Mon Nov 29 03:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Dieron a conocer una técnica para detectar cámaras ocultas utilizando el sensor ToF de los smartphones</title>
+            <link>https://blog.desdelinux.net/dieron-a-conocer-una-tecnica-para-detectar-camaras-ocultas-utilizando-el-sensor-tof-de-los-smartphones/</link>
+            <description>Dieron a conocer una técnica para detectar cámaras ocultas utilizando el sensor ToF de los smartphones</description>
+            <pubDate>Mon Nov 29 00:02:16 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Automating Mobile Games With A Robot Arm</title>
+            <link>https://hackaday.com/2021/11/28/automating-mobile-games-with-a-robot-arm/</link>
+            <description>Automating Mobile Games With A Robot Arm</description>
+            <pubDate>Mon Nov 29 00:00:00 2021</pubDate>
             </item>
             <item>
             <title>DistritoTux: Kataluga, Katalekto, Xboard, Pilas Bloques y Laby software educativo en GNU Linux</title>
@@ -34,41 +70,5 @@
             <link>https://hackaday.com/2021/11/28/generate-fully-parametric-3d-printable-speaker-enclosures/</link>
             <description>Generate Fully Parametric, 3D-Printable Speaker Enclosures</description>
             <pubDate>Sun Nov 28 21:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El Air 4 de Renault es la suma de querer un eVTOL y recordar la época de los coches clásicos de la compañía</title>
-            <link>https://www.xataka.com/vehiculos/air-4-renault-suma-querer-evtol-recordar-epoca-coches-clasicos-compania</link>
-            <description>El Air 4 de Renault es la suma de querer un eVTOL y recordar la época de los coches clásicos de la compañía</description>
-            <pubDate>Sun Nov 28 20:00:42 2021</pubDate>
-            </item>
-            <item>
-            <title>▶ Noticias desde entreunosyceros: Anclar carpetas al menú contextual del icono ‘Archivos’ en el dock de Ubuntu 20.04</title>
-            <link>https://entreunosyceros.net/ancla-carpetas-menu-contextual-icono-archivos-dock-ubuntu-20-04/</link>
-            <description>Anclar carpetas al menú contextual del icono ‘Archivos’ en el dock de Ubuntu 20.04</description>
-            <pubDate>Sun Nov 28 19:30:23 2021</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: IKEA Toilet Brush adapter for Luke Skywalker – Lightsaber #3DThursday #3DPrinting</title>
-            <link>https://blog.adafruit.com/2021/11/28/ikea-toilet-brush-adapter-for-luke-skywalker-lightsaber-3dthursday-3dprinting/</link>
-            <description>IKEA Toilet Brush adapter for Luke Skywalker – Lightsaber #3DThursday #3DPrinting</description>
-            <pubDate>Sun Nov 28 19:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Glowing Potion Bottle Stopper #3DThursday #3DPrinting</title>
-            <link>https://blog.adafruit.com/2021/11/28/glowing-potion-bottle-stopper-3dthursday-3dprinting/</link>
-            <description>Glowing Potion Bottle Stopper #3DThursday #3DPrinting</description>
-            <pubDate>Sun Nov 28 19:05:00 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Quieres cobertura de Yoigo? Estos operadores virtuales la usan</title>
-            <link>https://www.adslzone.net/operadores/en-detalle/cobertura-omv-yoigo/</link>
-            <description>¿Quieres cobertura de Yoigo? Estos operadores virtuales la usan</description>
-            <pubDate>Sun Nov 28 19:01:11 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Mi WiFi se corta y el ordenador se ralentiza: cómo solucionar este fallo</title>
-            <link>https://www.redeszone.net/tutoriales/redes-wifi/evitar-wifi-ralentice-ordenador/</link>
-            <description>Mi WiFi se corta y el ordenador se ralentiza: cómo solucionar este fallo</description>
-            <pubDate>Sun Nov 28 18:06:36 2021</pubDate>
             </item></channel>
 </rss>
