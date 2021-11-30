@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: HPi95LX Puts Linux in your Palm</title>
+            <link>https://hackaday.com/2021/11/29/hpi95lx-puts-linux-in-your-palm/</link>
+            <description>HPi95LX Puts Linux in your Palm</description>
+            <pubDate>Tue Nov 30 06:00:57 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: 4 Android Banking Trojan Campaigns Targeted Over 300,000 Devices in 2021</title>
+            <link>https://thehackernews.com/2021/11/4-android-banking-trojan-campaigns.html</link>
+            <description>4 Android Banking Trojan Campaigns Targeted Over 300,000 Devices in 2021</description>
+            <pubDate>Tue Nov 30 03:51:33 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Do You Really Need To Dry Filament?</title>
+            <link>https://hackaday.com/2021/11/29/do-you-really-need-to-dry-filament/</link>
+            <description>Do You Really Need To Dry Filament?</description>
+            <pubDate>Tue Nov 30 00:00:58 2021</pubDate>
+            </item>
+            <item>
             <title>Xataka: El patinete eléctrico vuelve a Miami sólo diez días después de que la ciudad lo prohibiera</title>
             <link>https://www.xataka.com/vehiculos/patinete-electrico-vuelve-a-miami-solo-diez-dias-despues-que-ciudad-prohibiera</link>
             <description>El patinete eléctrico vuelve a Miami sólo diez días después de que la ciudad lo prohibiera</description>
@@ -42,9 +60,9 @@
             <pubDate>Mon Nov 29 20:04:00 2021</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: OpenCV Hack Chat</title>
+            <title>Blog – Hackaday: Spatial AI and CV Hack Chat</title>
             <link>https://hackaday.com/2021/11/29/opencv-hack-chat/</link>
-            <description>OpenCV Hack Chat</description>
+            <description>Spatial AI and CV Hack Chat</description>
             <pubDate>Mon Nov 29 20:01:47 2021</pubDate>
             </item>
             <item>
@@ -52,23 +70,5 @@
             <link>https://www.xataka.com/investigacion/hemos-descubierto-posibles-rastros-neutrinos-colisiones-lhc-eso-paso-detectar-materia-oscura-futuro</link>
             <description>Hemos descubierto posibles rastros de neutrinos en las colisiones del LHC, y eso es un paso hacia detectar la materia oscura en un futuro</description>
             <pubDate>Mon Nov 29 20:01:03 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: 4K u 8K, la gran decisión al comprar una Smart TV</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/4k-8k-decision-comprar-smart-tv-2021/</link>
-            <description>4K u 8K, la gran decisión al comprar una Smart TV</description>
-            <pubDate>Mon Nov 29 20:00:30 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Foto: 'Hay que dotarle de suficientes medios para que permanezca en el tiempo': los fotógrafos celebran el nuevo Centro de Fotografía</title>
-            <link>https://www.xatakafoto.com/actualidad/hay-que-dotarle-suficientes-medios-permanezca-tiempo-fotografos-celebran-nuevo-centro-fotografia</link>
-            <description>'Hay que dotarle de suficientes medios para que permanezca en el tiempo': los fotógrafos celebran el nuevo Centro de Fotografía</description>
-            <pubDate>Mon Nov 29 19:44:05 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo ver y crear perfiles en Movistar+ compartir cuenta</title>
-            <link>https://www.adslzone.net/operadores/movistar/perfiles-movistar-plus/</link>
-            <description>Cómo ver y crear perfiles en Movistar+ compartir cuenta</description>
-            <pubDate>Mon Nov 29 19:02:25 2021</pubDate>
             </item></channel>
 </rss>
