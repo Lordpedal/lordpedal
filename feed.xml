@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Wake-Up Robot Does It Gently</title>
+            <link>https://hackaday.com/2021/12/03/wake-up-robot-does-it-gently/</link>
+            <description>Wake-Up Robot Does It Gently</description>
+            <pubDate>Sat Dec  4 06:00:25 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Warning: Yet Another Zoho ManageEngine Product Found Under Active Attacks</title>
+            <link>https://thehackernews.com/2021/12/warning-yet-another-zoho-manageengine.html</link>
+            <description>Warning: Yet Another Zoho ManageEngine Product Found Under Active Attacks</description>
+            <pubDate>Sat Dec  4 05:09:04 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Researches Detail 17 Malicious Frameworks Used to Attack Air-Gapped Networks</title>
+            <link>https://thehackernews.com/2021/12/researches-detail-17-malicious.html</link>
+            <description>Researches Detail 17 Malicious Frameworks Used to Attack Air-Gapped Networks</description>
+            <pubDate>Sat Dec  4 04:48:22 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: New Malvertising Campaigns Spreading Backdoors, Malicious Chrome Extensions</title>
+            <link>https://thehackernews.com/2021/12/new-malvertising-campaigns-spreading.html</link>
+            <description>New Malvertising Campaigns Spreading Backdoors, Malicious Chrome Extensions</description>
+            <pubDate>Sat Dec  4 04:47:08 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Pinta: ¿Qué hay de nuevo sobre esta App libre de edición de imágenes?</title>
+            <link>https://blog.desdelinux.net/pinta-nuevo-app-libre-edicion-imagenes/</link>
+            <description>Pinta: ¿Qué hay de nuevo sobre esta App libre de edición de imágenes?</description>
+            <pubDate>Sat Dec  4 04:30:49 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Is It Finally Time for Christmas Decorations?</title>
+            <link>https://hackaday.com/2021/12/03/is-it-finally-time-for-christmas-decorations/</link>
+            <description>Is It Finally Time for Christmas Decorations?</description>
+            <pubDate>Sat Dec  4 03:00:08 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Paper Plate Surround Sound System</title>
+            <link>https://hackaday.com/2021/12/03/paper-plate-surround-sound-system/</link>
+            <description>Paper Plate Surround Sound System</description>
+            <pubDate>Sat Dec  4 00:00:18 2021</pubDate>
+            </item>
+            <item>
             <title>Xataka: Tan pequeño como Marte pero más denso que la Tierra: hemos descubierto un planeta casi hecho completamente de hierro</title>
             <link>https://www.xataka.com/espacio/pequeno-como-marte-denso-que-tierra-hemos-descubierto-planeta-casi-hecho-completamente-hierro</link>
             <description>Tan pequeño como Marte pero más denso que la Tierra: hemos descubierto un planeta casi hecho completamente de hierro</description>
@@ -18,9 +60,9 @@
             <pubDate>Fri Dec  3 21:19:11 2021</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Print Sewing Machine Parts Extend Singer’s Range</title>
+            <title>Blog – Hackaday: Printed Sewing Machine Parts Extend Singer’s Range</title>
             <link>https://hackaday.com/2021/12/03/print-sewing-machine-parts-extend-singers-range/</link>
-            <description>Print Sewing Machine Parts Extend Singer’s Range</description>
+            <description>Printed Sewing Machine Parts Extend Singer’s Range</description>
             <pubDate>Fri Dec  3 21:00:56 2021</pubDate>
             </item>
             <item>
@@ -28,47 +70,5 @@
             <link>https://www.xataka.com/xataka/google-desvela-nuevos-detalles-starline-videollamadas-que-casi-permiten-tocar-al-interlocutor</link>
             <description>Google desvela nuevos detalles sobre Starline: videollamadas que (casi) permiten tocar al interlocutor</description>
             <pubDate>Fri Dec  3 21:00:29 2021</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Alguien lleva cuatro años gestionando cientos de servidores de Tor hackeados para desanonimizar a los usuarios de esta red privada</title>
-            <link>https://www.genbeta.com/seguridad/alguien-lleva-cuatro-anos-gestionando-cientos-servidores-tor-hackeados-para-desanonimizar-a-usuarios-esta-red-privada</link>
-            <description>Alguien lleva cuatro años gestionando cientos de servidores de Tor hackeados para desanonimizar a los usuarios de esta red privada</description>
-            <pubDate>Fri Dec  3 20:00:29 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Sony va de cabeza a por Xbox Game Pass preparando su propia subscripción 'Spartacus', según Bloomberg</title>
-            <link>https://www.xataka.com/videojuegos/sony-va-cabeza-a-xbox-game-pass-preparando-su-propia-subscripcion-spartacus-bloomberg</link>
-            <description>Sony va de cabeza a por Xbox Game Pass preparando su propia subscripción 'Spartacus', según Bloomberg</description>
-            <pubDate>Fri Dec  3 20:00:28 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: WiFi vs datos ilimitados ¿qué es mejor?</title>
-            <link>https://www.adslzone.net/noticias/redes/wifi-vs-datos-ilimitados-que-es-mejor/</link>
-            <description>WiFi vs datos ilimitados ¿qué es mejor?</description>
-            <pubDate>Fri Dec  3 20:00:24 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Foto: El astronauta Thomas Pesquet regresa de su última misión en el espacio con más de 250.000 fotografías de la tierra</title>
-            <link>https://www.xatakafoto.com/actualidad/astronauta-thomas-pesquet-regresa-su-ultima-mision-espacio-250-000-fotografias-tierra</link>
-            <description>El astronauta Thomas Pesquet regresa de su última misión en el espacio con más de 250.000 fotografías de la tierra</description>
-            <pubDate>Fri Dec  3 19:54:41 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: This Ham Radio is Unsafe at Any Frequency</title>
-            <link>https://hackaday.com/2021/12/03/this-ham-radio-is-unsafe-at-any-frequency/</link>
-            <description>This Ham Radio is Unsafe at Any Frequency</description>
-            <pubDate>Fri Dec  3 19:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: EndeavourOS 21_04 Atlantis llega con Linux 5.15, PipeWire y otras novedades</title>
-            <link>https://www.linuxadictos.com/endeavouros-21_04-atlantis-llega-con-linux-5-15-pipewire-y-otras-novedades.html</link>
-            <description>EndeavourOS 21_04 Atlantis llega con Linux 5.15, PipeWire y otras novedades</description>
-            <pubDate>Fri Dec  3 19:07:39 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: 21 recetas ricas en vitamina D para incorporar a tu dieta en esta temporada</title>
-            <link>https://www.vitonica.com/recetas-saludables/21-recetas-ricas-vitamina-d-para-incorporar-a-tu-dieta-esta-temporada</link>
-            <description>21 recetas ricas en vitamina D para incorporar a tu dieta en esta temporada</description>
-            <pubDate>Fri Dec  3 19:02:07 2021</pubDate>
             </item></channel>
 </rss>
