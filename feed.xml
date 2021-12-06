@@ -6,6 +6,12 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Changelog: A lightweight alternative to Elasticsearch that requires minimal resources</title>
+            <link>https://github.com/prabhatsharma/zinc</link>
+            <description>A lightweight alternative to Elasticsearch that requires minimal resources</description>
+            <pubDate>Mon Dec  6 14:46:00 2021</pubDate>
+            </item>
+            <item>
             <title>Xataka: 'Halo Infinite': un memorable shooter que renueva la franquicia y funciona como una pieza más en el proyecto jugable de Microsoft</title>
             <link>https://www.xataka.com/videojuegos/halo-infinite-memorable-shooter-que-renueva-franquicia-funciona-como-pieza-proyecto-jugable-microsoft</link>
             <description>'Halo Infinite': un memorable shooter que renueva la franquicia y funciona como una pieza más en el proyecto jugable de Microsoft</description>
@@ -64,11 +70,5 @@
             <link>https://thehackernews.com/2021/12/vulnerability-scanning-frequency-best.html</link>
             <description>Vulnerability Scanning Frequency Best Practices</description>
             <pubDate>Mon Dec  6 12:22:29 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Por qué me va más lento Internet si me conecto a la VPN?</title>
-            <link>https://www.redeszone.net/noticias/redes/por-que-va-lento-internet-conecto-vpn/</link>
-            <description>¿Por qué me va más lento Internet si me conecto a la VPN?</description>
-            <pubDate>Mon Dec  6 12:03:10 2021</pubDate>
             </item></channel>
 </rss>
