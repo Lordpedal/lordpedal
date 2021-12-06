@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Atareao: Aplicaciones geeks para Android</title>
+            <link>https://atareao.es/podcast/aplicaciones-geeks-para-android/</link>
+            <description>Aplicaciones geeks para Android</description>
+            <pubDate>Mon Dec  6 07:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Gaphor: Open Source Graphical Modeling Tool</title>
+            <link>https://itsfoss.com/gaphor-modeling-tool/</link>
+            <description>Gaphor: Open Source Graphical Modeling Tool</description>
+            <pubDate>Mon Dec  6 06:21:35 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Bass Guitar Gets Shapeshifting Pickups</title>
+            <link>https://hackaday.com/2021/12/05/bass-guitar-gets-shapeshifting-pickups/</link>
+            <description>Bass Guitar Gets Shapeshifting Pickups</description>
+            <pubDate>Mon Dec  6 06:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Desktop Folder: Una útil app de Elementary OS para mejorar el Escritorio</title>
+            <link>https://blog.desdelinux.net/desktop-folder-util-app-elementary-os-mejorar-escritorio/</link>
+            <description>Desktop Folder: Una útil app de Elementary OS para mejorar el Escritorio</description>
+            <pubDate>Mon Dec  6 05:00:37 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Intel Open Source: Explorando el amplio ecosistema Open Source de Intel</title>
+            <link>https://blog.desdelinux.net/intel-open-source-explorando-amplio-ecosistema-open-source/</link>
+            <description>Intel Open Source: Explorando el amplio ecosistema Open Source de Intel</description>
+            <pubDate>Mon Dec  6 05:00:18 2021</pubDate>
+            </item>
+            <item>
+            <title>Ubuntu Buzz !: How To Install Gambas 3 Programming Tools on Debian and Ubuntu</title>
+            <link>http://www.ubuntubuzz.com/2021/12/how-to-install-gambas-3-programming-tools-on-debian-and-ubuntu.html</link>
+            <description>How To Install Gambas 3 Programming Tools on Debian and Ubuntu</description>
+            <pubDate>Mon Dec  6 03:32:52 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Back To the Future We Go With This Flux Capacitor PCB Badge</title>
+            <link>https://hackaday.com/2021/12/05/back-to-the-future-we-go-with-this-flux-capacitor-pcb-badge/</link>
+            <description>Back To the Future We Go With This Flux Capacitor PCB Badge</description>
+            <pubDate>Mon Dec  6 03:01:36 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: December 5, 2021</title>
+            <link>https://hackaday.com/2021/12/05/hackaday-links-december-5-2021/</link>
+            <description>Hackaday Links: December 5, 2021</description>
+            <pubDate>Mon Dec  6 00:00:28 2021</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: World’s Largest Scratch-Built Ork Army #scifisunday</title>
+            <link>https://blog.adafruit.com/2021/12/05/worlds-largest-scratch-built-ork-army-scifisunday/</link>
+            <description>World’s Largest Scratch-Built Ork Army #scifisunday</description>
+            <pubDate>Sun Dec  5 23:00:03 2021</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Rolling-Screw Extruder Goes Brushless</title>
             <link>https://hackaday.com/2021/12/05/rolling-screw-extruder-goes-brushless/</link>
             <description>Rolling-Screw Extruder Goes Brushless</description>
@@ -16,59 +70,5 @@
             <link>https://lignux.com/el-software-de-edicion-de-audio-open-source-audacity-acaba-de-liberar-su-version-3-1-2/</link>
             <description>El software de edición de audio Open Source Audacity acaba de liberar su versión 3.1.2</description>
             <pubDate>Sun Dec  5 20:31:06 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Ciencia: Solo hay 3 factores que influyen en el hecho de una persona decida estar informada o vivir en la ignorancia sobre un tema</title>
-            <link>https://www.xatakaciencia.com/psicologia/solo-hay-3-factores-que-influyen-hecho-persona-decida-estar-informada-vivir-ignorancia-tema</link>
-            <description>Solo hay 3 factores que influyen en el hecho de una persona decida estar informada o vivir en la ignorancia sobre un tema</description>
-            <pubDate>Sun Dec  5 20:20:49 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Esperma de salmón y aceite vegetal: China descubre cómo hacer plástico ecológico con estos dos ingredientes</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/esperma-salmon-aceite-vegetal-china-descubre-como-hacer-plastico-ecologico-estos-dos-ingredientes</link>
-            <description>Esperma de salmón y aceite vegetal: China descubre cómo hacer plástico ecológico con estos dos ingredientes</description>
-            <pubDate>Sun Dec  5 20:00:49 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Contratar Netflix o Disney+? ¿Qué plataforma es la mejor?</title>
-            <link>https://www.adslzone.net/reportajes/tv-streaming/comparativa-netflix-disney/</link>
-            <description>¿Contratar Netflix o Disney+? ¿Qué plataforma es la mejor?</description>
-            <pubDate>Sun Dec  5 19:07:36 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Cuando EE.UU. quiso dotar a sus soldados de "helicópteros personales" y se adelantó décadas a las modernas naves de despegue vertical</title>
-            <link>https://www.xataka.com/historia-tecnologica/cuando-ee-uu-quiso-dotar-a-sus-soldados-helicopteros-personales-se-adelanto-decadas-a-modernas-naves-despegue-vertical</link>
-            <description>Cuando EE.UU. quiso dotar a sus soldados de "helicópteros personales" y se adelantó décadas a las modernas naves de despegue vertical</description>
-            <pubDate>Sun Dec  5 19:00:50 2021</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: KDE ECO en los podcast de GNU/Linux València</title>
-            <link>https://www.kdeblog.com/kde-eco-en-los-podcast-de-gnu-linux-valencia.html</link>
-            <description>KDE ECO en los podcast de GNU/Linux València</description>
-            <pubDate>Sun Dec  5 18:56:57 2021</pubDate>
-            </item>
-            <item>
-            <title>DistritoTux: Marble, Step, Geogebra, Stellarium, Kbruch y Kgeography</title>
-            <link>https://www.distritotux.cl/2021/12/marble-step-geogebra-stellarium-kbruch.html</link>
-            <description>Marble, Step, Geogebra, Stellarium, Kbruch y Kgeography</description>
-            <pubDate>Sun Dec  5 18:41:06 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Conoce la velocidad de Internet mínima para jugar online</title>
-            <link>https://www.redeszone.net/tutoriales/redes-cable/velocidad-necesaria-jugar-online/</link>
-            <description>Conoce la velocidad de Internet mínima para jugar online</description>
-            <pubDate>Sun Dec  5 18:10:06 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Is The Game Up For Baofeng In Europe?</title>
-            <link>https://hackaday.com/2021/12/05/is-the-game-up-for-baofeng-in-europe/</link>
-            <description>Is The Game Up For Baofeng In Europe?</description>
-            <pubDate>Sun Dec  5 18:01:17 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Edge y Safari ganan terreno a Chrome en escritorio: los navegadores de Microsoft y Apple crecen, Google lleva dos años cayendo</title>
-            <link>https://www.xataka.com/aplicaciones/edge-safari-ganan-terreno-a-chrome-escritorio-navegadores-microsoft-apple-crecen-google-lleva-dos-anos-cayendo</link>
-            <description>Edge y Safari ganan terreno a Chrome en escritorio: los navegadores de Microsoft y Apple crecen, Google lleva dos años cayendo</description>
-            <pubDate>Sun Dec  5 18:00:49 2021</pubDate>
             </item></channel>
 </rss>
