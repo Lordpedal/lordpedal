@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>cambiatealinux.com: Vaciar ficheros recursivamente sin borrarlos</title>
+            <link>https://www.cambiatealinux.com/vaciar-ficheros-recursivamente-sin-borrarlos</link>
+            <description>Vaciar ficheros recursivamente sin borrarlos</description>
+            <pubDate>Sat Dec 11 06:06:44 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Arduino Drives Faux Spirograph</title>
+            <link>https://hackaday.com/2021/12/10/arduino-drives-faux-spirograph/</link>
+            <description>Arduino Drives Faux Spirograph</description>
+            <pubDate>Sat Dec 11 06:00:55 2021</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: SonicWall corrige varias vulnerabilidades de riesgo crítico</title>
+            <link>https://unaaldia.hispasec.com/2021/12/sonicwall-corrige-varias-vulnerabilidades-de-riesgo-critico.html</link>
+            <description>SonicWall corrige varias vulnerabilidades de riesgo crítico</description>
+            <pubDate>Sat Dec 11 06:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Extremely Critical Log4J Vulnerability Leaves Much of the Internet at Risk</title>
+            <link>https://thehackernews.com/2021/12/extremely-critical-log4j-vulnerability.html</link>
+            <description>Extremely Critical Log4J Vulnerability Leaves Much of the Internet at Risk</description>
+            <pubDate>Sat Dec 11 05:29:48 2021</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: What is TTY in Linux?</title>
+            <link>https://itsfoss.com/what-is-tty-in-linux/</link>
+            <description>What is TTY in Linux?</description>
+            <pubDate>Sat Dec 11 04:22:00 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: 1.6 Million WordPress Sites Under Cyberattack From Over 16,000 IP Addresses</title>
+            <link>https://thehackernews.com/2021/12/16-million-wordpress-sites-under.html</link>
+            <description>1.6 Million WordPress Sites Under Cyberattack From Over 16,000 IP Addresses</description>
+            <pubDate>Sat Dec 11 03:50:19 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Build Your Own Submarine</title>
+            <link>https://hackaday.com/2021/12/10/build-your-own-submarine/</link>
+            <description>Build Your Own Submarine</description>
+            <pubDate>Sat Dec 11 03:00:44 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Ninja Art: PCB Nightlight Jutsu!</title>
+            <link>https://hackaday.com/2021/12/10/ninja-art-pcb-nightlight-jutsu/</link>
+            <description>Ninja Art: PCB Nightlight Jutsu!</description>
+            <pubDate>Sat Dec 11 00:00:51 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: RevShells.com: Generador Reverse Shell para Equipo Rojo</title>
+            <link>https://esgeeks.com/revshells-generador-reverse-shell/</link>
+            <description>RevShells.com: Generador Reverse Shell para Equipo Rojo</description>
+            <pubDate>Fri Dec 10 23:53:36 2021</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Esta batería es tan maleable que se puede doblar, estirar e incluso poner en la lavadora</title>
+            <link>https://www.xataka.com/energia/esta-bateria-maleable-que-se-puede-doblar-estirar-e-incluso-poner-lavadora</link>
+            <description>Esta batería es tan maleable que se puede doblar, estirar e incluso poner en la lavadora</description>
+            <pubDate>Fri Dec 10 22:58:29 2021</pubDate>
+            </item>
+            <item>
             <title>Xataka: De supernovas a agujeros negros supermasivos: La NASA lanza su nueva misión espacial IXPE para medir objetos extremos del universo</title>
             <link>https://www.xataka.com/espacio/supernovas-a-agujeros-negros-supermasivos-nasa-lanza-su-nueva-mision-espacial-ixpe-para-medir-objetos-extremos-universo</link>
             <description>De supernovas a agujeros negros supermasivos: La NASA lanza su nueva misión espacial IXPE para medir objetos extremos del universo</description>
             <pubDate>Fri Dec 10 22:00:27 2021</pubDate>
-            </item>
-            <item>
-            <title>Luis Llamas: Cómo programar Arduino con Visual Studio Code y PlaftormIO</title>
-            <link>https://www.luisllamas.es/como-programar-arduino-con-visual-studio-code-y-plaftormio/</link>
-            <description>Cómo programar Arduino con Visual Studio Code y PlaftormIO</description>
-            <pubDate>Fri Dec 10 21:46:07 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Manjaro 2021-12-10 llega con cambios estéticos en la edición KDE, algunos paquetes suben a GNOME 41.2 y otras novedades</title>
-            <link>https://www.linuxadictos.com/manjaro-2021-12-10-llega-con-cambios-esteticos-en-la-edicion-kde-algunos-paquetes-suben-a-gnome-41-2-y-otras-novedades.html</link>
-            <description>Manjaro 2021-12-10 llega con cambios estéticos en la edición KDE, algunos paquetes suben a GNOME 41.2 y otras novedades</description>
-            <pubDate>Fri Dec 10 21:43:52 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Lasers Make PCBs the Old Fashioned Way</title>
-            <link>https://hackaday.com/2021/12/10/lasers-make-pcbs-the-old-fashioned-way/</link>
-            <description>Lasers Make PCBs the Old Fashioned Way</description>
-            <pubDate>Fri Dec 10 21:00:40 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Este aerotaxi no solo vuela: lo hace con un curioso diseño que imita la anatomía de los pájaros</title>
-            <link>https://www.xataka.com/vehiculos/este-aerotaxi-no-solo-vuela-hace-curioso-diseno-que-imita-anatomia-pajaros</link>
-            <description>Este aerotaxi no solo vuela: lo hace con un curioso diseño que imita la anatomía de los pájaros</description>
-            <pubDate>Fri Dec 10 21:00:27 2021</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: KDE Gear 21.12, última actualización del año de las aplicaciones de KDE</title>
-            <link>https://www.muylinux.com/2021/12/10/kde-gear-21-12/</link>
-            <description>KDE Gear 21.12, última actualización del año de las aplicaciones de KDE</description>
-            <pubDate>Fri Dec 10 20:58:04 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Sony compra Valkyrie Entertainment, un estudio que ha colaborado con el desarrollo de God of War, Halo Infinite y Valorant</title>
-            <link>https://www.xataka.com/videojuegos/sony-compra-valkyrie-entertainment-estudio-que-ha-colaborado-desarrollo-god-of-war-halo-infinite-valorant</link>
-            <description>Sony compra Valkyrie Entertainment, un estudio que ha colaborado con el desarrollo de God of War, Halo Infinite y Valorant</description>
-            <pubDate>Fri Dec 10 20:30:33 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: El lector de feeds Liferea Feed Reader acaba de publicar su versión 1.13.7</title>
-            <link>https://lignux.com/el-lector-de-feeds-liferea-feed-reader-acaba-de-publicar-su-version-1-13-7/</link>
-            <description>El lector de feeds Liferea Feed Reader acaba de publicar su versión 1.13.7</description>
-            <pubDate>Fri Dec 10 20:14:19 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¡Corre! La oferta de fibra de Movistar por 14,50 euros se termina</title>
-            <link>https://www.adslzone.net/noticias/operadores/oferta-movistar-14-50-fibra-diciembre-2021/</link>
-            <description>¡Corre! La oferta de fibra de Movistar por 14,50 euros se termina</description>
-            <pubDate>Fri Dec 10 20:00:29 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Unos científicos quieren ir hasta Júpiter y esperar a que escupa un cometa para analizarlo desde su nacimiento</title>
-            <link>https://www.xataka.com/espacio/unos-cientificos-quieren-ir-jupiter-esperar-a-que-escupa-cometa-para-analizarlo-su-nacimiento</link>
-            <description>Unos científicos quieren ir hasta Júpiter y esperar a que escupa un cometa para analizarlo desde su nacimiento</description>
-            <pubDate>Fri Dec 10 20:00:28 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Historias de soporte técnico. Son reales aunque parezcan mentira</title>
-            <link>https://www.linuxadictos.com/historias-de-soporte-tecnico-son-reales-aunque-parezcan-mentira.html</link>
-            <description>Historias de soporte técnico. Son reales aunque parezcan mentira</description>
-            <pubDate>Fri Dec 10 19:45:26 2021</pubDate>
             </item></channel>
 </rss>
