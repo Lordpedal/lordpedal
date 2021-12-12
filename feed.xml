@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Kinetic Strikes Via A Consumer Grade Drone</title>
+            <link>https://hackaday.com/2021/12/11/kinetic-strikes-via-a-consumer-grade-drone/</link>
+            <description>Kinetic Strikes Via A Consumer Grade Drone</description>
+            <pubDate>Sun Dec 12 06:00:17 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A DIY Biometric Device with Some Security Considerations</title>
+            <link>https://hackaday.com/2021/12/11/a-diy-biometric-device-with-some-security-considerations/</link>
+            <description>A DIY Biometric Device with Some Security Considerations</description>
+            <pubDate>Sun Dec 12 03:00:35 2021</pubDate>
+            </item>
+            <item>
+            <title>56K.ES: Prometheus para monitorizar contenedores docker</title>
+            <link>https://56k.es/fanta/prometheus-para-monitorizar-contenedores-docker/</link>
+            <description>Prometheus para monitorizar contenedores docker</description>
+            <pubDate>Sun Dec 12 00:15:04 2021</pubDate>
+            </item>
+            <item>
+            <title>56K.ES: Historias de Cronopios – 004 – Renovar certificados Let’s Encrypt</title>
+            <link>https://56k.es/fanta/historias-de-cronopios-003-renovar-certificados-lets-encrypt/</link>
+            <description>Historias de Cronopios – 004 – Renovar certificados Let’s Encrypt</description>
+            <pubDate>Sun Dec 12 00:03:31 2021</pubDate>
+            </item>
+            <item>
+            <title>56K.ES: Historias de Cronopios – 003 – Backup base de datos peertube</title>
+            <link>https://56k.es/fanta/historias-de-cronopios-002-backup-base-de-datos-peertube/</link>
+            <description>Historias de Cronopios – 003 – Backup base de datos peertube</description>
+            <pubDate>Sun Dec 12 00:02:51 2021</pubDate>
+            </item>
+            <item>
+            <title>56K.ES: Historias de Cronopios – 002 – Limpiezas en mastodon</title>
+            <link>https://56k.es/fanta/historias-de-cronopios-002-limpiezas-en-mastodon/</link>
+            <description>Historias de Cronopios – 002 – Limpiezas en mastodon</description>
+            <pubDate>Sun Dec 12 00:01:10 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: We All Live in a PVC Submarine</title>
+            <link>https://hackaday.com/2021/12/11/we-all-live-in-a-pvc-submarine/</link>
+            <description>We All Live in a PVC Submarine</description>
+            <pubDate>Sun Dec 12 00:00:03 2021</pubDate>
+            </item>
+            <item>
+            <title>56K.ES: Historias de Cronopios – 001 – Pip cache, Yum cache y PageCache</title>
+            <link>https://56k.es/fanta/historias-de-cronopios-001-pip-cache-yum-cache-y-pagecache/</link>
+            <description>Historias de Cronopios – 001 – Pip cache, Yum cache y PageCache</description>
+            <pubDate>Sat Dec 11 23:47:03 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El emulador de emuladores de juegos retro RetroArch alcanza su versión 1.9.14</title>
             <link>https://lignux.com/el-emulador-de-emuladores-de-juegos-retro-retroarch-alcanza-su-version-1-9-14/</link>
             <description>El emulador de emuladores de juegos retro RetroArch alcanza su versión 1.9.14</description>
@@ -22,53 +70,5 @@
             <link>https://hackaday.com/2021/12/11/vacuum-forming-with-3d-printer-filament/</link>
             <description>Vacuum Forming with 3D Printer Filament</description>
             <pubDate>Sat Dec 11 21:00:30 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El punto de congelación del agua se desploma: consiguen rebajarlo a una temperatura récord con condiciones especiales</title>
-            <link>https://www.xataka.com/investigacion/punto-congelacion-agua-se-desploma-consiguen-rebajarlo-a-temperatura-record-condiciones-especiales</link>
-            <description>El punto de congelación del agua se desploma: consiguen rebajarlo a una temperatura récord con condiciones especiales</description>
-            <pubDate>Sat Dec 11 20:00:47 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Ciencia: El aprendizaje automático predice el riesgo de muerte en pacientes con enfermedad cardíaca conocida o sospechada</title>
-            <link>https://www.xatakaciencia.com/medicina/aprendizaje-automatico-predice-riesgo-muerte-pacientes-enfermedad-cardiaca-conocida-sospechada</link>
-            <description>El aprendizaje automático predice el riesgo de muerte en pacientes con enfermedad cardíaca conocida o sospechada</description>
-            <pubDate>Sat Dec 11 19:37:21 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Cómo es el catálogo de HBO Max en EEUU? Todas las diferencias</title>
-            <link>https://www.adslzone.net/reportajes/tv-streaming/hbo-max-catalogo-paises/</link>
-            <description>¿Cómo es el catálogo de HBO Max en EEUU? Todas las diferencias</description>
-            <pubDate>Sat Dec 11 19:04:52 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Portugal implantó los peajes en autovías en 2010: cómo funciona allí y qué podemos aprender desde España</title>
-            <link>https://www.xataka.com/otros/portugal-implanto-peajes-autovias-2010-como-funciona-alli-que-podemos-aprender-espana</link>
-            <description>Portugal implantó los peajes en autovías en 2010: cómo funciona allí y qué podemos aprender desde España</description>
-            <pubDate>Sat Dec 11 19:00:46 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: The Long Dark: novedades en el modo supervivencia</title>
-            <link>https://www.linuxadictos.com/the-long-dark-modo-supervivencia.html</link>
-            <description>The Long Dark: novedades en el modo supervivencia</description>
-            <pubDate>Sat Dec 11 18:44:57 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Así es la nueva interfaz de Android TV para teles y dispositivos: cómo activarla y principales cambios</title>
-            <link>https://www.xataka.com/televisores/asi-nueva-interfaz-android-tv-para-teles-dispositivos-como-activarla-principales-cambios</link>
-            <description>Así es la nueva interfaz de Android TV para teles y dispositivos: cómo activarla y principales cambios</description>
-            <pubDate>Sat Dec 11 18:30:46 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Evita el proxy y sal directamente a Internet con estas opciones</title>
-            <link>https://www.redeszone.net/tutoriales/redes-cable/evitar-proxy-internet/</link>
-            <description>Evita el proxy y sal directamente a Internet con estas opciones</description>
-            <pubDate>Sat Dec 11 18:09:54 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'El encuentro': el nuevo éxito sorpresa de Amazon usa elementos de la ciencia-ficción de invasiones en una curiosa historia intimista</title>
-            <link>https://www.xataka.com/cine-y-tv/encuentro-nuevo-exito-sorpresa-amazon-usa-elementos-ciencia-ficcion-invasiones-curiosa-historia-intimista</link>
-            <description>'El encuentro': el nuevo éxito sorpresa de Amazon usa elementos de la ciencia-ficción de invasiones en una curiosa historia intimista</description>
-            <pubDate>Sat Dec 11 18:00:47 2021</pubDate>
             </item></channel>
 </rss>
