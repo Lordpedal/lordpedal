@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: New PseudoManuscrypt Malware Infected Over 35,000 Computers in 2021</title>
+            <link>https://thehackernews.com/2021/12/new-pseudomanuscrypt-malware-infected.html</link>
+            <description>New PseudoManuscrypt Malware Infected Over 35,000 Computers in 2021</description>
+            <pubDate>Sat Dec 18 06:58:36 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: SDR Toolkit Bends Weather Station To Hacker’s Whims</title>
+            <link>https://hackaday.com/2021/12/17/sdr-toolkit-bends-weather-station-to-hackers-whims/</link>
+            <description>SDR Toolkit Bends Weather Station To Hacker’s Whims</description>
+            <pubDate>Sat Dec 18 06:00:04 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Los Géneros de Juegos para Smartphones más Demandados en 2021</title>
+            <link>https://esgeeks.com/generos-juegos-demandados-2021/</link>
+            <description>Los Géneros de Juegos para Smartphones más Demandados en 2021</description>
+            <pubDate>Sat Dec 18 03:14:01 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Second Worst CAD Package Ever</title>
+            <link>https://hackaday.com/2021/12/17/the-second-worst-cad-package-ever/</link>
+            <description>The Second Worst CAD Package Ever</description>
+            <pubDate>Sat Dec 18 03:00:06 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Implementing A CPU Using 555 Timers And Logic Synthesis</title>
+            <link>https://hackaday.com/2021/12/17/implementing-a-cpu-using-555-timers-and-logic-synthesis/</link>
+            <description>Implementing A CPU Using 555 Timers And Logic Synthesis</description>
+            <pubDate>Sat Dec 18 00:00:22 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El gestor de Torrents Deluge acaba de publicar su versión 2.0.5</title>
             <link>https://lignux.com/el-gestor-de-torrents-deluge-acaba-de-publicar-su-version-2-0-5/</link>
             <description>El gestor de Torrents Deluge acaba de publicar su versión 2.0.5</description>
@@ -40,35 +70,5 @@
             <link>https://makezine.com/2021/12/17/anouk-wipprecht-teams-with-swarovski-to-make-a-heartbeat-dress/</link>
             <description>Anouk Wipprecht Teams With Swarovski To Make A ‘Heartbeat Dress’</description>
             <pubDate>Fri Dec 17 20:36:43 2021</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: Onionr: Plataforma Social Anónima, Correo, Intercambio de Archivos</title>
-            <link>https://esgeeks.com/onionr-plataforma-social-anonima/</link>
-            <description>Onionr: Plataforma Social Anónima, Correo, Intercambio de Archivos</description>
-            <pubDate>Fri Dec 17 20:28:25 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Si no tienes fibra de 1 Gbps es porque no quieres</title>
-            <link>https://www.adslzone.net/noticias/operadores/fibra-jiayu-1-gbps-navidad-2021/</link>
-            <description>Si no tienes fibra de 1 Gbps es porque no quieres</description>
-            <pubDate>Fri Dec 17 20:00:47 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Este cable USB "antirrobo" puede apagar o destruir los datos de tu ordenador portátil si te lo roban cuando lo estás usando</title>
-            <link>https://www.xataka.com/perifericos/este-cable-usb-antirrobo-puede-apagar-destruir-datos-tu-ordenador-portatil-te-roban-cuando-estas-usando</link>
-            <description>Este cable USB "antirrobo" puede apagar o destruir los datos de tu ordenador portátil si te lo roban cuando lo estás usando</description>
-            <pubDate>Fri Dec 17 20:00:39 2021</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Cawbird ahora muestra la pantalla del perfil de usuarios de Twitter, entre lo más destacado de esta semana en GNOME</title>
-            <link>https://ubunlog.com/cawbird-ahora-muestra-la-pantalla-del-perfil-de-usuarios-de-twitter-entre-lo-mas-destacado-de-esta-semana-en-gnome/</link>
-            <description>Cawbird ahora muestra la pantalla del perfil de usuarios de Twitter, entre lo más destacado de esta semana en GNOME</description>
-            <pubDate>Fri Dec 17 19:59:56 2021</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: "Internet está en llamas": Cloudflare ha detectado más de 24.600 ataques por minuto que explotaban la vulnerabilidad Log4Shell</title>
-            <link>https://www.genbeta.com/actualidad/internet-esta-llamas-cloudflare-ha-detectado-24-600-ataques-minuto-que-explotaban-vulnerabilidad-log4shell</link>
-            <description>"Internet está en llamas": Cloudflare ha detectado más de 24.600 ataques por minuto que explotaban la vulnerabilidad Log4Shell</description>
-            <pubDate>Fri Dec 17 19:43:38 2021</pubDate>
             </item></channel>
 </rss>
