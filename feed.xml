@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: Getting Nostalgic With Common Desktop Environment on a Modern Linux Distro</title>
+            <link>https://itsfoss.com/common-desktop-environment/</link>
+            <description>Getting Nostalgic With Common Desktop Environment on a Modern Linux Distro</description>
+            <pubDate>Sun Dec 19 06:10:21 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: When Does Car Hacking Become “Tampering”? The British Government Seeks Guidance</title>
+            <link>https://hackaday.com/2021/12/18/when-does-car-hacking-become-tampering-the-british-government-seeks-guidance/</link>
+            <description>When Does Car Hacking Become “Tampering”? The British Government Seeks Guidance</description>
+            <pubDate>Sun Dec 19 06:00:30 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: OpenDog Version 3 Is Ready To Go Walkies</title>
+            <link>https://hackaday.com/2021/12/18/opendog-version-3-is-ready-to-go-walkies/</link>
+            <description>OpenDog Version 3 Is Ready To Go Walkies</description>
+            <pubDate>Sun Dec 19 03:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>Tomates Asesinos: Entrevista a Pablo Ruiz de Kaleidos (empresa del software libre Penpot y Taiga)</title>
+            <link>https://tomatesasesinos.com/2021/12/19/entrevista-a-pablo-ruiz-de-kaleidos-empresa-del-software-libre-penpot-y-taiga/</link>
+            <description>Entrevista a Pablo Ruiz de Kaleidos (empresa del software libre Penpot y Taiga)</description>
+            <pubDate>Sun Dec 19 02:13:35 2021</pubDate>
+            </item>
+            <item>
+            <title>Tomates Asesinos: Juegos de mesa del tipo Roll&Write (o lanzar y escribir) libres (Parte 2)</title>
+            <link>https://tomatesasesinos.com/2021/12/19/juegos-de-mesa-del-tipo-rollwrite-o-lanzar-y-escribir-libres-parte-2/</link>
+            <description>Juegos de mesa del tipo Roll&Write (o lanzar y escribir) libres (Parte 2)</description>
+            <pubDate>Sun Dec 19 02:01:20 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Be Mesmerized By The Latest Time Twister</title>
+            <link>https://hackaday.com/2021/12/18/be-mesmerized-by-the-latest-time-twister/</link>
+            <description>Be Mesmerized By The Latest Time Twister</description>
+            <pubDate>Sun Dec 19 00:00:43 2021</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El editor de vídeo Kdenlive alcanza su versión final 21.12</title>
             <link>https://lignux.com/el-editor-de-video-kdenlive-alcanza-su-version-final-21-12/</link>
             <description>El editor de vídeo Kdenlive alcanza su versión final 21.12</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/reportajes/seguridad/cifrar-mensajes-chat/</link>
             <description>Así puedes enviar mensajes secretos y en clave por WhatsApp</description>
             <pubDate>Sat Dec 18 19:10:32 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Habla gratis en cualquier parte: Cómo llamar desde WhatsApp</title>
-            <link>https://www.adslzone.net/esenciales/whatsapp/llamadas-videollamadas-whatsapp/</link>
-            <description>Habla gratis en cualquier parte: Cómo llamar desde WhatsApp</description>
-            <pubDate>Sat Dec 18 19:04:08 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los científicos han tardado 300 años en "cazar" este tsunami y ahora recalculan sus predicciones: el valor de un buen registro histórico</title>
-            <link>https://www.xataka.com/investigacion/cientificos-han-tardado-300-anos-cazar-este-tsunami-ahora-recalculan-sus-predicciones-valor-buen-registro-historico</link>
-            <description>Los científicos han tardado 300 años en "cazar" este tsunami y ahora recalculan sus predicciones: el valor de un buen registro histórico</description>
-            <pubDate>Sat Dec 18 19:00:48 2021</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Debian 11.2 ya está aquí con parches de seguridad y corrección de errores</title>
-            <link>https://www.linuxadictos.com/debian-11-2-ya-esta-aqui-con-parches-de-seguridad-y-correccion-de-errores.html</link>
-            <description>Debian 11.2 ya está aquí con parches de seguridad y corrección de errores</description>
-            <pubDate>Sat Dec 18 18:16:31 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Conoce cómo mejora tu Wi-Fi la función WDS</title>
-            <link>https://www.redeszone.net/tutoriales/redes-wifi/funcion-wds-router-wifi/</link>
-            <description>Conoce cómo mejora tu Wi-Fi la función WDS</description>
-            <pubDate>Sat Dec 18 18:10:51 2021</pubDate>
-            </item>
-            <item>
-            <title>DistritoTux: 10 programas educativos en software libre</title>
-            <link>https://www.distritotux.cl/2021/12/10-programas-educativos-en-software.html</link>
-            <description>10 programas educativos en software libre</description>
-            <pubDate>Sat Dec 18 18:02:28 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'El canto del cisne': Apple TV+ da con la clave para plantear una ciencia-ficción muy compleja de la forma más accesible</title>
-            <link>https://www.xataka.com/cine-y-tv/canto-cisne-apple-tv-da-clave-para-plantear-ciencia-ficcion-muy-compleja-forma-accesible</link>
-            <description>'El canto del cisne': Apple TV+ da con la clave para plantear una ciencia-ficción muy compleja de la forma más accesible</description>
-            <pubDate>Sat Dec 18 18:00:47 2021</pubDate>
             </item></channel>
 </rss>
