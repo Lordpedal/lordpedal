@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: Experts Discover Backdoor Deployed on the U.S. Federal Agency's Network</title>
+            <link>https://thehackernews.com/2021/12/experts-discover-backdoor-deployed-on.html</link>
+            <description>Experts Discover Backdoor Deployed on the U.S. Federal Agency's Network</description>
+            <pubDate>Tue Dec 21 06:18:39 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hydrogen Generation Made Easy</title>
+            <link>https://hackaday.com/2021/12/20/hydrogen-generation-made-easy/</link>
+            <description>Hydrogen Generation Made Easy</description>
+            <pubDate>Tue Dec 21 06:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: smxi: A CLI Tool for Managing Debian Based Linux Distros</title>
+            <link>https://itsfoss.com/smxi/</link>
+            <description>smxi: A CLI Tool for Managing Debian Based Linux Distros</description>
+            <pubDate>Tue Dec 21 05:11:50 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: How to Prevent Customer Support Help Desk Fraud Using VPN and Other Tools</title>
+            <link>https://thehackernews.com/2021/12/how-to-prevent-customer-support-help.html</link>
+            <description>How to Prevent Customer Support Help Desk Fraud Using VPN and Other Tools</description>
+            <pubDate>Tue Dec 21 04:22:36 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Sterra: Herramienta SOCMINT para Obtener Información de Cuenta de Instagram</title>
+            <link>https://esgeeks.com/sterra-socmint-obtener-informacion-ig/</link>
+            <description>Sterra: Herramienta SOCMINT para Obtener Información de Cuenta de Instagram</description>
+            <pubDate>Tue Dec 21 03:26:21 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Assassin’s Teapot Is A Mischevious Design</title>
+            <link>https://hackaday.com/2021/12/20/the-assassins-teapot-is-a-mischevious-design/</link>
+            <description>The Assassin’s Teapot Is A Mischevious Design</description>
+            <pubDate>Tue Dec 21 03:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Herramienta OSINT para Visualizar las Relaciones entre Dominios, IP y Emails</title>
+            <link>https://esgeeks.com/osint-relaciones-dominios-ip-emails/</link>
+            <description>Herramienta OSINT para Visualizar las Relaciones entre Dominios, IP y Emails</description>
+            <pubDate>Tue Dec 21 02:30:52 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Concrete with 3D Printed Foam Forms</title>
+            <link>https://hackaday.com/2021/12/20/concrete-with-3d-printed-foam-forms/</link>
+            <description>Concrete with 3D Printed Foam Forms</description>
+            <pubDate>Tue Dec 21 00:00:00 2021</pubDate>
+            </item>
+            <item>
             <title>3D Insider: Everything You Need to Know About 3D Printing Extrusion Multiplier</title>
             <link>https://3dinsider.com/3d-printing-extrusion-multiplier/</link>
             <description>Everything You Need to Know About 3D Printing Extrusion Multiplier</description>
@@ -22,53 +70,5 @@
             <link>https://hackaday.com/2021/12/20/all-hail-your-new-giant-555-timer-overlord/</link>
             <description>All Hail Your New Giant 555 Timer Overlord</description>
             <pubDate>Mon Dec 20 21:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Polémica con el nuevo software de streaming de TikTok: se demuestra que usa código de OBS Studio, violando así la licencia GNU</title>
-            <link>https://www.genbeta.com/actualidad/polemica-nuevo-software-streaming-tiktok-se-demuestra-que-usa-codigo-obs-studio-violando-asi-licencia-gnu</link>
-            <description>Polémica con el nuevo software de streaming de TikTok: se demuestra que usa código de OBS Studio, violando así la licencia GNU</description>
-            <pubDate>Mon Dec 20 20:54:38 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka Foto: Si eres fotógrafo y te gustan los libros estos son los que deberías pedir en Navidad</title>
-            <link>https://www.xatakafoto.com/actualidad/eres-fotografo-te-gustan-libros-estos-que-deberias-pedir-navidad</link>
-            <description>Si eres fotógrafo y te gustan los libros estos son los que deberías pedir en Navidad</description>
-            <pubDate>Mon Dec 20 20:52:40 2021</pubDate>
-            </item>
-            <item>
-            <title>Changelog: The Changelog 473: State of the "log" 2021</title>
-            <link>https://changelog.com/podcast/473</link>
-            <description>The Changelog 473: State of the "log" 2021</description>
-            <pubDate>Mon Dec 20 20:30:00 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.15.10</title>
-            <link>https://lignux.com/tutorial-para-instalar-la-version-de-mantenimiento-del-kernel-linux-5-15-10/</link>
-            <description>Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.15.10</description>
-            <pubDate>Mon Dec 20 20:09:03 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: ¿Por qué la sonda Parker no se derritió al "tocar" el Sol? Así funciona su escudo térmico</title>
-            <link>https://www.xataka.com/espacio/que-sonda-parker-no-se-derritio-al-tocar-sol-asi-funciona-su-escudo-termico</link>
-            <description>¿Por qué la sonda Parker no se derritió al "tocar" el Sol? Así funciona su escudo térmico</description>
-            <pubDate>Mon Dec 20 20:01:25 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Quién tiene la mejor fibra cuando la red está saturada? Esta es la velocidad mínima</title>
-            <link>https://www.adslzone.net/noticias/operadores/velocidad-minima-setid-q3-2021/</link>
-            <description>¿Quién tiene la mejor fibra cuando la red está saturada? Esta es la velocidad mínima</description>
-            <pubDate>Mon Dec 20 20:00:24 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: “Window to the World” Brings Far-Off Places to Your Home</title>
-            <link>https://hackaday.com/2021/12/20/window-to-the-world-brings-far-off-places-to-your-home/</link>
-            <description>“Window to the World” Brings Far-Off Places to Your Home</description>
-            <pubDate>Mon Dec 20 19:30:15 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Unreal Engine 5 tiene una baza colosal para sorprendernos con esos gráficos tan impactantes: Lumen, su motor de iluminación global</title>
-            <link>https://www.xataka.com/videojuegos/unreal-engine-5-tiene-baza-colosal-para-sorprendernos-esos-graficos-impactantes-lumen-su-motor-iluminacion-global</link>
-            <description>Unreal Engine 5 tiene una baza colosal para sorprendernos con esos gráficos tan impactantes: Lumen, su motor de iluminación global</description>
-            <pubDate>Mon Dec 20 19:01:23 2021</pubDate>
             </item></channel>
 </rss>
