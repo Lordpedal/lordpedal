@@ -6,10 +6,46 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: DIY High Flow 3D Printing</title>
+            <link>https://hackaday.com/2021/12/25/diy-high-flow-3d-printing/</link>
+            <description>DIY High Flow 3D Printing</description>
+            <pubDate>Sun Dec 26 06:00:34 2021</pubDate>
+            </item>
+            <item>
+            <title>56K.ES: Kernel Panic Lab – 005 – Debugging Kernel con GDB y Qemu</title>
+            <link>https://56k.es/fanta/kernel-panic-lab-005-debugging-kernel-con-gdb-y-qemu/</link>
+            <description>Kernel Panic Lab – 005 – Debugging Kernel con GDB y Qemu</description>
+            <pubDate>Sun Dec 26 05:00:12 2021</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Injectify: Realizar Ataques MiTM Avanzados</title>
+            <link>https://esgeeks.com/injectify-ataques-mitm-avanzados/</link>
+            <description>Injectify: Realizar Ataques MiTM Avanzados</description>
+            <pubDate>Sun Dec 26 03:25:49 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Cast Your Own Holiday Chocolate Bunny, or Rather Mouse</title>
+            <link>https://hackaday.com/2021/12/25/cast-your-own-holiday-chocolate-bunny-or-rather-mouse/</link>
+            <description>Cast Your Own Holiday Chocolate Bunny, or Rather Mouse</description>
+            <pubDate>Sun Dec 26 03:00:22 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Mico is a USB Microphone Based on a Pi Pico</title>
+            <link>https://hackaday.com/2021/12/25/mico-is-a-usb-microphone-based-on-a-pi-pico/</link>
+            <description>Mico is a USB Microphone Based on a Pi Pico</description>
+            <pubDate>Sun Dec 26 00:00:12 2021</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: Software Libre para el profesional Docente en educación</title>
             <link>https://www.distritotux.cl/2021/12/software-libre-para-el-profesional.html</link>
             <description>Software Libre para el profesional Docente en educación</description>
             <pubDate>Sat Dec 25 22:04:01 2021</pubDate>
+            </item>
+            <item>
+            <title>LiGNUx: El cliente Open Source para Twitter, Cawbird, acaba de anunciar su versión 1.4.2</title>
+            <link>https://lignux.com/el-cliente-open-source-para-twitter-cawbird-acaba-de-anunciar-su-version-1-4-2/</link>
+            <description>El cliente Open Source para Twitter, Cawbird, acaba de anunciar su versión 1.4.2</description>
+            <pubDate>Sat Dec 25 22:00:25 2021</pubDate>
             </item>
             <item>
             <title>56K.ES: 🔴 Mejor software libre del año y Kernel Linux</title>
@@ -34,41 +70,5 @@
             <link>https://www.xataka.com/investigacion/dos-anos-oscuridad-hollin-que-complicaron-fotosintesis-asi-describen-estos-cientificos-apocalipsis-dinosaurios</link>
             <description>Dos años de oscuridad y hollín que complicaron la fotosíntesis: así describen estos científicos el apocalipsis de los dinosaurios</description>
             <pubDate>Sat Dec 25 20:01:02 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Tienen los operadores tarifas secretas y baratas? Así son</title>
-            <link>https://www.adslzone.net/operadores/en-detalle/tarifas-secretas/</link>
-            <description>¿Tienen los operadores tarifas secretas y baratas? Así son</description>
-            <pubDate>Sat Dec 25 19:10:23 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: dasHost.exe: qué es este proceso que pide acceso a Internet</title>
-            <link>https://www.redeszone.net/tutoriales/seguridad/proceso-dashost-exe-windows/</link>
-            <description>dasHost.exe: qué es este proceso que pide acceso a Internet</description>
-            <pubDate>Sat Dec 25 18:06:24 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'Estación Once' es mucho más que una ficción de pandemias post-apocalípticas: HBO Max propone la serie perfecta para cerrar 2021</title>
-            <link>https://www.xataka.com/cine-y-tv/estacion-once-mucho-que-ficcion-pandemias-post-apocalipticas-hbo-max-propone-serie-perfecta-para-cerrar-2021</link>
-            <description>'Estación Once' es mucho más que una ficción de pandemias post-apocalípticas: HBO Max propone la serie perfecta para cerrar 2021</description>
-            <pubDate>Sat Dec 25 18:01:00 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Mini Linear Actuators From DVD Drive Parts</title>
-            <link>https://hackaday.com/2021/12/25/mini-linear-actuators-from-dvd-drive-parts/</link>
-            <description>Mini Linear Actuators From DVD Drive Parts</description>
-            <pubDate>Sat Dec 25 18:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Springfield en fiestas: Los episodios de Navidad de Los Simpson</title>
-            <link>https://www.adslzone.net/reportajes/series/episodios-navidad-los-simpson/</link>
-            <description>Springfield en fiestas: Los episodios de Navidad de Los Simpson</description>
-            <pubDate>Sat Dec 25 17:10:32 2021</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: KDE no para en Navidad y adelanta la vuelta de Flip Switch en Plasma 5.24</title>
-            <link>https://ubunlog.com/kde-no-para-en-navidad-y-adelanta-la-vuelta-de-flip-switch-en-plasma-5-24/</link>
-            <description>KDE no para en Navidad y adelanta la vuelta de Flip Switch en Plasma 5.24</description>
-            <pubDate>Sat Dec 25 16:48:36 2021</pubDate>
             </item></channel>
 </rss>
