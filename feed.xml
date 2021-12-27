@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Maximum Throughput Benchie</title>
+            <link>https://hackaday.com/2021/12/26/maximum-throughput-benchie/</link>
+            <description>Maximum Throughput Benchie</description>
+            <pubDate>Mon Dec 27 06:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>56K.ES: Kernel Panic Lab – 006 – Compilar un Kernel que cabe en un disquete</title>
+            <link>https://56k.es/fanta/kernel-panic-lab-006-compilar-un-kernel-que-cabe-en-un-disquete/</link>
+            <description>Kernel Panic Lab – 006 – Compilar un Kernel que cabe en un disquete</description>
+            <pubDate>Mon Dec 27 05:00:17 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Belgian Railway Time For Your Home</title>
+            <link>https://hackaday.com/2021/12/26/belgian-railway-time-for-your-home/</link>
+            <description>Belgian Railway Time For Your Home</description>
+            <pubDate>Mon Dec 27 03:00:00 2021</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: ¿LFI en PHP+Nginx? ¡Pues ya tienes RCE!</title>
+            <link>https://www.hackplayers.com/2021/12/lfi-en-phpnginx-pues-ya-tienes-rce.html</link>
+            <description>¿LFI en PHP+Nginx? ¡Pues ya tienes RCE!</description>
+            <pubDate>Mon Dec 27 00:22:33 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: December 26, 2021</title>
+            <link>https://hackaday.com/2021/12/26/hackaday-links-december-26-2021/</link>
+            <description>Hackaday Links: December 26, 2021</description>
+            <pubDate>Mon Dec 27 00:00:58 2021</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Cómo leer a Diego y no morir del disgusto</title>
             <link>https://www.linuxadictos.com/como-leer-a-diego-y-no-morir-del-disgusto.html</link>
             <description>Cómo leer a Diego y no morir del disgusto</description>
@@ -40,35 +70,5 @@
             <link>https://www.xatakaciencia.com/psicologia/politicos-inteligentes-que-ciudadano-medio</link>
             <description>Los políticos son más inteligentes que el ciudadano medio (al menos en Suecia)</description>
             <pubDate>Sun Dec 26 19:11:48 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así piratean las películas y series de Netflix, Amazon o HBO</title>
-            <link>https://www.adslzone.net/reportajes/descargas/pirateria-streaming/</link>
-            <description>Así piratean las películas y series de Netflix, Amazon o HBO</description>
-            <pubDate>Sun Dec 26 19:03:09 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Cómo sabemos que ha finalizado la erupción de La Palma: los científicos aportan las claves y qué podemos esperar ahora</title>
-            <link>https://www.xataka.com/investigacion/como-sabemos-que-ha-finalizado-erupcion-palma-cientificos-aportan-claves-que-podemos-esperar-ahora</link>
-            <description>Cómo sabemos que ha finalizado la erupción de La Palma: los científicos aportan las claves y qué podemos esperar ahora</description>
-            <pubDate>Sun Dec 26 19:01:23 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Error 0x80090011 al actualizar Windows: cómo evitar este problema</title>
-            <link>https://www.redeszone.net/tutoriales/redes-cable/error-0x80090011-actualizar-windows/</link>
-            <description>Error 0x80090011 al actualizar Windows: cómo evitar este problema</description>
-            <pubDate>Sun Dec 26 18:13:02 2021</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Olvida Photoshop, con esta herramienta gratuita puedes eliminar automáticamente el fondo de cualquier imagen</title>
-            <link>https://www.genbeta.com/imagen-digital/olvida-photoshop-esta-herramienta-gratuita-puedes-eliminar-automaticamente-fondo-cualquier-imagen</link>
-            <description>Olvida Photoshop, con esta herramienta gratuita puedes eliminar automáticamente el fondo de cualquier imagen</description>
-            <pubDate>Sun Dec 26 18:02:19 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Patata de Potsdam: esta es la forma que tendría la Tierra si la gravedad fuera igual en toda la superficie del planeta</title>
-            <link>https://www.xataka.com/espacio/patata-potsdam-esta-forma-que-tendria-tierra-gravedad-fuera-igual-toda-superficie-planeta</link>
-            <description>Patata de Potsdam: esta es la forma que tendría la Tierra si la gravedad fuera igual en toda la superficie del planeta</description>
-            <pubDate>Sun Dec 26 18:01:23 2021</pubDate>
             </item></channel>
 </rss>
