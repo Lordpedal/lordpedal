@@ -6,9 +6,57 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>OMG! Ubuntu!: GNOME is Exploring a New ‘Quick Settings’ Feature</title>
+            <title>Blog – Hackaday: Peering Into The Murky Depths of Alder Lake</title>
+            <link>https://hackaday.com/2021/12/29/peering-into-the-murky-depths-of-alder-lake/</link>
+            <description>Peering Into The Murky Depths of Alder Lake</description>
+            <pubDate>Thu Dec 30 06:00:34 2021</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Micro USB to DIP adapter, header box #3DThursday #3DPrinting</title>
+            <link>https://blog.adafruit.com/2021/12/30/micro-usb-to-dip-adapter-header-box-3dthursday-3dprinting/</link>
+            <description>Micro USB to DIP adapter, header box #3DThursday #3DPrinting</description>
+            <pubDate>Thu Dec 30 06:00:31 2021</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Conectar dos ordenadores Linux por Samba para transferir ficheros</title>
+            <link>https://www.cambiatealinux.com/conectar-dos-ordenadores-linux-por-samba-para-transferir-ficheros</link>
+            <description>Conectar dos ordenadores Linux por Samba para transferir ficheros</description>
+            <pubDate>Thu Dec 30 05:55:24 2021</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Diciembre 2021: Lo bueno, lo malo y lo interesante del Software Libre</title>
+            <link>https://blog.desdelinux.net/diciembre-2021-bueno-malo-interesante-software-libre/</link>
+            <description>Diciembre 2021: Lo bueno, lo malo y lo interesante del Software Libre</description>
+            <pubDate>Thu Dec 30 05:00:45 2021</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Ongoing Autom Cryptomining Malware Attacks Using Upgraded Evasion Tactics</title>
+            <link>https://thehackernews.com/2021/12/ongoing-autom-cryptomining-malware.html</link>
+            <description>Ongoing Autom Cryptomining Malware Attacks Using Upgraded Evasion Tactics</description>
+            <pubDate>Thu Dec 30 04:05:15 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Robot Delivery to your Door</title>
+            <link>https://hackaday.com/2021/12/29/robot-delivery-to-your-door/</link>
+            <description>Robot Delivery to your Door</description>
+            <pubDate>Thu Dec 30 03:00:34 2021</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Snap-Together Macropad Does It Without Solder</title>
+            <link>https://hackaday.com/2021/12/29/snap-together-macropad-does-it-without-solder/</link>
+            <description>Snap-Together Macropad Does It Without Solder</description>
+            <pubDate>Thu Dec 30 00:00:06 2021</pubDate>
+            </item>
+            <item>
+            <title>Adrianistán: Introducción a Z3, el demostrador de teoremas de Microsoft</title>
+            <link>https://blog.adrianistan.eu/introduccion-z3-demostrador-teoremas</link>
+            <description>Introducción a Z3, el demostrador de teoremas de Microsoft</description>
+            <pubDate>Wed Dec 29 23:28:08 2021</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu!: These Mockups for ‘Quick Settings’ in GNOME Shell Have Me Excited</title>
             <link>https://www.omgubuntu.co.uk/2021/12/gnome-shell-quick-settings-concept</link>
-            <description>GNOME is Exploring a New ‘Quick Settings’ Feature</description>
+            <description>These Mockups for ‘Quick Settings’ in GNOME Shell Have Me Excited</description>
             <pubDate>Wed Dec 29 21:49:12 2021</pubDate>
             </item>
             <item>
@@ -22,53 +70,5 @@
             <link>https://www.linuxadictos.com/postmarketos-21-12-ya-disponible-con-la-misma-version-de-phosh-pero-con-plasma-mobile-gear-21-12-y-mas-dispositivos-soportados.html</link>
             <description>postmarketOS 21.12 ya disponible, con la misma versión de Phosh, pero con Plasma Mobile Gear 21.12 y más dispositivos soportados</description>
             <pubDate>Wed Dec 29 20:51:05 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Elon Musk afina sus predicciones: ve a humanos aterrizando en Marte en 10 años en el peor de los casos</title>
-            <link>https://www.xataka.com/espacio/elon-musk-afina-sus-predicciones-ve-a-humanos-aterrizando-marte-10-anos-peor-casos</link>
-            <description>Elon Musk afina sus predicciones: ve a humanos aterrizando en Marte en 10 años en el peor de los casos</description>
-            <pubDate>Wed Dec 29 20:22:29 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Por qué un router WiFi 6 puede ser más lento que uno con WiFi 5</title>
-            <link>https://www.adslzone.net/noticias/redes/por-que-router-wifi-6-puede-mas-lento-wifi-5/</link>
-            <description>Por qué un router WiFi 6 puede ser más lento que uno con WiFi 5</description>
-            <pubDate>Wed Dec 29 20:00:17 2021</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.15.12</title>
-            <link>https://lignux.com/tutorial-para-instalar-la-version-de-mantenimiento-del-kernel-linux-5-15-12/</link>
-            <description>Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.15.12</description>
-            <pubDate>Wed Dec 29 19:52:38 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Foam Surfboard From Scratch</title>
-            <link>https://hackaday.com/2021/12/29/foam-surfboard-from-scratch/</link>
-            <description>Foam Surfboard From Scratch</description>
-            <pubDate>Wed Dec 29 19:30:10 2021</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Ten siempre visible un programa en Windows con estos trucos</title>
-            <link>https://www.adslzone.net/esenciales/windows/siempre-visible-windows/</link>
-            <description>Ten siempre visible un programa en Windows con estos trucos</description>
-            <pubDate>Wed Dec 29 19:03:33 2021</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Una rutina de ejercicios para hacer en la jaula de calistenia</title>
-            <link>https://www.vitonica.com/entrenamiento/rutina-ejercicios-para-hacer-jaula-calistenia</link>
-            <description>Una rutina de ejercicios para hacer en la jaula de calistenia</description>
-            <pubDate>Wed Dec 29 19:00:27 2021</pubDate>
-            </item>
-            <item>
-            <title>Tomates Asesinos: Video muy divulgativo de «Con una raspberry y un pedal mi coche del GTA va a pedales»</title>
-            <link>https://tomatesasesinos.com/2021/12/29/video-muy-divulgativo-de-con-una-raspberry-y-un-pedal-mi-coche-del-gta-va-a-pedales/</link>
-            <description>Video muy divulgativo de «Con una raspberry y un pedal mi coche del GTA va a pedales»</description>
-            <pubDate>Wed Dec 29 18:59:22 2021</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Adéntrate en la automatización de diseño electrónico con KiCad</title>
-            <link>https://www.muylinux.com/2021/12/29/kicad-6/</link>
-            <description>Adéntrate en la automatización de diseño electrónico con KiCad</description>
-            <pubDate>Wed Dec 29 18:38:34 2021</pubDate>
             </item></channel>
 </rss>
