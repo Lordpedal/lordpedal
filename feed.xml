@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Facial Recognition for Covid-19 Tracking in Seoul</title>
+            <link>https://hackaday.com/2021/12/31/facial-recognition-for-covid-19-tracking-in-seoul/</link>
+            <description>Facial Recognition for Covid-19 Tracking in Seoul</description>
+            <pubDate>Sat Jan  1 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu!: Happy New Year, Folks — Let’s Fill it with Linux, Yeah?!</title>
+            <link>https://www.omgubuntu.co.uk/2022/01/omg-happy-new-year-2022</link>
+            <description>Happy New Year, Folks — Let’s Fill it with Linux, Yeah?!</description>
+            <pubDate>Sat Jan  1 05:01:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Hedgewars y 0 A.D.: 2 buenos juegos a probar este año 2022 sobre Linux</title>
+            <link>https://blog.desdelinux.net/hedgewars-0-a-d-juegos-probar-2022-linux/</link>
+            <description>Hedgewars y 0 A.D.: 2 buenos juegos a probar este año 2022 sobre Linux</description>
+            <pubDate>Sat Jan  1 05:00:45 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: “Buggy” Circuit Sculpture Based on a Tuning Indicator Tube</title>
+            <link>https://hackaday.com/2021/12/31/buggy-circuit-sculpture-based-on-a-tuning-indicator-tube/</link>
+            <description>“Buggy” Circuit Sculpture Based on a Tuning Indicator Tube</description>
+            <pubDate>Sat Jan  1 03:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Jami «Taranis» llega con Swarms, mejoras en conferencias y mas</title>
+            <link>https://blog.desdelinux.net/jami-taranis-llega-con-swarms-mejoras-en-conferencias-y-mas/</link>
+            <description>Jami «Taranis» llega con Swarms, mejoras en conferencias y mas</description>
+            <pubDate>Sat Jan  1 00:50:22 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Battery-less Bike Computer Gets Power and Data from the Wheels</title>
+            <link>https://hackaday.com/2021/12/31/battery-less-bike-computer-gets-power-and-data-from-the-wheels/</link>
+            <description>Battery-less Bike Computer Gets Power and Data from the Wheels</description>
+            <pubDate>Sat Jan  1 00:00:00 2022</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: This Week in Security: The Log4j That Won’t Go Away, WebOS, and More</title>
             <link>https://hackaday.com/2021/12/31/this-week-in-security-the-log4j-that-wont-go-away-webos-and-more/</link>
             <description>This Week in Security: The Log4j That Won’t Go Away, WebOS, and More</description>
@@ -34,41 +70,5 @@
             <link>https://www.linuxadictos.com/se-meten-los-politicos-la-prehistoria-de-unix-ultima-parte.html</link>
             <description>Se meten los políticos. La prehistoria de Unix última parte</description>
             <pubDate>Fri Dec 31 19:07:20 2021</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Cuándo deberías cambiar tus contraseñas</title>
-            <link>https://www.redeszone.net/noticias/seguridad/cuando-cambiar-contrasenas/</link>
-            <description>Cuándo deberías cambiar tus contraseñas</description>
-            <pubDate>Fri Dec 31 18:09:09 2021</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'El libro de Bobba Fett' hace que nos preguntemos si un nuevo 'The Mandalorian' puede triunfar sin un gancho como Baby Yoda</title>
-            <link>https://www.xataka.com/cine-y-tv/libro-bobba-fett-hace-que-nos-preguntemos-puede-nuevo-the-mandalorian-triunfar-gancho-como-baby-yoda</link>
-            <description>'El libro de Bobba Fett' hace que nos preguntemos si un nuevo 'The Mandalorian' puede triunfar sin un gancho como Baby Yoda</description>
-            <pubDate>Fri Dec 31 18:00:52 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 3D Printering: Adding A Web Interface Where There Was None Before</title>
-            <link>https://hackaday.com/2021/12/31/3d-printering-adding-a-web-interface-where-there-was-none-before/</link>
-            <description>3D Printering: Adding A Web Interface Where There Was None Before</description>
-            <pubDate>Fri Dec 31 18:00:00 2021</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: HuntKit: Herramientas de Equipo Rojo en una sola imagen Docker</title>
-            <link>https://esgeeks.com/huntkit-herramientas-pentesting-equipo-rojo/</link>
-            <description>HuntKit: Herramientas de Equipo Rojo en una sola imagen Docker</description>
-            <pubDate>Fri Dec 31 17:16:13 2021</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Hackaday Podcast Wishes You Happy New Year</title>
-            <link>https://hackaday.com/2021/12/31/hackaday-podcast-wishes-you-happy-new-year/</link>
-            <description>Hackaday Podcast Wishes You Happy New Year</description>
-            <pubDate>Fri Dec 31 17:00:31 2021</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Telegram contará con una nueva aplicación optimizada para Windows 11 y todo apunta a que estará basada en la app Unigram</title>
-            <link>https://www.genbeta.com/mensajeria-instantanea/telegram-contara-nueva-aplicacion-optimizada-para-windows-11-todo-apunta-a-que-estara-basada-app-unigram</link>
-            <description>Telegram contará con una nueva aplicación optimizada para Windows 11 y todo apunta a que estará basada en la app Unigram</description>
-            <pubDate>Fri Dec 31 16:46:49 2021</pubDate>
             </item></channel>
 </rss>
