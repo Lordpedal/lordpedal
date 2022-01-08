@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Playing Super Hang-On With Hacked Controller Gives Reason For Paws</title>
+            <link>https://hackaday.com/2022/01/07/playing-super-hang-on-with-hacked-controller-gives-reason-for-paws/</link>
+            <description>Playing Super Hang-On With Hacked Controller Gives Reason For Paws</description>
+            <pubDate>Sat Jan  8 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Production PCB And Pogo Pins Produce A Clever Test Jig</title>
+            <link>https://hackaday.com/2022/01/07/production-pcb-and-pogo-pins-produce-a-clever-test-jig/</link>
+            <description>Production PCB And Pogo Pins Produce A Clever Test Jig</description>
+            <pubDate>Sat Jan  8 03:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Slither: a Visual Pedometer That Sheds Light</title>
+            <link>https://hackaday.com/2022/01/07/slither-a-visual-pedometer-that-sheds-light/</link>
+            <description>Slither: a Visual Pedometer That Sheds Light</description>
+            <pubDate>Sat Jan  8 00:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>56K.ES: Compilar Dosbox-x en Debian, Arch y Ubuntu del tirón</title>
+            <link>https://56k.es/fanta/compilar-dosbox-x-en-debian-arch-y-ubuntu-del-tiron/</link>
+            <description>Compilar Dosbox-x en Debian, Arch y Ubuntu del tirón</description>
+            <pubDate>Fri Jan  7 23:03:48 2022</pubDate>
+            </item>
+            <item>
+            <title>56K.ES: IP fija en Debian</title>
+            <link>https://56k.es/fanta/ip-fija-en-debian/</link>
+            <description>IP fija en Debian</description>
+            <pubDate>Fri Jan  7 23:02:17 2022</pubDate>
+            </item>
+            <item>
+            <title>56K.ES: Grabar Debian 11 netinstall en un pendrive</title>
+            <link>https://56k.es/fanta/grabar-debian-10-netinstall-en-un-pendrive/</link>
+            <description>Grabar Debian 11 netinstall en un pendrive</description>
+            <pubDate>Fri Jan  7 23:01:51 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: WINE 7.0-rc5 llega con más de 50 correcciones y eliminando algunas fugas de memoria</title>
+            <link>https://www.linuxadictos.com/wine-7-0-rc5-llega-con-mas-de-50-correcciones-y-eliminando-algunas-fugas-de-memoria.html</link>
+            <description>WINE 7.0-rc5 llega con más de 50 correcciones y eliminando algunas fugas de memoria</description>
+            <pubDate>Fri Jan  7 23:00:41 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El navegador web Pale Moon acaba de publicar su versión 29.4.3</title>
             <link>https://lignux.com/el-navegador-web-pale-moon-acaba-de-publicar-su-version-29-4-3/</link>
             <description>El navegador web Pale Moon acaba de publicar su versión 29.4.3</description>
@@ -28,47 +70,5 @@
             <link>https://ubunlog.com/linux-mint-20-3-ya-fue-liberado-y-estas-son-sus-novedades/</link>
             <description>Linux Mint 20.3 ya fue liberado y estas son sus novedades</description>
             <pubDate>Fri Jan  7 20:23:06 2022</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: GNOME empieza 2022 hablando de un «gran 1.0», entre otras novedades. ¿Cuál es ese gran lanzamiento?</title>
-            <link>https://ubunlog.com/gnome-empieza-2022-hablando-de-un-gran-1-0-entre-otras-novedades-cual-es-ese-gran-lanzamiento/</link>
-            <description>GNOME empieza 2022 hablando de un «gran 1.0», entre otras novedades. ¿Cuál es ese gran lanzamiento?</description>
-            <pubDate>Fri Jan  7 20:13:35 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Esta compañía ha desarrollado un prototipo de un medidor de azúcar en sangre sin pinchazo que funciona con inteligencia artificial</title>
-            <link>https://www.xataka.com/medicina-y-salud/esta-compania-ha-desarrollado-prototipo-medidor-azucar-sangre-pinchazo-que-funciona-inteligencia-artificial</link>
-            <description>Esta compañía ha desarrollado un prototipo de un medidor de azúcar en sangre sin pinchazo que funciona con inteligencia artificial</description>
-            <pubDate>Fri Jan  7 20:01:20 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Qué operador de fibra garantiza más y menos velocidad en España</title>
-            <link>https://www.adslzone.net/noticias/operadores/operador-fibra-garantiza-mas-velocidad-espana-2022/</link>
-            <description>Qué operador de fibra garantiza más y menos velocidad en España</description>
-            <pubDate>Fri Jan  7 20:00:27 2022</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Chrome 97 llega con mejoras y diciendo adiós al manifiesto V2</title>
-            <link>https://ubunlog.com/chrome-97-llega-con-mejoras-y-diciendo-adios-al-manifiesto-v2/</link>
-            <description>Chrome 97 llega con mejoras y diciendo adiós al manifiesto V2</description>
-            <pubDate>Fri Jan  7 19:52:35 2022</pubDate>
-            </item>
-            <item>
-            <title>Jugando en Linux | Comunidad de jugadores en Linux/SteamOS - jugandoenlinux.com: Entrevista a Blyts, nos presenta Slender Threads</title>
-            <link>https://jugandoenlinux.com/index.php/homepage/entrevistas/1406-entrevista-a-blyts-nos-presenta-slender-threads</link>
-            <description>Entrevista a Blyts, nos presenta Slender Threads</description>
-            <pubDate>Fri Jan  7 19:36:48 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Savage Discussion of Measurement And Accuracy</title>
-            <link>https://hackaday.com/2022/01/07/a-savage-discussion-of-measurement-and-accuracy/</link>
-            <description>A Savage Discussion of Measurement And Accuracy</description>
-            <pubDate>Fri Jan  7 19:30:36 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: GNU libmicrohttpd 0.9.74 ya fue liberado y estas son sus novedades</title>
-            <link>https://blog.desdelinux.net/gnu-libmicrohttpd-0-9-74-ya-fue-liberado-y-estas-son-sus-novedades/</link>
-            <description>GNU libmicrohttpd 0.9.74 ya fue liberado y estas son sus novedades</description>
-            <pubDate>Fri Jan  7 19:07:21 2022</pubDate>
             </item></channel>
 </rss>
