@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Adding An Audio Jack To Classic Headphones Is a Nifty Upgrade</title>
+            <link>https://hackaday.com/2022/01/08/adding-an-audio-jack-to-classic-headphones-is-a-nifty-upgrade/</link>
+            <description>Adding An Audio Jack To Classic Headphones Is a Nifty Upgrade</description>
+            <pubDate>Sun Jan  9 06:00:24 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: USBImager: Útil app para escribir imágenes de disco comprimidas en USB</title>
+            <link>https://blog.desdelinux.net/usbimager-util-app-escribir-imagenes-disco-comprimidas-usb/</link>
+            <description>USBImager: Útil app para escribir imágenes de disco comprimidas en USB</description>
+            <pubDate>Sun Jan  9 05:00:32 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hidden Shaft and Gears Make This Hollow Clock Go</title>
+            <link>https://hackaday.com/2022/01/08/hidden-shaft-and-gears-make-this-hollow-clock-go/</link>
+            <description>Hidden Shaft and Gears Make This Hollow Clock Go</description>
+            <pubDate>Sun Jan  9 03:00:06 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: qBittorrent 4.4.0 llega con soporte para BitTorrent v2, Qt6 y mas</title>
+            <link>https://www.linuxadictos.com/qbittorrent-4-4-0-llega-con-soporte-para-bittorrent-v2-qt6-y-mas.html</link>
+            <description>qBittorrent 4.4.0 llega con soporte para BitTorrent v2, Qt6 y mas</description>
+            <pubDate>Sun Jan  9 01:42:29 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Ubuntu Touch OTA-21 ya fue liberado y estas son sus novedades</title>
+            <link>https://blog.desdelinux.net/ubuntu-touch-ota-21-ya-fue-liberado-y-estas-son-sus-novedades/</link>
+            <description>Ubuntu Touch OTA-21 ya fue liberado y estas son sus novedades</description>
+            <pubDate>Sun Jan  9 01:26:39 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Modernizing The Game Boy Advance</title>
+            <link>https://hackaday.com/2022/01/08/modernizing-the-game-boy-advance/</link>
+            <description>Modernizing The Game Boy Advance</description>
+            <pubDate>Sun Jan  9 00:00:30 2022</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: CUBIC, Custom Ubuntu Iso Creator, Video 01</title>
             <link>https://www.distritotux.cl/2022/01/cubic-custom-ubuntu-iso-creator-video-01.html</link>
             <description>CUBIC, Custom Ubuntu Iso Creator, Video 01</description>
@@ -34,41 +70,5 @@
             <link>https://hackaday.com/2022/01/08/de10-lite-ful-fpga-dev-board-hack-plays-the-1981-classic-defender/</link>
             <description>DE10-Lite-Ful FPGA Dev Board Hack Plays The 1981 Classic Defender</description>
             <pubDate>Sat Jan  8 21:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>hackplayers: Vulnerabilidad JNDI en la consola de la base de datos H2 (RCE sin autenticación)</title>
-            <link>https://www.hackplayers.com/2022/01/vulnerabilidad-jndi-en-la-consola-de-.html</link>
-            <description>Vulnerabilidad JNDI en la consola de la base de datos H2 (RCE sin autenticación)</description>
-            <pubDate>Sat Jan  8 20:29:15 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los astrónomos captan por primera vez en tiempo real la muerte de una supergigante roja y no es como lo esperaban: así se convierte en supernova</title>
-            <link>https://www.xataka.com/espacio/astronomos-captan-primera-vez-tiempo-real-muerte-supergigante-roja-no-como-esperaban-asi-se-convierte-supernova</link>
-            <description>Los astrónomos captan por primera vez en tiempo real la muerte de una supergigante roja y no es como lo esperaban: así se convierte en supernova</description>
-            <pubDate>Sat Jan  8 20:01:44 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Todos los canales que puedes ver en Agile TV</title>
-            <link>https://www.adslzone.net/operadores/en-detalle/canales-agile-tv/</link>
-            <description>Todos los canales que puedes ver en Agile TV</description>
-            <pubDate>Sat Jan  8 19:04:01 2022</pubDate>
-            </item>
-            <item>
-            <title>3D Insider: How to Clean the Print Bed of Your 3D Printer</title>
-            <link>https://3dinsider.com/clean-3d-printer-bed/</link>
-            <description>How to Clean the Print Bed of Your 3D Printer</description>
-            <pubDate>Sat Jan  8 19:03:09 2022</pubDate>
-            </item>
-            <item>
-            <title>3D Insider: How to Avoid 3D Printing Issues Using Retraction Settings</title>
-            <link>https://3dinsider.com/avoid-3d-printing-retraction/</link>
-            <description>How to Avoid 3D Printing Issues Using Retraction Settings</description>
-            <pubDate>Sat Jan  8 19:02:55 2022</pubDate>
-            </item>
-            <item>
-            <title>3D Insider: 3D Scanning Spray – What It Is and How to Use It</title>
-            <link>https://3dinsider.com/3d-scanning-spray/</link>
-            <description>3D Scanning Spray – What It Is and How to Use It</description>
-            <pubDate>Sat Jan  8 19:02:19 2022</pubDate>
             </item></channel>
 </rss>
