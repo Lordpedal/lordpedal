@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>The Hacker News: BADNEWS! Patchwork APT Hackers Score Own Goal in Recent Malware Attacks</title>
-            <link>https://thehackernews.com/2022/01/badnews-patchwork-apt-hackers-score-own.html</link>
-            <description>BADNEWS! Patchwork APT Hackers Score Own Goal in Recent Malware Attacks</description>
-            <pubDate>Mon Jan 10 06:05:18 2022</pubDate>
+            <title>OMG! Ubuntu!: Linux Kernel 5.16 Released with Gaming Boost, Nintendo Joy-Con Drivers + More</title>
+            <link>https://www.omgubuntu.co.uk/2022/01/new-features-in-linux-kernel-5-16-release</link>
+            <description>Linux Kernel 5.16 Released with Gaming Boost, Nintendo Joy-Con Drivers + More</description>
+            <pubDate>Mon Jan 10 14:50:28 2022</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Blink An LED On a PIC32 With Rust, Easily</title>
-            <link>https://hackaday.com/2022/01/09/blink-an-led-on-a-pic32-with-rust-easily/</link>
-            <description>Blink An LED On a PIC32 With Rust, Easily</description>
-            <pubDate>Mon Jan 10 06:00:00 2022</pubDate>
+            <title>MuyLinux: Linux 5.16 mejora el soporte para Radeon y el ‘gaming’</title>
+            <link>https://www.muylinux.com/2022/01/10/linux-5-16/</link>
+            <description>Linux 5.16 mejora el soporte para Radeon y el ‘gaming’</description>
+            <pubDate>Mon Jan 10 14:45:42 2022</pubDate>
             </item>
             <item>
-            <title>cambiatealinux.com: Instalar google drive en Linux Mint</title>
-            <link>https://www.cambiatealinux.com/instalar-google-drive-en-linux-mint</link>
-            <description>Instalar google drive en Linux Mint</description>
-            <pubDate>Mon Jan 10 04:28:54 2022</pubDate>
+            <title>Genbeta: Twitch cambia su política y deja de proteger a los streamers en disputas por copyright, baneando y exponiéndolos a multas millonarias</title>
+            <link>https://www.genbeta.com/actualidad/twitch-cambia-su-politica-deja-proteger-a-streamers-disputas-copyright-baneando-exponiendolos-a-multas-millonarias</link>
+            <description>Twitch cambia su política y deja de proteger a los streamers en disputas por copyright, baneando y exponiéndolos a multas millonarias</description>
+            <pubDate>Mon Jan 10 14:37:26 2022</pubDate>
             </item>
             <item>
-            <title>DistritoTux: Linux Mint 20.3 Una, una gran distribución</title>
-            <link>https://www.distritotux.cl/2022/01/linux-mint-203-una-una-gran-distribucion.html</link>
-            <description>Linux Mint 20.3 Una, una gran distribución</description>
-            <pubDate>Mon Jan 10 03:07:30 2022</pubDate>
+            <title>The Hacker News: Researchers Find Bugs in Over A Dozen Widely Used URL Parser Libraries</title>
+            <link>https://thehackernews.com/2022/01/researchers-find-bugs-in-over-dozen.html</link>
+            <description>Researchers Find Bugs in Over A Dozen Widely Used URL Parser Libraries</description>
+            <pubDate>Mon Jan 10 14:35:15 2022</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Peek Behind the Curtain of this Robotic Mouse</title>
-            <link>https://hackaday.com/2022/01/09/peek-behind-the-curtain-of-this-robotic-mouse/</link>
-            <description>Peek Behind the Curtain of this Robotic Mouse</description>
-            <pubDate>Mon Jan 10 03:00:00 2022</pubDate>
+            <title>Changelog: An easy-to-use, zero-downtime schema migration tool for Postgres</title>
+            <link>https://github.com/fabianlindfors/reshape</link>
+            <description>An easy-to-use, zero-downtime schema migration tool for Postgres</description>
+            <pubDate>Mon Jan 10 14:31:00 2022</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Hackaday Links: January 9, 2022</title>
-            <link>https://hackaday.com/2022/01/09/hackaday-links-january-9-2022/</link>
-            <description>Hackaday Links: January 9, 2022</description>
-            <pubDate>Mon Jan 10 00:00:40 2022</pubDate>
+            <title>Magnet: Adiós a comentar MasterChef en Twitch: la plataforma no mediará más cuando demanden a un streamer</title>
+            <link>https://magnet.xataka.com/en-diez-minutos/adios-a-comentar-masterchef-twitch-plataforma-no-mediara-cuando-demanden-a-streamer</link>
+            <description>Adiós a comentar MasterChef en Twitch: la plataforma no mediará más cuando demanden a un streamer</description>
+            <pubDate>Mon Jan 10 14:27:34 2022</pubDate>
             </item>
             <item>
-            <title>Xataka Ciencia: El primer gran lema de la ciencia moderna fue: Nullius in verba (no confíes en la palabra de nadie)</title>
-            <link>https://www.xatakaciencia.com/sabias-que/primer-gran-lema-ciencia-moderna-fue-nullius-in-verba-no-confies-palabra-nadie</link>
-            <description>El primer gran lema de la ciencia moderna fue: Nullius in verba (no confíes en la palabra de nadie)</description>
-            <pubDate>Sun Jan  9 23:07:05 2022</pubDate>
+            <title>Pymes y Autonomos: Siete plantillas de Excel para tu negocio</title>
+            <link>https://www.pymesyautonomos.com/tecnologia/siete-plantillas-excel-para-tu-negocio</link>
+            <description>Siete plantillas de Excel para tu negocio</description>
+            <pubDate>Mon Jan 10 14:01:25 2022</pubDate>
             </item>
             <item>
-            <title>OMG! Ubuntu!: How to Make Spotify’s Desktop App Look Great with Custom Themes</title>
-            <link>https://www.omgubuntu.co.uk/2022/01/spicetify-change-spotify-app-theme</link>
-            <description>How to Make Spotify’s Desktop App Look Great with Custom Themes</description>
-            <pubDate>Sun Jan  9 22:51:46 2022</pubDate>
+            <title>Xataka: Ideas estupendas que nos deja el CES: una caja que se convierte en soporte para portátil</title>
+            <link>https://www.xataka.com/ordenadores/ideas-estupendas-que-nos-deja-ces-caja-que-se-convierte-soporte-para-portatil</link>
+            <description>Ideas estupendas que nos deja el CES: una caja que se convierte en soporte para portátil</description>
+            <pubDate>Mon Jan 10 14:00:31 2022</pubDate>
             </item>
             <item>
-            <title>DistritoTux: CUBIC, Custom Ubuntu Iso Creator, Video 02</title>
-            <link>https://www.distritotux.cl/2022/01/cubic-custom-ubuntu-iso-creator-video-02.html</link>
-            <description>CUBIC, Custom Ubuntu Iso Creator, Video 02</description>
-            <pubDate>Sun Jan  9 22:47:45 2022</pubDate>
+            <title>ADSLZone: ¿Qué es AWS y por qué medio Internet depende de ellos?</title>
+            <link>https://www.adslzone.net/esenciales/amazon/aws-amazon-web-services/</link>
+            <description>¿Qué es AWS y por qué medio Internet depende de ellos?</description>
+            <pubDate>Mon Jan 10 14:00:07 2022</pubDate>
             </item>
             <item>
-            <title>LiGNUx: El gestor de torrents qBittorrent acaba de publicar su versión 4.4.0</title>
-            <link>https://lignux.com/el-gestor-de-torrents-qbittorrent-acaba-de-publicar-su-version-4-4-0/</link>
-            <description>El gestor de torrents qBittorrent acaba de publicar su versión 4.4.0</description>
-            <pubDate>Sun Jan  9 21:27:53 2022</pubDate>
+            <title>ADSLZone: Movistar emitirá la NHL, una de las grandes ligas del deporte mundial que le faltaba</title>
+            <link>https://www.adslzone.net/noticias/operadores/nhl-vuelve-movistar-plus/</link>
+            <description>Movistar emitirá la NHL, una de las grandes ligas del deporte mundial que le faltaba</description>
+            <pubDate>Mon Jan 10 13:54:12 2022</pubDate>
             </item>
             <item>
-            <title>Ubunlog: SuperTux 0.6.3 llega con soporte para WebAssembly, mejoras y mas</title>
-            <link>https://ubunlog.com/supertux-0-6-3-llega-con-soporte-para-webassembly-mejoras-y-mas/</link>
-            <description>SuperTux 0.6.3 llega con soporte para WebAssembly, mejoras y mas</description>
-            <pubDate>Sun Jan  9 21:07:34 2022</pubDate>
+            <title>ADSLZone: Digi dice tener la fibra más rápida, pero no garantiza la máxima velocidad</title>
+            <link>https://www.adslzone.net/noticias/operadores/digi-speedtest-h2-2021-resultados/</link>
+            <description>Digi dice tener la fibra más rápida, pero no garantiza la máxima velocidad</description>
+            <pubDate>Mon Jan 10 13:43:24 2022</pubDate>
             </item></channel>
 </rss>
