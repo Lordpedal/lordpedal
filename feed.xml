@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: BADNEWS! Patchwork APT Hackers Score Own Goal in Recent Malware Attacks</title>
+            <link>https://thehackernews.com/2022/01/badnews-patchwork-apt-hackers-score-own.html</link>
+            <description>BADNEWS! Patchwork APT Hackers Score Own Goal in Recent Malware Attacks</description>
+            <pubDate>Mon Jan 10 06:05:18 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Blink An LED On a PIC32 With Rust, Easily</title>
+            <link>https://hackaday.com/2022/01/09/blink-an-led-on-a-pic32-with-rust-easily/</link>
+            <description>Blink An LED On a PIC32 With Rust, Easily</description>
+            <pubDate>Mon Jan 10 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Instalar google drive en Linux Mint</title>
+            <link>https://www.cambiatealinux.com/instalar-google-drive-en-linux-mint</link>
+            <description>Instalar google drive en Linux Mint</description>
+            <pubDate>Mon Jan 10 04:28:54 2022</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Linux Mint 20.3 Una, una gran distribución</title>
+            <link>https://www.distritotux.cl/2022/01/linux-mint-203-una-una-gran-distribucion.html</link>
+            <description>Linux Mint 20.3 Una, una gran distribución</description>
+            <pubDate>Mon Jan 10 03:07:30 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Peek Behind the Curtain of this Robotic Mouse</title>
+            <link>https://hackaday.com/2022/01/09/peek-behind-the-curtain-of-this-robotic-mouse/</link>
+            <description>Peek Behind the Curtain of this Robotic Mouse</description>
+            <pubDate>Mon Jan 10 03:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: January 9, 2022</title>
+            <link>https://hackaday.com/2022/01/09/hackaday-links-january-9-2022/</link>
+            <description>Hackaday Links: January 9, 2022</description>
+            <pubDate>Mon Jan 10 00:00:40 2022</pubDate>
+            </item>
+            <item>
+            <title>Xataka Ciencia: El primer gran lema de la ciencia moderna fue: Nullius in verba (no confíes en la palabra de nadie)</title>
+            <link>https://www.xatakaciencia.com/sabias-que/primer-gran-lema-ciencia-moderna-fue-nullius-in-verba-no-confies-palabra-nadie</link>
+            <description>El primer gran lema de la ciencia moderna fue: Nullius in verba (no confíes en la palabra de nadie)</description>
+            <pubDate>Sun Jan  9 23:07:05 2022</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu!: How to Make Spotify’s Desktop App Look Great with Custom Themes</title>
+            <link>https://www.omgubuntu.co.uk/2022/01/spicetify-change-spotify-app-theme</link>
+            <description>How to Make Spotify’s Desktop App Look Great with Custom Themes</description>
+            <pubDate>Sun Jan  9 22:51:46 2022</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: CUBIC, Custom Ubuntu Iso Creator, Video 02</title>
             <link>https://www.distritotux.cl/2022/01/cubic-custom-ubuntu-iso-creator-video-02.html</link>
             <description>CUBIC, Custom Ubuntu Iso Creator, Video 02</description>
@@ -22,53 +70,5 @@
             <link>https://ubunlog.com/supertux-0-6-3-llega-con-soporte-para-webassembly-mejoras-y-mas/</link>
             <description>SuperTux 0.6.3 llega con soporte para WebAssembly, mejoras y mas</description>
             <pubDate>Sun Jan  9 21:07:34 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Fail of the Week: 3D Printed Parts That Burn Like NASA’s Rocket Fuel</title>
-            <link>https://hackaday.com/2022/01/09/fail-of-the-week-3d-printed-parts-that-burn-like-nasas-rocket-fuel/</link>
-            <description>Fail of the Week: 3D Printed Parts That Burn Like NASA’s Rocket Fuel</description>
-            <pubDate>Sun Jan  9 21:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Vivaldi se convierte en el primer navegador web en Android Automotive en el Polestar 2</title>
-            <link>https://www.linuxadictos.com/vivaldi-se-convierte-en-el-primer-navegador-web-en-android-automotive-en-el-polestar-2.html</link>
-            <description>Vivaldi se convierte en el primer navegador web en Android Automotive en el Polestar 2</description>
-            <pubDate>Sun Jan  9 20:54:51 2022</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: 10 Comandos Letales de Linux que Nunca Deberías Ejecutar</title>
-            <link>https://esgeeks.com/comandos-letales-linux/</link>
-            <description>10 Comandos Letales de Linux que Nunca Deberías Ejecutar</description>
-            <pubDate>Sun Jan  9 20:10:24 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El misterio de la "Montaña Ardiente" de Australia que lleva encendida desde hace al menos 6.000 años bajo tierra</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/misterio-montana-ardiente-australia-que-lleva-encendida-hace-al-6-000-anos-tierra</link>
-            <description>El misterio de la "Montaña Ardiente" de Australia que lleva encendida desde hace al menos 6.000 años bajo tierra</description>
-            <pubDate>Sun Jan  9 20:02:00 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así de sencillo es convertir tu monitor de PC en una Smart TV</title>
-            <link>https://www.adslzone.net/como-se-hace/smart-tv/convertir-monitor-smart-tv/</link>
-            <description>Así de sencillo es convertir tu monitor de PC en una Smart TV</description>
-            <pubDate>Sun Jan  9 19:03:25 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Canon no puede poner chips en sus tóneres por la escasez y está enseñando a sus clientes a saltarse las comprobaciones de que el producto es original</title>
-            <link>https://www.xataka.com/accesorios/canon-no-puede-poner-chips-sus-toneres-escasez-esta-ensenando-a-sus-clientes-a-saltarse-comprobaciones-que-producto-original</link>
-            <description>Canon no puede poner chips en sus tóneres por la escasez y está enseñando a sus clientes a saltarse las comprobaciones de que el producto es original</description>
-            <pubDate>Sun Jan  9 19:02:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Pymes y Autonomos: ERTES como mecanismo de flexibilidad, así quedan tras la nueva Reforma Laboral de Yolanda Díaz</title>
-            <link>https://www.pymesyautonomos.com/legalidad/ertes-como-mecanismo-flexibilidad-asi-quedan-nueva-reforma-laboral-yolanda-diaz</link>
-            <description>ERTES como mecanismo de flexibilidad, así quedan tras la nueva Reforma Laboral de Yolanda Díaz</description>
-            <pubDate>Sun Jan  9 19:01:20 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Cómo bloquear carpetas con firewall en Windows</title>
-            <link>https://www.redeszone.net/tutoriales/seguridad/bloquear-carpeta-entera-firewall-windows/</link>
-            <description>Cómo bloquear carpetas con firewall en Windows</description>
-            <pubDate>Sun Jan  9 18:16:27 2022</pubDate>
             </item></channel>
 </rss>
