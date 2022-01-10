@@ -37,8 +37,6 @@ rtp://@239.0.5.74:8208
 rtp://@239.0.5.71:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="19" tvg-id="939.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/1613.jpg",AMC HD
 rtp://@239.0.9.132:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="20" tvg-id="960.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2203.jpg",FOX life HD
-rtp://@239.0.0.165:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="21" tvg-id="751.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1611.jpg",AXN W. HD
 rtp://@239.0.5.79:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="22" tvg-id="777.movistar.tv" tvh-tags="Movistar TV|HDTV|Ciencia ficción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1703.jpg",SyfyHD
@@ -111,8 +109,6 @@ rtp://@239.0.5.77:8208
 rtp://@239.0.5.82:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="75" tvg-id="340.movistar.tv" tvh-tags="Movistar TV|SDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/340.jpg",BLAZE
 rtp://@239.0.0.38:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="76" tvg-id="18.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/1617.jpg",Viajar HD
-rtp://@239.0.5.73:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="77" tvg-id="657.movistar.tv" tvh-tags="Movistar TV|SDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/657.jpg",DMAX
 rtp://@239.0.0.32:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="78" tvg-id="697.movistar.tv" tvh-tags="Movistar TV|SDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/697.jpg",Crimen + Inv.
