@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: Modern Alternatives to Some of the Classic Linux  Commands</title>
+            <link>https://itsfoss.com/legacy-linux-commands-alternatives/</link>
+            <description>Modern Alternatives to Some of the Classic Linux  Commands</description>
+            <pubDate>Tue Jan 11 06:55:04 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: HitClips Custom Cartridge Hack Will Never Give Up, Let Down, Or Turn Around</title>
+            <link>https://hackaday.com/2022/01/10/hitclips-custom-cartridge-hack-will-never-give-up-let-down-or-turn-around/</link>
+            <description>HitClips Custom Cartridge Hack Will Never Give Up, Let Down, Or Turn Around</description>
+            <pubDate>Tue Jan 11 06:00:39 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: La última actualización de seguridad de WordPress parchea fallos de XSS e inyección SQL</title>
+            <link>https://unaaldia.hispasec.com/2022/01/la-ultima-actualizacion-de-seguridad-de-wordpress-parchea-fallos-de-xss-e-inyeccion-sql.html</link>
+            <description>La última actualización de seguridad de WordPress parchea fallos de XSS e inyección SQL</description>
+            <pubDate>Tue Jan 11 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Europol Ordered to Delete Data of Individuals With No Proven Links to Crimes</title>
+            <link>https://thehackernews.com/2022/01/europol-ordered-to-delete-data-of.html</link>
+            <description>Europol Ordered to Delete Data of Individuals With No Proven Links to Crimes</description>
+            <pubDate>Tue Jan 11 05:52:02 2022</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu!: Firefox 96 is Available to Download, This is What’s New</title>
+            <link>https://www.omgubuntu.co.uk/2022/01/firefox-96-download-and-new-features</link>
+            <description>Firefox 96 is Available to Download, This is What’s New</description>
+            <pubDate>Tue Jan 11 05:25:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Balena Etcher: Nueva versión 1.7.3 del útil grabador de imágenes de disco</title>
+            <link>https://blog.desdelinux.net/balena-etcher-nueva-version-1-7-3-del-util-grabador-de-imagenes-de-disco/</link>
+            <description>Balena Etcher: Nueva versión 1.7.3 del útil grabador de imágenes de disco</description>
+            <pubDate>Tue Jan 11 05:00:35 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Researchers Find Bugs in Over A Dozen Widely Used URL Parser Libraries</title>
+            <link>https://thehackernews.com/2022/01/researchers-find-bugs-in-over-dozen.html</link>
+            <description>Researchers Find Bugs in Over A Dozen Widely Used URL Parser Libraries</description>
+            <pubDate>Tue Jan 11 04:34:06 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Abcbot Botnet Linked to Operators of Xanthe Cryptomining malware</title>
+            <link>https://thehackernews.com/2022/01/abcbot-botnet-linked-to-operators-of.html</link>
+            <description>Abcbot Botnet Linked to Operators of Xanthe Cryptomining malware</description>
+            <pubDate>Tue Jan 11 04:33:28 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: This John Deere Tractor Doesn’t Need a Driver</title>
+            <link>https://hackaday.com/2022/01/10/this-john-deere-tractor-doesnt-need-a-driver/</link>
+            <description>This John Deere Tractor Doesn’t Need a Driver</description>
+            <pubDate>Tue Jan 11 03:00:36 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Get A Grip On Troubleshooting Your Vintage Pinball Machine</title>
+            <link>https://hackaday.com/2022/01/10/get-a-grip-on-troubleshooting-your-vintage-pinball-machine/</link>
+            <description>Get A Grip On Troubleshooting Your Vintage Pinball Machine</description>
+            <pubDate>Tue Jan 11 00:00:15 2022</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: LKRG 0.9.2 ya fue liberado y estas son sus novedades</title>
             <link>https://www.linuxadictos.com/lkrg-0-9-2-ya-fue-liberado-y-estas-son-sus-novedades.html</link>
             <description>LKRG 0.9.2 ya fue liberado y estas son sus novedades</description>
             <pubDate>Mon Jan 10 22:43:18 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Toxiproxy, un framework para simular las condiciones de la red en entornos de prueba</title>
-            <link>https://www.linuxadictos.com/toxiproxy-un-framework-para-simular-las-condiciones-de-la-red-en-entornos-de-prueba.html</link>
-            <description>Toxiproxy, un framework para simular las condiciones de la red en entornos de prueba</description>
-            <pubDate>Mon Jan 10 22:00:27 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Siduction 2021.3 llega con Linux 5.15, sin algunas compilaciones de entornos, mejoras y mas</title>
-            <link>https://www.linuxadictos.com/siduction-2021-3-llega-con-linux-5-15-sin-algunas-compilaciones-de-entornos-mejoras-y-mas.html</link>
-            <description>Siduction 2021.3 llega con Linux 5.15, sin algunas compilaciones de entornos, mejoras y mas</description>
-            <pubDate>Mon Jan 10 21:26:34 2022</pubDate>
-            </item>
-            <item>
-            <title>56K.ES: Find al rescate cuando /bin/rm: Argument list too long</title>
-            <link>https://56k.es/fanta/find-al-rescate-cuando-bin-rm-argument-list-too-long/</link>
-            <description>Find al rescate cuando /bin/rm: Argument list too long</description>
-            <pubDate>Mon Jan 10 21:06:45 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Simple EMF Detector and Electroscope You Can Make From Junk Box Parts</title>
-            <link>https://hackaday.com/2022/01/10/a-simple-emf-detector-and-electroscope-you-can-make-from-junk-box-parts/</link>
-            <description>A Simple EMF Detector and Electroscope You Can Make From Junk Box Parts</description>
-            <pubDate>Mon Jan 10 21:00:43 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Se acabó la piratería IPTV? Este nuevo método lo cambia todo</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/synamedia-ott-serviceguard-iptv-pirata/</link>
-            <description>¿Se acabó la piratería IPTV? Este nuevo método lo cambia todo</description>
-            <pubDate>Mon Jan 10 20:00:58 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: The case for Rust as the future of JavaScript infrastructure</title>
-            <link>https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/</link>
-            <description>The case for Rust as the future of JavaScript infrastructure</description>
-            <pubDate>Mon Jan 10 19:54:00 2022</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.16</title>
-            <link>https://lignux.com/tutorial-para-instalar-la-version-de-mantenimiento-del-kernel-linux-5-16/</link>
-            <description>Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.16</description>
-            <pubDate>Mon Jan 10 19:34:11 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: This Little Minecraft Mine Cart of Mine</title>
-            <link>https://hackaday.com/2022/01/10/this-little-minecraft-mine-cart-of-mine/</link>
-            <description>This Little Minecraft Mine Cart of Mine</description>
-            <pubDate>Mon Jan 10 19:30:00 2022</pubDate>
-            </item>
-            <item>
-            <title>El condón roto de GNU: Lanzamiento de Ubuntu Touch OTA-21</title>
-            <link>https://elcondonrotodegnu.wordpress.com/2022/01/10/lanzamiento-de-ubuntu-touch-ota-21/</link>
-            <description>Lanzamiento de Ubuntu Touch OTA-21</description>
-            <pubDate>Mon Jan 10 19:24:58 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Private Relay, la función de privacidad estrella de Apple, se enfrenta a un desafío en Europa: varios operadores quieren que se prohíba</title>
-            <link>https://www.xataka.com/privacidad/private-relay-funcion-privacidad-estrella-apple-se-enfrenta-a-desafio-europa-varios-operadores-quieren-que-se-prohiba</link>
-            <description>Private Relay, la función de privacidad estrella de Apple, se enfrenta a un desafío en Europa: varios operadores quieren que se prohíba</description>
-            <pubDate>Mon Jan 10 19:00:28 2022</pubDate>
             </item></channel>
 </rss>
