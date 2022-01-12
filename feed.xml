@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: First Patch Tuesday of 2022 Brings Fix for a Critical 'Wormable' Windows Vulnerability</title>
+            <link>https://thehackernews.com/2022/01/first-patch-tuesday-of-2022-brings-fix.html</link>
+            <description>First Patch Tuesday of 2022 Brings Fix for a Critical 'Wormable' Windows Vulnerability</description>
+            <pubDate>Wed Jan 12 06:42:18 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Synth and Visualizer Combo has Retrocomputing Vibe</title>
+            <link>https://hackaday.com/2022/01/11/synth-and-visualizer-combo-has-retrocomputing-vibe/</link>
+            <description>Synth and Visualizer Combo has Retrocomputing Vibe</description>
+            <pubDate>Wed Jan 12 06:00:48 2022</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu!: This App Makes Installing GNOME Extensions MUCH Easier</title>
+            <link>https://www.omgubuntu.co.uk/2022/01/gnome-extension-manager-app-easy-install</link>
+            <description>This App Makes Installing GNOME Extensions MUCH Easier</description>
+            <pubDate>Wed Jan 12 05:03:37 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Jen Easterly, directora de CISA dice que Log4j es la peor que ha visto y que se extenderán durante años</title>
+            <link>https://www.linuxadictos.com/jen-easterly-directora-de-cisa-dice-que-log4j-es-la-peor-que-ha-visto-y-que-se-extenderan-durante-anos.html</link>
+            <description>Jen Easterly, directora de CISA dice que Log4j es la peor que ha visto y que se extenderán durante años</description>
+            <pubDate>Wed Jan 12 03:09:05 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Falling Down The Carbon Rabbit Hole</title>
+            <link>https://hackaday.com/2022/01/11/falling-down-the-carbon-rabbit-hole/</link>
+            <description>Falling Down The Carbon Rabbit Hole</description>
+            <pubDate>Wed Jan 12 03:00:05 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D Printed Sensor For Finding Wind Direction And Likely Much More</title>
+            <link>https://hackaday.com/2022/01/11/3d-printed-sensor-for-finding-wind-direction-and-likely-much-more/</link>
+            <description>3D Printed Sensor For Finding Wind Direction And Likely Much More</description>
+            <pubDate>Wed Jan 12 00:00:38 2022</pubDate>
+            </item>
+            <item>
+            <title>Podcast Linux: #147 Proyectos Podcast Linux</title>
+            <link>https://podcastlinux.com/posts/podcastlinux/147-Podcast-Linux/</link>
+            <description>#147 Proyectos Podcast Linux</description>
+            <pubDate>Wed Jan 12 00:00:00 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El editor de vídeo Kdenlive alcanza su versión final 21.12.1</title>
             <link>https://lignux.com/el-editor-de-video-kdenlive-alcanza-su-version-final-21-12-1/</link>
             <description>El editor de vídeo Kdenlive alcanza su versión final 21.12.1</description>
@@ -28,47 +70,5 @@
             <link>https://www.omgubuntu.co.uk/2022/01/ubuntu-on-raspberry-pi-4-2gb-zswap</link>
             <description>Ubuntu Brings Full Desktop to Raspberry Pi 4 with 2GB RAM</description>
             <pubDate>Tue Jan 11 20:01:10 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Movistar y Orange le dicen adiós a la fibra barata ¿qué pasará ahora?</title>
-            <link>https://www.adslzone.net/noticias/operadores/movistar-orange-adios-ofertas-solo-fibra-enero-2022/</link>
-            <description>Movistar y Orange le dicen adiós a la fibra barata ¿qué pasará ahora?</description>
-            <pubDate>Tue Jan 11 20:00:20 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka Ciencia: Si has tenido cáncer quizá no deberías pasar demasiado tiempo sentado</title>
-            <link>https://www.xatakaciencia.com/salud/has-tenido-cancer-quiza-no-deberias-pasar-demasiado-tiempo-sentado</link>
-            <description>Si has tenido cáncer quizá no deberías pasar demasiado tiempo sentado</description>
-            <pubDate>Tue Jan 11 19:58:01 2022</pubDate>
-            </item>
-            <item>
-            <title>Blackhold: Searx: Buscar sin ser traceado</title>
-            <link>https://blackhold.nusepas.com/2022/01/11/searx-buscar-sin-ser-traceado/</link>
-            <description>Searx: Buscar sin ser traceado</description>
-            <pubDate>Tue Jan 11 19:42:18 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Electronic Drum Toy Built From Scratch</title>
-            <link>https://hackaday.com/2022/01/11/electronic-drum-toy-built-from-scratch/</link>
-            <description>Electronic Drum Toy Built From Scratch</description>
-            <pubDate>Tue Jan 11 19:30:44 2022</pubDate>
-            </item>
-            <item>
-            <title>56K.ES: Fin de la zona VIP en 56k.es – Agosto del 2022</title>
-            <link>https://56k.es/fanta/fin-de-la-zona-vip-en-56k-es-agosto-del-2022/</link>
-            <description>Fin de la zona VIP en 56k.es – Agosto del 2022</description>
-            <pubDate>Tue Jan 11 19:30:19 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: EyeCommander helps you communicate by blinking</title>
-            <link>https://github.com/AceCentre/eyecommander</link>
-            <description>EyeCommander helps you communicate by blinking</description>
-            <pubDate>Tue Jan 11 19:29:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: La fintech Revolut actuará también como banco en el mercado español: esto es lo que cambia para sus usuarios</title>
-            <link>https://www.genbeta.com/actualidad/fintech-revolut-actuara-tambien-como-banco-mercado-espanol-esto-que-cambia-para-sus-usuarios</link>
-            <description>La fintech Revolut actuará también como banco en el mercado español: esto es lo que cambia para sus usuarios</description>
-            <pubDate>Tue Jan 11 19:27:31 2022</pubDate>
             </item></channel>
 </rss>
