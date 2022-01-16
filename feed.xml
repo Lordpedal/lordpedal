@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Serial Studio One Year On</title>
+            <link>https://hackaday.com/2022/01/15/serial-studio-one-year-on/</link>
+            <description>Serial Studio One Year On</description>
+            <pubDate>Sun Jan 16 06:00:11 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Microsoft publica parches de seguridad para más de 90 vulnerabilidades</title>
+            <link>https://unaaldia.hispasec.com/2022/01/microsoft-publica-parches-de-seguridad-para-mas-de-90-vulnerabilidades.html</link>
+            <description>Microsoft publica parches de seguridad para más de 90 vulnerabilidades</description>
+            <pubDate>Sun Jan 16 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Giant Wheels Make For Exciting Powered Rollerskates</title>
+            <link>https://hackaday.com/2022/01/15/giant-wheels-make-for-exciting-powered-rollerskates/</link>
+            <description>Giant Wheels Make For Exciting Powered Rollerskates</description>
+            <pubDate>Sun Jan 16 03:00:04 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Glitch Your Way to Reverse-Engineering Glory with the PicoEMP</title>
+            <link>https://hackaday.com/2022/01/15/glitch-your-way-to-reverse-engineering-glory-with-the-picoemp/</link>
+            <description>Glitch Your Way to Reverse-Engineering Glory with the PicoEMP</description>
+            <pubDate>Sun Jan 16 00:00:07 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: La suite de dibujo e ilustración digital open source Krita alcanza su versión 5.0.2</title>
             <link>https://lignux.com/la-suite-de-dibujo-e-ilustracion-digital-open-source-krita-alcanza-su-version-5-0-2/</link>
             <description>La suite de dibujo e ilustración digital open source Krita alcanza su versión 5.0.2</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/ecologia-y-naturaleza/identifican-especie-caracol-terrestre-pequena-mundo-ronda-0-5-mm-alto-sus-descubridores-necesitaron-pinceles-microscopio</link>
             <description>Identifican la especie de caracol terrestre más pequeña del mundo: ronda 0,5 mm de alto y sus descubridores necesitaron pinceles y microscopio</description>
             <pubDate>Sat Jan 15 19:01:58 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Servidor VPS administrado vs no administrado: conoce las diferencias</title>
-            <link>https://www.redeszone.net/tutoriales/servidores/diferencias-vps-administrado-no-administrado/</link>
-            <description>Servidor VPS administrado vs no administrado: conoce las diferencias</description>
-            <pubDate>Sat Jan 15 18:15:17 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'El ciclo infinito': ciencia-ficción desafiante y animada en Netflix que demuestra que no todo está dicho en materia de bucles temporales</title>
-            <link>https://www.xataka.com/cine-y-tv/ciclo-infinito-ciencia-ficcion-desafiante-animada-netflix-que-demuestra-que-no-todo-esta-dicho-materia-bucles-temporales</link>
-            <description>'El ciclo infinito': ciencia-ficción desafiante y animada en Netflix que demuestra que no todo está dicho en materia de bucles temporales</description>
-            <pubDate>Sat Jan 15 18:01:57 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: The Eerie Sounds Of Ioalieia: An ESP32/Valve/Analog Hybrid Circuit Sculpture</title>
-            <link>https://hackaday.com/2022/01/15/the-eerie-sounds-of-ioalieia-an-esp32-valve-analog-hybrid-circuit-sculpture/</link>
-            <description>The Eerie Sounds Of Ioalieia: An ESP32/Valve/Analog Hybrid Circuit Sculpture</description>
-            <pubDate>Sat Jan 15 18:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Así se vio desde el espacio la erupción del Hunga Tonga-Hunga Ha´apai, el volcán submarino que ha provocado un tsunami en el Pacífico</title>
-            <link>https://www.xataka.com/otros/asi-se-vio-espacio-erupcion-hunga-tonga-hunga-haapai-volcan-submarino-que-ha-provocado-tsunami-pacifico</link>
-            <description>Así se vio desde el espacio la erupción del Hunga Tonga-Hunga Ha´apai, el volcán submarino que ha provocado un tsunami en el Pacífico</description>
-            <pubDate>Sat Jan 15 17:51:20 2022</pubDate>
             </item></channel>
 </rss>
