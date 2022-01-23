@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: Hackers Attempt to Exploit New SolarWinds Serv-U Bug in Log4Shell Attacks</title>
+            <link>https://thehackernews.com/2022/01/microsoft-hackers-exploiting-new.html</link>
+            <description>Hackers Attempt to Exploit New SolarWinds Serv-U Bug in Log4Shell Attacks</description>
+            <pubDate>Sun Jan 23 06:42:28 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Printing in Silicone</title>
+            <link>https://hackaday.com/2022/01/22/printing-in-silicone/</link>
+            <description>Printing in Silicone</description>
+            <pubDate>Sun Jan 23 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Linux Jargon Buster: What are Upstream and Downstream?</title>
+            <link>https://itsfoss.com/upstream-and-downstream-linux/</link>
+            <description>Linux Jargon Buster: What are Upstream and Downstream?</description>
+            <pubDate>Sun Jan 23 04:37:15 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Another DPS5005 Alternative Firmware</title>
+            <link>https://hackaday.com/2022/01/22/another-dps5005-alternative-firmware/</link>
+            <description>Another DPS5005 Alternative Firmware</description>
+            <pubDate>Sun Jan 23 03:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Zhengbang Pick & Places Your Confidential Data In The Bag, Slowly</title>
+            <link>https://hackaday.com/2022/01/22/zhengbang-pick-places-your-confidential-data-in-the-bag-slowly/</link>
+            <description>Zhengbang Pick & Places Your Confidential Data In The Bag, Slowly</description>
+            <pubDate>Sun Jan 23 00:00:00 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Los drivers Open Source de Razer, OpenRazer alcanza su versión 3.2.0</title>
             <link>https://lignux.com/los-drivers-open-source-de-razer-openrazer-alcanza-su-version-3-2-0/</link>
             <description>Los drivers Open Source de Razer, OpenRazer alcanza su versión 3.2.0</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/reportajes/e-commerce/garantia-espana/</link>
             <description>Todo lo que tienes que saber de la garantía de 3 años en España</description>
             <pubDate>Sat Jan 22 19:05:21 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Miles se presentan, solo el 6% llega: así selecciona a sus astronautas la Agencia Espacial Europea</title>
-            <link>https://www.xataka.com/espacio/miles-se-presentan-solo-6-llega-asi-selecciona-a-sus-astronautas-agencia-espacial-europea</link>
-            <description>Miles se presentan, solo el 6% llega: así selecciona a sus astronautas la Agencia Espacial Europea</description>
-            <pubDate>Sat Jan 22 19:00:38 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Esto nos trajo mayo. MI balance del 2021 parte 6</title>
-            <link>https://www.linuxadictos.com/esto-nos-trajo-mayo-mi-balance-del-2021-parte-6.html</link>
-            <description>Esto nos trajo mayo. MI balance del 2021 parte 6</description>
-            <pubDate>Sat Jan 22 18:56:34 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: No funciona el Wi-Fi Hotspot en Windows: pasos para solucionarlo</title>
-            <link>https://www.redeszone.net/tutoriales/redes-wifi/que-hacer-fallo-hotspot-windows/</link>
-            <description>No funciona el Wi-Fi Hotspot en Windows: pasos para solucionarlo</description>
-            <pubDate>Sat Jan 22 18:15:35 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Running Methanol RC Engines On Gasoline</title>
-            <link>https://hackaday.com/2022/01/22/running-methanol-rc-engines-on-gasoline/</link>
-            <description>Running Methanol RC Engines On Gasoline</description>
-            <pubDate>Sat Jan 22 18:00:43 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'Archivo 81' y 'Nuevo sabor a cereza': cómo las miniseries más inquietantes de Netflix hablan del demoníaco magnetismo de las películas</title>
-            <link>https://www.xataka.com/cine-y-tv/archivo-81-nuevo-sabor-a-cereza-como-miniseries-inquietantes-netflix-hablan-demoniaco-magnetismo-peliculas</link>
-            <description>'Archivo 81' y 'Nuevo sabor a cereza': cómo las miniseries más inquietantes de Netflix hablan del demoníaco magnetismo de las películas</description>
-            <pubDate>Sat Jan 22 18:00:38 2022</pubDate>
             </item></channel>
 </rss>
