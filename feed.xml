@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>Blog – Hackaday: Open Hardware 5V UPS Improves On Cheap Powerbank Design</title>
-            <link>https://hackaday.com/2022/01/31/open-hardware-5v-ups-improves-on-cheap-powerbank-design/</link>
-            <description>Open Hardware 5V UPS Improves On Cheap Powerbank Design</description>
-            <pubDate>Tue Feb  1 06:00:34 2022</pubDate>
+            <title>Changelog: Top-level `fetch` just landed in Node.js</title>
+            <link>https://github.com/nodejs/node/commit/6ec225392675c92b102d3caad02ee3a157c9d1b7</link>
+            <description>Top-level `fetch` just landed in Node.js</description>
+            <pubDate>Tue Feb  1 14:44:00 2022</pubDate>
             </item>
             <item>
-            <title>The Hacker News: New SureMDM Vulnerabilities Could Expose Companies to Supply Chain Attacks</title>
-            <link>https://thehackernews.com/2022/01/new-suremdm-vulnerabilities-could.html</link>
-            <description>New SureMDM Vulnerabilities Could Expose Companies to Supply Chain Attacks</description>
-            <pubDate>Tue Feb  1 05:38:28 2022</pubDate>
+            <title>56K.ES: Script para comprobar la versión de Debian rápidamente</title>
+            <link>https://56k.es/fanta/script-para-comprobar-la-version-de-debian-rapidamente/</link>
+            <description>Script para comprobar la versión de Debian rápidamente</description>
+            <pubDate>Tue Feb  1 14:41:08 2022</pubDate>
             </item>
             <item>
-            <title>The Hacker News: Behind The Buzzword: Four Ways to Assess Your Zero Trust Security Posture</title>
-            <link>https://thehackernews.com/2022/01/behind-buzzword-four-ways-to-assess.html</link>
-            <description>Behind The Buzzword: Four Ways to Assess Your Zero Trust Security Posture</description>
-            <pubDate>Tue Feb  1 04:56:38 2022</pubDate>
+            <title>Genbeta: PowerToys 0.55 llega con una nueva utilidad para el ratón y con dos complementos para mejorar el Explorador de Windows 10 y 11</title>
+            <link>https://www.genbeta.com/windows/powertoys-0-55-llega-nueva-utilidad-para-raton-dos-complementos-para-mejorar-explorador-windows-10-11</link>
+            <description>PowerToys 0.55 llega con una nueva utilidad para el ratón y con dos complementos para mejorar el Explorador de Windows 10 y 11</description>
+            <pubDate>Tue Feb  1 14:21:00 2022</pubDate>
             </item>
             <item>
-            <title>OMG! Ubuntu!: ‘Phinger’ is a Pointedly Cool Cursor Theme for Linux Desktops</title>
-            <link>https://www.omgubuntu.co.uk/2022/02/phinger-cursor-theme-for-linux</link>
-            <description>‘Phinger’ is a Pointedly Cool Cursor Theme for Linux Desktops</description>
-            <pubDate>Tue Feb  1 04:45:00 2022</pubDate>
+            <title>Linux Adictos: Falkon 3.2, de KDE, recibe su primera actualización mayor en casi tres años, y ahora permite capturar la pantalla</title>
+            <link>https://www.linuxadictos.com/falkon-3-2-de-kde-recibe-su-primera-actualizacion-mayor-en-casi-tres-anos-y-ahora-permite-capturar-la-pantalla.html</link>
+            <description>Falkon 3.2, de KDE, recibe su primera actualización mayor en casi tres años, y ahora permite capturar la pantalla</description>
+            <pubDate>Tue Feb  1 14:12:12 2022</pubDate>
             </item>
             <item>
-            <title>The Hacker News: New Samba Bug Allows Remote Attackers to Execute Arbitrary Code as Root</title>
-            <link>https://thehackernews.com/2022/01/new-samba-bug-allows-remote-attackers.html</link>
-            <description>New Samba Bug Allows Remote Attackers to Execute Arbitrary Code as Root</description>
-            <pubDate>Tue Feb  1 04:16:00 2022</pubDate>
+            <title>OMG! Ubuntu!: Canonical, NASA, and Award-Winning Artist Team Up for Space Art Project</title>
+            <link>https://www.omgubuntu.co.uk/2022/02/ubuntu-core-space-station-art-iss-nasa</link>
+            <description>Canonical, NASA, and Award-Winning Artist Team Up for Space Art Project</description>
+            <pubDate>Tue Feb  1 14:02:23 2022</pubDate>
             </item>
             <item>
-            <title>The Hacker News: German Court Rules Websites Embedding Google Fonts Violates GDPR</title>
-            <link>https://thehackernews.com/2022/01/german-court-rules-websites-embedding.html</link>
-            <description>German Court Rules Websites Embedding Google Fonts Violates GDPR</description>
-            <pubDate>Tue Feb  1 03:57:51 2022</pubDate>
+            <title>Xataka: El Craob X es un portátil conceptual que anticipa un futuro de ordenadores sin puertos (ni uno)</title>
+            <link>https://www.xataka.com/ordenadores/craob-x-portatil-conceptual-que-anticipa-futuro-ordenadores-puertos-uno</link>
+            <description>El Craob X es un portátil conceptual que anticipa un futuro de ordenadores sin puertos (ni uno)</description>
+            <pubDate>Tue Feb  1 14:01:28 2022</pubDate>
             </item>
             <item>
-            <title>The Hacker News: QNAP Warns of DeadBolt Ransomware Targeting Internet-Facing NAS Devices</title>
-            <link>https://thehackernews.com/2022/01/qnap-warns-of-deadbolt-ransomware.html</link>
-            <description>QNAP Warns of DeadBolt Ransomware Targeting Internet-Facing NAS Devices</description>
-            <pubDate>Tue Feb  1 03:55:24 2022</pubDate>
+            <title>Raspberry Pi Foundation blog: news, announcements, stories, ideas: Celebrate Black history this month with code!</title>
+            <link>https://www.raspberrypi.org/blog/black-history-month-2022-free-coding-resources/</link>
+            <description>Celebrate Black history this month with code!</description>
+            <pubDate>Tue Feb  1 14:00:00 2022</pubDate>
             </item>
             <item>
-            <title>The Hacker News: Your Graphics Card Fingerprint Can Be Used to Track Your Activities Across the Web</title>
-            <link>https://thehackernews.com/2022/01/your-graphics-card-fingerprint-can-be.html</link>
-            <description>Your Graphics Card Fingerprint Can Be Used to Track Your Activities Across the Web</description>
-            <pubDate>Tue Feb  1 03:54:40 2022</pubDate>
+            <title>MuyLinux: Tiny Core Linux 13, un ultraligero para resucitar tu vieja tostadora</title>
+            <link>https://www.muylinux.com/2022/02/01/tiny-core-linux-13/</link>
+            <description>Tiny Core Linux 13, un ultraligero para resucitar tu vieja tostadora</description>
+            <pubDate>Tue Feb  1 13:52:33 2022</pubDate>
             </item>
             <item>
-            <title>It's FOSS: Read and Organize Markdown Files in Linux Terminal With Glow</title>
-            <link>https://itsfoss.com/glow-cli-tool-markdown/</link>
-            <description>Read and Organize Markdown Files in Linux Terminal With Glow</description>
-            <pubDate>Tue Feb  1 03:45:00 2022</pubDate>
+            <title>Genbeta: Gmail estrenará nuevo diseño a partir de febrero: así puedes ser de los primeros en probarlo</title>
+            <link>https://www.genbeta.com/correo/gmail-estrenara-nuevo-diseno-a-partir-febrero-asi-puedes-ser-primeros-probarlo</link>
+            <description>Gmail estrenará nuevo diseño a partir de febrero: así puedes ser de los primeros en probarlo</description>
+            <pubDate>Tue Feb  1 13:48:40 2022</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Time And Accuracy in Las ATMegas</title>
-            <link>https://hackaday.com/2022/01/31/time-and-accuracy-in-las-atmegas/</link>
-            <description>Time And Accuracy in Las ATMegas</description>
-            <pubDate>Tue Feb  1 03:00:38 2022</pubDate>
+            <title>ADSLZone: Movistar Plus+ tiene dos nuevos canales, uno de ellos 4K</title>
+            <link>https://www.adslzone.net/noticias/operadores/movistar-plus-2-nuevos-canales-4k-febrero-2022/</link>
+            <description>Movistar Plus+ tiene dos nuevos canales, uno de ellos 4K</description>
+            <pubDate>Tue Feb  1 13:37:31 2022</pubDate>
             </item>
             <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Fixing and Improving Your Car with 3D Printing</title>
-            <link>https://blog.adafruit.com/2022/01/31/fixing-and-improving-your-car-with-3d-printing/</link>
-            <description>Fixing and Improving Your Car with 3D Printing</description>
-            <pubDate>Tue Feb  1 01:20:21 2022</pubDate>
+            <title>The Hacker News: Solarmarker Malware Uses Novel Techniques to Persist on Hacked Systems</title>
+            <link>https://thehackernews.com/2022/02/solarmarker-malware-uses-novel.html</link>
+            <description>Solarmarker Malware Uses Novel Techniques to Persist on Hacked Systems</description>
+            <pubDate>Tue Feb  1 13:30:16 2022</pubDate>
             </item></channel>
 </rss>
