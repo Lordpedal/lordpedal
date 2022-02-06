@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>cambiatealinux.com: Como poner el modo oscuro en Linux Mint Cinnamon</title>
+            <link>https://www.cambiatealinux.com/como-poner-el-modo-oscuro-en-linux-mint-cinnamon</link>
+            <description>Como poner el modo oscuro en Linux Mint Cinnamon</description>
+            <pubDate>Sun Feb  6 06:28:47 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: OpenBikeSensor Measures Close Calls</title>
+            <link>https://hackaday.com/2022/02/05/openbikesensor-measures-close-calls/</link>
+            <description>OpenBikeSensor Measures Close Calls</description>
+            <pubDate>Sun Feb  6 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: New Argo CD Bug Could Let Hackers Steal Secret Info from Kubernetes Apps</title>
+            <link>https://thehackernews.com/2022/02/new-argo-cd-bug-could-let-hackers-steal.html</link>
+            <description>New Argo CD Bug Could Let Hackers Steal Secret Info from Kubernetes Apps</description>
+            <pubDate>Sun Feb  6 05:48:25 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: CISA Warns of Critical Vulnerabilities Discovered in Airspan Networks Mimosa</title>
+            <link>https://thehackernews.com/2022/02/cisa-warns-of-critical-vulnerabilities.html</link>
+            <description>CISA Warns of Critical Vulnerabilities Discovered in Airspan Networks Mimosa</description>
+            <pubDate>Sun Feb  6 05:24:33 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Another Israeli Firm, QuaDream, Caught Weaponizing iPhone Bug for Spyware</title>
+            <link>https://thehackernews.com/2022/02/another-israeli-firm-quadream-caught.html</link>
+            <description>Another Israeli Firm, QuaDream, Caught Weaponizing iPhone Bug for Spyware</description>
+            <pubDate>Sun Feb  6 05:23:57 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Mejorar MX-21 / Debian-11: Paquetes y Apps adicionales – Parte 3</title>
+            <link>https://blog.desdelinux.net/mejorar-mx-21-debian-11-paquetes-apps-adicionales-parte-3/</link>
+            <description>Mejorar MX-21 / Debian-11: Paquetes y Apps adicionales – Parte 3</description>
+            <pubDate>Sun Feb  6 05:00:37 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Camping For $25: Thrift Store Hacks To Keep Cozy</title>
+            <link>https://hackaday.com/2022/02/05/camping-for-25-thrift-store-hacks-to-keep-cozy/</link>
+            <description>Camping For $25: Thrift Store Hacks To Keep Cozy</description>
+            <pubDate>Sun Feb  6 03:00:23 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Twist Promises Easier Quantum Programming</title>
+            <link>https://hackaday.com/2022/02/05/twist-promises-easier-quantum-programming/</link>
+            <description>Twist Promises Easier Quantum Programming</description>
+            <pubDate>Sun Feb  6 00:00:16 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El gestor y editor de imágenes DigiKam alcanza la versión 7.5.0</title>
             <link>https://lignux.com/el-gestor-y-editor-de-imagenes-digikam-alcanza-la-version-7-5-0/</link>
             <description>El gestor y editor de imágenes DigiKam alcanza la versión 7.5.0</description>
@@ -22,53 +70,5 @@
             <link>https://www.luisllamas.es/como-comunicar-app-en-vuejs-con-esp32-a-traves-de-mqtt/</link>
             <description>Cómo comunicar App en VueJs con ESP32 a través de MQTT</description>
             <pubDate>Sat Feb  5 20:09:56 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Tesla está abriendo sus supercargadores a todas las marcas. Es un movimiento audaz y... Arriesgado</title>
-            <link>https://www.xataka.com/vehiculos/tesla-esta-abriendo-sus-supercargadores-a-todas-marcas-movimiento-audaz-arriesgado</link>
-            <description>Tesla está abriendo sus supercargadores a todas las marcas. Es un movimiento audaz y... Arriesgado</description>
-            <pubDate>Sat Feb  5 19:30:49 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así puedes ver Movistar+ sin deco</title>
-            <link>https://www.adslzone.net/operadores/movistar/movistar-plus-dispositivos/</link>
-            <description>Así puedes ver Movistar+ sin deco</description>
-            <pubDate>Sat Feb  5 19:14:07 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Apple plantea presentar en marzo un iPhone SE con 5G y un iPad Air actualizado, según Bloomberg</title>
-            <link>https://www.xataka.com/moviles/apple-plantea-presentar-marzo-iphone-se-5g-ipad-air-actualizado-bloomberg</link>
-            <description>Apple plantea presentar en marzo un iPhone SE con 5G y un iPad Air actualizado, según Bloomberg</description>
-            <pubDate>Sat Feb  5 18:30:49 2022</pubDate>
-            </item>
-            <item>
-            <title>Victorhck in the free world: Cómo insertar con el editor Kate la fecha y hora en un documento</title>
-            <link>https://victorhckinthefreeworld.com/2022/02/05/como-insertar-con-el-editor-kate-la-fecha-y-hora-en-un-documento/</link>
-            <description>Cómo insertar con el editor Kate la fecha y hora en un documento</description>
-            <pubDate>Sat Feb  5 18:09:59 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Por qué aparecen barras y ventanas en el navegador y cómo evitarlo</title>
-            <link>https://www.redeszone.net/tutoriales/seguridad/navegador-barras-ventanas-emergentes/</link>
-            <description>Por qué aparecen barras y ventanas en el navegador y cómo evitarlo</description>
-            <pubDate>Sat Feb  5 18:06:06 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'El timador de Tinder': un documental de Netflix disfrazado de thriller sobre cómo se difuminan las identidades en las redes sociales</title>
-            <link>https://www.xataka.com/cine-y-tv/timador-tinder-documental-disfrazado-thriller-como-se-difuminan-identidades-redes-sociales</link>
-            <description>'El timador de Tinder': un documental de Netflix disfrazado de thriller sobre cómo se difuminan las identidades en las redes sociales</description>
-            <pubDate>Sat Feb  5 18:00:49 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Gaming Twitter’s Trending Algorithm To Make A Point</title>
-            <link>https://hackaday.com/2022/02/05/gaming-twitters-trending-algorithm-to-make-a-point/</link>
-            <description>Gaming Twitter’s Trending Algorithm To Make A Point</description>
-            <pubDate>Sat Feb  5 18:00:19 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las mejores series y regresos para ver en febrero de 2022</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/mejores-series-febrero-2022/</link>
-            <description>Las mejores series y regresos para ver en febrero de 2022</description>
-            <pubDate>Sat Feb  5 17:01:41 2022</pubDate>
             </item></channel>
 </rss>
