@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Dron anfibio que vuela y se sumerge en las profundidades del mar</title>
+            <link>https://www.linuxparty.es/79-tecnologia/10930-dron-anfibio-que-vuela-y-se-sumerge-en-las-profundidades-del-mar.html</link>
+            <description>Dron anfibio que vuela y se sumerge en las profundidades del mar</description>
+            <pubDate>Mon Feb  7 07:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Cannonball Mold Makes a Dandy Integrating Sphere for Laser Measurements</title>
+            <link>https://hackaday.com/2022/02/06/cannonball-mold-makes-a-dandy-integrating-sphere-for-laser-measurements/</link>
+            <description>Cannonball Mold Makes a Dandy Integrating Sphere for Laser Measurements</description>
+            <pubDate>Mon Feb  7 06:00:30 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: CISA Orders Federal Agencies to Patch Actively Exploited Windows Vulnerability</title>
+            <link>https://thehackernews.com/2022/02/cisa-orders-federal-agencies-to-patch.html</link>
+            <description>CISA Orders Federal Agencies to Patch Actively Exploited Windows Vulnerability</description>
+            <pubDate>Mon Feb  7 05:03:44 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: New Argo CD Bug Could Let Hackers Steal Secret Info from Kubernetes Apps</title>
+            <link>https://thehackernews.com/2022/02/new-argo-cd-bug-could-let-hackers-steal.html</link>
+            <description>New Argo CD Bug Could Let Hackers Steal Secret Info from Kubernetes Apps</description>
+            <pubDate>Mon Feb  7 03:30:18 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Making Something Gorgeous From Framing Lumber</title>
+            <link>https://hackaday.com/2022/02/06/making-something-gorgeous-from-framing-lumber/</link>
+            <description>Making Something Gorgeous From Framing Lumber</description>
+            <pubDate>Mon Feb  7 03:00:31 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: February 6, 2022</title>
+            <link>https://hackaday.com/2022/02/06/hackaday-links-february-6-2022/</link>
+            <description>Hackaday Links: February 6, 2022</description>
+            <pubDate>Mon Feb  7 00:00:30 2022</pubDate>
+            </item>
+            <item>
             <title>Elbinario: Creando juegos en minetest:Atrapa a WillyRex</title>
             <link>https://elbinario.net/2022/02/06/creando-juegos-en-minetestatrapa-a-willyrex/</link>
             <description>Creando juegos en minetest:Atrapa a WillyRex</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/esenciales/amazon/comparativa-amazon-fire-tv-stick/</link>
             <description>Amazon Fire TV Stick o Stick Lite, ¿merece la pena pagar más?</description>
             <pubDate>Sun Feb  6 19:05:06 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Una pandemia de basura: hemos generado más de 146.000 toneladas de residuos sanitarios solo entre kits y vacunas</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/pandemia-basura-hemos-generado-al-146-000-toneladas-residuos-sanitarios</link>
-            <description>Una pandemia de basura: hemos generado más de 146.000 toneladas de residuos sanitarios solo entre kits y vacunas</description>
-            <pubDate>Sun Feb  6 19:00:59 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Comprueba todas las contraseñas del WiFi guardadas en Windows 11</title>
-            <link>https://www.redeszone.net/tutoriales/redes-wifi/ver-contrasenas-wifi-windows-11/</link>
-            <description>Comprueba todas las contraseñas del WiFi guardadas en Windows 11</description>
-            <pubDate>Sun Feb  6 18:06:24 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Qué pasa si asesino a alguien en el metaverso: cómo aplican las leyes del mundo real sobre el virtual</title>
-            <link>https://www.xataka.com/legislacion-y-derechos/que-pasa-asesino-a-alguien-metaverso-como-aplican-leyes-mundo-real-virtual</link>
-            <description>Qué pasa si asesino a alguien en el metaverso: cómo aplican las leyes del mundo real sobre el virtual</description>
-            <pubDate>Sun Feb  6 18:01:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: No ARM Printer Driver? Just Write Your Own</title>
-            <link>https://hackaday.com/2022/02/06/no-arm-printer-driver-just-write-your-own/</link>
-            <description>No ARM Printer Driver? Just Write Your Own</description>
-            <pubDate>Sun Feb  6 18:00:42 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las mejores sagas del cine que podemos ver completas en HBO Max</title>
-            <link>https://www.adslzone.net/reportajes/series/mejores-sagas-hbo-max/</link>
-            <description>Las mejores sagas del cine que podemos ver completas en HBO Max</description>
-            <pubDate>Sun Feb  6 17:10:24 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Las shitcoins son criptomonedas inútiles: así puedes identificarlas antes de perder una inversión</title>
-            <link>https://www.genbeta.com/a-fondo/shitcoins-criptomonedas-inutiles-asi-puedes-identificarlas-antes-perder-inversion</link>
-            <description>Las shitcoins son criptomonedas inútiles: así puedes identificarlas antes de perder una inversión</description>
-            <pubDate>Sun Feb  6 16:00:59 2022</pubDate>
             </item></channel>
 </rss>
