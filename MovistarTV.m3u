@@ -37,6 +37,8 @@ rtp://@239.0.5.74:8208
 rtp://@239.0.5.71:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="19" tvg-id="939.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/1613.jpg",AMC HD
 rtp://@239.0.9.132:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="20" tvg-id="5046.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5046.jpg",XTRM
+rtp://@239.0.1.180:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="21" tvg-id="751.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1611.jpg",AXN W. HD
 rtp://@239.0.5.79:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="22" tvg-id="777.movistar.tv" tvh-tags="Movistar TV|HDTV|Ciencia ficción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1703.jpg",SyfyHD
@@ -155,8 +157,6 @@ rtp://@239.0.0.173:8208
 rtp://@239.0.0.66:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="98" tvg-id="745.movistar.tv" tvh-tags="Movistar TV|HDTV|Infantil" tvg-logo="https://lordpedal.github.io/lordpedal/images/4467.jpg",Clan TVE HD
 rtp://@239.0.0.184:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="103" tvg-id="5046.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5046.jpg",XTRM
-rtp://@239.0.1.180:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="104" tvg-id="5047.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5047.jpg",Somos
 rtp://@239.0.1.181:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="105" tvg-id="581.movistar.tv" tvh-tags="Movistar TV|SDTV|Música" tvg-logo="https://lordpedal.github.io/lordpedal/images/581.jpg",MTV 00s
