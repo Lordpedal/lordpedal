@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: Microsoft and Other Major Software Firms Release February 2022 Patch Updates</title>
+            <link>https://thehackernews.com/2022/02/microsoft-and-other-major-software.html</link>
+            <description>Microsoft and Other Major Software Firms Release February 2022 Patch Updates</description>
+            <pubDate>Wed Feb  9 06:40:43 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Ver la tele gratis en el móvil: las 5 mejores apps para Android</title>
+            <link>https://www.adslzone.net/noticias/moviles/top-apps-ver-tele-gratis-movil-android/</link>
+            <description>Ver la tele gratis en el móvil: las 5 mejores apps para Android</description>
+            <pubDate>Wed Feb  9 06:02:10 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Working Model Reveals Amazing Engineering of Webb’s Mirror Actuators</title>
+            <link>https://hackaday.com/2022/02/08/working-model-reveals-amazing-engineering-of-webbs-mirror-actuators/</link>
+            <description>Working Model Reveals Amazing Engineering of Webb’s Mirror Actuators</description>
+            <pubDate>Wed Feb  9 06:00:16 2022</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Troubleshooting “Unacceptable TLS certificate” Error in Linux</title>
+            <link>https://itsfoss.com/unacceptable-tls-certificate-error-linux/</link>
+            <description>Troubleshooting “Unacceptable TLS certificate” Error in Linux</description>
+            <pubDate>Wed Feb  9 03:53:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Wordle Reverse-Engineering and Automated Solving</title>
+            <link>https://hackaday.com/2022/02/08/wordle-reverse-engineering-and-automated-solving/</link>
+            <description>Wordle Reverse-Engineering and Automated Solving</description>
+            <pubDate>Wed Feb  9 03:00:48 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Tuning Fork Clock, With Discreet Logic</title>
+            <link>https://hackaday.com/2022/02/08/a-tuning-fork-clock-with-discreet-logic/</link>
+            <description>A Tuning Fork Clock, With Discreet Logic</description>
+            <pubDate>Wed Feb  9 00:00:30 2022</pubDate>
+            </item>
+            <item>
+            <title>Podcast Linux: #149 Hardware Slimbook Executive</title>
+            <link>https://podcastlinux.com/posts/podcastlinux/149-Podcast-Linux/</link>
+            <description>#149 Hardware Slimbook Executive</description>
+            <pubDate>Wed Feb  9 00:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Cómo ver historias de Instagram sin ser visto: StoriesIG y otras opciones</title>
+            <link>https://www.adslzone.net/noticias/redes-sociales/ver-historias-instagram-incognito/</link>
+            <description>Cómo ver historias de Instagram sin ser visto: StoriesIG y otras opciones</description>
+            <pubDate>Tue Feb  8 22:59:36 2022</pubDate>
+            </item>
+            <item>
+            <title>Changelog: RAID-Z expansion feature for ZFS goes live</title>
+            <link>https://freebsdfoundation.org/blog/raid-z-expansion-feature-for-zfs-goes-live/</link>
+            <description>RAID-Z expansion feature for ZFS goes live</description>
+            <pubDate>Tue Feb  8 22:53:00 2022</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Bottles 2022.1.28 llega con un nuevo backend para administrar Wine y mas</title>
             <link>https://www.linuxadictos.com/bottles-2022-1-28-llega-con-un-nuevo-backend-para-administrar-wine-y-mas.html</link>
             <description>Bottles 2022.1.28 llega con un nuevo backend para administrar Wine y mas</description>
@@ -16,59 +70,5 @@
             <link>https://www.linuxadictos.com/programas-en-formato-snap-cuya-instalacion-recomiendo.html</link>
             <description>Programas en formato Snap cuya instalación recomiendo</description>
             <pubDate>Tue Feb  8 21:50:59 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Nitrux 2.0 llega con mejoras, correcciones de errores y mas</title>
-            <link>https://www.linuxadictos.com/nitrux-2-0-llega-con-mejoras-correcciones-de-errores-y-mas.html</link>
-            <description>Nitrux 2.0 llega con mejoras, correcciones de errores y mas</description>
-            <pubDate>Tue Feb  8 21:48:06 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Fueron encontradas varias vulnerabilidades en diversos proyectos open source</title>
-            <link>https://www.linuxadictos.com/fueron-encontradas-varias-vulnerabilidades-en-diversos-proyectos-open-source.html</link>
-            <description>Fueron encontradas varias vulnerabilidades en diversos proyectos open source</description>
-            <pubDate>Tue Feb  8 21:37:44 2022</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: rqlite 7.0 ya fue liberado y estas son sus novedades</title>
-            <link>https://ubunlog.com/rqlite-7-0-ya-fue-liberado-y-estas-son-sus-novedades/</link>
-            <description>rqlite 7.0 ya fue liberado y estas son sus novedades</description>
-            <pubDate>Tue Feb  8 21:17:25 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así quedan las tarifas de Movistar Fusión con Netflix a partir de ahora</title>
-            <link>https://www.adslzone.net/noticias/operadores/movistar-fusion-precio-netflix-febrero-2022/</link>
-            <description>Así quedan las tarifas de Movistar Fusión con Netflix a partir de ahora</description>
-            <pubDate>Tue Feb  8 21:00:33 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 3D Printed Maglev Switches Are So Hot Right Now</title>
-            <link>https://hackaday.com/2022/02/08/3d-printed-maglev-switches-are-so-hot-right-now/</link>
-            <description>3D Printed Maglev Switches Are So Hot Right Now</description>
-            <pubDate>Tue Feb  8 21:00:23 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Ya fue lanzada la nueva rama estable de DNS BIND 9.18</title>
-            <link>https://blog.desdelinux.net/ya-fue-lanzada-la-nueva-rama-estable-de-dns-bind-9-18/</link>
-            <description>Ya fue lanzada la nueva rama estable de DNS BIND 9.18</description>
-            <pubDate>Tue Feb  8 20:32:41 2022</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: El reproductor Audacious alcanza su versión 4.2 beta</title>
-            <link>https://lignux.com/el-reproductor-audacious-alcanza-su-version-4-2-beta/</link>
-            <description>El reproductor Audacious alcanza su versión 4.2 beta</description>
-            <pubDate>Tue Feb  8 20:02:10 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo puedo registrar mi coche en Cabify</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/como-registrar-coche-cabify/</link>
-            <description>Cómo puedo registrar mi coche en Cabify</description>
-            <pubDate>Tue Feb  8 20:00:18 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Hay muchos bitcoins perdidos.  Algunas billeteras de código abierto</title>
-            <link>https://www.linuxadictos.com/hay-muchos-bitcoins-perdidos-algunas-billeteras-de-codigo-abierto.html</link>
-            <description>Hay muchos bitcoins perdidos.  Algunas billeteras de código abierto</description>
-            <pubDate>Tue Feb  8 19:59:19 2022</pubDate>
             </item></channel>
 </rss>
