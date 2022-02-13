@@ -6,10 +6,34 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>Linux Adictos: Kasper, un escáner de dispositivos de código especulativo en el kernel de Linux</title>
-            <link>https://www.linuxadictos.com/kasper-un-escaner-de-dispositivos-de-codigo-especulativo-en-el-kernel-de-linux.html</link>
-            <description>Kasper, un escáner de dispositivos de código especulativo en el kernel de Linux</description>
-            <pubDate>Sat Feb 12 22:50:04 2022</pubDate>
+            <title>Blog – Hackaday: Epoxy Resin Night Light Is An Amazing Ocean-Themed Build</title>
+            <link>https://hackaday.com/2022/02/12/epoxy-resin-night-light-is-an-amazing-ocean-themed-build/</link>
+            <description>Epoxy Resin Night Light Is An Amazing Ocean-Themed Build</description>
+            <pubDate>Sun Feb 13 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: 10 Open Source Lightweight Web Browsers for Linux</title>
+            <link>https://itsfoss.com/lightweight-web-browsers-linux/</link>
+            <description>10 Open Source Lightweight Web Browsers for Linux</description>
+            <pubDate>Sun Feb 13 04:10:48 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Machining Waveguides For 122 GHz Operation Is Delicate Work</title>
+            <link>https://hackaday.com/2022/02/12/machining-waveguides-for-122-ghz-operation-is-delicate-work/</link>
+            <description>Machining Waveguides For 122 GHz Operation Is Delicate Work</description>
+            <pubDate>Sun Feb 13 03:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Wolvic, una navegador web open source para dispositivos VR</title>
+            <link>https://blog.desdelinux.net/wolvic-una-navegador-web-open-source-para-dispositivos-vr/</link>
+            <description>Wolvic, una navegador web open source para dispositivos VR</description>
+            <pubDate>Sun Feb 13 02:50:12 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Spin Some Spudgers from Secondhand Silverware</title>
+            <link>https://hackaday.com/2022/02/12/spin-some-spudgers-from-secondhand-silverware/</link>
+            <description>Spin Some Spudgers from Secondhand Silverware</description>
+            <pubDate>Sun Feb 13 00:00:00 2022</pubDate>
             </item>
             <item>
             <title>Linux Adictos: Ya fue liberada la nueva versión de Qubes 4.1</title>
@@ -30,12 +54,6 @@
             <pubDate>Sat Feb 12 22:06:44 2022</pubDate>
             </item>
             <item>
-            <title>Desde Linux: KDE Plasma 5.24 llega con diversas mejoras, correcciones y mas</title>
-            <link>https://blog.desdelinux.net/kde-plasma-5-24-llega-con-diversas-mejoras-correcciones-y-mas/</link>
-            <description>KDE Plasma 5.24 llega con diversas mejoras, correcciones y mas</description>
-            <pubDate>Sat Feb 12 21:32:03 2022</pubDate>
-            </item>
-            <item>
             <title>ADSLZone: Por qué protegemos el móvil o el portátil del calor y no del frío</title>
             <link>https://www.adslzone.net/noticias/tecnologia/proteger-movil-portatil-frio-motivos/</link>
             <description>Por qué protegemos el móvil o el portátil del calor y no del frío</description>
@@ -52,23 +70,5 @@
             <link>https://www.kdeblog.com/osxlaunchpad-plasmoides-de-kde-191.html</link>
             <description>OSXLaunchpad – Plasmoides de KDE (191)</description>
             <pubDate>Sat Feb 12 20:58:59 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Firefox 97 ya fue liberado y estas son sus novedades</title>
-            <link>https://blog.desdelinux.net/firefox-97-ya-fue-liberado-y-estas-son-sus-novedades/</link>
-            <description>Firefox 97 ya fue liberado y estas son sus novedades</description>
-            <pubDate>Sat Feb 12 20:58:59 2022</pubDate>
-            </item>
-            <item>
-            <title>56K.ES: 🔴 Maltrato tecnológico y el regreso de Futurama – 051</title>
-            <link>https://56k.es/fanta/%f0%9f%94%b4-maltrato-tecnologico-y-el-regreso-de-futurama-051/</link>
-            <description>🔴 Maltrato tecnológico y el regreso de Futurama – 051</description>
-            <pubDate>Sat Feb 12 20:56:15 2022</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: Acaba de liberarse la versión 3.8.1 de Darktable, un editor fotográfico Open Source</title>
-            <link>https://lignux.com/acaba-de-liberarse-la-version-3-8-1-de-darktable-un-editor-fotografico-open-source/</link>
-            <description>Acaba de liberarse la versión 3.8.1 de Darktable, un editor fotográfico Open Source</description>
-            <pubDate>Sat Feb 12 20:06:17 2022</pubDate>
             </item></channel>
 </rss>
