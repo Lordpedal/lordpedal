@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Coin-Operated Graphing Calculator Console</title>
+            <link>https://hackaday.com/2022/02/16/coin-operated-graphing-calculator-console/</link>
+            <description>Coin-Operated Graphing Calculator Console</description>
+            <pubDate>Thu Feb 17 06:00:54 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: U.S. Says Russian Hackers Stealing Sensitive Data from Defense Contractors</title>
+            <link>https://thehackernews.com/2022/02/us-says-russian-hackers-stealing.html</link>
+            <description>U.S. Says Russian Hackers Stealing Sensitive Data from Defense Contractors</description>
+            <pubDate>Thu Feb 17 05:42:59 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Researchers Link ShadowPad Malware Attacks to Chinese Ministry and PLA</title>
+            <link>https://thehackernews.com/2022/02/researchers-link-shadowpad-malware.html</link>
+            <description>Researchers Link ShadowPad Malware Attacks to Chinese Ministry and PLA</description>
+            <pubDate>Thu Feb 17 05:17:23 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A PNG Based Circuit Simulator</title>
+            <link>https://hackaday.com/2022/02/16/a-png-based-circuit-simulator/</link>
+            <description>A PNG Based Circuit Simulator</description>
+            <pubDate>Thu Feb 17 03:00:26 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Weird Phosphor Conversion LEDs Found In Cheap LED String</title>
+            <link>https://hackaday.com/2022/02/16/weird-phosphor-conversion-leds-found-in-cheap-led-string/</link>
+            <description>Weird Phosphor Conversion LEDs Found In Cheap LED String</description>
+            <pubDate>Thu Feb 17 00:00:28 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Top 3 de cámaras más pequeñas del mundo</title>
+            <link>https://www.adslzone.net/noticias/tecnologia/top-3-camaras-mas-pequenas-mundo/</link>
+            <description>Top 3 de cámaras más pequeñas del mundo</description>
+            <pubDate>Wed Feb 16 22:59:17 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.16.10</title>
             <link>https://lignux.com/tutorial-para-instalar-la-version-de-mantenimiento-del-kernel-linux-5-16-10/</link>
             <description>Tutorial para instalar la versión de mantenimiento del Kernel Linux 5.16.10</description>
@@ -34,41 +70,5 @@
             <link>https://lordpedal.github.io/gnu/linux/docker/matrix-docker/</link>
             <description>Matrix: Docker</description>
             <pubDate>Wed Feb 16 20:30:00 2022</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Proton 7 llega con soporte para Easy Anti-Cheat y mejoras de rendimiento</title>
-            <link>https://www.muylinux.com/2022/02/16/proton-7/</link>
-            <description>Proton 7 llega con soporte para Easy Anti-Cheat y mejoras de rendimiento</description>
-            <pubDate>Wed Feb 16 20:06:22 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En su apuesta por la privacidad, Google dejará de utilizar el ID de publicidad en Android: este es su plan</title>
-            <link>https://www.xataka.com/privacidad/su-apuesta-privacidad-google-dejara-utilizar-id-publicidad-android-este-su-plan</link>
-            <description>En su apuesta por la privacidad, Google dejará de utilizar el ID de publicidad en Android: este es su plan</description>
-            <pubDate>Wed Feb 16 20:00:37 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Por qué no puedo cargar mi coche eléctrico en cualquier lugar?</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/por-que-no-cargar-coche-electrico-cualquier-lugar/</link>
-            <description>¿Por qué no puedo cargar mi coche eléctrico en cualquier lugar?</description>
-            <pubDate>Wed Feb 16 20:00:05 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Comprueba si estás protegido en Google Chrome en un solo clic: así se hace la comprobación de seguridad</title>
-            <link>https://www.genbeta.com/navegadores/comprueba-estas-protegido-google-chrome-solo-clic-asi-se-hace-comprobacion-seguridad-1</link>
-            <description>Comprueba si estás protegido en Google Chrome en un solo clic: así se hace la comprobación de seguridad</description>
-            <pubDate>Wed Feb 16 19:47:53 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Tiny Ethernet Cable Arms Race Spawns From Reddit Discussion</title>
-            <link>https://hackaday.com/2022/02/16/tiny-ethernet-cable-arms-race-spawns-from-reddit-discussion/</link>
-            <description>Tiny Ethernet Cable Arms Race Spawns From Reddit Discussion</description>
-            <pubDate>Wed Feb 16 19:30:28 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Intel se ha gastado 5.400 millones de dólares en una empresa de semiconductores "poco avanzados". Y ha hecho muy bien</title>
-            <link>https://www.xataka.com/empresas-y-economia/intel-se-ha-gastado-5-400-millones-dolares-empresa-semiconductores-poco-avanzados-ha-hecho-muy-bien</link>
-            <description>Intel se ha gastado 5.400 millones de dólares en una empresa de semiconductores "poco avanzados". Y ha hecho muy bien</description>
-            <pubDate>Wed Feb 16 19:00:36 2022</pubDate>
             </item></channel>
 </rss>
