@@ -6,6 +6,12 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Overclock Server: WTF!</title>
+            <link>https://lordpedal.github.io/personal/60h-cita/</link>
+            <description>WTF!</description>
+            <pubDate>Sat Feb 19 07:30:00 2022</pubDate>
+            </item>
+            <item>
             <title>The Hacker News: Critical Flaw Uncovered in WordPress Backup Plugin Used by Over 3 Million Sites</title>
             <link>https://thehackernews.com/2022/02/critical-flaw-uncovered-in-wordpress.html</link>
             <description>Critical Flaw Uncovered in WordPress Backup Plugin Used by Over 3 Million Sites</description>
@@ -64,11 +70,5 @@
             <link>https://www.hackplayers.com/2022/02/geolocalizacion-de-usuarios-de-telegram.html</link>
             <description>Geolocalización de usuarios de Telegram mediante trilateración y falsificación GPS</description>
             <pubDate>Fri Feb 18 23:16:52 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Miles de webs pueden dejar de funcionar con Chrome, Edge y Firefox</title>
-            <link>https://www.adslzone.net/noticias/internet/problema-chrome-edge-firefox-version-100/</link>
-            <description>Miles de webs pueden dejar de funcionar con Chrome, Edge y Firefox</description>
-            <pubDate>Fri Feb 18 22:59:21 2022</pubDate>
             </item></channel>
 </rss>
