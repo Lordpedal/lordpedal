@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: Master Key for Hive Ransomware Retrieved Using a Flaw in its Encryption Algorithm</title>
+            <link>https://thehackernews.com/2022/02/master-key-for-hive-ransomware.html</link>
+            <description>Master Key for Hive Ransomware Retrieved Using a Flaw in its Encryption Algorithm</description>
+            <pubDate>Sun Feb 20 06:12:01 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Spectrometer Detects Chemicals by Zapping Samples With a Laser Beam</title>
+            <link>https://hackaday.com/2022/02/19/spectrometer-detects-chemicals-by-zapping-samples-with-a-laser-beam/</link>
+            <description>Spectrometer Detects Chemicals by Zapping Samples With a Laser Beam</description>
+            <pubDate>Sun Feb 20 06:00:47 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Justice Department Appoints First Director of National Cryptocurrency Enforcement Team</title>
+            <link>https://thehackernews.com/2022/02/justice-department-appoints-first.html</link>
+            <description>Justice Department Appoints First Director of National Cryptocurrency Enforcement Team</description>
+            <pubDate>Sun Feb 20 05:51:29 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: U.S. Cybersecurity Agency Publishes List of Free Security Tools and Services</title>
+            <link>https://thehackernews.com/2022/02/us-cybersecurity-agency-publishes-list.html</link>
+            <description>U.S. Cybersecurity Agency Publishes List of Free Security Tools and Services</description>
+            <pubDate>Sun Feb 20 05:51:10 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Make Your Own Tabletop Game Organizers With Online Tool</title>
+            <link>https://hackaday.com/2022/02/19/make-your-own-tabletop-game-organizers-with-online-tool/</link>
+            <description>Make Your Own Tabletop Game Organizers With Online Tool</description>
+            <pubDate>Sun Feb 20 03:00:51 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: DIY Hydrophone Listens in on the Deep for Cheap</title>
+            <link>https://hackaday.com/2022/02/19/diy-hydrophone-listens-in-on-the-deep-for-cheap/</link>
+            <description>DIY Hydrophone Listens in on the Deep for Cheap</description>
+            <pubDate>Sun Feb 20 00:00:08 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Conociendo wallets frías y los diferentes modelos de Trezor: Trezor One y Trezor T</title>
             <link>https://lignux.com/conociendo-wallets-frias-y-los-diferentes-modelos-de-trezor-trezor-one-y-trezor-t/</link>
             <description>Conociendo wallets frías y los diferentes modelos de Trezor: Trezor One y Trezor T</description>
@@ -34,41 +70,5 @@
             <link>https://www.xataka.com/otros/invierno-se-muere-cuestion-ahora-cuantas-temporadas-esqui-nos-quedan-delante</link>
             <description>El invierno se está muriendo. La cuestión ahora es cuántas temporadas de esquí quedan por delante</description>
             <pubDate>Sat Feb 19 19:01:25 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Todos los tipos de licencias de Windows y cuál comprar</title>
-            <link>https://www.adslzone.net/esenciales/windows/tipos-licencias-windows/</link>
-            <description>Todos los tipos de licencias de Windows y cuál comprar</description>
-            <pubDate>Sat Feb 19 19:00:37 2022</pubDate>
-            </item>
-            <item>
-            <title>▶ Noticias desde entreunosyceros: Whatsapp, diferentes clientes para utilizarlo desde el escritorio de Ubuntu</title>
-            <link>https://entreunosyceros.net/whatsapp-diferentes-aplicaciones-para-utilizarlo-desde-el-escritorio/</link>
-            <description>Whatsapp, diferentes clientes para utilizarlo desde el escritorio de Ubuntu</description>
-            <pubDate>Sat Feb 19 18:26:57 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Ingeniero en sistemas en la nube: conoce todo lo que necesitas</title>
-            <link>https://www.redeszone.net/tutoriales/redes-cable/ingeniero-sistemas-nube/</link>
-            <description>Ingeniero en sistemas en la nube: conoce todo lo que necesitas</description>
-            <pubDate>Sat Feb 19 18:15:53 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'Separación': la primera gran sorpresa de 2022 es una distopía de Apple TV+ sobre la intrusión del trabajo en nuestras vidas</title>
-            <link>https://www.xataka.com/cine-y-tv/separacion-acida-distopia-apple-tv-intrusion-trabajo-nuestras-vidas-primer-gran-hallazgo-2022</link>
-            <description>'Separación': la primera gran sorpresa de 2022 es una distopía de Apple TV+ sobre la intrusión del trabajo en nuestras vidas</description>
-            <pubDate>Sat Feb 19 18:01:25 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: It’s Bad Apple, But On A 32K EPROM</title>
-            <link>https://hackaday.com/2022/02/19/its-bad-apple-but-on-a-32k-eprom/</link>
-            <description>It’s Bad Apple, But On A 32K EPROM</description>
-            <pubDate>Sat Feb 19 18:00:05 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La inteligencia artificial lleva años ganándonos al ajedrez. Ahora también nos está enseñando a mejorarlo</title>
-            <link>https://www.xataka.com/inteligencia-artificial/inteligencia-artificial-no-solo-nos-gana-al-ajedrez-ahora-nos-muestra-tambien-como-mejorarlo</link>
-            <description>La inteligencia artificial lleva años ganándonos al ajedrez. Ahora también nos está enseñando a mejorarlo</description>
-            <pubDate>Sat Feb 19 17:34:15 2022</pubDate>
             </item></channel>
 </rss>
