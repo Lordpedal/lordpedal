@@ -67,7 +67,7 @@ http://192.168.1.50:2112/rtp/239.0.5.113:8208
 http://192.168.1.50:2112/rtp/239.0.5.114:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="35" tvg-id="2816.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2832.jpg",M+ Drama HD
 http://192.168.1.50:2112/rtp/239.0.5.115:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="36" tvg-id="2817.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4763.jpg",M+ Los Goya HD
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="36" tvg-id="2817.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4763.jpg",M+ Cine Español HD
 http://192.168.1.50:2112/rtp/239.0.5.109:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="37" tvg-id="4987.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4988.jpg",M+ Fest HD
 http://192.168.1.50:2112/rtp/239.0.5.208:8208
@@ -111,8 +111,6 @@ http://192.168.1.50:2112/rtp/239.0.5.77:8208
 http://192.168.1.50:2112/rtp/239.0.5.82:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="75" tvg-id="340.movistar.tv" tvh-tags="Movistar TV|SDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/340.jpg",BLAZE
 http://192.168.1.50:2112/rtp/239.0.0.38:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="76" tvg-id="5068.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5069.jpg",Eurosport 3 HD
-http://192.168.1.50:2112/rtp/239.0.5.198:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="77" tvg-id="657.movistar.tv" tvh-tags="Movistar TV|SDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/657.jpg",DMAX
 http://192.168.1.50:2112/rtp/239.0.0.32:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="78" tvg-id="697.movistar.tv" tvh-tags="Movistar TV|SDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/697.jpg",Crimen + Inv.
@@ -217,9 +215,3 @@ http://192.168.1.50:2112/rtp/239.0.0.60:8208
 http://192.168.1.50:2112/rtp/239.0.0.81:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="159" tvg-id="5029.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5029.jpg",8tv
 http://192.168.1.50:2112/rtp/239.0.0.82:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="444" tvg-id="5026.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5026.jpg",Eurosport UHD
-http://192.168.1.50:2112/rtp/239.0.7.6:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="1009" tvg-id="5022.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5022.jpg",Eurosport UHD HD
-http://192.168.1.50:2112/rtp/239.0.5.139:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="1010" tvg-id="5027.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5027.jpg",PiP Eurosport UHD
-http://192.168.1.50:2112/rtp/239.0.1.176:8208
