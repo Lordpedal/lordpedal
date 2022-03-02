@@ -53,7 +53,7 @@ http://192.168.1.50:2112/rtp/239.0.0.84:8208
 http://192.168.1.50:2112/rtp/239.0.5.207:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="27" tvg-id="3186.movistar.tv" tvh-tags="Movistar TV|HDTV|Series" tvg-logo="https://lordpedal.github.io/lordpedal/images/3223.jpg",Atreseries HD
 http://192.168.1.50:2112/rtp/239.0.0.190:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="28" tvg-id="4953.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4954.jpg",Canal Pop Up HD
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="28" tvg-id="4953.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4954.jpg",M+ Los Oscar HD
 http://192.168.1.50:2112/rtp/239.0.5.193:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="30" tvg-id="2812.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2828.jpg",M+ Estrenos HD
 http://192.168.1.50:2112/rtp/239.0.5.111:8208
@@ -111,6 +111,8 @@ http://192.168.1.50:2112/rtp/239.0.5.77:8208
 http://192.168.1.50:2112/rtp/239.0.5.82:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="75" tvg-id="340.movistar.tv" tvh-tags="Movistar TV|SDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/340.jpg",BLAZE
 http://192.168.1.50:2112/rtp/239.0.0.38:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="76" tvg-id="5047.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5047.jpg",Somos
+http://192.168.1.50:2112/rtp/239.0.1.181:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="77" tvg-id="657.movistar.tv" tvh-tags="Movistar TV|SDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/657.jpg",DMAX
 http://192.168.1.50:2112/rtp/239.0.0.32:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="78" tvg-id="697.movistar.tv" tvh-tags="Movistar TV|SDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/697.jpg",Crimen + Inv.
@@ -155,8 +157,6 @@ http://192.168.1.50:2112/rtp/239.0.0.173:8208
 http://192.168.1.50:2112/rtp/239.0.0.66:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="98" tvg-id="745.movistar.tv" tvh-tags="Movistar TV|HDTV|Infantil" tvg-logo="https://lordpedal.github.io/lordpedal/images/4467.jpg",Clan TVE HD
 http://192.168.1.50:2112/rtp/239.0.0.184:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="104" tvg-id="5047.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5047.jpg",Somos
-http://192.168.1.50:2112/rtp/239.0.1.181:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="105" tvg-id="581.movistar.tv" tvh-tags="Movistar TV|SDTV|Música" tvg-logo="https://lordpedal.github.io/lordpedal/images/581.jpg",MTV 00s
 http://192.168.1.50:2112/rtp/239.0.0.75:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="106" tvg-id="2533.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2533.jpg",MTV España
