@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Bringing iMessage to the Mac</title>
+            <link>https://hackaday.com/2022/03/04/bringing-imessage-to-the-mac/</link>
+            <description>Bringing iMessage to the Mac</description>
+            <pubDate>Sat Mar  5 06:00:29 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Nvidia extorsionada para que elimine el bloqueo de minado de sus gráficas</title>
+            <link>https://unaaldia.hispasec.com/2022/03/nvidia-extorsionada-para-que-elimine-el-bloqueo-de-minado-de-sus-graficas.html</link>
+            <description>Nvidia extorsionada para que elimine el bloqueo de minado de sus gráficas</description>
+            <pubDate>Sat Mar  5 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Personalización Linuxera: ¡Dale a tu GNU/Linux apariencia de Windows!</title>
+            <link>https://blog.desdelinux.net/personalizacion-linuxera-gnu-linux-apariencia-windows/</link>
+            <description>Personalización Linuxera: ¡Dale a tu GNU/Linux apariencia de Windows!</description>
+            <pubDate>Sat Mar  5 05:00:31 2022</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Actividad Multimedia Jclic en Distritotux Edu</title>
+            <link>https://www.distritotux.cl/2022/03/actividad-multimedia-jclic-en.html</link>
+            <description>Actividad Multimedia Jclic en Distritotux Edu</description>
+            <pubDate>Sat Mar  5 03:27:22 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Glassblowing for the Lab</title>
+            <link>https://hackaday.com/2022/03/04/glassblowing-for-the-lab/</link>
+            <description>Glassblowing for the Lab</description>
+            <pubDate>Sat Mar  5 03:00:36 2022</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: Share the Repair with Wayne Seltzer</title>
+            <link>https://makezine.com/2022/03/04/share-the-repair-with-wayne-seltzer/</link>
+            <description>Share the Repair with Wayne Seltzer</description>
+            <pubDate>Sat Mar  5 03:00:33 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Automated Chess Board Plays You</title>
+            <link>https://hackaday.com/2022/03/04/automated-chess-board-plays-you/</link>
+            <description>Automated Chess Board Plays You</description>
+            <pubDate>Sat Mar  5 00:00:43 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Las fuerzas espaciales de EE. UU. empezarán a patrullar la Luna</title>
+            <link>https://www.adslzone.net/noticias/ciencia/fuerzas-espaciales-eeuu-empezaran-patrullar-luna/</link>
+            <description>Las fuerzas espaciales de EE. UU. empezarán a patrullar la Luna</description>
+            <pubDate>Fri Mar  4 22:59:24 2022</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Un smartphone basado en la nube con Anbox Cloud, lo nuevo que planea Canonical junto a Vodafone</title>
             <link>https://www.linuxadictos.com/un-smartphone-basado-en-la-nube-con-anbox-cloud-lo-nuevo-que-planea-canonical-junto-a-vodafone.html</link>
             <description>Un smartphone basado en la nube con Anbox Cloud, lo nuevo que planea Canonical junto a Vodafone</description>
@@ -22,53 +70,5 @@
             <link>https://jugandoenlinux.com/index.php/homepage/apt-get-update/1443-nuevos-juegos-con-soporte-nativo-04-03-2022</link>
             <description>Nuevos juegos con soporte nativo 04/03/2022</description>
             <pubDate>Fri Mar  4 21:26:56 2022</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: GNOME promete mostrar capturas de pantalla actualizadas de sus aplicaciones más populares, entre otras novedades de esta semana</title>
-            <link>https://ubunlog.com/gnome-promete-mostrar-capturas-de-pantalla-actualizadas-de-sus-aplicaciones-mas-populares-entre-otras-novedades-de-esta-semana/</link>
-            <description>GNOME promete mostrar capturas de pantalla actualizadas de sus aplicaciones más populares, entre otras novedades de esta semana</description>
-            <pubDate>Fri Mar  4 21:14:28 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La triquiñuela de Digi: muchos gigas a cambio de capar YouTube</title>
-            <link>https://www.adslzone.net/noticias/operadores/capado-video-youtube-digi-2022/</link>
-            <description>La triquiñuela de Digi: muchos gigas a cambio de capar YouTube</description>
-            <pubDate>Fri Mar  4 20:45:56 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: El juego Californication de Red Hot Chili Peppers existe, es de un desarrollador español y funciona en Linux</title>
-            <link>https://www.linuxadictos.com/el-juego-californication-de-red-hot-chili-peppers-existe-es-de-un-desarrollador-espanol-y-funciona-en-linux.html</link>
-            <description>El juego Californication de Red Hot Chili Peppers existe, es de un desarrollador español y funciona en Linux</description>
-            <pubDate>Fri Mar  4 20:11:19 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Ya sabemos qué quieren los responsables del ciberataque a Nvidia: facilitar el minado en sus tarjetas</title>
-            <link>https://www.xataka.com/seguridad/sabemos-que-quieren-responsables-ciberataque-a-nvidia-facilitar-minado-sus-tarjetas</link>
-            <description>Ya sabemos qué quieren los responsables del ciberataque a Nvidia: facilitar el minado en sus tarjetas</description>
-            <pubDate>Fri Mar  4 20:01:57 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Los paneles solares de Skoda en los que se fijan los fabricantes</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-tecnologia/paneles-solares-skoda-fijan-fabricantes/</link>
-            <description>Los paneles solares de Skoda en los que se fijan los fabricantes</description>
-            <pubDate>Fri Mar  4 20:00:51 2022</pubDate>
-            </item>
-            <item>
-            <title>El Pingüino Tolkiano: Diatriba matemática: la maldita división</title>
-            <link>https://elpinguinotolkiano.wordpress.com/2022/03/04/diatriba-matematica-la-maldita-division/</link>
-            <description>Diatriba matemática: la maldita división</description>
-            <pubDate>Fri Mar  4 20:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: JS Party 215: Remix helps bridge the network chasm</title>
-            <link>https://changelog.com/jsparty/215</link>
-            <description>JS Party 215: Remix helps bridge the network chasm</description>
-            <pubDate>Fri Mar  4 19:40:00 2022</pubDate>
-            </item>
-            <item>
-            <title>56K.ES: Alternativas modernas y coloridas de comandos para la pantallita negra</title>
-            <link>https://56k.es/fanta/alternativas-modernas-y-coloridas-de-comandos-para-la-pantallita-negra/</link>
-            <description>Alternativas modernas y coloridas de comandos para la pantallita negra</description>
-            <pubDate>Fri Mar  4 19:11:48 2022</pubDate>
             </item></channel>
 </rss>
