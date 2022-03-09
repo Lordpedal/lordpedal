@@ -117,8 +117,8 @@ http://192.168.1.50:2112/rtp/239.0.1.181:8208
 http://192.168.1.50:2112/rtp/239.0.0.32:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="78" tvg-id="697.movistar.tv" tvh-tags="Movistar TV|SDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/697.jpg",Crimen + Inv.
 http://192.168.1.50:2112/rtp/239.0.0.57:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="79" tvg-id="850.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/850.jpg",Decasa
-http://192.168.1.50:2112/rtp/239.0.0.71:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="79" tvg-id="850.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/5076.jpg",Decasa HD
+http://192.168.1.50:2112/rtp/239.0.5.60:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="80" tvg-id="22.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/4921.jpg",Cocina HD
 http://192.168.1.50:2112/rtp/239.0.0.169:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="81" tvg-id="663.movistar.tv" tvh-tags="Movistar TV|SDTV|Drama" tvg-logo="https://lordpedal.github.io/lordpedal/images/663.jpg",Divinity
