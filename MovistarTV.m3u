@@ -179,6 +179,8 @@ rtp://@239.0.7.66:8208
 rtp://@239.0.7.67:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="120" tvg-id="849.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/849.jpg",CNBC Eur.
 rtp://@239.0.7.69:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="121" tvg-id="848.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/848.jpg",1+1 International
+rtp://@239.0.7.68:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="122" tvg-id="198.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/198.jpg",TV5 Monde
 rtp://@239.0.0.31:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="123" tvg-id="120.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/120.jpg",Bloomberg
