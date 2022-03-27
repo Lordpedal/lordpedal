@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: Not a Systemd Fan? Here are 11 Systemd-Free Linux Distributions</title>
+            <link>https://itsfoss.com/systemd-free-distros/</link>
+            <description>Not a Systemd Fan? Here are 11 Systemd-Free Linux Distributions</description>
+            <pubDate>Sun Mar 27 05:51:38 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Who Needs Yeast When You Have Lab Equipment?</title>
+            <link>https://hackaday.com/2022/03/26/who-needs-yeast-when-you-have-lab-equipment/</link>
+            <description>Who Needs Yeast When You Have Lab Equipment?</description>
+            <pubDate>Sun Mar 27 05:00:24 2022</pubDate>
+            </item>
+            <item>
+            <title>3D Insider: How to Fix Misaligned Layers in 3D Printing</title>
+            <link>https://3dinsider.com/fix-misaligned-layers-3d-printing/</link>
+            <description>How to Fix Misaligned Layers in 3D Printing</description>
+            <pubDate>Sun Mar 27 04:37:22 2022</pubDate>
+            </item>
+            <item>
+            <title>3D Insider: 10 Best iPad Accessories That You Can 3D Print</title>
+            <link>https://3dinsider.com/best-ipad-accessories-you-can-3d-print/</link>
+            <description>10 Best iPad Accessories That You Can 3D Print</description>
+            <pubDate>Sun Mar 27 04:37:19 2022</pubDate>
+            </item>
+            <item>
+            <title>3D Insider: Ceramic 3D Printer: Guide, Process, and Hardware</title>
+            <link>https://3dinsider.com/ceramic-3d-printer/</link>
+            <description>Ceramic 3D Printer: Guide, Process, and Hardware</description>
+            <pubDate>Sun Mar 27 04:37:16 2022</pubDate>
+            </item>
+            <item>
+            <title>3D Insider: 3D Printing Metal: How it’s Possible</title>
+            <link>https://3dinsider.com/3d-printing-metal/</link>
+            <description>3D Printing Metal: How it’s Possible</description>
+            <pubDate>Sun Mar 27 04:37:13 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hacker Camps Are Back. To Get You In The Mood, Here’s A Story From 1997</title>
+            <link>https://hackaday.com/2022/03/26/hacker-camps-are-back-to-get-you-in-the-mood-heres-a-story-from-1997/</link>
+            <description>Hacker Camps Are Back. To Get You In The Mood, Here’s A Story From 1997</description>
+            <pubDate>Sun Mar 27 02:00:42 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: ATtiny85 Snake Game is a Circuit Sandwich</title>
+            <link>https://hackaday.com/2022/03/26/attiny85-snake-game-is-a-circuit-sandwich/</link>
+            <description>ATtiny85 Snake Game is a Circuit Sandwich</description>
+            <pubDate>Sat Mar 26 23:00:37 2022</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Debian 11.3 ya disponible para su descarga, con parches de seguridad y corrección de errores</title>
             <link>https://www.linuxadictos.com/debian-11-3-ya-disponible-para-su-descarga-con-parches-de-seguridad-y-correccion-de-errores.html</link>
             <description>Debian 11.3 ya disponible para su descarga, con parches de seguridad y corrección de errores</description>
@@ -22,53 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/o2-lowi-digi-pepephone-fibra-movil-mas-barata/</link>
             <description>O2, Lowi, Digi o Pepephone: ¿quién ofrece fibra y móvil más barata?</description>
             <pubDate>Sat Mar 26 21:00:57 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: AI-Generated Sleep Podcast Urges You To Imagine Pleasant Nonsense</title>
-            <link>https://hackaday.com/2022/03/26/ai-generated-sleep-podcast-urges-you-to-imagine-pleasant-nonsense/</link>
-            <description>AI-Generated Sleep Podcast Urges You To Imagine Pleasant Nonsense</description>
-            <pubDate>Sat Mar 26 20:00:52 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿No se conecta tu móvil en el PC? Cómo solucionar los errores</title>
-            <link>https://www.adslzone.net/esenciales/windows/problemas-conexion-movil-windows/</link>
-            <description>¿No se conecta tu móvil en el PC? Cómo solucionar los errores</description>
-            <pubDate>Sat Mar 26 19:04:16 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Adiós, Albufera: el mapa que ilustra cómo afectará el aumento del nivel del mar en España</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/mar-esta-ganando-terreno-costas-espana-no-inmunes-asi-afectara-subida-su-nivel</link>
-            <description>Adiós, Albufera: el mapa que ilustra cómo afectará el aumento del nivel del mar en España</description>
-            <pubDate>Sat Mar 26 19:02:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Diario del Viajero: Las localizaciones que se esconden en 'Los Bridgerton'</title>
-            <link>https://www.diariodelviajero.com/recomendaciones-de-la-casa/todas-localizaciones-que-se-esconden-bridgerton</link>
-            <description>Las localizaciones que se esconden en 'Los Bridgerton'</description>
-            <pubDate>Sat Mar 26 18:49:06 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Cómo proteger al máximo Windows 11</title>
-            <link>https://www.redeszone.net/tutoriales/seguridad/como-proteger-maximo-windows/</link>
-            <description>Cómo proteger al máximo Windows 11</description>
-            <pubDate>Sat Mar 26 18:26:48 2022</pubDate>
-            </item>
-            <item>
-            <title>Pymes y Autonomos: 13 medidas para reforzar el compromiso de los empleados que no tienen que ver con el salario</title>
-            <link>https://www.pymesyautonomos.com/consejos-practicos/13-medidas-para-reforzar-compromiso-empleados-que-no-tienen-que-ver-salario</link>
-            <description>13 medidas para reforzar el compromiso de los empleados que no tienen que ver con el salario</description>
-            <pubDate>Sat Mar 26 18:20:56 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'La abuela': aterriza en Prime Video una incómoda reflexión del director de 'Verónica' acerca de horrores muy cotidianos</title>
-            <link>https://www.xataka.com/cine-y-tv/abuela-aterriza-prime-video-incomoda-reflexion-director-veronica-acerca-horrores-muy-cotidianos</link>
-            <description>'La abuela': aterriza en Prime Video una incómoda reflexión del director de 'Verónica' acerca de horrores muy cotidianos</description>
-            <pubDate>Sat Mar 26 18:02:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Las ciudades modernas se han convertido en auténticos "faros". Para miles de aves es un problema</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/ciudades-se-estan-convirtiendo-faros-que-atraen-desorientan-a-aves-eso-problema-grave</link>
-            <description>Las ciudades modernas se han convertido en auténticos "faros". Para miles de aves es un problema</description>
-            <pubDate>Sat Mar 26 17:32:00 2022</pubDate>
             </item></channel>
 </rss>
