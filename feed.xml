@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Cómo instalar y crear máquinas virtuales en red mediante HTTP, FTP y NFS en un entorno KVM</title>
+            <link>https://www.linuxparty.es/109-virtualizacion/10990-como-instalar-y-crear-maquinas-virtuales-en-red-mediante-http-ftp-y-nfs-en-un-entorno-kvm.html</link>
+            <description>Cómo instalar y crear máquinas virtuales en red mediante HTTP, FTP y NFS en un entorno KVM</description>
+            <pubDate>Mon Mar 28 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Atareao: ¿El fin de YouTube-dl?¿Termina una era?</title>
+            <link>https://atareao.es/podcast/el-fin-de-youtube-dltermina-una-era/</link>
+            <description>¿El fin de YouTube-dl?¿Termina una era?</description>
+            <pubDate>Mon Mar 28 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Las mejores apps para convertir vídeo en Android</title>
+            <link>https://www.adslzone.net/noticias/moviles/top-apps-convertir-video-android/</link>
+            <description>Las mejores apps para convertir vídeo en Android</description>
+            <pubDate>Mon Mar 28 05:01:04 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Solving Grounding Issues on Switch Audio</title>
+            <link>https://hackaday.com/2022/03/27/solving-grounding-issues-on-switch-audio/</link>
+            <description>Solving Grounding Issues on Switch Audio</description>
+            <pubDate>Mon Mar 28 05:00:46 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Tube Tumbler Provides the Perfect Culture</title>
+            <link>https://hackaday.com/2022/03/27/tube-tumbler-provides-the-perfect-culture/</link>
+            <description>Tube Tumbler Provides the Perfect Culture</description>
+            <pubDate>Mon Mar 28 02:00:10 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: March 27, 2022</title>
+            <link>https://hackaday.com/2022/03/27/hackaday-links-march-27-2022/</link>
+            <description>Hackaday Links: March 27, 2022</description>
+            <pubDate>Sun Mar 27 23:00:13 2022</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: 3D Printed Portal Turret Moves and Talks Like the Real Thing</title>
             <link>https://hackaday.com/2022/03/27/3d-printed-portal-turret-moves-and-talks-like-the-real-thing/</link>
             <description>3D Printed Portal Turret Moves and Talks Like the Real Thing</description>
@@ -34,41 +70,5 @@
             <link>https://www.vitonica.com/alimentos/quieres-ganar-masa-muscular-alimentacion-clave-no-solo-gimnasio-11-alimentos-que-te-ayudaran</link>
             <description>Si quieres ganar masa muscular la alimentación es clave y no solo el gimnasio: 11 alimentos que te ayudarán</description>
             <pubDate>Sun Mar 27 18:01:01 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: 15 cosas que puedes hacer con Movistar Home y no sabías</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/15-cosas-puedes-hacer-movistar-home/</link>
-            <description>15 cosas que puedes hacer con Movistar Home y no sabías</description>
-            <pubDate>Sun Mar 27 18:00:38 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Este túnel de lavado capaz de cambiar la batería en unos minutos está conquistando China</title>
-            <link>https://www.xataka.com/movilidad/este-tunel-lavado-capaz-cambiar-bateria-unos-minutos-esta-conquistando-china</link>
-            <description>Este túnel de lavado capaz de cambiar la batería en unos minutos está conquistando China</description>
-            <pubDate>Sun Mar 27 18:00:23 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Elige la mejor VPN según tus necesidades y el uso que le des</title>
-            <link>https://www.redeszone.net/tutoriales/vpn/elegir-mejor-vpn-segun-necesidades/</link>
-            <description>Elige la mejor VPN según tus necesidades y el uso que le des</description>
-            <pubDate>Sun Mar 27 17:03:08 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 3D Printed Forge For Recycling</title>
-            <link>https://hackaday.com/2022/03/27/3d-printed-forge-for-recycling/</link>
-            <description>3D Printed Forge For Recycling</description>
-            <pubDate>Sun Mar 27 17:00:30 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Xbox ha lanzado un mando peludo. Es raro, pero ni de lejos es el más raro que hemos visto hasta la fecha</title>
-            <link>https://www.xataka.com/videojuegos/mando-peludo-xbox-raro-lejos-raro-que-hemos-visto-fecha</link>
-            <description>Xbox ha lanzado un mando peludo. Es raro, pero ni de lejos es el más raro que hemos visto hasta la fecha</description>
-            <pubDate>Sun Mar 27 17:00:22 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Ya fue liberada la nueva versión de GNOME 42 y estas son sus novedades</title>
-            <link>https://blog.desdelinux.net/ya-fue-liberada-la-nueva-version-de-gnome-42-y-estas-son-sus-novedades/</link>
-            <description>Ya fue liberada la nueva versión de GNOME 42 y estas son sus novedades</description>
-            <pubDate>Sun Mar 27 16:57:30 2022</pubDate>
             </item></channel>
 </rss>
