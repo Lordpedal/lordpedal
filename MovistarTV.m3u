@@ -215,3 +215,5 @@ rtp://@239.0.0.60:8208
 rtp://@239.0.0.81:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="159" tvg-id="5029.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5029.jpg",8tv
 rtp://@239.0.0.82:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="162" tvg-id="5086.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5087.jpg",Telemadrid INT HD
+rtp://@239.0.5.63:8208
