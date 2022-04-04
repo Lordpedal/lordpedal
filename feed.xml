@@ -6,10 +6,52 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Atareao: Tus notas en la nube y en la línea de comandos</title>
+            <link>https://atareao.es/podcast/tus-notas-en-la-nube-y-en-la-linea-de-comandos/</link>
+            <description>Tus notas en la nube y en la línea de comandos</description>
+            <pubDate>Mon Apr  4 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Servo Surgery Teaches Us DIY Encoder Implants</title>
+            <link>https://hackaday.com/2022/04/03/servo-surgery-teaches-us-diy-encoder-implants/</link>
+            <description>Servo Surgery Teaches Us DIY Encoder Implants</description>
+            <pubDate>Mon Apr  4 05:00:02 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Australia apuesta fuerte por la ciberseguridad</title>
+            <link>https://unaaldia.hispasec.com/2022/04/australia-apuesta-fuerte-por-la-ciberseguridad.html</link>
+            <description>Australia apuesta fuerte por la ciberseguridad</description>
+            <pubDate>Mon Apr  4 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Error al desmontar el sistema de archivos</title>
+            <link>https://www.cambiatealinux.com/error-al-desmontar-el-sistema-de-archivos</link>
+            <description>Error al desmontar el sistema de archivos</description>
+            <pubDate>Mon Apr  4 04:37:14 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: TshWatch Helps You Learn More About Yourself</title>
+            <link>https://hackaday.com/2022/04/03/tshwatch-helps-you-learn-more-about-yourself/</link>
+            <description>TshWatch Helps You Learn More About Yourself</description>
+            <pubDate>Mon Apr  4 02:00:04 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: April 3, 2022</title>
+            <link>https://hackaday.com/2022/04/03/hackaday-links-april-3-2022/</link>
+            <description>Hackaday Links: April 3, 2022</description>
+            <pubDate>Sun Apr  3 23:00:18 2022</pubDate>
+            </item>
+            <item>
             <title>56K.ES: Compilar una versión especifica de WINE</title>
             <link>https://56k.es/fanta/compilar-una-version-especifica-de-wine/</link>
             <description>Compilar una versión especifica de WINE</description>
             <pubDate>Sun Apr  3 21:33:11 2022</pubDate>
+            </item>
+            <item>
+            <title>LiGNUx: FlightGear, el simulador de vuelo Open Source pública su versión 2020.3.12</title>
+            <link>https://lignux.com/flightgear-el-simulador-de-vuelo-open-source-publica-su-version-2020-3-12/</link>
+            <description>FlightGear, el simulador de vuelo Open Source pública su versión 2020.3.12</description>
+            <pubDate>Sun Apr  3 21:30:39 2022</pubDate>
             </item>
             <item>
             <title>Linux Adictos: Tres distribuciones Linux sin systemd</title>
@@ -28,47 +70,5 @@
             <link>https://hackaday.com/2022/04/03/is-your-device-actually-usb-3-0-or-is-the-connector-just-blue/</link>
             <description>Is Your Device Actually USB 3.0, Or Is The Connector Just Blue?</description>
             <pubDate>Sun Apr  3 20:00:36 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Aquella vez en la que un sándwich casi hizo saltar por los aires la misión Gemini III de la NASA</title>
-            <link>https://www.xataka.com/espacio/aquella-vez-que-sandwich-casi-hizo-saltar-aires-mision-gemini-iii-nasa</link>
-            <description>Aquella vez en la que un sándwich casi hizo saltar por los aires la misión Gemini III de la NASA</description>
-            <pubDate>Sun Apr  3 19:01:41 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Trabajando con bibliotecas, discos y dispositivos en Calibre</title>
-            <link>https://www.linuxadictos.com/trabajando-con-bibliotecas-discos-y-dispositivos-en-calibre.html</link>
-            <description>Trabajando con bibliotecas, discos y dispositivos en Calibre</description>
-            <pubDate>Sun Apr  3 18:31:50 2022</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: Descargar Vídeos de Redes Sociales sin Herramientas</title>
-            <link>https://esgeeks.com/descargar-videos-sociales-sin-herramientas/</link>
-            <description>Descargar Vídeos de Redes Sociales sin Herramientas</description>
-            <pubDate>Sun Apr  3 18:13:48 2022</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Las claves para comenzar a ganar masa muscular: cuándo y cómo es mejor hacerlo</title>
-            <link>https://www.vitonica.com/entrenamiento/claves-para-comenzar-a-ganar-masa-muscular-cuando-como-mejor-hacerlo</link>
-            <description>Las claves para comenzar a ganar masa muscular: cuándo y cómo es mejor hacerlo</description>
-            <pubDate>Sun Apr  3 18:02:28 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El truco para ver la TDT con máxima calidad es no usar tu antena de toda la vida</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/truco-tdt-maxima-calidad-sin-antena/</link>
-            <description>El truco para ver la TDT con máxima calidad es no usar tu antena de toda la vida</description>
-            <pubDate>Sun Apr  3 18:00:19 2022</pubDate>
-            </item>
-            <item>
-            <title>Freak Spot: Escribir letras especiales del esperanto con teclado español en GNU/Linux</title>
-            <link>https://freakspot.net/escribir-letras-especiales-del-esperanto-con-teclado-espa%C3%B1ol-en-gnulinux/</link>
-            <description>Escribir letras especiales del esperanto con teclado español en GNU/Linux</description>
-            <pubDate>Sun Apr  3 18:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Cómo hacer un test de velocidad WiFi en local sin usar Internet</title>
-            <link>https://www.redeszone.net/tutoriales/redes-wifi/hacer-test-velocidad-wifi/</link>
-            <description>Cómo hacer un test de velocidad WiFi en local sin usar Internet</description>
-            <pubDate>Sun Apr  3 17:06:28 2022</pubDate>
             </item></channel>
 </rss>
