@@ -37,8 +37,8 @@ http://192.168.1.50:2112/rtp/239.0.5.74:8208
 http://192.168.1.50:2112/rtp/239.0.5.71:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="19" tvg-id="939.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/1613.jpg",AMC HD
 http://192.168.1.50:2112/rtp/239.0.9.132:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="20" tvg-id="5046.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5046.jpg",XTRM
-http://192.168.1.50:2112/rtp/239.0.1.180:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="20" tvg-id="5046.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5096.jpg",XTRM HD
+http://192.168.1.50:2112/rtp/239.0.5.62:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="21" tvg-id="751.movistar.tv" tvh-tags="Movistar TV|HDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1611.jpg",AXN W. HD
 http://192.168.1.50:2112/rtp/239.0.5.79:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="22" tvg-id="777.movistar.tv" tvh-tags="Movistar TV|HDTV|Ciencia ficción" tvg-logo="https://lordpedal.github.io/lordpedal/images/1703.jpg",SyfyHD
@@ -109,8 +109,8 @@ http://192.168.1.50:2112/rtp/239.0.0.166:8208
 http://192.168.1.50:2112/rtp/239.0.5.77:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="74" tvg-id="20.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/1618.jpg",ODISEA HD
 http://192.168.1.50:2112/rtp/239.0.5.82:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="75" tvg-id="340.movistar.tv" tvh-tags="Movistar TV|SDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/340.jpg",BLAZE
-http://192.168.1.50:2112/rtp/239.0.0.38:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="75" tvg-id="340.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/5095.jpg",BLAZE HD
+http://192.168.1.50:2112/rtp/239.0.5.61:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="76" tvg-id="5047.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5047.jpg",Somos
 http://192.168.1.50:2112/rtp/239.0.1.181:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="77" tvg-id="657.movistar.tv" tvh-tags="Movistar TV|SDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/657.jpg",DMAX
