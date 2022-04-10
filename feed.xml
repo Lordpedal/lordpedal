@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: LoRa-Powered Birdhouses Enable Wireless Networking When The Internet’s Down</title>
+            <link>https://hackaday.com/2022/04/09/lora-powered-birdhouses-enable-wireless-networking-when-the-internets-down/</link>
+            <description>LoRa-Powered Birdhouses Enable Wireless Networking When The Internet’s Down</description>
+            <pubDate>Sun Apr 10 05:00:56 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: SDR Listens in to Your Tires</title>
+            <link>https://hackaday.com/2022/04/09/sdr-listens-in-to-your-tires/</link>
+            <description>SDR Listens in to Your Tires</description>
+            <pubDate>Sun Apr 10 02:00:38 2022</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: 3 Consideraciones a tener en cuenta al Invertir en Criptomonedas</title>
+            <link>https://esgeeks.com/3-consideraciones-invertir-criptomonedas/</link>
+            <description>3 Consideraciones a tener en cuenta al Invertir en Criptomonedas</description>
+            <pubDate>Sat Apr  9 23:18:12 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: CAT Is Not Your Average Meow-cropad</title>
+            <link>https://hackaday.com/2022/04/09/cat-is-not-your-average-meow-cropad/</link>
+            <description>CAT Is Not Your Average Meow-cropad</description>
+            <pubDate>Sat Apr  9 23:00:00 2022</pubDate>
+            </item>
+            <item>
             <title>Desde Linux: Raspberry Pi OS 2022-04-04 llega con soporte inicial de Wayland, mejoras en el asistente de configuración y mas</title>
             <link>https://blog.desdelinux.net/raspberry-pi-os-2022-04-04-llega-con-soporte-inicial-de-wayland-mejoras-en-el-asistente-de-configuracion-y-mas/</link>
             <description>Raspberry Pi OS 2022-04-04 llega con soporte inicial de Wayland, mejoras en el asistente de configuración y mas</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/historia-tecnologica/asi-flevopolder-isla-artificial-grande-mundo-casi-1-000-km2-fruto-ingenieria-paises-bajos</link>
             <description>Así es Flevopolder, la isla artificial más grande del mundo: de casi 1.000 km2 y fruto de la ingeniería de Países Bajos</description>
             <pubDate>Sat Apr  9 18:01:20 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cables cortados, ataques DDoS… los 3 problemas de Internet que no puedes controlar</title>
-            <link>https://www.adslzone.net/noticias/internet/cables-cortados-ataques-ddos-problemas-internet-no-puedes-controlar/</link>
-            <description>Cables cortados, ataques DDoS… los 3 problemas de Internet que no puedes controlar</description>
-            <pubDate>Sat Apr  9 18:00:52 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Nitrux 2.1 ya fue liberada y estas son sus novedades</title>
-            <link>https://www.linuxadictos.com/nitrux-2-1-ya-fue-liberada-y-estas-son-sus-novedades.html</link>
-            <description>Nitrux 2.1 ya fue liberada y estas son sus novedades</description>
-            <pubDate>Sat Apr  9 17:28:03 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Cómo empezar a programar con Solidity, el lenguaje preferido para crear los cada vez más demandados 'smart contracts'</title>
-            <link>https://www.genbeta.com/a-fondo/como-empezar-a-programar-solidity-lenguaje-preferido-para-crear-cada-vez-demandados-smart-contracts</link>
-            <description>Cómo empezar a programar con Solidity, el lenguaje preferido para crear los cada vez más demandados 'smart contracts'</description>
-            <pubDate>Sat Apr  9 17:27:57 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Ya fueron reanudadas las Live builds en Gentoo y serán semanales</title>
-            <link>https://blog.desdelinux.net/ya-fueron-reanudadas-las-live-builds-en-gentoo-y-seran-semanales/</link>
-            <description>Ya fueron reanudadas las Live builds en Gentoo y serán semanales</description>
-            <pubDate>Sat Apr  9 17:11:02 2022</pubDate>
             </item></channel>
 </rss>
