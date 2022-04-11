@@ -17,8 +17,8 @@ http://192.168.1.50:2112/rtp/239.0.0.187:8208
 http://192.168.1.50:2112/rtp/239.0.5.187:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="8" tvg-id="4626.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4627.jpg",M+ #Vamos HD
 http://192.168.1.50:2112/rtp/239.0.5.197:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="9" tvg-id="782.movistar.tv" tvh-tags="Movistar TV|SDTV|Ocio y cultura" tvg-logo="https://lordpedal.github.io/lordpedal/images/782.jpg",7 R.Murcia
-http://192.168.1.50:2112/rtp/239.0.0.87:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="9" tvg-id="843.movistar.tv" tvh-tags="Movistar TV|SDTV|Ocio y cultura" tvg-logo="https://lordpedal.github.io/lordpedal/images/843.jpg",TPA
+http://192.168.1.50:2112/rtp/239.0.0.86:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="11" tvg-id="2807.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2824.jpg",M+ Series HD
 http://192.168.1.50:2112/rtp/239.0.5.83:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="12" tvg-id="2804.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2823.jpg",M+ Series 2 HD
