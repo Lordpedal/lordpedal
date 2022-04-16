@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Calculating Pi On the 4004 CPU, Intel’s First Microprocessor</title>
+            <link>https://hackaday.com/2022/04/15/calculating-pi-on-the-4004-cpu-intels-first-microprocessor/</link>
+            <description>Calculating Pi On the 4004 CPU, Intel’s First Microprocessor</description>
+            <pubDate>Sat Apr 16 05:00:28 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: GitHub Says Hackers Breached Dozens of Organizations Using Stolen OAuth Access Tokens</title>
+            <link>https://thehackernews.com/2022/04/github-says-hackers-breach-dozens-of.html</link>
+            <description>GitHub Says Hackers Breached Dozens of Organizations Using Stolen OAuth Access Tokens</description>
+            <pubDate>Sat Apr 16 04:38:40 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Javascript is Everywhere. Even MSDOS</title>
+            <link>https://hackaday.com/2022/04/15/javascript-is-everywhere-even-msdos/</link>
+            <description>Javascript is Everywhere. Even MSDOS</description>
+            <pubDate>Sat Apr 16 02:00:41 2022</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: Mike on Make:</title>
+            <link>https://makezine.com/2022/04/15/mike-on-make/</link>
+            <description>Mike on Make:</description>
+            <pubDate>Fri Apr 15 23:26:10 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 2022 Sci-Fi Contest: A Friendly Wall Drawing Robot</title>
+            <link>https://hackaday.com/2022/04/15/2022-sci-fi-contest-a-friendly-wall-drawing-robot/</link>
+            <description>2022 Sci-Fi Contest: A Friendly Wall Drawing Robot</description>
+            <pubDate>Fri Apr 15 23:00:49 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El software IDE PyCharm acaba de anunciar su versión 2022.1</title>
             <link>https://lignux.com/el-software-ide-pycharm-acaba-de-anunciar-su-version-2022-1/</link>
             <description>El software IDE PyCharm acaba de anunciar su versión 2022.1</description>
@@ -40,35 +70,5 @@
             <link>https://changelog.com/jsparty/221</link>
             <description>JS Party 221: Postgres.js</description>
             <pubDate>Fri Apr 15 19:15:00 2022</pubDate>
-            </item>
-            <item>
-            <title>El Pingüino Tolkiano: ¿Común a quién?</title>
-            <link>https://elpinguinotolkiano.wordpress.com/2022/04/15/comun-a-quien/</link>
-            <description>¿Común a quién?</description>
-            <pubDate>Fri Apr 15 19:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>All3DP: SketchUp Free vs Pro (in 2022): The Differences</title>
-            <link>https://all3dp.com/2/sketchup-free-vs-pro-the-most-important-differences/</link>
-            <description>SketchUp Free vs Pro (in 2022): The Differences</description>
-            <pubDate>Fri Apr 15 18:55:00 2022</pubDate>
-            </item>
-            <item>
-            <title>▶ Noticias desde entreunosyceros: Cuadros de alerta en Wordpress, ¿cómo añadirlos de forma sencilla?</title>
-            <link>https://entreunosyceros.net/cuadros-de-alerta-en-wordpress-anadir-forma-sencilla/</link>
-            <description>Cuadros de alerta en Wordpress, ¿cómo añadirlos de forma sencilla?</description>
-            <pubDate>Fri Apr 15 18:53:13 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 2022 Sci-Fi Contest: Motorized AT-AT Walker Gets Around With Servos</title>
-            <link>https://hackaday.com/2022/04/15/2022-sci-fi-contest-motorized-at-at-walker-gets-around-with-servos/</link>
-            <description>2022 Sci-Fi Contest: Motorized AT-AT Walker Gets Around With Servos</description>
-            <pubDate>Fri Apr 15 18:30:26 2022</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Solución a mput: Access failed: 550 Permission denied.</title>
-            <link>https://nksistemas.com/solucion-a-mput-access-failed-550-permission-denied/</link>
-            <description>Solución a mput: Access failed: 550 Permission denied.</description>
-            <pubDate>Fri Apr 15 18:01:18 2022</pubDate>
             </item></channel>
 </rss>
