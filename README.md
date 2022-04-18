@@ -6,6 +6,7 @@
 
 ### Overclock Server: *Últimos artículos*
 
+- [draw.io: Docker](https://lordpedal.github.io/gnu/linux/docker/drawio-docker/)
 - [NPM Fail2Ban Addon: Docker](https://lordpedal.github.io/gnu/linux/docker/npmf2b-docker/)
 - [Matrix: Docker](https://lordpedal.github.io/gnu/linux/docker/matrix-docker/)
 - [Nginx Proxy Manager: Docker](https://lordpedal.github.io/gnu/linux/docker/npm-docker/)
@@ -13,7 +14,6 @@
 - [aMule: Docker](https://lordpedal.github.io/gnu/linux/docker/amule-docker/)
 - [Transmission Trackers Addon: Docker](https://lordpedal.github.io/gnu/linux/docker/trackers-docker/)
 - [Pluto TV: Docker](https://lordpedal.github.io/gnu/linux/docker/plutotv-docker/)
-- [Gokapi: Docker](https://lordpedal.github.io/gnu/linux/docker/gokapi-docker/)
 - [Debian 11 Bullseye: Servidor PC](https://lordpedal.github.io/gnu/linux/debian-11-servidor/)
 
 > ... la culminación de un fin es el comienzo de una realidad.
