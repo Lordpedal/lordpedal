@@ -111,13 +111,13 @@ rtp://@239.0.0.166:8208
 rtp://@239.0.5.77:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="74" tvg-id="20.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/1618.jpg",ODISEA HD
 rtp://@239.0.5.82:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="75" tvg-id="340.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/5095.jpg",BLAZE HD
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="75" tvg-id="340.movistar.tv" tvh-tags="Movistar TV|HDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/5095.jpg",AMC Break HD
 rtp://@239.0.5.61:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="76" tvg-id="5047.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5047.jpg",Somos
 rtp://@239.0.1.181:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="77" tvg-id="657.movistar.tv" tvh-tags="Movistar TV|SDTV|Documentales" tvg-logo="https://lordpedal.github.io/lordpedal/images/657.jpg",DMAX
 rtp://@239.0.0.32:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="78" tvg-id="697.movistar.tv" tvh-tags="Movistar TV|SDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/697.jpg",Crimen + Inv.
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="78" tvg-id="697.movistar.tv" tvh-tags="Movistar TV|SDTV|Acción" tvg-logo="https://lordpedal.github.io/lordpedal/images/697.jpg",AMC Crime
 rtp://@239.0.0.57:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="79" tvg-id="850.movistar.tv" tvh-tags="Movistar TV|HDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/5076.jpg",Decasa HD
 rtp://@239.0.5.60:8208
