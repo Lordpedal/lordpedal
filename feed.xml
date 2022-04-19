@@ -6,6 +6,18 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>NKSistemas: Solución a error de mount: wrong fs type, bad option, bad superblock</title>
+            <link>https://nksistemas.com/solucion-a-error-de-mount-wrong-fs-type-bad-option-bad-superblock/</link>
+            <description>Solución a error de mount: wrong fs type, bad option, bad superblock</description>
+            <pubDate>Tue Apr 19 21:02:14 2022</pubDate>
+            </item>
+            <item>
+            <title>Changelog: The frontend developer's guide to the terminal</title>
+            <link>https://www.joshwcomeau.com/javascript/terminal-for-js-devs/</link>
+            <description>The frontend developer's guide to the terminal</description>
+            <pubDate>Tue Apr 19 20:25:00 2022</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Movistar vs Orange vs Vodafone vs Yoigo: ya sabemos cuál es el más rápido</title>
             <link>https://www.adslzone.net/noticias/operadores/movistar-orange-vodafone-yoigo-operador-mas-rapido/</link>
             <description>Movistar vs Orange vs Vodafone vs Yoigo: ya sabemos cuál es el más rápido</description>
@@ -30,6 +42,12 @@
             <pubDate>Tue Apr 19 19:33:46 2022</pubDate>
             </item>
             <item>
+            <title>Changelog: Practical AI 175: 🌍 AI in Africa - Agriculture</title>
+            <link>https://changelog.com/practicalai/175</link>
+            <description>Practical AI 175: 🌍 AI in Africa - Agriculture</description>
+            <pubDate>Tue Apr 19 19:30:00 2022</pubDate>
+            </item>
+            <item>
             <title>Xataka: La NASA tiene un nuevo metal capaz de soportar temperaturas extremas. Es muy prometedor para la ingeniería aeroespacial</title>
             <link>https://www.xataka.com/investigacion/nasa-tiene-nuevo-metal-capaz-soportar-temperaturas-extremas-muy-prometedor-para-ingenieria-aeroespacial</link>
             <description>La NASA tiene un nuevo metal capaz de soportar temperaturas extremas. Es muy prometedor para la ingeniería aeroespacial</description>
@@ -52,23 +70,5 @@
             <link>https://hackaday.com/2022/04/19/2022-sci-fi-contest-the-animatronic-baby-yoda-youve-always-wanted/</link>
             <description>2022 Sci-Fi Contest: The Animatronic Baby Yoda You’ve Always Wanted</description>
             <pubDate>Tue Apr 19 18:30:36 2022</pubDate>
-            </item>
-            <item>
-            <title>Pymes y Autonomos: La retirada de las mascarillas en el trabajo, estas serán las empresas obligadas a mantenerlas</title>
-            <link>https://www.pymesyautonomos.com/actualidad/retirada-mascarillas-trabajo-estas-seran-empresas-obligadas-a-mantenerlas</link>
-            <description>La retirada de las mascarillas en el trabajo, estas serán las empresas obligadas a mantenerlas</description>
-            <pubDate>Tue Apr 19 18:01:34 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Para Audi, el futuro del coche urbano es una inmensa berlina de de 5,51 metros: así es su urbansphere concept</title>
-            <link>https://www.xataka.com/movilidad/para-audi-futuro-coche-urbano-inmensa-berlina-5-51-metros-asi-su-urbansphere-concept</link>
-            <description>Para Audi, el futuro del coche urbano es una inmensa berlina de de 5,51 metros: así es su urbansphere concept</description>
-            <pubDate>Tue Apr 19 18:00:25 2022</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Así ha entrenado y se ha sentido Natalie Portman en su transformación a Diosa del Trueno para Thor: Love and Thunder.</title>
-            <link>https://www.vitonica.com/wellness/asi-ha-entrenado-se-ha-sentido-natalie-portman-su-transformacion-a-lady-thor-para-thor-love-and-thunder</link>
-            <description>Así ha entrenado y se ha sentido Natalie Portman en su transformación a Diosa del Trueno para Thor: Love and Thunder.</description>
-            <pubDate>Tue Apr 19 18:00:25 2022</pubDate>
             </item></channel>
 </rss>
