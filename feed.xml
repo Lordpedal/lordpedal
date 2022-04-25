@@ -6,10 +6,58 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Incluso en el metaverso, no puedes escapar del recaudador de impuestoS</title>
+            <link>https://www.linuxparty.es/11-comunidad/11015-incluso-en-el-metaverso-no-puedes-escapar-del-recaudador-de-impuestos.html</link>
+            <description>Incluso en el metaverso, no puedes escapar del recaudador de impuestoS</description>
+            <pubDate>Mon Apr 25 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Atareao: Grabar podcasts desde OBS</title>
+            <link>https://atareao.es/podcast/grabar-podcasts-desde-obs/</link>
+            <description>Grabar podcasts desde OBS</description>
+            <pubDate>Mon Apr 25 06:00:00 2022</pubDate>
+            </item>
+            <item>
             <title>cambiatealinux.com: Cambiar la resolución de pantalla en Virtualbox al instalar Linux</title>
             <link>https://www.cambiatealinux.com/cambiar-la-resolución-de-pantalla-en-virtualbox-al-instalar-linux</link>
             <description>Cambiar la resolución de pantalla en Virtualbox al instalar Linux</description>
             <pubDate>Mon Apr 25 05:27:37 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: No te pierdas estas 5 apps para regular el sonido de tu móvil</title>
+            <link>https://www.adslzone.net/noticias/moviles/5-apps-regular-sonido-movil/</link>
+            <description>No te pierdas estas 5 apps para regular el sonido de tu móvil</description>
+            <pubDate>Mon Apr 25 05:00:41 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: All Dressed Up and Nowhere To Flow: Russia’s Nord Stream 2 Pipeline</title>
+            <link>https://hackaday.com/2022/04/24/all-dressed-up-and-nowhere-to-flow-russias-nord-stream-2-pipeline/</link>
+            <description>All Dressed Up and Nowhere To Flow: Russia’s Nord Stream 2 Pipeline</description>
+            <pubDate>Mon Apr 25 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>3D Insider: Lightning Infill – What It Is and How It Works</title>
+            <link>https://3dinsider.com/lightning-infill/</link>
+            <description>Lightning Infill – What It Is and How It Works</description>
+            <pubDate>Mon Apr 25 04:55:19 2022</pubDate>
+            </item>
+            <item>
+            <title>3D Insider: 3D Printing Tree Supports – What They Are and How They Work</title>
+            <link>https://3dinsider.com/3d-printing-tree-supports/</link>
+            <description>3D Printing Tree Supports – What They Are and How They Work</description>
+            <pubDate>Mon Apr 25 04:55:12 2022</pubDate>
+            </item>
+            <item>
+            <title>3D Insider: 3D Modeling in ZBrush – A Beginner’s Guide</title>
+            <link>https://3dinsider.com/3d-modeling-in-zbrush/</link>
+            <description>3D Modeling in ZBrush – A Beginner’s Guide</description>
+            <pubDate>Mon Apr 25 04:55:04 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: FBI Warns of BlackCat Ransomware That Breached Over 60 Organisations Worldwide</title>
+            <link>https://thehackernews.com/2022/04/fbi-warns-of-blackcat-ransomware-that.html</link>
+            <description>FBI Warns of BlackCat Ransomware That Breached Over 60 Organisations Worldwide</description>
+            <pubDate>Mon Apr 25 04:52:36 2022</pubDate>
             </item>
             <item>
             <title>Linux en español: Disponible Ubuntu 22.04 LTS – Estas son sus novedades</title>
@@ -22,53 +70,5 @@
             <link>https://blog.desdelinux.net/git-2-36-ya-fue-liberado-y-estas-son-sus-novedades/</link>
             <description>Git 2.36 ya fue liberado y estas son sus novedades</description>
             <pubDate>Mon Apr 25 03:13:10 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: QEMU 7.0 ya fue liberado y estas son sus novedades</title>
-            <link>https://blog.desdelinux.net/qemu-7-0-ya-fue-liberado-y-estas-son-sus-novedades/</link>
-            <description>QEMU 7.0 ya fue liberado y estas son sus novedades</description>
-            <pubDate>Mon Apr 25 03:00:09 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Yandex libero el codigo fuente de su DBMS «YDB»</title>
-            <link>https://blog.desdelinux.net/yandex-libero-el-codigo-fuente-de-su-dbms-ydb/</link>
-            <description>Yandex libero el codigo fuente de su DBMS «YDB»</description>
-            <pubDate>Mon Apr 25 02:45:21 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: IBM PCjr Types Again, Thanks to KeybJr</title>
-            <link>https://hackaday.com/2022/04/24/ibm-pcjr-types-again-thanks-to-keybjr/</link>
-            <description>IBM PCjr Types Again, Thanks to KeybJr</description>
-            <pubDate>Mon Apr 25 02:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: DirHunt: Encontrar Directorios Web sin Fuerza Bruta</title>
-            <link>https://esgeeks.com/dirhunt-encontrar-directorios-web/</link>
-            <description>DirHunt: Encontrar Directorios Web sin Fuerza Bruta</description>
-            <pubDate>Mon Apr 25 01:09:13 2022</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: Spark: Herramienta de Administración Remota Basada en Web</title>
-            <link>https://esgeeks.com/spark-administracion-remota-web/</link>
-            <description>Spark: Herramienta de Administración Remota Basada en Web</description>
-            <pubDate>Mon Apr 25 00:38:22 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Hackaday Links: April 24, 2022</title>
-            <link>https://hackaday.com/2022/04/24/hackaday-links-april-24-2022/</link>
-            <description>Hackaday Links: April 24, 2022</description>
-            <pubDate>Sun Apr 24 23:00:05 2022</pubDate>
-            </item>
-            <item>
-            <title>Overclock Server: Matrix Pushbits Addon: Docker</title>
-            <link>https://lordpedal.github.io/gnu/linux/docker/pushbits-docker/</link>
-            <description>Matrix Pushbits Addon: Docker</description>
-            <pubDate>Sun Apr 24 22:15:00 2022</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: El gestor de torrents qBittorrent acaba de publicar su versión 4.4.2</title>
-            <link>https://lignux.com/el-gestor-de-torrents-qbittorrent-acaba-de-publicar-su-version-4-4-2/</link>
-            <description>El gestor de torrents qBittorrent acaba de publicar su versión 4.4.2</description>
-            <pubDate>Sun Apr 24 20:50:52 2022</pubDate>
             </item></channel>
 </rss>
