@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A Great Resource For The Would-Be Pinball Machine Builder</title>
+            <link>https://hackaday.com/2022/04/29/a-great-resource-for-the-would-be-pinball-machine-builder/</link>
+            <description>A Great Resource For The Would-Be Pinball Machine Builder</description>
+            <pubDate>Sat Apr 30 05:00:46 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Atlassian Jira vulnerabilidad crítica «bypass» de autenticación</title>
+            <link>https://unaaldia.hispasec.com/2022/04/atlassian-jira-vulnerabilidad-critica-bypass-de-autenticacion.html</link>
+            <description>Atlassian Jira vulnerabilidad crítica «bypass» de autenticación</description>
+            <pubDate>Sat Apr 30 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: DevSecOps: Explicación y Exploración de la Seguridad en DevOps</title>
+            <link>https://esgeeks.com/devsecops-explicacion/</link>
+            <description>DevSecOps: Explicación y Exploración de la Seguridad en DevOps</description>
+            <pubDate>Sat Apr 30 03:02:37 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Arduino and Git: Two Views</title>
+            <link>https://hackaday.com/2022/04/29/arduino-and-git-two-views/</link>
+            <description>Arduino and Git: Two Views</description>
+            <pubDate>Sat Apr 30 02:00:47 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Motorcycle Voltage Regulator Uses MOSFETs</title>
+            <link>https://hackaday.com/2022/04/29/motorcycle-voltage-regulator-uses-mosfets/</link>
+            <description>Motorcycle Voltage Regulator Uses MOSFETs</description>
+            <pubDate>Fri Apr 29 23:00:07 2022</pubDate>
+            </item>
+            <item>
             <title>Changelog: Factors to consider when architecting systems that uses third-party systems</title>
             <link>https://shekhargulati.com/2022/02/16/factors-to-consider-when-architecting-systems-on-top-of-third-party-systems/</link>
             <description>Factors to consider when architecting systems that uses third-party systems</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/orange-movistar-vodafone-guerra-fibra-barata/</link>
             <description>Vuelve la guerra de la fibra barata: Orange ataca a Movistar y Vodafone</description>
             <pubDate>Fri Apr 29 20:00:11 2022</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: El software de Hp llamado HPLIP anuncia su nueva versión 3.22.4</title>
-            <link>https://lignux.com/el-software-de-hp-llamado-hplip-anuncia-su-nueva-version-3-22-4/</link>
-            <description>El software de Hp llamado HPLIP anuncia su nueva versión 3.22.4</description>
-            <pubDate>Fri Apr 29 19:57:01 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Unos científicos han tenido una idea para resolver la crisis climática y energética: calefacción por sal</title>
-            <link>https://www.xataka.com/energia/unos-cientificos-han-tenido-idea-para-resolver-crisis-climatica-energetica-calefaccion-sal</link>
-            <description>Unos científicos han tenido una idea para resolver la crisis climática y energética: calefacción por sal</description>
-            <pubDate>Fri Apr 29 19:30:24 2022</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: GNOME Software eliminará automáticamente las dependencias de las aplicaciones desinstaladas</title>
-            <link>https://www.muylinux.com/2022/04/29/gnome-software-dependencias-huerfanas/</link>
-            <description>GNOME Software eliminará automáticamente las dependencias de las aplicaciones desinstaladas</description>
-            <pubDate>Fri Apr 29 19:05:21 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Merece la pena comprar un coche de gas GLP en 2022? Estas son las mejores opciones</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/merece-comprar-coche-gas-glp-2022-mejores-opciones/</link>
-            <description>¿Merece la pena comprar un coche de gas GLP en 2022? Estas son las mejores opciones</description>
-            <pubDate>Fri Apr 29 19:00:44 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El James Webb ya captura imágenes enfocadas y en máxima calidad: está listo para hacer historia</title>
-            <link>https://www.xataka.com/espacio/james-webb-captura-imagenes-enfocadas-maxima-calidad-esta-listo-para-hacer-historia</link>
-            <description>El James Webb ya captura imágenes enfocadas y en máxima calidad: está listo para hacer historia</description>
-            <pubDate>Fri Apr 29 19:00:22 2022</pubDate>
             </item></channel>
 </rss>
