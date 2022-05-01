@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Learn Sign Language Using Machine Vision</title>
+            <link>https://hackaday.com/2022/04/30/learn-sign-language-using-machine-vision/</link>
+            <description>Learn Sign Language Using Machine Vision</description>
+            <pubDate>Sun May  1 05:00:55 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Microsoft: vulnerabilidad de escalada de privilegios de Linux</title>
+            <link>https://unaaldia.hispasec.com/2022/05/microsoft-vulnerabilidad-de-escalada-de-privilegios-de-linux.html</link>
+            <description>Microsoft: vulnerabilidad de escalada de privilegios de Linux</description>
+            <pubDate>Sun May  1 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Clever Stereo Camera Uses Sony Wireless Camera Modules</title>
+            <link>https://hackaday.com/2022/04/30/clever-stereo-camera-uses-sony-wireless-camera-modules/</link>
+            <description>Clever Stereo Camera Uses Sony Wireless Camera Modules</description>
+            <pubDate>Sun May  1 02:00:51 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Aimbot Does it in Hardware</title>
+            <link>https://hackaday.com/2022/04/30/aimbot-does-it-in-hardware/</link>
+            <description>Aimbot Does it in Hardware</description>
+            <pubDate>Sat Apr 30 23:00:01 2022</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Plant Growth Accelerated Tremendously with LEDs</title>
             <link>https://hackaday.com/2022/04/30/plant-growth-accelerated-tremendously-with-leds/</link>
             <description>Plant Growth Accelerated Tremendously with LEDs</description>
@@ -46,29 +70,5 @@
             <link>https://hackaday.com/2022/04/30/hacking-toy-rc-cars-with-the-hackrf-one/</link>
             <description>Hacking Toy RC Cars With The HackRF One</description>
             <pubDate>Sat Apr 30 17:00:28 2022</pubDate>
-            </item>
-            <item>
-            <title>All3DP: The Best CNC Software of 2022 (Some Are Free)</title>
-            <link>https://all3dp.com/2/best-cnc-router-software/</link>
-            <description>The Best CNC Software of 2022 (Some Are Free)</description>
-            <pubDate>Sat Apr 30 16:55:11 2022</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: Integra Tailwind CSS en Oxygen Builder gracias a Oxywind</title>
-            <link>https://lignux.com/integra-tailwind-css-en-oxygen-builder-gracias-a-oxywind/</link>
-            <description>Integra Tailwind CSS en Oxygen Builder gracias a Oxywind</description>
-            <pubDate>Sat Apr 30 16:47:50 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: El panel de preferencias de Calibre</title>
-            <link>https://www.linuxadictos.com/el-panel-de-preferencias-de-calibre.html</link>
-            <description>El panel de preferencias de Calibre</description>
-            <pubDate>Sat Apr 30 16:15:59 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las mejores series que no debes perderte en mayo de 2022</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/mejores-series-mayo-2022/</link>
-            <description>Las mejores series que no debes perderte en mayo de 2022</description>
-            <pubDate>Sat Apr 30 16:05:13 2022</pubDate>
             </item></channel>
 </rss>
