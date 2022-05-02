@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Qué es un Amperio, un voltio y un vatio</title>
+            <link>https://www.linuxparty.es/85-energia/11025-que-es-un-amperio-un-voltio-y-un-vatio.html</link>
+            <description>Qué es un Amperio, un voltio y un vatio</description>
+            <pubDate>Mon May  2 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Atareao: Docker, Docker, dockerizando…</title>
+            <link>https://atareao.es/podcast/docker-docker-dockerizando/</link>
+            <description>Docker, Docker, dockerizando…</description>
+            <pubDate>Mon May  2 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Los mejores videojuegos para móviles iOS y Android</title>
+            <link>https://www.adslzone.net/noticias/moviles/mejores-videojuegos-para-moviles-mayo-2022/</link>
+            <description>Los mejores videojuegos para móviles iOS y Android</description>
+            <pubDate>Mon May  2 05:00:38 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Track Those Leftovers With This Little Timer</title>
+            <link>https://hackaday.com/2022/05/01/track-those-leftovers-with-this-little-timer/</link>
+            <description>Track Those Leftovers With This Little Timer</description>
+            <pubDate>Mon May  2 05:00:16 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Frida Handbook: Todo sobre la instrumentación de binarios utilizando el kit de herramientas Frida.</title>
+            <link>https://unaaldia.hispasec.com/2022/05/frida-handbook-todo-sobre-la-instrumentacion-de-binarios-utilizando-el-kit-de-herramientas-frida.html</link>
+            <description>Frida Handbook: Todo sobre la instrumentación de binarios utilizando el kit de herramientas Frida.</description>
+            <pubDate>Mon May  2 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Here's a New Tool That Scans Open-Source Repositories for Malicious Packages</title>
+            <link>https://thehackernews.com/2022/05/heres-new-tool-that-scans-for-malicious.html</link>
+            <description>Here's a New Tool That Scans Open-Source Repositories for Malicious Packages</description>
+            <pubDate>Mon May  2 04:51:22 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Microsoft Documents Over 200 Cyberattacks by Russia Against Ukraine</title>
+            <link>https://thehackernews.com/2022/04/microsoft-documents-over-200.html</link>
+            <description>Microsoft Documents Over 200 Cyberattacks by Russia Against Ukraine</description>
+            <pubDate>Mon May  2 04:26:42 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Vulnerabilidades en el administrador de teclas rápidas de Wayland</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/vulnerabilidades-en-el-administrador-de-teclas-rapidas-de-wayland/</link>
+            <description>Vulnerabilidades en el administrador de teclas rápidas de Wayland</description>
+            <pubDate>Mon May  2 04:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: All-In-One Automated Plant Care</title>
+            <link>https://hackaday.com/2022/05/01/all-in-one-automated-plant-care/</link>
+            <description>All-In-One Automated Plant Care</description>
+            <pubDate>Mon May  2 02:00:25 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: May 1, 2022</title>
+            <link>https://hackaday.com/2022/05/01/hackaday-links-may-1-2022/</link>
+            <description>Hackaday Links: May 1, 2022</description>
+            <pubDate>Sun May  1 23:00:03 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Vivaldi Browser llega a su versión 5.2 con un panel de lectura y una barra de estadísticas de privacidad</title>
             <link>https://lignux.com/vivaldi-browser-llega-a-su-version-5-2-con-un-panel-de-lectura-y-una-barra-de-estadisticas-de-privacidad/</link>
             <description>Vivaldi Browser llega a su versión 5.2 con un panel de lectura y una barra de estadísticas de privacidad</description>
             <pubDate>Sun May  1 21:25:42 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: De todito linuxero May-22: Breve repaso informativo del ámbito GNU/Linux</title>
-            <link>https://blog.desdelinux.net/de-todito-linuxero-may-22/</link>
-            <description>De todito linuxero May-22: Breve repaso informativo del ámbito GNU/Linux</description>
-            <pubDate>Sun May  1 20:54:25 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: This 3D Printed Robot Can Actually Pick Locks</title>
-            <link>https://hackaday.com/2022/05/01/this-3d-printed-robot-can-actually-pick-locks/</link>
-            <description>This 3D Printed Robot Can Actually Pick Locks</description>
-            <pubDate>Sun May  1 20:00:09 2022</pubDate>
-            </item>
-            <item>
-            <title>All3DP: Mintion Beagle Camera: Create Time-Lapse Videos & Monitor Your 3D Printer (Ad)</title>
-            <link>https://all3dp.com/4/mintion-beagle-camera-create-time-lapse-videos-monitor-your-3d-printer-ad/</link>
-            <description>Mintion Beagle Camera: Create Time-Lapse Videos & Monitor Your 3D Printer (Ad)</description>
-            <pubDate>Sun May  1 19:14:47 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Así es el Lockheed U-2, el irremplazable avión espía de EEUU que lleva 65 años en servicio</title>
-            <link>https://www.xataka.com/otros/asi-lockheed-u-2-irremplazable-avion-espia-eeuu-que-lleva-65-anos-servicio</link>
-            <description>Así es el Lockheed U-2, el irremplazable avión espía de EEUU que lleva 65 años en servicio</description>
-            <pubDate>Sun May  1 19:00:48 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Qué fue de las PDA Palm, el eslabón perdido de los smartphones que brilló en los años 90</title>
-            <link>https://www.xataka.com/historia-tecnologica/que-fue-pda-palm-eslabon-perdido-smartphones-que-brillo-anos-90</link>
-            <description>Qué fue de las PDA Palm, el eslabón perdido de los smartphones que brilló en los años 90</description>
-            <pubDate>Sun May  1 18:30:48 2022</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: El ibuprofeno puede tener consecuencia letales en nuestras mascotas: estos son los efectos adversos en perros y gatos</title>
-            <link>https://www.vitonica.com/prevencion/tus-mascotas-no-pueden-tomar-ibuprofeno-todas-consecuencias-consumo-este-medicamento-perros-gatos</link>
-            <description>El ibuprofeno puede tener consecuencia letales en nuestras mascotas: estos son los efectos adversos en perros y gatos</description>
-            <pubDate>Sun May  1 18:02:29 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así es Lazy IPTV, la app gratis para ver IPTV en móvil o Smart TV</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/lazy-iptv-app-gratis-ver-iptv-movil-smart-tv/</link>
-            <description>Así es Lazy IPTV, la app gratis para ver IPTV en móvil o Smart TV</description>
-            <pubDate>Sun May  1 18:00:29 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Qué necesitas para ser consultor IT y cuáles son sus funciones</title>
-            <link>https://www.redeszone.net/tutoriales/redes-cable/requisitos-conocimientos-ser-consultor-it/</link>
-            <description>Qué necesitas para ser consultor IT y cuáles son sus funciones</description>
-            <pubDate>Sun May  1 17:06:06 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Cámaras en el trabajo: hasta qué punto es legal que nos graben sin consentimiento y usarlas para despedirnos</title>
-            <link>https://www.xataka.com/privacidad/camaras-trabajo-que-punto-legal-que-nos-graben-consentimiento-usarlas-para-despedirnos</link>
-            <description>Cámaras en el trabajo: hasta qué punto es legal que nos graben sin consentimiento y usarlas para despedirnos</description>
-            <pubDate>Sun May  1 17:00:48 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: How To Hide A Photo in A Photo</title>
-            <link>https://hackaday.com/2022/05/01/how-to-hide-a-photo-in-a-photo/</link>
-            <description>How To Hide A Photo in A Photo</description>
-            <pubDate>Sun May  1 17:00:25 2022</pubDate>
             </item></channel>
 </rss>
