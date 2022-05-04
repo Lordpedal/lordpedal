@@ -67,7 +67,7 @@ http://192.168.1.50:2112/rtp/239.0.5.113:8208
 http://192.168.1.50:2112/rtp/239.0.5.114:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="35" tvg-id="2816.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2832.jpg",M+ Drama HD
 http://192.168.1.50:2112/rtp/239.0.5.115:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="36" tvg-id="2817.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4763.jpg",M+ Platino HD
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="36" tvg-id="2817.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4763.jpg",M+ Cine Español HD
 http://192.168.1.50:2112/rtp/239.0.5.109:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="37" tvg-id="4987.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4988.jpg",M+ Fest HD
 http://192.168.1.50:2112/rtp/239.0.5.208:8208
