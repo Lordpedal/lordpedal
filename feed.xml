@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Web Emulator For The Kenbak-1 Computer (If You’ve Heard Of It)</title>
+            <link>https://hackaday.com/2022/05/07/web-emulator-for-the-kenbak-1-computer-if-youve-heard-of-it/</link>
+            <description>Web Emulator For The Kenbak-1 Computer (If You’ve Heard Of It)</description>
+            <pubDate>Sun May  8 05:00:37 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Políticos y entidades gubernamentales en el punto de mira de campaña de phishing pro-rusas</title>
+            <link>https://unaaldia.hispasec.com/2022/05/politicos-y-entidades-gubernamentales-en-el-punto-de-mira-de-campana-de-phishing-pro-rusas.html</link>
+            <description>Políticos y entidades gubernamentales en el punto de mira de campaña de phishing pro-rusas</description>
+            <pubDate>Sun May  8 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>geekland: Solución a que un script no se ejecuta en cron pero si en la terminal</title>
+            <link>https://geekland.eu/solucion-a-que-un-script-no-se-ejecuta-en-cron-pero-si-en-la-terminal/</link>
+            <description>Solución a que un script no se ejecuta en cron pero si en la terminal</description>
+            <pubDate>Sun May  8 04:32:45 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reflecting on a Queueing Prism Leads To Unexpected Results</title>
+            <link>https://hackaday.com/2022/05/07/reflecting-on-a-queueing-prism-leads-to-unexpected-results/</link>
+            <description>Reflecting on a Queueing Prism Leads To Unexpected Results</description>
+            <pubDate>Sun May  8 02:00:52 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: deb-get, una utilidad para instalar software de terceros</title>
+            <link>https://www.linuxadictos.com/deb-get-una-utilidad-para-instalar-software-de-terceros.html</link>
+            <description>deb-get, una utilidad para instalar software de terceros</description>
+            <pubDate>Sat May  7 23:22:34 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: This Spherical Lamp’s Pieces Ship Flat, Thanks to Math</title>
+            <link>https://hackaday.com/2022/05/07/this-spherical-lamps-pieces-ship-flat-thanks-to-math/</link>
+            <description>This Spherical Lamp’s Pieces Ship Flat, Thanks to Math</description>
+            <pubDate>Sat May  7 23:00:42 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Google dio a conocer la primera preview de Privacy Sandbox para Android 13</title>
+            <link>https://www.linuxadictos.com/google-dio-a-conocer-la-primera-preview-de-privacy-sandbox-para-android-13.html</link>
+            <description>Google dio a conocer la primera preview de Privacy Sandbox para Android 13</description>
+            <pubDate>Sat May  7 22:15:58 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El gestor de contraseñas Open Source KeePass acaba de anunciar su versión 2.51</title>
             <link>https://lignux.com/el-gestor-de-contrasenas-open-source-keepass-acaba-de-anunciar-su-version-2-51/</link>
             <description>El gestor de contraseñas Open Source KeePass acaba de anunciar su versión 2.51</description>
@@ -28,47 +70,5 @@
             <link>https://www.diariodelviajero.com/europa/siete-islas-griegas-para-visitantes-todos-tipos-mucho-que-ver-hacer</link>
             <description>Siete islas griegas para visitantes de todos tipos, con mucho que ver y hacer</description>
             <pubDate>Sat May  7 18:46:39 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La NASA se despide de SOFIA: por qué ha decidido jubilar el Boeing con un telescopio reflector que detectó agua en la Luna</title>
-            <link>https://www.xataka.com/espacio/nasa-se-despide-sofia-que-ha-decidido-jubilar-boeing-telescopio-reflector-que-detecto-agua-luna</link>
-            <description>La NASA se despide de SOFIA: por qué ha decidido jubilar el Boeing con un telescopio reflector que detectó agua en la Luna</description>
-            <pubDate>Sat May  7 18:00:45 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Te roban el WiFi? Cómo saber si hay intrusos en el router de Movistar</title>
-            <link>https://www.adslzone.net/noticias/seguridad/te-roban-wifi-como-saber-intrusos-router-movistar/</link>
-            <description>¿Te roban el WiFi? Cómo saber si hay intrusos en el router de Movistar</description>
-            <pubDate>Sat May  7 18:00:24 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Así puedes bloquear la conexión Wi-Fi de cualquier dispositivo en el router</title>
-            <link>https://www.redeszone.net/tutoriales/redes-wifi/bloquear-conexion-wi-fi-dispositivo-router/</link>
-            <description>Así puedes bloquear la conexión Wi-Fi de cualquier dispositivo en el router</description>
-            <pubDate>Sat May  7 17:06:36 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Marvel se juega bastante con 'Doctor Extraño': su éxito condicionará a la franquicia a medio plazo</title>
-            <link>https://www.xataka.com/cine-y-tv/marvel-se-juega-bastante-doctor-extrano-su-exito-condicionara-a-franquicia-a-medio-plazo</link>
-            <description>Marvel se juega bastante con 'Doctor Extraño': su éxito condicionará a la franquicia a medio plazo</description>
-            <pubDate>Sat May  7 17:00:44 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: APPLE2IDIOT Expansion Card Lets Your Apple II (Sort Of) Access the Internet</title>
-            <link>https://hackaday.com/2022/05/07/apple2idiot-expansion-card-lets-your-apple-ii-sort-of-access-the-internet/</link>
-            <description>APPLE2IDIOT Expansion Card Lets Your Apple II (Sort Of) Access the Internet</description>
-            <pubDate>Sat May  7 17:00:21 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: China ordena transferir a las agencias del gobierno central y a las empresas estatales a Linux y PC de fabricantes locales</title>
-            <link>https://blog.desdelinux.net/china-ordena-transferir-a-las-agencias-del-gobierno-central-y-a-las-empresas-estatales-a-linux-y-pc-de-fabricantes-locales/</link>
-            <description>China ordena transferir a las agencias del gobierno central y a las empresas estatales a Linux y PC de fabricantes locales</description>
-            <pubDate>Sat May  7 16:49:08 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Apple, Google y Microsoft trabajan en nuevas funciones de inicio de sesión sin contraseña</title>
-            <link>https://www.linuxadictos.com/apple-google-y-microsoft-trabajan-en-nuevas-funciones-de-inicio-de-sesion-sin-contrasena.html</link>
-            <description>Apple, Google y Microsoft trabajan en nuevas funciones de inicio de sesión sin contraseña</description>
-            <pubDate>Sat May  7 16:36:26 2022</pubDate>
             </item></channel>
 </rss>
