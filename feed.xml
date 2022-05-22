@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>KDE Blog: MiTubo lanza su versión 1.0</title>
+            <link>https://www.kdeblog.com/mitubo-lanza-su-version-1-0.html</link>
+            <description>MiTubo lanza su versión 1.0</description>
+            <pubDate>Sun May 22 05:49:56 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: VR Spectrum Analyzer</title>
+            <link>https://hackaday.com/2022/05/21/vr-spectrum-analyzer/</link>
+            <description>VR Spectrum Analyzer</description>
+            <pubDate>Sun May 22 05:00:56 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Multa de hasta 1 millón de dólares por una mala gestión de ransomware</title>
+            <link>https://unaaldia.hispasec.com/2022/05/multa-de-hasta-1-millon-de-dolares-por-una-mala-gestion-de-ransomware.html</link>
+            <description>Multa de hasta 1 millón de dólares por una mala gestión de ransomware</description>
+            <pubDate>Sun May 22 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Buscar ficheros con find y ver su tamaño</title>
+            <link>https://www.cambiatealinux.com/buscar-ficheros-con-find-y-ver-su-tamano</link>
+            <description>Buscar ficheros con find y ver su tamaño</description>
+            <pubDate>Sun May 22 04:22:07 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Building your own 8088 XT motherboard</title>
+            <link>https://hackaday.com/2022/05/21/building-your-own-8088-xt-motherboard/</link>
+            <description>Building your own 8088 XT motherboard</description>
+            <pubDate>Sun May 22 02:00:03 2022</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Titan Linux, un Debian Kde minimalista</title>
+            <link>https://www.distritotux.cl/2022/05/titan-linux-un-debian-kde-minimalista.html</link>
+            <description>Titan Linux, un Debian Kde minimalista</description>
+            <pubDate>Sat May 21 23:54:08 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Voyager 1 Talks Some Nonsense, But Is Still Working</title>
+            <link>https://hackaday.com/2022/05/21/voyager-1-talks-some-nonsense-but-is-still-working/</link>
+            <description>Voyager 1 Talks Some Nonsense, But Is Still Working</description>
+            <pubDate>Sat May 21 23:00:34 2022</pubDate>
+            </item>
+            <item>
+            <title>project-insanity.org: Isolated application VMs on NixOS with appvm</title>
+            <link>https://blog.project-insanity.org/2022/05/22/isolated-application-vms-on-nixos-with-appvm/</link>
+            <description>Isolated application VMs on NixOS with appvm</description>
+            <pubDate>Sat May 21 22:45:08 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Inkscape pública su versión 1.2</title>
             <link>https://lignux.com/inkscape-publica-su-version-1-2/</link>
             <description>Inkscape pública su versión 1.2</description>
@@ -22,53 +70,5 @@
             <link>https://all3dp.com/2/3d-printer-g-code-commands-list-tutorial/</link>
             <description>3D Printer G-code Commands: Full List & Tutorial</description>
             <pubDate>Sat May 21 18:55:11 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Todas las opciones disponibles para ver la TDT sin antena</title>
-            <link>https://www.adslzone.net/reportajes/tv-streaming/ver-tdt-sin-antena/</link>
-            <description>Todas las opciones disponibles para ver la TDT sin antena</description>
-            <pubDate>Sat May 21 18:01:23 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En Gotham siempre está lloviendo. Y hay una buena explicación para ello</title>
-            <link>https://www.xataka.com/cine-y-tv/gotham-siempre-esta-lloviendo-hay-buena-explicacion-para-ello</link>
-            <description>En Gotham siempre está lloviendo. Y hay una buena explicación para ello</description>
-            <pubDate>Sat May 21 18:00:29 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Qué tener en cuenta al comprar PLC para fibra óptica</title>
-            <link>https://www.redeszone.net/tutoriales/redes-cable/elegir-dispositivos-plc-fibra-optica/</link>
-            <description>Qué tener en cuenta al comprar PLC para fibra óptica</description>
-            <pubDate>Sat May 21 17:09:45 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La parte 3 de 'Love, Death & Robots' en Netflix sorprende con algunos de los mejores episodios de la serie</title>
-            <link>https://www.xataka.com/cine-y-tv/parte-3-love-death-robots-netflix-sorprende-algunos-mejores-episodios-serie</link>
-            <description>La parte 3 de 'Love, Death & Robots' en Netflix sorprende con algunos de los mejores episodios de la serie</description>
-            <pubDate>Sat May 21 17:00:30 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Receive Antenna Switcher With An Espressif Brain</title>
-            <link>https://hackaday.com/2022/05/21/a-receive-antenna-switcher-with-an-espressif-brain/</link>
-            <description>A Receive Antenna Switcher With An Espressif Brain</description>
-            <pubDate>Sat May 21 17:00:02 2022</pubDate>
-            </item>
-            <item>
-            <title>All3DP: Laptop Stand Print/STL Files: The Best 3D Models</title>
-            <link>https://all3dp.com/2/3d-printed-laptop-stand-3d-models/</link>
-            <description>Laptop Stand Print/STL Files: The Best 3D Models</description>
-            <pubDate>Sat May 21 16:55:00 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Siete series que no debes perderte si te gusta Stranger Things</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/series-parecidas-stranger-things/</link>
-            <description>Siete series que no debes perderte si te gusta Stranger Things</description>
-            <pubDate>Sat May 21 16:04:01 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Extremadura quiere proteger a sus especies amenazadas de los golpes de calor, no son los únicos preocupados por el asunto</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/extremadura-quiere-proteger-a-sus-especies-amenazadas-golpes-calor-no-unicos-preocupados-asunto</link>
-            <description>Extremadura quiere proteger a sus especies amenazadas de los golpes de calor, no son los únicos preocupados por el asunto</description>
-            <pubDate>Sat May 21 16:00:28 2022</pubDate>
             </item></channel>
 </rss>
