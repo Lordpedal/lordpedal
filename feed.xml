@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Una al Día: Exploits falsos de Windows para atacar a investigadores</title>
+            <link>https://unaaldia.hispasec.com/2022/05/exploits-falsos-de-windows-para-atacar-a-investigadores.html</link>
+            <description>Exploits falsos de Windows para atacar a investigadores</description>
+            <pubDate>Sun May 29 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Annotate PDFs on Linux with PDFrankenstein</title>
+            <link>https://hackaday.com/2022/05/28/annotate-pdfs-on-linux-with-pdfrankenstein/</link>
+            <description>Annotate PDFs on Linux with PDFrankenstein</description>
+            <pubDate>Sun May 29 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Soap Mouse Is a Slippery Interface for Mid-Air Input</title>
+            <link>https://hackaday.com/2022/05/28/soap-mouse-is-a-slippery-interface-for-mid-air-input/</link>
+            <description>Soap Mouse Is a Slippery Interface for Mid-Air Input</description>
+            <pubDate>Sun May 29 02:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Tomates Asesinos: Curiosa página que da gráficas de las estrellitas de github</title>
+            <link>https://tomatesasesinos.com/2022/05/29/curiosa-pagina-que-da-graficas-de-las-estrellitas-de-github/</link>
+            <description>Curiosa página que da gráficas de las estrellitas de github</description>
+            <pubDate>Sun May 29 00:14:12 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: AI Attempts Converting Python Code to C++</title>
+            <link>https://hackaday.com/2022/05/28/ai-attempts-converting-python-code-to-c/</link>
+            <description>AI Attempts Converting Python Code to C++</description>
+            <pubDate>Sat May 28 23:00:00 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El navegador web Pale Moon acaba de publicar su versión 31.0</title>
             <link>https://lignux.com/el-navegador-web-pale-moon-acaba-de-publicar-su-version-31-0/</link>
             <description>El navegador web Pale Moon acaba de publicar su versión 31.0</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/internet/wifi-wifi-plus-que-red-inalambrica-mejor-conectarse/</link>
             <description>WiFi o WiFi Plus, ¿a qué red inalámbrica es mejor conectarse?</description>
             <pubDate>Sat May 28 18:00:09 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Qué es un exploit, cómo funciona y protegernos de él</title>
-            <link>https://www.redeszone.net/tutoriales/seguridad/tipos-exploit-amenaza-seguridad/</link>
-            <description>Qué es un exploit, cómo funciona y protegernos de él</description>
-            <pubDate>Sat May 28 17:07:05 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Pánico Satánico: la histeria real que que retrata 'Stranger Things' y se apoderó de Estados Unidos en los 80</title>
-            <link>https://www.xataka.com/cine-y-tv/panico-satanico-stranger-things-se-sumerge-ola-paranoia-anti-juegos-rol-que-asolo-ee-uu-80</link>
-            <description>Pánico Satánico: la histeria real que que retrata 'Stranger Things' y se apoderó de Estados Unidos en los 80</description>
-            <pubDate>Sat May 28 17:00:13 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 3D Print Glass With a Laser Cutter</title>
-            <link>https://hackaday.com/2022/05/28/3d-print-glass-with-a-laser-cutter/</link>
-            <description>3D Print Glass With a Laser Cutter</description>
-            <pubDate>Sat May 28 17:00:02 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Lentillas con pantallas microLED. Las gafas de realidad aumentada ya tienen un competidor que aspira a jubilarlas</title>
-            <link>https://www.xataka.com/accesorios/lentillas-pantallas-microled-asi-tecnologia-que-quiere-jubilar-a-gafas-ra-rv</link>
-            <description>Lentillas con pantallas microLED. Las gafas de realidad aumentada ya tienen un competidor que aspira a jubilarlas</description>
-            <pubDate>Sat May 28 16:30:12 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las mejores series anime cortas que ver en un solo fin de semana</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/anime-cortos-fin-semana/</link>
-            <description>Las mejores series anime cortas que ver en un solo fin de semana</description>
-            <pubDate>Sat May 28 16:03:26 2022</pubDate>
             </item></channel>
 </rss>
