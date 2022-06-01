@@ -6,10 +6,58 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Saving Birds With 3D Printed Boats</title>
+            <link>https://hackaday.com/2022/05/31/saving-birds-with-3d-printed-boats/</link>
+            <description>Saving Birds With 3D Printed Boats</description>
+            <pubDate>Wed Jun  1 05:00:59 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Las 7 mejores apps para aprobar la EBAU con la ayuda de tu móvil</title>
+            <link>https://www.adslzone.net/noticias/moviles/7-mejores-apps-aprobar-ebau/</link>
+            <description>Las 7 mejores apps para aprobar la EBAU con la ayuda de tu móvil</description>
+            <pubDate>Wed Jun  1 05:00:03 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: El estado austriaco de Carintia afectado por el ransomware BlackCat</title>
+            <link>https://unaaldia.hispasec.com/2022/06/el-estado-austriaco-de-carintia-afectado-por-el-ransomware-blackcat.html</link>
+            <description>El estado austriaco de Carintia afectado por el ransomware BlackCat</description>
+            <pubDate>Wed Jun  1 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Retrotechtacular: Clay Pipe The Hard Way</title>
+            <link>https://hackaday.com/2022/05/31/retrotechtacular-clay-pipe-the-hard-way/</link>
+            <description>Retrotechtacular: Clay Pipe The Hard Way</description>
+            <pubDate>Wed Jun  1 02:00:35 2022</pubDate>
+            </item>
+            <item>
+            <title>Podcast Linux: #157 Especial #ViernesDeEscritorio</title>
+            <link>https://podcastlinux.com/posts/podcastlinux/157-Podcast-Linux/</link>
+            <description>#157 Especial #ViernesDeEscritorio</description>
+            <pubDate>Wed Jun  1 00:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Remote Screen Viewer is Text-Only</title>
+            <link>https://hackaday.com/2022/05/31/remote-screen-viewer-is-text-only/</link>
+            <description>Remote Screen Viewer is Text-Only</description>
+            <pubDate>Tue May 31 23:00:39 2022</pubDate>
+            </item>
+            <item>
+            <title>▶ Noticias desde entreunosyceros: Cómo instalar Firefox como .Deb en Ubuntu 22.04</title>
+            <link>https://entreunosyceros.net/como-instalar-firefox-como-deb-en-ubuntu-22-04/</link>
+            <description>Cómo instalar Firefox como .Deb en Ubuntu 22.04</description>
+            <pubDate>Tue May 31 22:57:01 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: FileZilla acaba de anunciar su versión 3.60.0 con nuevas funciones y correcciones</title>
             <link>https://lignux.com/filezilla-acaba-de-anunciar-su-version-3-60-0-con-nuevas-funciones-y-correcciones/</link>
             <description>FileZilla acaba de anunciar su versión 3.60.0 con nuevas funciones y correcciones</description>
             <pubDate>Tue May 31 21:56:03 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Clonezilla Live 3.0.0 llega con Linux 5.17, soporte para APFS y mas</title>
+            <link>https://www.linuxadictos.com/clonezilla-live-3-0-0-llega-con-linux-5-17-soporte-para-apfs-y-mas.html</link>
+            <description>Clonezilla Live 3.0.0 llega con Linux 5.17, soporte para APFS y mas</description>
+            <pubDate>Tue May 31 21:50:34 2022</pubDate>
             </item>
             <item>
             <title>Linux Adictos: Oracle Linux llega con Unbreakable Enterprise Kernel R6U3, actualizaciones y mas</title>
@@ -18,57 +66,9 @@
             <pubDate>Tue May 31 21:46:20 2022</pubDate>
             </item>
             <item>
-            <title>Desde Linux: Ya fue liberada la beta de KDE Plasma 5.25</title>
-            <link>https://blog.desdelinux.net/ya-fue-liberada-la-beta-de-kde-plasma-5-25/</link>
-            <description>Ya fue liberada la beta de KDE Plasma 5.25</description>
-            <pubDate>Tue May 31 21:14:38 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Alpine Linux 3.16 llega con soporte NVMe, doas en lugar de sudo y mas</title>
-            <link>https://www.linuxadictos.com/alpine-linux-3-16-llega-con-soporte-nvme-doas-en-lugar-de-sudo-y-mas.html</link>
-            <description>Alpine Linux 3.16 llega con soporte NVMe, doas en lugar de sudo y mas</description>
-            <pubDate>Tue May 31 21:04:37 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Amazon pasa de pagar comisión a Google y deja de permitir compras dentro de Audible, Kindle y Music en Android</title>
-            <link>https://www.xataka.com/servicios/amazon-pasa-pagar-comision-a-google-deja-permitir-compras-dentro-audible-kindle-music-android</link>
-            <description>Amazon pasa de pagar comisión a Google y deja de permitir compras dentro de Audible, Kindle y Music en Android</description>
-            <pubDate>Tue May 31 20:45:31 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Magazine News (path: lmi_news): NixOS 22.5 Is Now Available</title>
-            <link>http://www.linux-magazine.com/Online/News/NixOS-22.5-Is-Now-Available</link>
-            <description>NixOS 22.5 Is Now Available</description>
-            <pubDate>Tue May 31 20:35:01 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Visualize contributions to any codebase that uses Git</title>
-            <link>https://www.preceden.com/git</link>
-            <description>Visualize contributions to any codebase that uses Git</description>
-            <pubDate>Tue May 31 20:19:00 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Buscando tarifa por menos de 10 euros? 7 opciones top</title>
-            <link>https://www.adslzone.net/noticias/operadores/comparativa-tarifa-menos-10-euros-mayo-2022/</link>
-            <description>¿Buscando tarifa por menos de 10 euros? 7 opciones top</description>
-            <pubDate>Tue May 31 20:00:29 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: How to Move a Full-Sized Church Organ From a House to a Museum</title>
-            <link>https://hackaday.com/2022/05/31/how-to-move-a-full-sized-church-organ-from-a-house-to-a-museum/</link>
-            <description>How to Move a Full-Sized Church Organ From a House to a Museum</description>
-            <pubDate>Tue May 31 20:00:24 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: How a single Raspberry Pi made my home network faster</title>
-            <link>https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/</link>
-            <description>How a single Raspberry Pi made my home network faster</description>
-            <pubDate>Tue May 31 19:31:00 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Por qué los coches eléctricos usan tracción trasera?</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-tecnologia/por-que-coches-electricos-traccion-trasera/</link>
-            <description>¿Por qué los coches eléctricos usan tracción trasera?</description>
-            <pubDate>Tue May 31 19:00:59 2022</pubDate>
+            <title>MuyLinux: ¿Era Firefox el revulsivo que necesitaba Snap para mejorar? Parece que sí</title>
+            <link>https://www.muylinux.com/2022/05/31/firefox-revulsivo-snap/</link>
+            <description>¿Era Firefox el revulsivo que necesitaba Snap para mejorar? Parece que sí</description>
+            <pubDate>Tue May 31 21:32:33 2022</pubDate>
             </item></channel>
 </rss>
