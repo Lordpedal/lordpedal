@@ -12,6 +12,54 @@
             <pubDate>Fri Jun 17 17:27:33 2022</pubDate>
             </item>
             <item>
+            <title>Blog – Hackaday: Here’s What It Takes to Fill A Piano With Water</title>
+            <link>https://hackaday.com/2022/06/10/heres-what-it-takes-to-fill-a-piano-with-water/</link>
+            <description>Here’s What It Takes to Fill A Piano With Water</description>
+            <pubDate>Sat Jun 11 05:00:09 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: “DogWalk”, nueva vulnerabilidad 0-day para Windows</title>
+            <link>https://unaaldia.hispasec.com/2022/06/dogwalk-nueva-vulnerabilidad-0-day-para-windows.html</link>
+            <description>“DogWalk”, nueva vulnerabilidad 0-day para Windows</description>
+            <pubDate>Sat Jun 11 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Don’t Be Afraid of Linux Terminal. Embrace it.</title>
+            <link>https://itsfoss.com/love-thy-terminal/</link>
+            <description>Don’t Be Afraid of Linux Terminal. Embrace it.</description>
+            <pubDate>Sat Jun 11 04:48:18 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Simple Snap Action Mechanism is 100% 3D Printed</title>
+            <link>https://hackaday.com/2022/06/10/simple-snap-action-mechanism-is-100-3d-printed/</link>
+            <description>Simple Snap Action Mechanism is 100% 3D Printed</description>
+            <pubDate>Sat Jun 11 02:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Symbiote, un malware que permite inyectar backdoors y rootkits en Linux</title>
+            <link>https://blog.desdelinux.net/symbiote-un-malware-que-permite-inyectar-backdoors-y-rootkits-en-linux/</link>
+            <description>Symbiote, un malware que permite inyectar backdoors y rootkits en Linux</description>
+            <pubDate>Fri Jun 10 23:46:44 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Ya fue liberada la nueva versión de Apache CloudStack 4.17</title>
+            <link>https://blog.desdelinux.net/ya-fue-liberada-la-nueva-version-de-apache-cloudstack-4-17/</link>
+            <description>Ya fue liberada la nueva versión de Apache CloudStack 4.17</description>
+            <pubDate>Fri Jun 10 23:32:57 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: En Google Chrome se añadirá una serie de funciones basadas en aprendizaje automático</title>
+            <link>https://www.linuxadictos.com/en-google-chrome-se-anadira-una-serie-de-funciones-basadas-en-aprendizaje-automatico.html</link>
+            <description>En Google Chrome se añadirá una serie de funciones basadas en aprendizaje automático</description>
+            <pubDate>Fri Jun 10 23:19:21 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Making a Projector Screen Out of Flex Seal Works Okay, Kinda</title>
+            <link>https://hackaday.com/2022/06/10/making-a-projector-screen-out-of-flex-seal-works-okay-kinda/</link>
+            <description>Making a Projector Screen Out of Flex Seal Works Okay, Kinda</description>
+            <pubDate>Fri Jun 10 23:00:27 2022</pubDate>
+            </item>
+            <item>
             <title>Xataka: Spot, el perro robot de Boston Dynamics, tiene competencia: así es la cabra robot de Kawasaki</title>
             <link>https://www.xataka.com/robotica-e-ia/spot-perro-robot-boston-dynamics-tiene-competencia-asi-cabra-robot-kawasaki</link>
             <description>Spot, el perro robot de Boston Dynamics, tiene competencia: así es la cabra robot de Kawasaki</description>
@@ -22,53 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/movistar-3700-webs-acceso-bloqueado-2021/</link>
             <description>Movistar no te permite entrar en más de 3.700 webs ¿por qué motivo?</description>
             <pubDate>Fri Jun 10 20:00:49 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 3D-Printed Lobe Pump Shifts Water Well</title>
-            <link>https://hackaday.com/2022/06/10/3d-printed-lobe-pump-shifts-water-well/</link>
-            <description>3D-Printed Lobe Pump Shifts Water Well</description>
-            <pubDate>Fri Jun 10 20:00:33 2022</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: ¿Cuál es el mejor sistema Linux para minar criptomonedas?</title>
-            <link>https://lignux.com/cual-es-el-mejor-sistema-linux-para-minar-criptomonedas/</link>
-            <description>¿Cuál es el mejor sistema Linux para minar criptomonedas?</description>
-            <pubDate>Fri Jun 10 20:00:26 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: La app Radar COVID violó 8 artículos de la normativa de protección de datos: la AEPD acaba de sancionar al Gobierno</title>
-            <link>https://www.genbeta.com/actualidad/app-radar-covid-violo-8-articulos-normativa-proteccion-datos-aepd-acaba-sancionar-al-gobierno</link>
-            <description>La app Radar COVID violó 8 artículos de la normativa de protección de datos: la AEPD acaba de sancionar al Gobierno</description>
-            <pubDate>Fri Jun 10 19:16:37 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cambios en la DGT: estas son las nuevas medidas más importantes y así te afectan</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/cambios-medidas-importantes-dgt-asi-afectan/</link>
-            <description>Cambios en la DGT: estas son las nuevas medidas más importantes y así te afectan</description>
-            <pubDate>Fri Jun 10 19:00:45 2022</pubDate>
-            </item>
-            <item>
-            <title>All3DP: The Best ABS Filaments of 2022</title>
-            <link>https://all3dp.com/2/abs-filament-brands-compared/</link>
-            <description>The Best ABS Filaments of 2022</description>
-            <pubDate>Fri Jun 10 18:55:23 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'Gambito de dama', 'La Casa de Papel' y otras series de Netflix también tendrán su videojuego móvil</title>
-            <link>https://www.xataka.com/videojuegos/gambito-dama-casa-papel-otras-series-netflix-tambien-tendran-su-videojuego-movil</link>
-            <description>'Gambito de dama', 'La Casa de Papel' y otras series de Netflix también tendrán su videojuego móvil</description>
-            <pubDate>Fri Jun 10 18:40:11 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Así es como una vulnerabilidad en Bluetooth LE permite robar un Tesla Model 3 en dos minutos</title>
-            <link>https://www.xataka.com/movilidad/asi-como-vulnerabilidad-bluetooth-le-permite-robar-tesla-model-3-2-minutos</link>
-            <description>Así es como una vulnerabilidad en Bluetooth LE permite robar un Tesla Model 3 en dos minutos</description>
-            <pubDate>Fri Jun 10 18:33:33 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: An Interesting Circular Stewart Platform</title>
-            <link>https://hackaday.com/2022/06/10/an-interesting-circular-stewart-platform/</link>
-            <description>An Interesting Circular Stewart Platform</description>
-            <pubDate>Fri Jun 10 18:30:34 2022</pubDate>
             </item></channel>
 </rss>
