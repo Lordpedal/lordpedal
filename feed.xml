@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>Blog – Hackaday: Wooden Keycaps Minus the CNC</title>
-            <link>https://hackaday.com/2022/06/03/wooden-keycaps-minus-the-cnc/</link>
-            <description>Wooden Keycaps Minus the CNC</description>
-            <pubDate>Sat Jun  4 05:00:46 2022</pubDate>
+            <title>BricoGeek.com Blog: Cómo usar Machine Learning con Scratch usando Echidna</title>
+            <link>http://blog.bricogeek.com/noticias/programacion/como-usar-machine-learning-con-scratch-usando-echidna/?utm_source=blogfeed&utm_medium=atom10&utm_term=programacion&utm_content=como-usar-machine-learning-con-scratch-usando-echidna&utm_campaign=blog</link>
+            <description>Cómo usar Machine Learning con Scratch usando Echidna</description>
+            <pubDate>Tue Jun 14 14:10:00 2022</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Optimizing Linux Pipes</title>
-            <link>https://hackaday.com/2022/06/03/optimizing-linux-pipes/</link>
-            <description>Optimizing Linux Pipes</description>
-            <pubDate>Sat Jun  4 02:00:40 2022</pubDate>
+            <title>Vitónica: Cómo dormir en plena ola de calor si no tienes aire acondicionado ni ventilador</title>
+            <link>https://www.vitonica.com/wellness/como-dormir-plena-ola-calor-no-tienes-aire-acondicionado-ventilador</link>
+            <description>Cómo dormir en plena ola de calor si no tienes aire acondicionado ni ventilador</description>
+            <pubDate>Tue Jun 14 13:39:26 2022</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Track Your Cat’s Weight Through This Internet-Connected Litter Box</title>
-            <link>https://hackaday.com/2022/06/03/track-your-cats-weight-through-this-internet-connected-litter-box/</link>
-            <description>Track Your Cat’s Weight Through This Internet-Connected Litter Box</description>
-            <pubDate>Fri Jun  3 23:00:23 2022</pubDate>
+            <title>It's FOSS: Distrobox: Try Multiple Linux Distributions via the Terminal</title>
+            <link>https://itsfoss.com/distrobox/</link>
+            <description>Distrobox: Try Multiple Linux Distributions via the Terminal</description>
+            <pubDate>Tue Jun 14 13:36:32 2022</pubDate>
             </item>
             <item>
-            <title>Linux Adictos: FerretDB 0.3 ya fue liberada, conoce las novedades de esta modernización de  MangoDB</title>
-            <link>https://www.linuxadictos.com/ferretdb-0-3-ya-fue-liberada-conoce-las-novedades-de-esta-modernizacion-de-mangodb.html</link>
-            <description>FerretDB 0.3 ya fue liberada, conoce las novedades de esta modernización de  MangoDB</description>
-            <pubDate>Fri Jun  3 22:23:58 2022</pubDate>
+            <title>The Hacker News: Technical Details Released for 'SynLapse' RCE Vulnerability Reported in Microsoft Azure</title>
+            <link>https://thehackernews.com/2022/06/technical-details-released-for-synlapse.html</link>
+            <description>Technical Details Released for 'SynLapse' RCE Vulnerability Reported in Microsoft Azure</description>
+            <pubDate>Tue Jun 14 13:21:21 2022</pubDate>
             </item>
             <item>
-            <title>Linux Adictos: En Ubuntu 22.10 se usará PipeWire en lugar de PulseAudio</title>
-            <link>https://www.linuxadictos.com/en-ubuntu-22-10-se-usara-pipewire-en-lugar-de-pulseaudio.html</link>
-            <description>En Ubuntu 22.10 se usará PipeWire en lugar de PulseAudio</description>
-            <pubDate>Fri Jun  3 21:16:28 2022</pubDate>
+            <title>Genbeta: Coinbase echa fulminantemente a más de 1000 trabajadores por email. A los despidos masivos por Zoom se suma el correo</title>
+            <link>https://www.genbeta.com/actualidad/coinbase-echa-fulminantemente-a-1000-trabajadores-email-a-despidos-masivos-zoom-se-suma-correo</link>
+            <description>Coinbase echa fulminantemente a más de 1000 trabajadores por email. A los despidos masivos por Zoom se suma el correo</description>
+            <pubDate>Tue Jun 14 13:11:07 2022</pubDate>
             </item>
             <item>
-            <title>Make: DIY Projects and Ideas for Makers: Makerspaces in Libraries in The Netherlands</title>
-            <link>https://makezine.com/2022/06/03/makerspaces-in-libraries-in-the-netherlands/</link>
-            <description>Makerspaces in Libraries in The Netherlands</description>
-            <pubDate>Fri Jun  3 20:44:54 2022</pubDate>
+            <title>ADSLZone: ¿Qué coches son los que se pueden conducir desde los 16 años?</title>
+            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/coches-pueden-conducir-desde-16-anos/</link>
+            <description>¿Qué coches son los que se pueden conducir desde los 16 años?</description>
+            <pubDate>Tue Jun 14 13:00:45 2022</pubDate>
             </item>
             <item>
-            <title>Ubunlog: Mir 2.8 ya fue liberado y estas son sus novedades</title>
-            <link>https://ubunlog.com/mir-2-8-ya-fue-liberado-y-estas-son-sus-novedades/</link>
-            <description>Mir 2.8 ya fue liberado y estas son sus novedades</description>
-            <pubDate>Fri Jun  3 20:36:41 2022</pubDate>
+            <title>Xataka: WhatsApp anuncia una gran novedad: así de fácil será pasar mensajes de Android a iPhone</title>
+            <link>https://www.xataka.com/aplicaciones/pasar-whatsapp-android-a-ios-dejara-ser-infierno-pasar-a-ios-se-actualiza-a-grande</link>
+            <description>WhatsApp anuncia una gran novedad: así de fácil será pasar mensajes de Android a iPhone</description>
+            <pubDate>Tue Jun 14 13:00:40 2022</pubDate>
             </item>
             <item>
-            <title>Ubunlog: En Firefox nightly ya habilitaron la decodificación de vídeo acelerada mediante VA-API</title>
-            <link>https://ubunlog.com/en-firefox-nightly-ya-habilitaron-la-decodificacion-de-video-acelerada-mediante-va-api/</link>
-            <description>En Firefox nightly ya habilitaron la decodificación de vídeo acelerada mediante VA-API</description>
-            <pubDate>Fri Jun  3 20:23:57 2022</pubDate>
+            <title>Xataka: Guía de compra de elevadores para ordenadores portátiles: mejores recomendaciones y ocho soportes para trabajar desde 13 euros</title>
+            <link>https://www.xataka.com/seleccion/guia-compra-elevadores-para-ordenadores-portatiles-mejores-recomendaciones-ocho-soportes-para-trabajar-13-euros</link>
+            <description>Guía de compra de elevadores para ordenadores portátiles: mejores recomendaciones y ocho soportes para trabajar desde 13 euros</description>
+            <pubDate>Tue Jun 14 13:00:39 2022</pubDate>
             </item>
             <item>
-            <title>Xataka: WhatsApp pedirá un segundo código de verificación para evitar el robo de cuentas: así funcionará</title>
-            <link>https://www.xataka.com/aplicaciones/whatsapp-pedira-segundo-codigo-verificacion-para-evitar-robo-cuentas-asi-funcionara</link>
-            <description>WhatsApp pedirá un segundo código de verificación para evitar el robo de cuentas: así funcionará</description>
-            <pubDate>Fri Jun  3 20:09:24 2022</pubDate>
+            <title>Vitónica: La vitamina D no debe faltar a diario: cuánta necesitamos y cómo cubrir la cantidad mínima con estos alimentos</title>
+            <link>https://www.vitonica.com/vitaminas/cuales-beneficios-vitamina-d-cuanta-necesito-tomar-al-dia</link>
+            <description>La vitamina D no debe faltar a diario: cuánta necesitamos y cómo cubrir la cantidad mínima con estos alimentos</description>
+            <pubDate>Tue Jun 14 13:00:39 2022</pubDate>
             </item>
             <item>
-            <title>Desde Linux: Gestión de Usuarios en Linux: ¿Cómo hacerlo usando la terminal?</title>
-            <link>https://blog.desdelinux.net/gestion-usuarios-linux/</link>
-            <description>Gestión de Usuarios en Linux: ¿Cómo hacerlo usando la terminal?</description>
-            <pubDate>Fri Jun  3 20:09:15 2022</pubDate>
+            <title>Ubunlog: Plasma 5.25 llega con la nueva vista general, panel inferior flotante y muchas mejoras</title>
+            <link>https://ubunlog.com/plasma-5-25-llega-con-la-nueva-vista-general-panel-inferior-flotante-y-muchas-mejoras/</link>
+            <description>Plasma 5.25 llega con la nueva vista general, panel inferior flotante y muchas mejoras</description>
+            <pubDate>Tue Jun 14 12:39:18 2022</pubDate>
             </item>
             <item>
-            <title>Desde Linux: Replicant, un firmware de Android completamente libre</title>
-            <link>https://blog.desdelinux.net/replicant-un-firmware-de-android-completamente-libre/</link>
-            <description>Replicant, un firmware de Android completamente libre</description>
-            <pubDate>Fri Jun  3 20:02:43 2022</pubDate>
+            <title>Xataka Smart Home: 11 "pinguinos" o aire acondicionado portátiles para refrescar tu casa durante la ola de calor</title>
+            <link>https://www.xatakahome.com/electrodomesticos-innovadores/11-pinguinos-aire-acondicionado-portatiles-para-refrescar-tu-casa-durante-ola-calor</link>
+            <description>11 "pinguinos" o aire acondicionado portátiles para refrescar tu casa durante la ola de calor</description>
+            <pubDate>Tue Jun 14 12:08:40 2022</pubDate>
             </item></channel>
 </rss>
