@@ -155,8 +155,8 @@ http://192.168.1.50:2112/rtp/239.0.0.211:8208
 http://192.168.1.50:2112/rtp/239.0.0.75:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="126" tvg-id="5045.movistar.tv" tvh-tags="Movistar TV|SDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5045.jpg",Sol Música
 http://192.168.1.50:2112/rtp/239.0.1.179:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="127" tvg-id="743.movistar.tv" tvh-tags="Movistar TV|SDTV|Internacional" tvg-logo="https://lordpedal.github.io/lordpedal/images/743.jpg",Canal 24 H.
-http://192.168.1.50:2112/rtp/239.0.0.78:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="127" tvg-id="743.movistar.tv" tvh-tags="Movistar TV|HDTV|Internacional" tvg-logo="https://lordpedal.github.io/lordpedal/images/5106.jpg",Canal 24 H. HD
+http://192.168.1.50:2112/rtp/239.0.5.143:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="128" tvg-id="197.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/197.jpg",BBC World
 http://192.168.1.50:2112/rtp/239.0.0.30:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="129" tvg-id="342.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/342.jpg",CNN Int.
