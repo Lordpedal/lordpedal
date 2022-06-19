@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Insteon Gets Another Chance</title>
+            <link>https://hackaday.com/2022/06/18/insteon-gets-another-chance/</link>
+            <description>Insteon Gets Another Chance</description>
+            <pubDate>Sun Jun 19 05:00:22 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: PACMAN, una nueva vulnerabilidad en las CPU M1 de Apple que no se puede parchear</title>
+            <link>https://unaaldia.hispasec.com/2022/06/pacman-una-nueva-vulnerabilidad-en-las-cpu-m1-de-apple-que-no-se-puede-parchear.html</link>
+            <description>PACMAN, una nueva vulnerabilidad en las CPU M1 de Apple que no se puede parchear</description>
+            <pubDate>Sun Jun 19 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Rocket.Chat vs. Slack: Choosing the Perfect Team Collaboration App</title>
+            <link>https://itsfoss.com/rocket-chat-vs-slack/</link>
+            <description>Rocket.Chat vs. Slack: Choosing the Perfect Team Collaboration App</description>
+            <pubDate>Sun Jun 19 02:37:59 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Balancing a Motor with an Oscilloscope</title>
+            <link>https://hackaday.com/2022/06/18/balancing-a-motor-with-an-oscilloscope/</link>
+            <description>Balancing a Motor with an Oscilloscope</description>
+            <pubDate>Sun Jun 19 02:00:19 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: IKEA LED Lamp Gets Hacked For Night Light Duty</title>
+            <link>https://hackaday.com/2022/06/18/ikea-led-lamp-gets-hacked-for-night-light-duty/</link>
+            <description>IKEA LED Lamp Gets Hacked For Night Light Duty</description>
+            <pubDate>Sat Jun 18 23:00:37 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Visual Studio Code pública su versión 1.68</title>
             <link>https://lignux.com/visual-studio-code-publica-su-version-1-68/</link>
             <description>Visual Studio Code pública su versión 1.68</description>
@@ -40,35 +70,5 @@
             <link>https://www.redeszone.net/tutoriales/redes-cable/diferencias-ipv4-ipv6/</link>
             <description>Diferencias entre IPv4 y IPv6: Direccionamiento y características</description>
             <pubDate>Sat Jun 18 17:08:35 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Antes de Patriota y 'The Boys': HBO Max recupera un extraordinario y desconocido thriller oscuro protagonizado por Antony Starr</title>
-            <link>https://www.xataka.com/streaming/antes-patriota-the-boys-hbo-max-recupera-extraordinario-desconocido-thriller-oscuro-protagonizado-antony-starr</link>
-            <description>Antes de Patriota y 'The Boys': HBO Max recupera un extraordinario y desconocido thriller oscuro protagonizado por Antony Starr</description>
-            <pubDate>Sat Jun 18 17:01:48 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Doodlestation Is Beautifully Musical Furniture</title>
-            <link>https://hackaday.com/2022/06/18/doodlestation-is-beautifully-musical-furniture/</link>
-            <description>Doodlestation Is Beautifully Musical Furniture</description>
-            <pubDate>Sat Jun 18 17:00:28 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Saga Jurassic Park: dónde ver todas las películas</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/donde-ver-saga-jurassic-park/</link>
-            <description>Saga Jurassic Park: dónde ver todas las películas</description>
-            <pubDate>Sat Jun 18 16:32:18 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La ciencia lleva 100 años utilizando un parámetro clave porque un señor no quiso pagar por unas tablas</title>
-            <link>https://www.xataka.com/investigacion/ciencia-lleva-100-anos-utilizando-parametro-clave-porque-senor-no-quiso-pagar-unas-tablas</link>
-            <description>La ciencia lleva 100 años utilizando un parámetro clave porque un señor no quiso pagar por unas tablas</description>
-            <pubDate>Sat Jun 18 16:01:46 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El deshielo del Ártico tiene un beneficiado insospechado: los cables de comunicación submarinos</title>
-            <link>https://www.xataka.com/otros/deshielo-artico-tiene-beneficiado-insospechado-cables-comunicacion-submarinos</link>
-            <description>El deshielo del Ártico tiene un beneficiado insospechado: los cables de comunicación submarinos</description>
-            <pubDate>Sat Jun 18 15:41:46 2022</pubDate>
             </item></channel>
 </rss>
