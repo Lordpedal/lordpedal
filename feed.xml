@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Scratch-Built Electric Buggy Tears Up the Dunes</title>
+            <link>https://hackaday.com/2022/07/05/scratch-built-electric-buggy-tears-up-the-dunes/</link>
+            <description>Scratch-Built Electric Buggy Tears Up the Dunes</description>
+            <pubDate>Wed Jul  6 05:00:37 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Google alerta de un nuevo spyware que se dirige contra usuarios de iOS y Android</title>
+            <link>https://unaaldia.hispasec.com/2022/07/google-alerta-de-un-nuevo-spyware-que-se-dirige-contra-usuarios-de-ios-y-android.html</link>
+            <description>Google alerta de un nuevo spyware que se dirige contra usuarios de iOS y Android</description>
+            <pubDate>Wed Jul  6 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: NordVPN, la mejor opción para navegar seguro en tus vacaciones</title>
+            <link>https://www.adslzone.net/reportajes/temas/nordvpn-navegar-seguro-verano/</link>
+            <description>NordVPN, la mejor opción para navegar seguro en tus vacaciones</description>
+            <pubDate>Wed Jul  6 03:00:24 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Classic Amp Revived With A Pi</title>
+            <link>https://hackaday.com/2022/07/05/classic-amp-revived-with-a-pi/</link>
+            <description>Classic Amp Revived With A Pi</description>
+            <pubDate>Wed Jul  6 02:00:30 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Express: #149 Linux Express</title>
+            <link>https://podcastlinux.com/posts/linuxexpress/149-Linux-Express/</link>
+            <description>#149 Linux Express</description>
+            <pubDate>Wed Jul  6 00:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Tomates Asesinos: Los padres de la Steam Deck que murieron por el camino</title>
+            <link>https://tomatesasesinos.com/2022/07/06/los-padres-de-la-steam-deck-que-murieron-por-el-camino/</link>
+            <description>Los padres de la Steam Deck que murieron por el camino</description>
+            <pubDate>Tue Jul  5 23:22:15 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Never Miss an Email With This 1970s Style Desktop Notifier</title>
+            <link>https://hackaday.com/2022/07/05/never-miss-an-email-with-this-1970s-style-desktop-notifier/</link>
+            <description>Never Miss an Email With This 1970s Style Desktop Notifier</description>
+            <pubDate>Tue Jul  5 23:00:31 2022</pubDate>
+            </item>
+            <item>
             <title>▶ Noticias desde entreunosyceros: Android Studio, cómo instalarlo en Ubuntu mediante PPA</title>
             <link>https://entreunosyceros.net/android-studio-como-instalarlo-en-ubuntu-mediante-ppa/</link>
             <description>Android Studio, cómo instalarlo en Ubuntu mediante PPA</description>
@@ -28,47 +70,5 @@
             <link>https://hackaday.com/2022/07/05/new-gear-saves-old-printer/</link>
             <description>New Gear Saves Old Printer</description>
             <pubDate>Tue Jul  5 20:00:29 2022</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Using a 150ml Syringe to Clean a 3D Printer’s Resin Vat</title>
-            <link>https://blog.adafruit.com/2022/07/05/using-a-150ml-syringe-to-clean-a-3d-printers-resin-vat/</link>
-            <description>Using a 150ml Syringe to Clean a 3D Printer’s Resin Vat</description>
-            <pubDate>Tue Jul  5 20:00:21 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: The Changelog DevTool platform types, things to know about databases, starting with commas, Lobsters turns 10 &  Upptime</title>
-            <link>https://changelog.com/podcast/news-2022-07-04</link>
-            <description>The Changelog DevTool platform types, things to know about databases, starting with commas, Lobsters turns 10 &  Upptime</description>
-            <pubDate>Tue Jul  5 20:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Jeff Bezos es poderoso, pero no lo suficiente como para desmontar un puente en Rotterdam por su megayate</title>
-            <link>https://www.xataka.com/otros/jeff-bezos-poderoso-no-suficiente-como-para-desmontar-puente-rotterdam-su-megayate</link>
-            <description>Jeff Bezos es poderoso, pero no lo suficiente como para desmontar un puente en Rotterdam por su megayate</description>
-            <pubDate>Tue Jul  5 19:31:50 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Estos 3 vehículos pueden circular por la acera: el resto 200 euros de multa</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/estos-vehiculos-circular-acera-200-euros-multa/</link>
-            <description>Estos 3 vehículos pueden circular por la acera: el resto 200 euros de multa</description>
-            <pubDate>Tue Jul  5 19:00:33 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: The Warm Glow Of A Luminous Clock</title>
-            <link>https://hackaday.com/2022/07/05/the-warm-glow-of-a-luminous-clock/</link>
-            <description>The Warm Glow Of A Luminous Clock</description>
-            <pubDate>Tue Jul  5 18:30:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: La versión 9.0 de Vim, el histórico editor de texto, ahora incorpora un lenguaje de scripting hasta 1000 veces más rápido</title>
-            <link>https://www.genbeta.com/desarrollo/version-9-0-vim-historico-editor-texto-ahora-incorpora-lenguaje-scripting-1000-veces-rapido</link>
-            <description>La versión 9.0 de Vim, el histórico editor de texto, ahora incorpora un lenguaje de scripting hasta 1000 veces más rápido</description>
-            <pubDate>Tue Jul  5 18:05:27 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Como el Gobierno no hace nada, esta Comunidad dará 240 euros para contratar Internet</title>
-            <link>https://www.adslzone.net/noticias/internet/bono-social-internet-comunidad-valenciana-2022/</link>
-            <description>Como el Gobierno no hace nada, esta Comunidad dará 240 euros para contratar Internet</description>
-            <pubDate>Tue Jul  5 18:02:47 2022</pubDate>
             </item></channel>
 </rss>
