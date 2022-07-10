@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: gCore: Make Portable Devices with Less Frustration</title>
+            <link>https://hackaday.com/2022/07/09/gcore-make-portable-devices-with-less-frustration/</link>
+            <description>gCore: Make Portable Devices with Less Frustration</description>
+            <pubDate>Sun Jul 10 05:00:41 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Easier Self Hosting with Umbrel</title>
+            <link>https://hackaday.com/2022/07/09/easier-self-hosting-with-umbrel/</link>
+            <description>Easier Self Hosting with Umbrel</description>
+            <pubDate>Sun Jul 10 02:00:57 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Temperature-Sensitive Pac-Man/Ghost LED Matrix</title>
+            <link>https://hackaday.com/2022/07/09/temperature-sensitive-pac-man-ghost-led-matrix/</link>
+            <description>Temperature-Sensitive Pac-Man/Ghost LED Matrix</description>
+            <pubDate>Sat Jul  9 23:00:15 2022</pubDate>
+            </item>
+            <item>
             <title>EsGeeks: PyHTools: Colección de Herramientas de Hacking Escritas en Python</title>
             <link>https://esgeeks.com/pyhtools-coleccion-herramientas-hacking-python/</link>
             <description>PyHTools: Colección de Herramientas de Hacking Escritas en Python</description>
@@ -52,23 +70,5 @@
             <link>https://www.xataka.com/otros/millonario-compro-radar-guerra-fria-ahora-plantea-recuperarlo-para-encontrar-ovnis</link>
             <description>Un millonario se compró un antiguo radar de la Guerra Fría. Ahora quiere utilizarlo para "encontrar ovnis"</description>
             <pubDate>Sat Jul  9 18:00:49 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así puedes evitar que te espíen a través de tu Smart TV en 5 pasos</title>
-            <link>https://www.adslzone.net/noticias/seguridad/evitar-espien-smart-tv-en-pasos/</link>
-            <description>Así puedes evitar que te espíen a través de tu Smart TV en 5 pasos</description>
-            <pubDate>Sat Jul  9 18:00:39 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Cómo funciona el ransomware de actualizaciones</title>
-            <link>https://www.redeszone.net/noticias/seguridad/que-es-ransomware-actualizaciones/</link>
-            <description>Cómo funciona el ransomware de actualizaciones</description>
-            <pubDate>Sat Jul  9 17:09:56 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'Thor: Love and Thunder' demuestra por qué las películas de superhéroes "de autor" están condenadas en la Marvel actual</title>
-            <link>https://www.xataka.com/cine-y-tv/thor-love-and-thunder-demuestra-que-peliculas-superheroes-autor-estan-condenadas-marvel-actual</link>
-            <description>'Thor: Love and Thunder' demuestra por qué las películas de superhéroes "de autor" están condenadas en la Marvel actual</description>
-            <pubDate>Sat Jul  9 17:00:50 2022</pubDate>
             </item></channel>
 </rss>
