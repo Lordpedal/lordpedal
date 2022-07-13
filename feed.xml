@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>Linux Adictos: En GCC aprobaron la implementación de RUST (gccrs)</title>
-            <link>https://www.linuxadictos.com/en-gcc-aprobaron-la-implementacion-de-rust-gccrs.html</link>
-            <description>En GCC aprobaron la implementación de RUST (gccrs)</description>
-            <pubDate>Tue Jul 12 21:49:41 2022</pubDate>
+            <title>The Hacker News: Microsoft Releases Fix for Zero-Day Flaw in July 2022 Security Patch Rollout</title>
+            <link>https://thehackernews.com/2022/07/microsoft-releases-fix-for-zero-day.html</link>
+            <description>Microsoft Releases Fix for Zero-Day Flaw in July 2022 Security Patch Rollout</description>
+            <pubDate>Wed Jul 13 05:36:49 2022</pubDate>
             </item>
             <item>
-            <title>Desde Linux: Libreboot 20220710 ya fue liberado y estas son sus novedades</title>
-            <link>https://blog.desdelinux.net/libreboot-20220710-ya-fue-liberado-y-estas-son-sus-novedades/</link>
-            <description>Libreboot 20220710 ya fue liberado y estas son sus novedades</description>
-            <pubDate>Tue Jul 12 21:25:39 2022</pubDate>
+            <title>ADSLZone: Adivina la edad de una persona con solo una foto gracias a estas webs</title>
+            <link>https://www.adslzone.net/noticias/internet/webs-edad-persona-foto/</link>
+            <description>Adivina la edad de una persona con solo una foto gracias a estas webs</description>
+            <pubDate>Wed Jul 13 05:01:25 2022</pubDate>
             </item>
             <item>
-            <title>MuyLinux: Audacious 4.2 mejora la interfaz Qt y añade transmisiones de FLAC a OGG</title>
-            <link>https://www.muylinux.com/2022/07/12/audacious-42/</link>
-            <description>Audacious 4.2 mejora la interfaz Qt y añade transmisiones de FLAC a OGG</description>
-            <pubDate>Tue Jul 12 20:07:14 2022</pubDate>
+            <title>Blog – Hackaday: It’s a Bird! It’s a Plane! It’s… A live Air Traffic Plane Spotting Simulation</title>
+            <link>https://hackaday.com/2022/07/12/its-a-bird-its-a-plane-its-a-live-air-traffic-plane-spotting-simulation/</link>
+            <description>It’s a Bird! It’s a Plane! It’s… A live Air Traffic Plane Spotting Simulation</description>
+            <pubDate>Wed Jul 13 05:00:22 2022</pubDate>
             </item>
             <item>
-            <title>ADSLZone: 4 razones para no contratar fibra óptica</title>
-            <link>https://www.adslzone.net/noticias/redes/4-razones-no-contratar-fibra-optica/</link>
-            <description>4 razones para no contratar fibra óptica</description>
-            <pubDate>Tue Jul 12 20:02:51 2022</pubDate>
+            <title>Una al Día: 3TB de datos expuestos debido a un bucket S3 mal configurado</title>
+            <link>https://unaaldia.hispasec.com/2022/07/3tb-de-datos-expuestos-debido-a-un-bucket-s3-mal-configurado.html</link>
+            <description>3TB de datos expuestos debido a un bucket S3 mal configurado</description>
+            <pubDate>Wed Jul 13 05:00:00 2022</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Pi Pico Provides Practical PlayStation Pointing</title>
-            <link>https://hackaday.com/2022/07/12/pi-pico-provides-practical-playstation-pointing/</link>
-            <description>Pi Pico Provides Practical PlayStation Pointing</description>
-            <pubDate>Tue Jul 12 20:00:21 2022</pubDate>
+            <title>cambiatealinux.com: WC - Contar directorios / ficheros / Lineas de un fichero</title>
+            <link>https://www.cambiatealinux.com/wc-contar-directorios-ficheros-lineas</link>
+            <description>WC - Contar directorios / ficheros / Lineas de un fichero</description>
+            <pubDate>Wed Jul 13 04:37:06 2022</pubDate>
             </item>
             <item>
-            <title>ADSLZone: El motor eléctrico en rueda para aprovechar al máximo la energía de tu coche</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-tecnologia/motor-electrico-rueda-aprovechar-energia-coche/</link>
-            <description>El motor eléctrico en rueda para aprovechar al máximo la energía de tu coche</description>
-            <pubDate>Tue Jul 12 19:00:31 2022</pubDate>
+            <title>The Hacker News: TikTok Postpones Privacy Policy Update in Europe After Italy Warns of GDPR Breach</title>
+            <link>https://thehackernews.com/2022/07/tiktok-postpones-privacy-policy-update.html</link>
+            <description>TikTok Postpones Privacy Policy Update in Europe After Italy Warns of GDPR Breach</description>
+            <pubDate>Wed Jul 13 03:44:47 2022</pubDate>
             </item>
             <item>
-            <title>Freak Spot: GitHub Copilot y el blanqueo de código abierto</title>
-            <link>https://freakspot.net/github-copilot-y-el-blanqueo-de-c%C3%B3digo-abierto/</link>
-            <description>GitHub Copilot y el blanqueo de código abierto</description>
-            <pubDate>Tue Jul 12 19:00:00 2022</pubDate>
+            <title>Blog – Hackaday: Build Your Own… Whatever</title>
+            <link>https://hackaday.com/2022/07/12/build-your-own-whatever/</link>
+            <description>Build Your Own… Whatever</description>
+            <pubDate>Wed Jul 13 02:00:08 2022</pubDate>
             </item>
             <item>
-            <title>Xataka: Wikipedia tiene un problema con los artículos falsos. Ahora quiere solucionarlo con inteligencia artificial</title>
-            <link>https://www.xataka.com/robotica-e-ia/wikipedia-tiene-problema-articulos-falsos-ahora-quiere-solucionarlo-inteligencia-artificial</link>
-            <description>Wikipedia tiene un problema con los artículos falsos. Ahora quiere solucionarlo con inteligencia artificial</description>
-            <pubDate>Tue Jul 12 18:31:39 2022</pubDate>
+            <title>Podcast Linux: #160 Linux Connexion con Jorge Lama</title>
+            <link>https://podcastlinux.com/posts/podcastlinux/160-Podcast-Linux/</link>
+            <description>#160 Linux Connexion con Jorge Lama</description>
+            <pubDate>Wed Jul 13 00:00:00 2022</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Hackable OSHW CardClock Demands Attention</title>
-            <link>https://hackaday.com/2022/07/12/hackable-oshw-cardclock-demands-attention/</link>
-            <description>Hackable OSHW CardClock Demands Attention</description>
-            <pubDate>Tue Jul 12 18:30:08 2022</pubDate>
+            <title>Blog – Hackaday: Weed Eater String Made From Plastic Bottles</title>
+            <link>https://hackaday.com/2022/07/12/weed-eater-string-made-from-plastic-bottles/</link>
+            <description>Weed Eater String Made From Plastic Bottles</description>
+            <pubDate>Tue Jul 12 23:00:00 2022</pubDate>
             </item>
             <item>
-            <title>Xataka: 25 años de un clásico total de la ciencia ficción más realista y madura y que puedes recuperar en HBO Max</title>
-            <link>https://www.xataka.com/streaming/25-anos-clasico-total-ciencia-ficcion-realista-madura-que-puedes-recuperar-hbo-max</link>
-            <description>25 años de un clásico total de la ciencia ficción más realista y madura y que puedes recuperar en HBO Max</description>
-            <pubDate>Tue Jul 12 18:01:39 2022</pubDate>
+            <title>OMG! Ubuntu!: Gotop is a Cool CLI System Monitor Tool for Linux</title>
+            <link>https://www.omgubuntu.co.uk/2022/07/gotop-is-a-neat-command-line-system-monitor-for-linux</link>
+            <description>Gotop is a Cool CLI System Monitor Tool for Linux</description>
+            <pubDate>Tue Jul 12 22:58:26 2022</pubDate>
             </item>
             <item>
-            <title>ADSLZone: ¿Van a dejar de existir las cámaras réflex?</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/van-a-dejar-de-existir-las-camaras-reflex/</link>
-            <description>¿Van a dejar de existir las cámaras réflex?</description>
-            <pubDate>Tue Jul 12 18:00:32 2022</pubDate>
+            <title>Linux Adictos: La batalla de Twitter y Musk continua</title>
+            <link>https://www.linuxadictos.com/la-batalla-de-twitter-y-musk-continua.html</link>
+            <description>La batalla de Twitter y Musk continua</description>
+            <pubDate>Tue Jul 12 22:48:58 2022</pubDate>
             </item></channel>
 </rss>
