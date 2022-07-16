@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: 13 Ways to Tweak Nautilus File Manager in Linux to Get More Out of it</title>
+            <link>https://itsfoss.com/nautilus-tips-tweaks/</link>
+            <description>13 Ways to Tweak Nautilus File Manager in Linux to Get More Out of it</description>
+            <pubDate>Sat Jul 16 05:54:57 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain</title>
+            <link>https://thehackernews.com/2022/07/new-netwrix-auditor-bug-could-let.html</link>
+            <description>New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain</description>
+            <pubDate>Sat Jul 16 05:07:41 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Got a Cardboard Box? Get Into Food Smoking!</title>
+            <link>https://hackaday.com/2022/07/15/got-a-cardboard-box-get-into-food-smoking/</link>
+            <description>Got a Cardboard Box? Get Into Food Smoking!</description>
+            <pubDate>Sat Jul 16 05:00:29 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Hackers afirman que pueden desbloquear y arrancar coches Honda a distancia</title>
+            <link>https://unaaldia.hispasec.com/2022/07/hackers-afirman-que-pueden-desbloquear-y-arrancar-coches-honda-a-distancia.html</link>
+            <description>Hackers afirman que pueden desbloquear y arrancar coches Honda a distancia</description>
+            <pubDate>Sat Jul 16 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Ubuntu Buzz !: How To Install Kubuntu 22.04 with Dualboot, UEFI and External Disk Method</title>
+            <link>http://www.ubuntubuzz.com/2022/07/how-to-install-kubuntu-2204-with-dualboot-uefi-external-disk-method.html</link>
+            <description>How To Install Kubuntu 22.04 with Dualboot, UEFI and External Disk Method</description>
+            <pubDate>Sat Jul 16 04:27:42 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Liquid Piston Engine Finally Works</title>
+            <link>https://hackaday.com/2022/07/15/liquid-piston-engine-finally-works/</link>
+            <description>Liquid Piston Engine Finally Works</description>
+            <pubDate>Sat Jul 16 02:00:58 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Stratum 1 Grandmaster Time Server on a Budget</title>
+            <link>https://hackaday.com/2022/07/15/stratum-1-grandmaster-time-server-on-a-budget/</link>
+            <description>Stratum 1 Grandmaster Time Server on a Budget</description>
+            <pubDate>Fri Jul 15 23:00:42 2022</pubDate>
+            </item>
+            <item>
+            <title>Changelog: The Changelog 497: Build tiny multi-platform apps with Tauri and web tech</title>
+            <link>https://changelog.com/podcast/497</link>
+            <description>The Changelog 497: Build tiny multi-platform apps with Tauri and web tech</description>
+            <pubDate>Fri Jul 15 21:00:00 2022</pubDate>
+            </item>
+            <item>
             <title>MuyLinux: ChromeOS Flex ya está listo para producción</title>
             <link>https://www.muylinux.com/2022/07/15/chromeos-flex-sale-beta/</link>
             <description>ChromeOS Flex ya está listo para producción</description>
@@ -22,53 +70,5 @@
             <link>https://hackaday.com/2022/07/15/collaborative-effort-gets-laser-galvos-talking-g-code/</link>
             <description>Collaborative Effort Gets Laser Galvos Talking G-Code</description>
             <pubDate>Fri Jul 15 20:00:14 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China saca músculo ante EEUU con el Xian H-20, su próximo bombardero "invisible" con capacidad nuclear</title>
-            <link>https://www.xataka.com/vehiculos/china-saca-musculo-eeuu-xian-h-20-su-proximo-bombardero-invisible-capacidad-nuclear</link>
-            <description>China saca músculo ante EEUU con el Xian H-20, su próximo bombardero "invisible" con capacidad nuclear</description>
-            <pubDate>Fri Jul 15 19:30:06 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Apunta: las 4 formas con las que te engañan al comprar un coche usado</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/4-formas-enganan-comprar-coche-usado/</link>
-            <description>Apunta: las 4 formas con las que te engañan al comprar un coche usado</description>
-            <pubDate>Fri Jul 15 19:00:35 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Network Security Toolkit 36 ya fue liberado y estas son sus novedades</title>
-            <link>https://www.linuxadictos.com/network-security-toolkit-36-ya-fue-liberado-y-estas-son-sus-novedades.html</link>
-            <description>Network Security Toolkit 36 ya fue liberado y estas son sus novedades</description>
-            <pubDate>Fri Jul 15 18:55:37 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Simple Web-Based Wiring Harness Tool</title>
-            <link>https://hackaday.com/2022/07/15/a-simple-web-based-wiring-harness-tool/</link>
-            <description>A Simple Web-Based Wiring Harness Tool</description>
-            <pubDate>Fri Jul 15 18:30:25 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Meta se une a la fiesta de DALL-E y presenta su propio generador de imágenes a partir de texto</title>
-            <link>https://www.xataka.com/robotica-e-ia/meta-se-une-a-fiesta-dall-e-presenta-su-propio-generador-imagenes-a-partir-texto</link>
-            <description>Meta se une a la fiesta de DALL-E y presenta su propio generador de imágenes a partir de texto</description>
-            <pubDate>Fri Jul 15 18:30:10 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: 'Make-A-Scene', la IA generadora de imágenes que mejora la precisión de DALL-E 2 combinando descripciones y bocetos del usuario</title>
-            <link>https://www.genbeta.com/actualidad/make-a-scene-ia-generadora-imagenes-que-mejora-precision-dall-e-2-combinando-descripciones-bocetos-usuario</link>
-            <description>'Make-A-Scene', la IA generadora de imágenes que mejora la precisión de DALL-E 2 combinando descripciones y bocetos del usuario</description>
-            <pubDate>Fri Jul 15 18:27:08 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: El director de IA de Tesla renuncia después del despido de 229 empleados</title>
-            <link>https://www.linuxadictos.com/el-director-de-ia-de-tesla-renuncia-despues-del-despido-de-229-empleados.html</link>
-            <description>El director de IA de Tesla renuncia después del despido de 229 empleados</description>
-            <pubDate>Fri Jul 15 18:26:24 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Google contraataca a Match Group y pretende prohibir Tinder de la PlayStore</title>
-            <link>https://blog.desdelinux.net/google-contraataca-a-match-group-y-pretende-prohibir-tinder-de-la-playstore/</link>
-            <description>Google contraataca a Match Group y pretende prohibir Tinder de la PlayStore</description>
-            <pubDate>Fri Jul 15 18:16:23 2022</pubDate>
             </item></channel>
 </rss>
