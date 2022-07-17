@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Turning Irregular Shapes</title>
+            <link>https://hackaday.com/2022/07/16/turning-irregular-shapes/</link>
+            <description>Turning Irregular Shapes</description>
+            <pubDate>Sun Jul 17 05:00:08 2022</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Ultramarine Linux, Fedora lista para disfrutar</title>
+            <link>https://www.distritotux.cl/2022/07/ultramarine-linux-fedora-lista-para.html</link>
+            <description>Ultramarine Linux, Fedora lista para disfrutar</description>
+            <pubDate>Sun Jul 17 02:55:33 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Neural Network Identifies Insects, Outperforming Humans</title>
+            <link>https://hackaday.com/2022/07/16/neural-network-identifies-insects-outperforming-humans/</link>
+            <description>Neural Network Identifies Insects, Outperforming Humans</description>
+            <pubDate>Sun Jul 17 02:00:20 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Restoring $5 Busted Synthesizer Made Easy, Thanks to Thermal</title>
+            <link>https://hackaday.com/2022/07/16/restoring-5-busted-synthesizer-made-easy-thanks-to-thermal/</link>
+            <description>Restoring $5 Busted Synthesizer Made Easy, Thanks to Thermal</description>
+            <pubDate>Sat Jul 16 23:00:38 2022</pubDate>
+            </item>
+            <item>
             <title>OMG! Ubuntu!: Dialect is a Useful Language Translation Tool for Linux Desktops</title>
             <link>https://www.omgubuntu.co.uk/2022/07/dialect-is-a-gtk-translation-app-for-linux-desktop</link>
             <description>Dialect is a Useful Language Translation Tool for Linux Desktops</description>
@@ -30,9 +54,9 @@
             <pubDate>Sat Jul 16 18:00:10 2022</pubDate>
             </item>
             <item>
-            <title>OMG! Ubuntu!: Breath Lets You Run Regular Ubuntu on Modern Intel Chromebooks</title>
+            <title>OMG! Ubuntu!: Breath Lets You Run Ubuntu on Modern Intel Chromebooks</title>
             <link>https://www.omgubuntu.co.uk/2022/07/i-used-breath-on-my-acer-chromebook-cp713</link>
-            <description>Breath Lets You Run Regular Ubuntu on Modern Intel Chromebooks</description>
+            <description>Breath Lets You Run Ubuntu on Modern Intel Chromebooks</description>
             <pubDate>Sat Jul 16 17:20:20 2022</pubDate>
             </item>
             <item>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/cine-y-tv/vision-resident-evil-netflix-se-distancia-todas-anteriores-revaloriza-apuesta-peliculas</link>
             <description>La visión de 'Resident Evil' de Netflix se distancia de todas las anteriores y revaloriza la apuesta de las películas</description>
             <pubDate>Sat Jul 16 17:00:29 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Look Back at the USSR Computer Industry</title>
-            <link>https://hackaday.com/2022/07/16/a-look-back-at-the-ussr-computer-industry/</link>
-            <description>A Look Back at the USSR Computer Industry</description>
-            <pubDate>Sat Jul 16 17:00:11 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Las vacaciones casi nunca son suficientes: cómo descansar del estrés laboral durante el resto del año</title>
-            <link>https://www.xataka.com/empresas-y-economia/vacaciones-casi-nunca-suficientes-como-descansar-estres-laboral-durante-resto-ano</link>
-            <description>Las vacaciones casi nunca son suficientes: cómo descansar del estrés laboral durante el resto del año</description>
-            <pubDate>Sat Jul 16 16:30:19 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¡Apocalipsis! Las mejores películas del fin del mundo</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/peliculas-fin-mundo-apocalipsis/</link>
-            <description>¡Apocalipsis! Las mejores películas del fin del mundo</description>
-            <pubDate>Sat Jul 16 16:01:22 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hace 10.000 años el ser humano descubrió la agricultura. Puede que no fuéramos la única especie en hacerlo</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/hace-10-000-anos-ser-humano-descubrio-agricultura-puede-que-no-fueramos-unica-especie-hacerlo</link>
-            <description>Hace 10.000 años el ser humano descubrió la agricultura. Puede que no fuéramos la única especie en hacerlo</description>
-            <pubDate>Sat Jul 16 16:00:34 2022</pubDate>
             </item></channel>
 </rss>
