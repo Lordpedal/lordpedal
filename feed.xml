@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Hunt the Lunpus is an ATtiny-Based Minimalist Game Console</title>
+            <link>https://hackaday.com/2022/07/22/hunt-the-lunpus-is-an-attiny-based-minimalist-game-console/</link>
+            <description>Hunt the Lunpus is an ATtiny-Based Minimalist Game Console</description>
+            <pubDate>Sat Jul 23 05:00:15 2022</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Top 10 Best Music Players for Linux in 2022</title>
+            <link>https://itsfoss.com/best-music-players-linux/</link>
+            <description>Top 10 Best Music Players for Linux in 2022</description>
+            <pubDate>Sat Jul 23 04:36:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Color Us Impressed: Redbean Runs a Web Server on Six Operating Systems</title>
+            <link>https://hackaday.com/2022/07/22/color-us-impressed-redbean-runs-a-web-server-on-six-operating-systems/</link>
+            <description>Color Us Impressed: Redbean Runs a Web Server on Six Operating Systems</description>
+            <pubDate>Sat Jul 23 02:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: SATAn Turns Hard Drive Cable into Antenna to Defeat Air-Gapped Security</title>
+            <link>https://hackaday.com/2022/07/22/satan-turns-hard-drive-cable-into-antenna-to-defeat-air-gapped-security/</link>
+            <description>SATAn Turns Hard Drive Cable into Antenna to Defeat Air-Gapped Security</description>
+            <pubDate>Fri Jul 22 23:00:47 2022</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Necesito máxima velocidad: ¿dónde es más barato contratar 600 megas o más?</title>
             <link>https://www.adslzone.net/noticias/operadores/donde-mas-barato-contratar-600-megas-o-mas/</link>
             <description>Necesito máxima velocidad: ¿dónde es más barato contratar 600 megas o más?</description>
@@ -46,29 +70,5 @@
             <link>https://thehackernews.com/2022/07/sonicwall-issues-patch-for-critical-bug.html</link>
             <description>SonicWall Issues Patch for Critical Bug Affecting its Analytics and GMS Products</description>
             <pubDate>Fri Jul 22 18:39:32 2022</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News - Most Trusted Cyber Security and Computer Security Analysis: Google Bringing the Android App Permissions Section Back to the Play Store</title>
-            <link>https://thehackernews.com/2022/07/google-bringing-android-app-permissions.html</link>
-            <description>Google Bringing the Android App Permissions Section Back to the Play Store</description>
-            <pubDate>Fri Jul 22 18:28:36 2022</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News - Most Trusted Cyber Security and Computer Security Analysis: Ukrainian Radio Stations Hacked to Broadcast Fake News About Zelenskyy's Health</title>
-            <link>https://thehackernews.com/2022/07/ukrainian-radio-stations-hacked-to.html</link>
-            <description>Ukrainian Radio Stations Hacked to Broadcast Fake News About Zelenskyy's Health</description>
-            <pubDate>Fri Jul 22 18:27:59 2022</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News - Most Trusted Cyber Security and Computer Security Analysis: Microsoft Resumes Blocking Office VBA Macros by Default After 'Temporary Pause'</title>
-            <link>https://thehackernews.com/2022/07/microsoft-resumes-blocking-office-vba.html</link>
-            <description>Microsoft Resumes Blocking Office VBA Macros by Default After 'Temporary Pause'</description>
-            <pubDate>Fri Jul 22 18:27:30 2022</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News - Most Trusted Cyber Security and Computer Security Analysis: Candiru Spyware Caught Exploiting Google Chrome Zero-Day to Target Journalists</title>
-            <link>https://thehackernews.com/2022/07/candiru-spyware-caught-exploiting.html</link>
-            <description>Candiru Spyware Caught Exploiting Google Chrome Zero-Day to Target Journalists</description>
-            <pubDate>Fri Jul 22 18:26:42 2022</pubDate>
             </item></channel>
 </rss>
