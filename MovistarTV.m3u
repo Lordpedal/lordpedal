@@ -21,7 +21,7 @@ rtp://@239.0.5.197:8208
 rtp://@239.0.0.87:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="11" tvg-id="2812.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/2828.jpg",M+ Estrenos HD
 rtp://@239.0.5.111:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="13" tvg-id="4953.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4954.jpg",M+ VHS HD
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="13" tvg-id="4953.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4954.jpg",M+ Cracks HD
 rtp://@239.0.5.193:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="21" tvg-id="5030.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5031.jpg",M+ La Resistencia HD
 rtp://@239.0.5.140:8208
