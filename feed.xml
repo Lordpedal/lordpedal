@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Swarm vs. Iridium: Which Satellite IoT Service is Right for You?</title>
+            <link>https://hackaday.com/2022/08/12/swarm-vs-iridium-which-satellite-iot-service-is-right-for-you/</link>
+            <description>Swarm vs. Iridium: Which Satellite IoT Service is Right for You?</description>
+            <pubDate>Sat Aug 13 05:00:11 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Svelte VR Headsets Coming?</title>
+            <link>https://hackaday.com/2022/08/12/svelte-vr-headsets-coming/</link>
+            <description>Svelte VR Headsets Coming?</description>
+            <pubDate>Sat Aug 13 02:00:53 2022</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Kid3 3.9.2 llega con correcciones de errores y soporte para dff</title>
+            <link>https://ubunlog.com/kid3-3-9-2-llega-con-correcciones-de-errores-y-soporte-para-dff/</link>
+            <description>Kid3 3.9.2 llega con correcciones de errores y soporte para dff</description>
+            <pubDate>Fri Aug 12 23:24:13 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Local Simulation Feature To Be Removed From All Autodesk Fusion 360 Versions</title>
+            <link>https://hackaday.com/2022/08/12/local-simulation-feature-to-be-removed-from-all-autodesk-fusion-360-versions/</link>
+            <description>Local Simulation Feature To Be Removed From All Autodesk Fusion 360 Versions</description>
+            <pubDate>Fri Aug 12 23:00:31 2022</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: KDE Neon: Nuevas imágenes ISO disponibles en la web</title>
+            <link>https://ubunlog.com/kde-neon-nuevas-iso-ago-22/</link>
+            <description>KDE Neon: Nuevas imágenes ISO disponibles en la web</description>
+            <pubDate>Fri Aug 12 22:23:15 2022</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Ya fue liberada la nueva versión de IceWM 2.9.9</title>
+            <link>https://ubunlog.com/ya-fue-liberada-la-nueva-version-de-icewm-2-9-9/</link>
+            <description>Ya fue liberada la nueva versión de IceWM 2.9.9</description>
+            <pubDate>Fri Aug 12 22:17:57 2022</pubDate>
+            </item>
+            <item>
+            <title>LiGNUx: Wine acaba de anunciar su versión 7.14</title>
+            <link>https://lignux.com/wine-acaba-de-anunciar-su-version-7-14/</link>
+            <description>Wine acaba de anunciar su versión 7.14</description>
+            <pubDate>Fri Aug 12 21:30:10 2022</pubDate>
+            </item>
+            <item>
+            <title>Changelog: JS Party 238: Build faster websites with Astro 1.0</title>
+            <link>https://changelog.com/jsparty/238</link>
+            <description>JS Party 238: Build faster websites with Astro 1.0</description>
+            <pubDate>Fri Aug 12 21:30:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Ya fue liberada la nueva versión de nftables 1.0.5, conoce sus cambios</title>
+            <link>https://ubunlog.com/ya-fue-liberada-la-nueva-version-de-nftables-1-0-5-conoce-sus-cambios/</link>
+            <description>Ya fue liberada la nueva versión de nftables 1.0.5, conoce sus cambios</description>
+            <pubDate>Fri Aug 12 21:17:34 2022</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Ya fue liberada la versión de desarrollo de Wireshark 3.7.2</title>
+            <link>https://ubunlog.com/ya-fue-liberada-la-version-de-desarrollo-de-wireshark-3-7-2/</link>
+            <description>Ya fue liberada la versión de desarrollo de Wireshark 3.7.2</description>
+            <pubDate>Fri Aug 12 20:56:29 2022</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: ¿Qué te puede bloquear Netflix si usas un VPN?</title>
             <link>https://www.adslzone.net/noticias/streaming-tv/contenidos-bloqueados-netflix-vpn-cambio-region/</link>
             <description>¿Qué te puede bloquear Netflix si usas un VPN?</description>
             <pubDate>Fri Aug 12 20:03:20 2022</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: Researchers Uncover UEFI Secure Boot Bypass in 3 Microsoft Signed Boot Loaders</title>
-            <link>https://thehackernews.com/2022/08/researchers-uncover-uefi-secure-boot.html</link>
-            <description>Researchers Uncover UEFI Secure Boot Bypass in 3 Microsoft Signed Boot Loaders</description>
-            <pubDate>Fri Aug 12 20:02:30 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Homebrew Biped Bot Shows Off Some Impressive Moves</title>
-            <link>https://hackaday.com/2022/08/12/homebrew-biped-bot-shows-off-some-impressive-moves/</link>
-            <description>Homebrew Biped Bot Shows Off Some Impressive Moves</description>
-            <pubDate>Fri Aug 12 20:00:03 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: SQUIP, un nuevo ataque que afecta a procesadores AMD y conduce a la fuga de datos</title>
-            <link>https://blog.desdelinux.net/squip-un-nuevo-ataque-que-afecta-a-procesadores-amd-y-conduce-a-la-fuga-de-datos/</link>
-            <description>SQUIP, un nuevo ataque que afecta a procesadores AMD y conduce a la fuga de datos</description>
-            <pubDate>Fri Aug 12 19:50:14 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Apps imprescindibles para tus viajes en coche</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-tecnologia/apps-imprescindibles-viajes-coche/</link>
-            <description>Apps imprescindibles para tus viajes en coche</description>
-            <pubDate>Fri Aug 12 19:00:23 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Abrir juegos en la nube directamente desde la página de resultados de Google: esto es lo que están probando (y no sólo para Stadia)</title>
-            <link>https://www.genbeta.com/buscadores/abrir-juegos-nube-directamente-pagina-resultados-google-esto-que-estan-probando-no-solo-para-stadia</link>
-            <description>Abrir juegos en la nube directamente desde la página de resultados de Google: esto es lo que están probando (y no sólo para Stadia)</description>
-            <pubDate>Fri Aug 12 18:30:53 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Hackaday Prize 2022: Solar Power Through Pyrolysis</title>
-            <link>https://hackaday.com/2022/08/12/hackaday-prize-2022-solar-power-through-pyrolysis/</link>
-            <description>Hackaday Prize 2022: Solar Power Through Pyrolysis</description>
-            <pubDate>Fri Aug 12 18:30:17 2022</pubDate>
-            </item>
-            <item>
-            <title>3D Insider: Top 10 Best 3D Printed Masks for Halloween</title>
-            <link>https://3dinsider.com/3d-printed-halloween-masks/</link>
-            <description>Top 10 Best 3D Printed Masks for Halloween</description>
-            <pubDate>Fri Aug 12 18:17:13 2022</pubDate>
-            </item>
-            <item>
-            <title>3D Insider: A Guide to Buying Second-Hand 3D Printers</title>
-            <link>https://3dinsider.com/second-hand-3d-printers/</link>
-            <description>A Guide to Buying Second-Hand 3D Printers</description>
-            <pubDate>Fri Aug 12 18:16:52 2022</pubDate>
-            </item>
-            <item>
-            <title>3D Insider: How to Optimize Layer Height in 3D Printing</title>
-            <link>https://3dinsider.com/optimize-layer-height-3d-printing/</link>
-            <description>How to Optimize Layer Height in 3D Printing</description>
-            <pubDate>Fri Aug 12 18:16:47 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Compartir LaLiga? Este truco te permitirá hacerlo en DAZN</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/truco-compartir-laliga-dazn-2022/</link>
-            <description>¿Compartir LaLiga? Este truco te permitirá hacerlo en DAZN</description>
-            <pubDate>Fri Aug 12 18:02:18 2022</pubDate>
             </item></channel>
 </rss>
