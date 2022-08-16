@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: (Re)designing The LumenPnP Tape Feeder</title>
+            <link>https://hackaday.com/2022/08/15/redesigning-the-lumenpnp-tape-feeder/</link>
+            <description>(Re)designing The LumenPnP Tape Feeder</description>
+            <pubDate>Tue Aug 16 05:00:26 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Ataque a Curve.Finance, robados casi 570.000 doláres</title>
+            <link>https://unaaldia.hispasec.com/2022/08/ataque-a-curve-finance-robados-casi-570-000-dolares.html</link>
+            <description>Ataque a Curve.Finance, robados casi 570.000 doláres</description>
+            <pubDate>Tue Aug 16 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Getting To The TrackPoint Quicker</title>
+            <link>https://hackaday.com/2022/08/15/getting-to-the-trackpoint-quicker/</link>
+            <description>Getting To The TrackPoint Quicker</description>
+            <pubDate>Tue Aug 16 02:00:01 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Fytó Is Fido for Phytophiles</title>
+            <link>https://hackaday.com/2022/08/15/fyto-is-fido-for-phytophiles/</link>
+            <description>Fytó Is Fido for Phytophiles</description>
+            <pubDate>Mon Aug 15 23:00:11 2022</pubDate>
+            </item>
+            <item>
+            <title>- Junco TIC: Criptografía y seguridad</title>
+            <link>https://juncotic.com/criptografia-y-seguridad/</link>
+            <description>Criptografía y seguridad</description>
+            <pubDate>Mon Aug 15 22:37:46 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: La suite ofimática ONLYOFFICE Docs publica la nueva versión de su conector oficial para Moodle</title>
             <link>https://lignux.com/la-suite-ofimatica-onlyoffice-docs-publica-la-nueva-version-de-su-conector-oficial-para-moodle/</link>
             <description>La suite ofimática ONLYOFFICE Docs publica la nueva versión de su conector oficial para Moodle</description>
@@ -16,6 +46,12 @@
             <link>https://blog.desdelinux.net/meta-no-deja-de-poner-el-dedo-de-encima-y-continua-con-el-rastreo-de-usuarios/</link>
             <description>Meta no deja de poner el dedo de encima y continua con el rastreo de usuarios</description>
             <pubDate>Mon Aug 15 21:04:37 2022</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Apple está considerando mostrar más anuncios dirigidos en sus apps del iPhone, según Bloomberg</title>
+            <link>https://www.xataka.com/aplicaciones/apple-esta-considerando-mostrar-anuncios-dirigidos-sus-apps-iphone-bloomberg</link>
+            <description>Apple está considerando mostrar más anuncios dirigidos en sus apps del iPhone, según Bloomberg</description>
+            <pubDate>Mon Aug 15 20:51:14 2022</pubDate>
             </item>
             <item>
             <title>Linux Adictos: Godot 3.5 ya fue liberado y estas son sus novedades</title>
@@ -34,41 +70,5 @@
             <link>https://www.xataka.com/espacio/hubble-capta-colosal-erupcion-recuperacion-estrella-supergigante-roja-betelgeuse</link>
             <description>El Hubble capta la colosal erupción (y recuperación) de la estrella supergigante roja Betelgeuse</description>
             <pubDate>Mon Aug 15 19:10:38 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Mi router no funciona: listado de fallos habituales y soluciones</title>
-            <link>https://www.adslzone.net/noticias/redes/router-no-funciona-principales-problemas/</link>
-            <description>Mi router no funciona: listado de fallos habituales y soluciones</description>
-            <pubDate>Mon Aug 15 19:02:55 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El rayo más desconcertante fue detectado en Oklahoma, 100 veces más potente de lo normal y en dirección a las estrellas</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/rayo-desconcertante-fue-detectado-oklahoma-100-veces-potente-normal-direccion-a-estrellas</link>
-            <description>El rayo más desconcertante fue detectado en Oklahoma, 100 veces más potente de lo normal y en dirección a las estrellas</description>
-            <pubDate>Mon Aug 15 19:00:39 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: A native, extensible & fast file manager for macOS</title>
-            <link>https://marta.sh/</link>
-            <description>A native, extensible & fast file manager for macOS</description>
-            <pubDate>Mon Aug 15 18:53:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La versión final de Android 13 ya está aquí: nuevas funciones y primeros móviles compatibles</title>
-            <link>https://www.xataka.com/moviles/version-final-android-13-esta-aqui-nuevas-funciones-primeros-moviles-compatibles</link>
-            <description>La versión final de Android 13 ya está aquí: nuevas funciones y primeros móviles compatibles</description>
-            <pubDate>Mon Aug 15 18:47:23 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Get Your Raspberry Pi Jamming With MuPiBox</title>
-            <link>https://hackaday.com/2022/08/15/get-your-raspberry-pi-jamming-with-mupibox/</link>
-            <description>Get Your Raspberry Pi Jamming With MuPiBox</description>
-            <pubDate>Mon Aug 15 18:30:24 2022</pubDate>
-            </item>
-            <item>
-            <title>Victorhck in the free world: ¿Un ataque al software libre? El caso de Tornado Cash</title>
-            <link>https://victorhckinthefreeworld.com/2022/08/15/un-ataque-al-software-libre-el-caso-de-tornado-cash/</link>
-            <description>¿Un ataque al software libre? El caso de Tornado Cash</description>
-            <pubDate>Mon Aug 15 18:09:50 2022</pubDate>
             </item></channel>
 </rss>
