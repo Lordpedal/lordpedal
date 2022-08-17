@@ -43,7 +43,7 @@ rtp://@239.0.0.180:8208
 rtp://@239.0.5.197:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="51" tvg-id="5081.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/5082.jpg",M+ Ellas #V HD
 rtp://@239.0.5.73:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="69" tvg-id="3325.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4063.jpg",GOL HD
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="69" tvg-id="3325.movistar.tv" tvh-tags="Movistar TV|HDTV|Cine" tvg-logo="https://lordpedal.github.io/lordpedal/images/4063.jpg",GOL PLAY HD
 rtp://@239.0.5.189:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="70" tvg-id="744.movistar.tv" tvh-tags="Movistar TV|HDTV|Deportes" tvg-logo="https://lordpedal.github.io/lordpedal/images/2544.jpg",Teledeporte HD
 rtp://@239.0.0.188:8208
