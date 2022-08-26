@@ -1,0 +1,160 @@
+<!doctype html>
+<html>
+<head>
+        <meta charset="UTF-8">
+        <title>Overclock Server</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="description" content="Overclock Server" />
+        <meta name="keywords" content="NAS, AFP, Samba, Web, DNS, DLNA" />
+        <meta name="author" content="Lordpedal" />
+        <link rel="stylesheet" href="css/stylerss.css">
+	<script src="js/sorttable.js"></script>
+	<script>sorttable.sort_alpha = function(a,b) { return a[0].localeCompare(b[0]); }</script>
+</head>
+<div class="header">
+  <img class="a" src="images/RSS.gif" width="64" height="64">
+  <span style="color:black;font-weight:bold">Lordpedal RSS</span>
+  <div class="header-right">
+        <a class="active" href="rss.html">📻 Noticias </a>
+        <a href="https://lordpedal.github.io">🤖 Overclock Server</a>
+        <!-- 
+	<a href="https://t.me/lordpedal_rss"target="_blank">🗺️ Canal Telegram  </a>
+	-->
+	<a href="fuentes.html">🚀 Fuentes RSS </a>
+  </div>
+</div>
+
+<button class="scrollToTopBtn">CMON</button>
+
+<h2>Proyectos GNU/Linux, 3D, Maker & Ocio</h2>
+
+<table id='tabla_entradas'>
+<table class="sortable">
+        <tr>
+            <td class='col_blog'><b>BLOG</b></td><td class='col_fecha'><b>FECHA</b></td><td class='col_enlace'><b>ENLACE</b></td>
+        </tr>
+
+        <tr>
+            <td class='col_blog'>Linux para todos</td><td class='col_fecha'>2021-8-27</td>
+            <td class='col_enlace'><a href='https://www.sololinux.es/30-anos-de-kernel-linux-entre-nosotros/' target='blank'>30 años de Kernel Linux entre nosotros</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Linux para todos</td><td class='col_fecha'>2021-8-27</td>
+            <td class='col_enlace'><a href='https://www.sololinux.es/como-instalar-virustotal-uploader-en-linux/' target='blank'>Como instalar VirusTotal Uploader en Linux</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Eduardo Collado</td><td class='col_fecha'>2021-8-26</td>
+            <td class='col_enlace'><a href='https://www.eduardocollado.com/2021/08/26/puente-de-la-alcanzorla-galapagar/' target='blank'>Puente de la Alcanzorla – Galapagar</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Eduardo Collado</td><td class='col_fecha'>2021-8-26</td>
+            <td class='col_enlace'><a href='https://www.eduardocollado.com/2021/08/26/introduccion-a-evpn-para-interconectar-centros-de-datos/' target='blank'>Introducción a EVPN para interconectar Centros de Datos</a></td>
+        </tr>
+        
+        <tr>
+            <td class='col_blog'>Club de Software Libre</td><td class='col_fecha'>2021-8-26</td>
+            <td class='col_enlace'><a href='https://softlibre.com.ar/blog/2021/08/26/taller-de-xmpp/' target='blank'>Taller de xmpp</a></td>
+        </tr>
+        </table><p><a href='pagina-14.html'>Anterior</a></p>
+<!-- Pie de página -->
+</table>
+<div class="footer">
+  <p>Another fine release by Lorpedal || Code by Selairi <a href="https://github.com/selairi/planetlibre" target="_blank">(Github)</a></p>
+</div>
+<table style="border: 5px solid #f1f1f1; width: 100%; text-align: center;">
+        <tr>
+                <th>IP:</th>
+                <td id="ip"></td>
+        </tr>
+        <tr>
+                <th>Proveedor internet:</th>
+                <td id="proveedor"></td>
+        </tr>
+        <tr>
+                <th>Continente:</th>
+                <td id="continente"></td>
+        </tr>
+        <tr>
+                <th>País:</th>
+                <td id="pais"></td>
+        </tr>
+        <tr>
+                <th>Región:</th>
+                <td id="region"></td>
+        </tr>
+        <tr>
+                <th>Ciudad:</th>
+                <td id="ciudad"></td>
+        </tr>
+        <tr>
+                <th>Código postal:</th>
+                <td id="postal"></td>
+        </tr>
+        <tr>
+                <th>Zona horaria:</th>
+                <td id="horario"></td>
+        </tr>
+</table>
+<script>
+var scrollToTopBtn = document.querySelector(".scrollToTopBtn")
+var rootElement = document.documentElement
+
+function handleScroll() {
+  // Do something on scroll
+  var scrollTotal = rootElement.scrollHeight - rootElement.clientHeight
+  if ((rootElement.scrollTop / scrollTotal ) > 0.10) {
+    // Show button
+    scrollToTopBtn.classList.add("showBtn")
+  } else {
+    // Hide button
+    scrollToTopBtn.classList.remove("showBtn")
+  }
+}
+
+function scrollToTop() {
+  // Scroll to top logic
+  rootElement.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  })
+}
+scrollToTopBtn.addEventListener("click", scrollToTop)
+document.addEventListener("scroll", handleScroll)
+
+function httpGetAsync(url, callback) {
+  var xmlHttp = new XMLHttpRequest();
+  xmlHttp.onreadystatechange = function() {
+    if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+      callback(xmlHttp.responseText);
+  }
+  xmlHttp.open("GET", url, true); // true for asynchronous
+  xmlHttp.send(null);
+}
+
+var url = "https://ipgeolocation.abstractapi.com/v1/?api_key=4efddbe3eb0a467f88bc18ead50bd098"
+
+httpGetAsync(url, function(data) {
+json = JSON.parse(data)
+element = document.getElementById('ip');
+element.innerHTML = json.ip_address;
+element = document.getElementById('proveedor');
+element.innerHTML = json.connection.autonomous_system_organization;
+element = document.getElementById('horario');
+element.innerHTML = json.timezone.name;
+element = document.getElementById('pais');
+element.innerHTML = json.country;
+element = document.getElementById('region');
+element.innerHTML = json.region;
+element = document.getElementById('ciudad');
+element.innerHTML = json.city;
+element = document.getElementById('postal');
+element.innerHTML = json.postal_code;
+element = document.getElementById('continente');
+element.innerHTML = json.continent;
+})
+</script>
+</body>
+</html>
