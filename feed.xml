@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Giant Keyboard Is Just Our Type</title>
+            <link>https://hackaday.com/2022/08/27/giant-keyboard-is-just-our-type/</link>
+            <description>Giant Keyboard Is Just Our Type</description>
+            <pubDate>Sun Aug 28 05:00:22 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Raspberry Pi Handheld Computer You Might Want To Use</title>
+            <link>https://hackaday.com/2022/08/27/a-raspberry-pi-handheld-computer-you-might-want-to-use/</link>
+            <description>A Raspberry Pi Handheld Computer You Might Want To Use</description>
+            <pubDate>Sun Aug 28 02:00:27 2022</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: 3D Printing a Cool, Custom Monitor Stand</title>
+            <link>https://blog.adafruit.com/2022/08/27/3d-printing-a-cool-custom-monitor-stand/</link>
+            <description>3D Printing a Cool, Custom Monitor Stand</description>
+            <pubDate>Sat Aug 27 23:00:44 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: YouTube Like It’s 1970s France with this Minitel-VCR Mashup</title>
+            <link>https://hackaday.com/2022/08/27/youtube-like-its-1970s-france-with-this-minitel-vcr-mashup/</link>
+            <description>YouTube Like It’s 1970s France with this Minitel-VCR Mashup</description>
+            <pubDate>Sat Aug 27 23:00:13 2022</pubDate>
+            </item>
+            <item>
             <title>Changelog: YouTube now controls its hardware roadmap</title>
             <link>https://www.techspot.com/news/95774-end-moore-law-forced-youtube-make-own-video.html</link>
             <description>YouTube now controls its hardware roadmap</description>
@@ -18,10 +42,22 @@
             <pubDate>Sat Aug 27 21:48:29 2022</pubDate>
             </item>
             <item>
+            <title>LiGNUx: El editor fotográfico Gimp acaba de publicar su versión 2.99.12</title>
+            <link>https://lignux.com/el-editor-fotografico-gimp-acaba-de-publicar-su-version-2-99-12/</link>
+            <description>El editor fotográfico Gimp acaba de publicar su versión 2.99.12</description>
+            <pubDate>Sat Aug 27 21:30:23 2022</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: Agregando música a un video con Avidemux</title>
             <link>https://www.distritotux.cl/2022/08/agregando-musica-un-video-con-avidemux.html</link>
             <description>Agregando música a un video con Avidemux</description>
             <pubDate>Sat Aug 27 21:20:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Changelog: JS Party 240: Bringing the vibe</title>
+            <link>https://changelog.com/jsparty/240</link>
+            <description>JS Party 240: Bringing the vibe</description>
+            <pubDate>Sat Aug 27 21:00:00 2022</pubDate>
             </item>
             <item>
             <title>Changelog: Use TouchID to authenticate sudo on macOS</title>
@@ -34,41 +70,5 @@
             <link>https://hackaday.com/2022/08/27/2022-hackaday-prize-boondock-echo-connects-your-radios-with-the-cloud/</link>
             <description>2022 Hackaday Prize: Boondock Echo Connects Your Radios with the Cloud</description>
             <pubDate>Sat Aug 27 20:00:04 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Debian debate para decidir qué hacer con el firmware non-free</title>
-            <link>https://www.linuxadictos.com/debian-debate-para-decidir-que-hacer-con-el-firmware-non-free.html</link>
-            <description>Debian debate para decidir qué hacer con el firmware non-free</description>
-            <pubDate>Sat Aug 27 19:13:22 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Move fast or die</title>
-            <link>https://blog.southparkcommons.com/move-fast-or-die/</link>
-            <description>Move fast or die</description>
-            <pubDate>Sat Aug 27 18:49:15 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La última apuesta del transporte marítimo en su lucha para ser sostenible pasa por... volver a los veleros</title>
-            <link>https://www.xataka.com/movilidad/ultima-apuesta-transporte-maritimo-su-lucha-para-ser-sostenible-pasa-volver-a-veleros</link>
-            <description>La última apuesta del transporte marítimo en su lucha para ser sostenible pasa por... volver a los veleros</description>
-            <pubDate>Sat Aug 27 18:01:10 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Qué diferencias hay entre un router y un repetidor? Lo que debes saber</title>
-            <link>https://www.adslzone.net/noticias/redes/diferencias-entre-router-repetidor/</link>
-            <description>¿Qué diferencias hay entre un router y un repetidor? Lo que debes saber</description>
-            <pubDate>Sat Aug 27 18:00:26 2022</pubDate>
-            </item>
-            <item>
-            <title>Pymes y Autonomos: Así se va a implantar la factura electrónica en empresas y autónomos con la llegada de la Ley de Creación y Crecimiento de Empresas</title>
-            <link>https://www.pymesyautonomos.com/administracion-finanzas/asi-se-va-a-implantar-factura-electronica-empresas-autonomos-llegada-ley-creacion-crecimiento-empresas</link>
-            <description>Así se va a implantar la factura electrónica en empresas y autónomos con la llegada de la Ley de Creación y Crecimiento de Empresas</description>
-            <pubDate>Sat Aug 27 17:21:58 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Comprueba qué version Wi-Fi soporta tu tarjeta de red inalámbrica</title>
-            <link>https://www.redeszone.net/noticias/wifi/comprueba-version-wi-fi-soporta-tarjeta/</link>
-            <description>Comprueba qué version Wi-Fi soporta tu tarjeta de red inalámbrica</description>
-            <pubDate>Sat Aug 27 17:06:43 2022</pubDate>
             </item></channel>
 </rss>
