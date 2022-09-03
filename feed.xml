@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: 3D Printing a Prosthetic-Compatible Golf Club</title>
+            <link>https://hackaday.com/2022/09/02/3d-printing-a-prosthetic-compatible-golf-club/</link>
+            <description>3D Printing a Prosthetic-Compatible Golf Club</description>
+            <pubDate>Sat Sep  3 05:00:38 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Ex-ejecutivo de Twitter destapa el pésimo estado de ciberseguridad de la plataforma</title>
+            <link>https://unaaldia.hispasec.com/2022/09/ex-ejecutivo-de-twitter-destapa-el-pesimo-estado-de-ciberseguridad-de-la-plataforma.html</link>
+            <description>Ex-ejecutivo de Twitter destapa el pésimo estado de ciberseguridad de la plataforma</description>
+            <pubDate>Sat Sep  3 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Samsung Admits Data Breach that Exposed Details of Some U.S. Customers</title>
+            <link>https://thehackernews.com/2022/09/samsung-admits-data-breach-that-exposed.html</link>
+            <description>Samsung Admits Data Breach that Exposed Details of Some U.S. Customers</description>
+            <pubDate>Sat Sep  3 04:17:00 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Google Release Urgent Chrome Update to Patch New Zero-Day Vulnerability</title>
+            <link>https://thehackernews.com/2022/09/google-release-urgent-chrome-update-to.html</link>
+            <description>Google Release Urgent Chrome Update to Patch New Zero-Day Vulnerability</description>
+            <pubDate>Sat Sep  3 03:56:00 2022</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: What Makes Planetary Gear Boxes So Amazing</title>
+            <link>https://blog.adafruit.com/2022/09/02/what-makes-planetary-gear-boxes-so-amazing/</link>
+            <description>What Makes Planetary Gear Boxes So Amazing</description>
+            <pubDate>Sat Sep  3 02:30:26 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Fixing a Hot Shop, With Science</title>
+            <link>https://hackaday.com/2022/09/02/fixing-a-hot-shop-with-science/</link>
+            <description>Fixing a Hot Shop, With Science</description>
+            <pubDate>Sat Sep  3 02:00:45 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Cutting The Grass With Frickin’ Lasers</title>
+            <link>https://hackaday.com/2022/09/02/cutting-the-grass-with-frickin-lasers/</link>
+            <description>Cutting The Grass With Frickin’ Lasers</description>
+            <pubDate>Fri Sep  2 23:00:26 2022</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Flutter: ¿Qué es, cómo instalarlo y ejecutarlo sobre GNU/Linux?</title>
+            <link>https://ubunlog.com/flutter-linux/</link>
+            <description>Flutter: ¿Qué es, cómo instalarlo y ejecutarlo sobre GNU/Linux?</description>
+            <pubDate>Fri Sep  2 22:19:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Crypto.com le transfirió 7 millones de dólares en lugar de 70 dólares y se compró una mansión: ahora está en serios problemas</title>
+            <link>https://www.xataka.com/criptomonedas/crypto-com-le-transfirio-70-millones-dolares-lugar-70-dolares-se-compro-mansion-ahora-esta-serios-problemas</link>
+            <description>Crypto.com le transfirió 7 millones de dólares en lugar de 70 dólares y se compró una mansión: ahora está en serios problemas</description>
+            <pubDate>Fri Sep  2 22:01:09 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: ¿Cómo instalar Kali Linux en Virtual Box?</title>
             <link>https://lignux.com/como-instalar-kali-linux-en-virtual-box/</link>
             <description>¿Cómo instalar Kali Linux en Virtual Box?</description>
@@ -16,59 +70,5 @@
             <link>https://www.xataka.com/otros/este-fregadero-se-hace-invisible-cuando-usas-se-controla-pantalla-tactil</link>
             <description>Este fregadero se hace "invisible" cuando lo usas y se controla desde una pantalla táctil</description>
             <pubDate>Fri Sep  2 20:31:18 2022</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Cool 3D Prints for Fans of Roleplaying Game Dice</title>
-            <link>https://blog.adafruit.com/2022/09/02/cool-3d-prints-for-fans-of-roleplaying-game-dice/</link>
-            <description>Cool 3D Prints for Fans of Roleplaying Game Dice</description>
-            <pubDate>Fri Sep  2 20:30:45 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: The Changelog 504: Building actually maintainable software ♻️</title>
-            <link>https://changelog.com/podcast/504</link>
-            <description>The Changelog 504: Building actually maintainable software ♻️</description>
-            <pubDate>Fri Sep  2 20:30:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: El escritorio Unity retorna a Ubuntu como distribución Linux separada pero oficial, con respaldo de Canonical</title>
-            <link>https://www.genbeta.com/linux/escritorio-unity-retorna-a-ubuntu-como-distribucion-linux-separada-oficial-respaldo-canonical</link>
-            <description>El escritorio Unity retorna a Ubuntu como distribución Linux separada pero oficial, con respaldo de Canonical</description>
-            <pubDate>Fri Sep  2 20:11:18 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La TDT en peligro: el documento que se ha firmado para salvarla</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/tdt-peligro-documento-call-to-europe/</link>
-            <description>La TDT en peligro: el documento que se ha firmado para salvarla</description>
-            <pubDate>Fri Sep  2 20:02:50 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Magnetic Gearbox Can Go Fast But Not Hard</title>
-            <link>https://hackaday.com/2022/09/02/magnetic-gearbox-can-go-fast-but-not-hard/</link>
-            <description>Magnetic Gearbox Can Go Fast But Not Hard</description>
-            <pubDate>Fri Sep  2 20:00:36 2022</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Blade-runner-inspired VK-Pocket camera #piday #raspberrypi @Raspberry_Pi</title>
-            <link>https://blog.adafruit.com/2022/09/02/blade-runner-inspired-vk-pocket-camera-piday-raspberrypi-raspberry_pi/</link>
-            <description>Blade-runner-inspired VK-Pocket camera #piday #raspberrypi @Raspberry_Pi</description>
-            <pubDate>Fri Sep  2 20:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Apple busca 40 trabajadores en España para integrar su equipo de inteligencia artificial, el mayor de Europa</title>
-            <link>https://www.genbeta.com/actualidad/apple-busca-40-trabajadores-espana-para-integrar-su-equipo-inteligencia-artificial-mayor-europa</link>
-            <description>Apple busca 40 trabajadores en España para integrar su equipo de inteligencia artificial, el mayor de Europa</description>
-            <pubDate>Fri Sep  2 19:34:51 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Alguien ha creado Lexica, un buscador de imágenes generadas por Stable Diffusion: así puedes aprovecharlo</title>
-            <link>https://www.xataka.com/robotica-e-ia/alguien-ha-creado-lexica-buscador-imagenes-generadas-stable-diffusion-asi-puedes-aprovecharlo</link>
-            <description>Alguien ha creado Lexica, un buscador de imágenes generadas por Stable Diffusion: así puedes aprovecharlo</description>
-            <pubDate>Fri Sep  2 19:01:18 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así funcionan los drones de la DGT: esta es la distancia a la que te pueden multar</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/asi-funcionan-drones-dgt-distancia-multar/</link>
-            <description>Así funcionan los drones de la DGT: esta es la distancia a la que te pueden multar</description>
-            <pubDate>Fri Sep  2 19:00:26 2022</pubDate>
             </item></channel>
 </rss>
