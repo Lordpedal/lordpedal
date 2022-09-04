@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Pretty Pico Macropad Eases Transition Back to Office</title>
+            <link>https://hackaday.com/2022/09/03/pretty-pico-macropad-eases-transition-back-to-office/</link>
+            <description>Pretty Pico Macropad Eases Transition Back to Office</description>
+            <pubDate>Sun Sep  4 05:00:27 2022</pubDate>
+            </item>
+            <item>
+            <title>Una al Día: Ejecución automática de código al descargar un paquete del gestor de paquetes de Python</title>
+            <link>https://unaaldia.hispasec.com/2022/09/ejecucion-automatica-de-codigo-al-descargar-un-paquete-del-gestor-de-paquetes-de-python.html</link>
+            <description>Ejecución automática de código al descargar un paquete del gestor de paquetes de Python</description>
+            <pubDate>Sun Sep  4 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Machine Learning App Remembers Names So You Don’t Have To</title>
+            <link>https://hackaday.com/2022/09/03/machine-learning-app-remembers-names-so-you-dont-have-to/</link>
+            <description>Machine Learning App Remembers Names So You Don’t Have To</description>
+            <pubDate>Sun Sep  4 02:00:10 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Nevermore Is What You Get When Engineers Design Air Filters for 3D Printers</title>
+            <link>https://hackaday.com/2022/09/03/nevermore-is-what-you-get-when-engineers-design-air-filters-for-3d-printers/</link>
+            <description>Nevermore Is What You Get When Engineers Design Air Filters for 3D Printers</description>
+            <pubDate>Sat Sep  3 23:00:46 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Czkawka 5.0.2: App para eliminar archivos con una nueva versión</title>
+            <link>https://blog.desdelinux.net/czkawka-5-0-2/</link>
+            <description>Czkawka 5.0.2: App para eliminar archivos con una nueva versión</description>
+            <pubDate>Sat Sep  3 21:37:31 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El gestor y editor de imágenes DigiKam alcanza la versión 7.8.0</title>
             <link>https://lignux.com/el-gestor-y-editor-de-imagenes-digikam-alcanza-la-version-7-8-0/</link>
             <description>El gestor y editor de imágenes DigiKam alcanza la versión 7.8.0</description>
@@ -40,35 +70,5 @@
             <link>https://www.redeszone.net/noticias/wifi/ver-redes-wifi-historial/</link>
             <description>Cómo ver todas las redes WiFi donde te has conectado con tu PC</description>
             <pubDate>Sat Sep  3 17:15:55 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La taquilla de lo último del creador de 'Mad Max' ha sido catastrófica, pero 'Tres mil años esperándote' es una joya del fantástico</title>
-            <link>https://www.xataka.com/cine-y-tv/taquilla-ultimo-creador-mad-max-ha-sido-catastrofica-tres-mil-anos-esperandote-joya-fantastico</link>
-            <description>La taquilla de lo último del creador de 'Mad Max' ha sido catastrófica, pero 'Tres mil años esperándote' es una joya del fantástico</description>
-            <pubDate>Sat Sep  3 17:01:26 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: This Pico-W IoT Starter Project Gets You Into Home Assistant Quick As A Flash</title>
-            <link>https://hackaday.com/2022/09/03/this-pico-w-iot-starter-project-gets-you-into-home-assistant-quick-as-a-flash/</link>
-            <description>This Pico-W IoT Starter Project Gets You Into Home Assistant Quick As A Flash</description>
-            <pubDate>Sat Sep  3 17:00:25 2022</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: New Layer by Layer! Kumiko Inspired CNC Engraving via @ecken</title>
-            <link>https://blog.adafruit.com/2022/09/03/new-layer-by-layer-kumiko-inspired-cnc-engraving-via-ecken/</link>
-            <description>New Layer by Layer! Kumiko Inspired CNC Engraving via @ecken</description>
-            <pubDate>Sat Sep  3 16:45:53 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Los anillos de Poder, Andor y otros estrenos que no puedes perderte en septiembre</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/mejores-series-septiembre-2022/</link>
-            <description>Los anillos de Poder, Andor y otros estrenos que no puedes perderte en septiembre</description>
-            <pubDate>Sat Sep  3 16:03:32 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Cybersyn, el loco proyecto de Salvador Allende que introdujo en Chile un Internet pionero y "socialista"</title>
-            <link>https://www.xataka.com/historia-tecnologica/cybersyn-loco-proyecto-salvador-allende-que-introdujo-chile-internet-pionero-socialista</link>
-            <description>Cybersyn, el loco proyecto de Salvador Allende que introdujo en Chile un Internet pionero y "socialista"</description>
-            <pubDate>Sat Sep  3 16:01:25 2022</pubDate>
             </item></channel>
 </rss>
