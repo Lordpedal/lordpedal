@@ -81,7 +81,7 @@ rtp://@239.0.5.143:8208
 rtp://@239.0.0.168:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="140" tvg-id="4925.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/4925.jpg",Negocios TV
 rtp://@239.0.0.85:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="151" tvg-id="2275.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2275.jpg",Canal Sur Andalucía
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="151" tvg-id="2275.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2275.jpg",Canal Sur Andalucía.
 rtp://@239.0.0.1:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="152" tvg-id="2273.movistar.tv" tvh-tags="Movistar TV|SDTV|Programas" tvg-logo="https://lordpedal.github.io/lordpedal/images/2273.jpg",TVG Europa
 rtp://@239.0.3.37:8208
