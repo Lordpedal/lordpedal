@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: TRS-80 Model II Lives Again</title>
+            <link>https://hackaday.com/2022/09/17/trs-80-model-ii-lives-again/</link>
+            <description>TRS-80 Model II Lives Again</description>
+            <pubDate>Sun Sep 18 05:00:51 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The CPSC Says Plug To Socket, Not Plug To Plug, Please</title>
+            <link>https://hackaday.com/2022/09/17/the-cpsc-says-plug-to-socket-not-plug-to-plug-please/</link>
+            <description>The CPSC Says Plug To Socket, Not Plug To Plug, Please</description>
+            <pubDate>Sun Sep 18 02:00:06 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: DIY Haptic-Enabled VR Gun Hits All The Targets</title>
+            <link>https://hackaday.com/2022/09/17/diy-haptic-enabled-vr-gun-hits-all-the-targets/</link>
+            <description>DIY Haptic-Enabled VR Gun Hits All The Targets</description>
+            <pubDate>Sat Sep 17 23:00:49 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Wine acaba de anunciar su versión 7.17</title>
             <link>https://lignux.com/wine-acaba-de-anunciar-su-version-7-17/</link>
             <description>Wine acaba de anunciar su versión 7.17</description>
@@ -30,6 +48,12 @@
             <pubDate>Sat Sep 17 18:04:01 2022</pubDate>
             </item>
             <item>
+            <title>Xataka: Dubái se ha cansado de tirar dinero en edificios fastuosos. Así que ahora se va a montar su propia Luna</title>
+            <link>https://www.xataka.com/otros/dubai-se-ha-cansado-tirar-dinero-edificios-fastuosos-asi-que-ahora-se-va-a-montar-su-propia-luna</link>
+            <description>Dubái se ha cansado de tirar dinero en edificios fastuosos. Así que ahora se va a montar su propia Luna</description>
+            <pubDate>Sat Sep 17 18:00:37 2022</pubDate>
+            </item>
+            <item>
             <title>RedesZone: En estos casos no sirve de nada que uses un repetidor WiFi</title>
             <link>https://www.redeszone.net/noticias/wifi/casos-usar-repetidor-wifi-error/</link>
             <description>En estos casos no sirve de nada que uses un repetidor WiFi</description>
@@ -42,33 +66,9 @@
             <pubDate>Sat Sep 17 17:02:01 2022</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: 3D Printable Bearings That Actually Work, No CAD Tweaking Required</title>
-            <link>https://hackaday.com/2022/09/17/3d-printable-bearings-that-actually-work-no-cad-tweaking-required/</link>
-            <description>3D Printable Bearings That Actually Work, No CAD Tweaking Required</description>
-            <pubDate>Sat Sep 17 17:00:22 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: He comprado el iPhone 14 Pro y me siento idiota</title>
-            <link>https://www.adslzone.net/noticias/marcas/analisis-iphone-14-pro/</link>
-            <description>He comprado el iPhone 14 Pro y me siento idiota</description>
-            <pubDate>Sat Sep 17 17:00:09 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Descubre historias increíbles en estas docuseries de National Geographic</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/mejores-docuseries-national-geographic/</link>
-            <description>Descubre historias increíbles en estas docuseries de National Geographic</description>
-            <pubDate>Sat Sep 17 16:03:09 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Cuidado si usas VPN al navegar, te puedes quedar sin tarifa de datos</title>
-            <link>https://www.redeszone.net/noticias/redes/datos-consumo-vpn-navegar-internet/</link>
-            <description>Cuidado si usas VPN al navegar, te puedes quedar sin tarifa de datos</description>
-            <pubDate>Sat Sep 17 14:09:51 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Busca lo que ves con Google Lens: todos los usos que puedes darle</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/todos-usos-puedes-darle-google-lens/</link>
-            <description>Busca lo que ves con Google Lens: todos los usos que puedes darle</description>
-            <pubDate>Sat Sep 17 14:00:43 2022</pubDate>
+            <title>Xataka: El anime 'Cyberpunk: Edgerunners' de Netflix es a todo lo que el videojuego de CD Projekt Red aspiraba y se quedó a medias</title>
+            <link>https://www.xataka.com/cine-y-tv/anime-cyberpunk-edgerunners-netflix-a-todo-que-videojuego-cd-projekt-red-aspiraba-se-quedo-a-medias</link>
+            <description>El anime 'Cyberpunk: Edgerunners' de Netflix es a todo lo que el videojuego de CD Projekt Red aspiraba y se quedó a medias</description>
+            <pubDate>Sat Sep 17 17:00:36 2022</pubDate>
             </item></channel>
 </rss>
