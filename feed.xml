@@ -6,9 +6,63 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>Blog – Hackaday: 2022 Cyberdeck Challenge: Cyberpack VR</title>
+            <title>Noticias de Linux y tecnología - LinuxParty: Dinamarca y Alemania ahora construyen el túnel sumergido más largo del mundo</title>
+            <link>https://www.linuxparty.es/2-amd/11223-dinamarca-y-alemania-ahora-construyen-el-tunel-sumergido-mas-largo-del-mundo.html</link>
+            <description>Dinamarca y Alemania ahora construyen el túnel sumergido más largo del mundo</description>
+            <pubDate>Mon Sep 26 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Atareao: Preguntas y el maldito cron</title>
+            <link>https://atareao.es/podcast/preguntas-y-el-maldito-cron/</link>
+            <description>Preguntas y el maldito cron</description>
+            <pubDate>Mon Sep 26 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Ukraine Arrests Cybercrime Group for Selling Data of 30 Million People</title>
+            <link>https://thehackernews.com/2022/09/ukraine-arrests-cybercrime-group-for.html</link>
+            <description>Ukraine Arrests Cybercrime Group for Selling Data of 30 Million People</description>
+            <pubDate>Mon Sep 26 05:04:00 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: El tamaño no importa: las mejores webs para enviar archivos grandes por Internet</title>
+            <link>https://www.adslzone.net/noticias/internet/mejores-webs-enviar-archivos-grandes-sin-limitacion-tamano/</link>
+            <description>El tamaño no importa: las mejores webs para enviar archivos grandes por Internet</description>
+            <pubDate>Mon Sep 26 05:02:17 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: This Found-Sound Organ Was Made with Python and a Laser Cutter</title>
+            <link>https://hackaday.com/2022/09/25/this-found-sound-organ-was-made-with-python-and-a-laser-cutter/</link>
+            <description>This Found-Sound Organ Was Made with Python and a Laser Cutter</description>
+            <pubDate>Mon Sep 26 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Cambiar el idioma en Linux Mint</title>
+            <link>https://www.cambiatealinux.com/cambiar-el-idioma-en-linux-mint</link>
+            <description>Cambiar el idioma en Linux Mint</description>
+            <pubDate>Mon Sep 26 03:47:52 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Empty Spools Make Useful Tools, Like Counters</title>
+            <link>https://hackaday.com/2022/09/25/empty-spools-make-useful-tools-like-counters/</link>
+            <description>Empty Spools Make Useful Tools, Like Counters</description>
+            <pubDate>Mon Sep 26 02:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: September 25, 2022</title>
+            <link>https://hackaday.com/2022/09/25/hackaday-links-september-25-2022/</link>
+            <description>Hackaday Links: September 25, 2022</description>
+            <pubDate>Sun Sep 25 23:00:30 2022</pubDate>
+            </item>
+            <item>
+            <title>LiGNUx: El gestor de portapapeles avanzado CopyQ acaba de publicar su versión 6.3.1</title>
+            <link>https://lignux.com/el-gestor-de-portapapeles-avanzado-copyq-acaba-de-publicar-su-version-6-3-1/</link>
+            <description>El gestor de portapapeles avanzado CopyQ acaba de publicar su versión 6.3.1</description>
+            <pubDate>Sun Sep 25 21:30:05 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 2022 Cyberdeck Contest: Cyberpack VR</title>
             <link>https://hackaday.com/2022/09/25/2022-cyberdeck-challenge-cyberpack-vr/</link>
-            <description>2022 Cyberdeck Challenge: Cyberpack VR</description>
+            <description>2022 Cyberdeck Contest: Cyberpack VR</description>
             <pubDate>Sun Sep 25 20:00:00 2022</pubDate>
             </item>
             <item>
@@ -16,59 +70,5 @@
             <link>https://www.xataka.com/vehiculos/nuevo-crucero-grande-mundo-como-pequena-ciudad-mar-asi-wonder-of-the-seas</link>
             <description>El nuevo crucero más grande del mundo es como una pequeña ciudad sobre el mar: así es el Wonder of the Seas</description>
             <pubDate>Sun Sep 25 19:01:54 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Unos científicos están trabajando en un proyecto mucho más serio de lo que parece: robots que se ríen</title>
-            <link>https://www.xataka.com/robotica-e-ia/unos-cientificos-estan-trabajando-proyecto-mucho-serio-que-parece-robots-que-rien</link>
-            <description>Unos científicos están trabajando en un proyecto mucho más serio de lo que parece: robots que se ríen</description>
-            <pubDate>Sun Sep 25 18:01:54 2022</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Estos son los potenciales beneficios de la creatina aunque no hagas ejercicio</title>
-            <link>https://www.vitonica.com/wellness/estos-potenciales-beneficios-creatina-no-hagas-ejercicio</link>
-            <description>Estos son los potenciales beneficios de la creatina aunque no hagas ejercicio</description>
-            <pubDate>Sun Sep 25 18:01:54 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Qué podemos hacer si Windows no arranca?</title>
-            <link>https://www.adslzone.net/noticias/windows/posibles-soluciones-windows-no-arranca/</link>
-            <description>¿Qué podemos hacer si Windows no arranca?</description>
-            <pubDate>Sun Sep 25 18:00:07 2022</pubDate>
-            </item>
-            <item>
-            <title>Ubuntu Buzz !: LibreOffice Writer: Mail Merge Made Easy</title>
-            <link>http://www.ubuntubuzz.com/2022/09/libreoffice-writer-mail-merge-made-easy.html</link>
-            <description>LibreOffice Writer: Mail Merge Made Easy</description>
-            <pubDate>Sun Sep 25 17:59:41 2022</pubDate>
-            </item>
-            <item>
-            <title>El Blog Salmón: El Moonswatch una jugada maestra para revitalizar la industria relojera suiza</title>
-            <link>https://www.elblogsalmon.com/empresas/moonswatch-jugada-maestra-para-revitalizar-industria-relojera-suiza</link>
-            <description>El Moonswatch una jugada maestra para revitalizar la industria relojera suiza</description>
-            <pubDate>Sun Sep 25 17:19:53 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Qué dispositivos puedes controlar por voz en tu hogar con Alexa</title>
-            <link>https://www.redeszone.net/noticias/hogar/controlar-dispositivos-voz-hogar-alexa/</link>
-            <description>Qué dispositivos puedes controlar por voz en tu hogar con Alexa</description>
-            <pubDate>Sun Sep 25 17:09:05 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El "Ojo del Salmón", el fascinante museo flotante que podrás visitar solo si navegas hasta los fiordos noruegos</title>
-            <link>https://www.xataka.com/otros/ojo-salmon-fascinante-museo-flotante-que-podras-visitar-solo-navegas-fiordos-noruegos</link>
-            <description>El "Ojo del Salmón", el fascinante museo flotante que podrás visitar solo si navegas hasta los fiordos noruegos</description>
-            <pubDate>Sun Sep 25 17:01:54 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Giving Environmental Readouts Some Personality</title>
-            <link>https://hackaday.com/2022/09/25/giving-environmental-readouts-some-personality/</link>
-            <description>Giving Environmental Readouts Some Personality</description>
-            <pubDate>Sun Sep 25 17:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El coche eléctrico tiene otro problema en España: faltan enchufes ultrarrápidos y los que hay no sirven</title>
-            <link>https://www.xataka.com/movilidad/coche-electrico-tiene-otro-problema-espana-faltan-enchufes-ultrarrapidos-que-hay-no-sirven</link>
-            <description>El coche eléctrico tiene otro problema en España: faltan enchufes ultrarrápidos y los que hay no sirven</description>
-            <pubDate>Sun Sep 25 16:31:54 2022</pubDate>
             </item></channel>
 </rss>
