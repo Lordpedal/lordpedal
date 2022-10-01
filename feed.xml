@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A High-Powered Vacuum Cleaner For Tough Jobs</title>
+            <link>https://hackaday.com/2022/09/30/a-high-powered-vacuum-cleaner-for-tough-jobs/</link>
+            <description>A High-Powered Vacuum Cleaner For Tough Jobs</description>
+            <pubDate>Sat Oct  1 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Better than Ubuntu? 11 Best Linux Distros for Ubuntu Lovers</title>
+            <link>https://itsfoss.com/best-ubuntu-based-linux-distros/</link>
+            <description>Better than Ubuntu? 11 Best Linux Distros for Ubuntu Lovers</description>
+            <pubDate>Sat Oct  1 03:30:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Make Your Own Color Gradient 3D Printing Filament</title>
+            <link>https://hackaday.com/2022/09/30/make-your-own-color-gradient-3d-printing-filament/</link>
+            <description>Make Your Own Color Gradient 3D Printing Filament</description>
+            <pubDate>Sat Oct  1 02:00:22 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Controller For 946C Hotplate Adds Reflow Profile Upload Over BLE</title>
+            <link>https://hackaday.com/2022/09/30/controller-for-946c-hotplate-adds-reflow-profile-upload-over-ble/</link>
+            <description>Controller For 946C Hotplate Adds Reflow Profile Upload Over BLE</description>
+            <pubDate>Fri Sep 30 23:00:54 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Tipos de usuarios de Linux (Humor)</title>
+            <link>https://www.linuxadictos.com/tipos-de-usuarios-de-linux-humor.html</link>
+            <description>Tipos de usuarios de Linux (Humor)</description>
+            <pubDate>Fri Sep 30 23:00:03 2022</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Google pospone la finalización del soporte de la segunda versión del manifiesto</title>
             <link>https://www.linuxadictos.com/google-pospone-la-finalizacion-del-soporte-de-la-segunda-version-del-manifiesto.html</link>
             <description>Google pospone la finalización del soporte de la segunda versión del manifiesto</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/redes/google-fiber-fibra-optica-100-gbps/</link>
             <description>La fibra de 100 gigas está lista y una operadora incluso planea lanzarla ya</description>
             <pubDate>Fri Sep 30 20:01:50 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: The Changelog 508: A guided tour through ID3 esoterica</title>
-            <link>https://changelog.com/podcast/508</link>
-            <description>The Changelog 508: A guided tour through ID3 esoterica</description>
-            <pubDate>Fri Sep 30 20:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 2022 Cyberdeck Contest: The Oscilloscope Deck</title>
-            <link>https://hackaday.com/2022/09/30/2022-cyberdeck-contest-the-oscilloscope-deck/</link>
-            <description>2022 Cyberdeck Contest: The Oscilloscope Deck</description>
-            <pubDate>Fri Sep 30 20:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Why aren't there more programming languages startups?</title>
-            <link>https://www.akitasoftware.com/blog-posts/why-arent-there-more-programming-languages-startups</link>
-            <description>Why aren't there more programming languages startups?</description>
-            <pubDate>Fri Sep 30 19:50:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Ya esta disponible para pruebas la beta de Ubuntu 22.10 «Kinetic Kudu»</title>
-            <link>https://ubunlog.com/ya-esta-disponible-para-pruebas-la-beta-de-ubuntu-22-10-kinetic-kudu/</link>
-            <description>Ya esta disponible para pruebas la beta de Ubuntu 22.10 «Kinetic Kudu»</description>
-            <pubDate>Fri Sep 30 19:20:06 2022</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: NEW GUIDE: CircuitPython Trombone Champ Controller #AdafruitLearningSystem @Adafruit @BlitzCityDIY</title>
-            <link>https://blog.adafruit.com/2022/09/30/new-guide-circuitpython-trombone-champ-controller-adafruitlearningsystem-adafruit-blitzcitydiy/</link>
-            <description>NEW GUIDE: CircuitPython Trombone Champ Controller #AdafruitLearningSystem @Adafruit @BlitzCityDIY</description>
-            <pubDate>Fri Sep 30 19:15:38 2022</pubDate>
             </item></channel>
 </rss>
