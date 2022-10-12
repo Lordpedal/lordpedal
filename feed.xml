@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Thrills with an LED “Thriller” Jacket</title>
+            <link>https://hackaday.com/2022/10/11/thrills-with-an-led-thriller-jacket/</link>
+            <description>Thrills with an LED “Thriller” Jacket</description>
+            <pubDate>Wed Oct 12 05:00:20 2022</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Sandbox en Ciberseguridad: Qué Significa el Entorno Aislado</title>
+            <link>https://esgeeks.com/sandbox-que-significa/</link>
+            <description>Sandbox en Ciberseguridad: Qué Significa el Entorno Aislado</description>
+            <pubDate>Wed Oct 12 03:06:22 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Seeing if Cheating at Chess the Hard Way is Even Possible</title>
+            <link>https://hackaday.com/2022/10/11/seeing-if-cheating-at-chess-the-hard-way-is-even-possible/</link>
+            <description>Seeing if Cheating at Chess the Hard Way is Even Possible</description>
+            <pubDate>Wed Oct 12 02:00:50 2022</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Shell Scripting – Tutorial 05: Los Scripts de Bash Shell – Parte 2</title>
+            <link>https://ubunlog.com/shell-scripting-tutorial-05/</link>
+            <description>Shell Scripting – Tutorial 05: Los Scripts de Bash Shell – Parte 2</description>
+            <pubDate>Wed Oct 12 01:29:50 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Express: #156 Linux Express</title>
+            <link>https://podcastlinux.com/posts/linuxexpress/156-Linux-Express/</link>
+            <description>#156 Linux Express</description>
+            <pubDate>Wed Oct 12 00:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Los Mejores Desarrolladores de Software de Juegos de Casino</title>
+            <link>https://esgeeks.com/mejores-desarrolladores-software-casino/</link>
+            <description>Los Mejores Desarrolladores de Software de Juegos de Casino</description>
+            <pubDate>Tue Oct 11 23:40:50 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: ARM Programming by Example</title>
+            <link>https://hackaday.com/2022/10/11/arm-programming-by-example/</link>
+            <description>ARM Programming by Example</description>
+            <pubDate>Tue Oct 11 23:00:34 2022</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Certificación RYF: Para empresas de ordenadores con GNU/Linux</title>
+            <link>https://ubunlog.com/certificacion-ryf/</link>
+            <description>Certificación RYF: Para empresas de ordenadores con GNU/Linux</description>
+            <pubDate>Tue Oct 11 22:46:26 2022</pubDate>
+            </item>
+            <item>
             <title>Luis Llamas: Roslynpad, un editor sencillo para scripts en C#</title>
             <link>https://www.luisllamas.es/roslynpad/</link>
             <description>Roslynpad, un editor sencillo para scripts en C#</description>
@@ -22,53 +70,5 @@
             <link>https://www.linuxadictos.com/vectis-ip-intenta-cambiar-el-estado-de-la-licencia-de-opus-y-convoca-a-un-grupo-de-patentes.html</link>
             <description>Vectis IP intenta cambiar el estado de la licencia de Opus y convoca a un grupo de patentes</description>
             <pubDate>Tue Oct 11 21:15:22 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Meta anuncia que su metaverso llegará a los navegadores web y se integrará con las aplicaciones de Microsoft Office</title>
-            <link>https://www.genbeta.com/actualidad/meta-anuncia-que-su-metaverso-llegara-a-navegadores-web-se-integrara-aplicaciones-microsoft-office</link>
-            <description>Meta anuncia que su metaverso llegará a los navegadores web y se integrará con las aplicaciones de Microsoft Office</description>
-            <pubDate>Tue Oct 11 20:26:20 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Meta Connect: xCloud en gafas Meta Quest, versión web de Horizon Worlds, nuevos juegos VR y más</title>
-            <link>https://www.xataka.com/realidad-virtual-aumentada/meta-connect-xcloud-gafas-meta-quest-version-web-horizon-worlds-nuevos-juegos-vr</link>
-            <description>Meta Connect: xCloud en gafas Meta Quest, versión web de Horizon Worlds, nuevos juegos VR y más</description>
-            <pubDate>Tue Oct 11 20:18:38 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Al descubierto las webs piratas de descarga, streaming e IPTV más famosas del mundo</title>
-            <link>https://www.adslzone.net/noticias/descargas/lista-negra-estados-unidos-2022/</link>
-            <description>Al descubierto las webs piratas de descarga, streaming e IPTV más famosas del mundo</description>
-            <pubDate>Tue Oct 11 20:03:41 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Dumping An eMMC Chip With Many Bodge Wires</title>
-            <link>https://hackaday.com/2022/10/11/dumping-an-emmc-chip-with-many-bodge-wires/</link>
-            <description>Dumping An eMMC Chip With Many Bodge Wires</description>
-            <pubDate>Tue Oct 11 20:00:05 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Lessons learned since posting my salary history publicly</title>
-            <link>https://www.jvt.me/posts/2022/09/21/year-later-salary-history/</link>
-            <description>Lessons learned since posting my salary history publicly</description>
-            <pubDate>Tue Oct 11 19:37:00 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La DGT aclara definitivamente si se puede fumar en el coche</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/dgt-aclara-puede-fumar-coche/</link>
-            <description>La DGT aclara definitivamente si se puede fumar en el coche</description>
-            <pubDate>Tue Oct 11 19:00:47 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: A Python package to make publication-ready but customizable forest plots</title>
-            <link>https://github.com/lsys/forestplot</link>
-            <description>A Python package to make publication-ready but customizable forest plots</description>
-            <pubDate>Tue Oct 11 18:51:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Hackaday Prize 2022: This Interactive Air Quality Map Makes the Invisible Visible</title>
-            <link>https://hackaday.com/2022/10/11/hackaday-prize-2022-this-interactive-air-quality-map-makes-the-invisible-visible/</link>
-            <description>Hackaday Prize 2022: This Interactive Air Quality Map Makes the Invisible Visible</description>
-            <pubDate>Tue Oct 11 18:30:35 2022</pubDate>
             </item></channel>
 </rss>
