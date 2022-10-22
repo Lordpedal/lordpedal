@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: Critical Flaw Reported in Move Virtual Machine Powering the Aptos Blockchain Network</title>
+            <link>https://thehackernews.com/2022/10/critical-flaw-reported-in-move-virtual.html</link>
+            <description>Critical Flaw Reported in Move Virtual Machine Powering the Aptos Blockchain Network</description>
+            <pubDate>Sat Oct 22 05:42:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Build This Halloween-Themed TensEGGrity Sculpture</title>
+            <link>https://hackaday.com/2022/10/21/build-this-halloween-themed-tenseggrity-sculpture/</link>
+            <description>Build This Halloween-Themed TensEGGrity Sculpture</description>
+            <pubDate>Sat Oct 22 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Direction-Finding With Help From the Steam Deck</title>
+            <link>https://hackaday.com/2022/10/21/direction-finding-with-help-from-the-steam-deck/</link>
+            <description>Direction-Finding With Help From the Steam Deck</description>
+            <pubDate>Sat Oct 22 02:00:10 2022</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: Enter Arrakis: The Fastest Sand Table In The Galaxy</title>
+            <link>https://makezine.com/article/maker-news/enter-arrakis-the-coolest-sand-table/</link>
+            <description>Enter Arrakis: The Fastest Sand Table In The Galaxy</description>
+            <pubDate>Sat Oct 22 01:06:31 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Neodriver Ornament Brightens Up Christmas</title>
+            <link>https://hackaday.com/2022/10/21/neodriver-ornament-brightens-up-christmas/</link>
+            <description>Neodriver Ornament Brightens Up Christmas</description>
+            <pubDate>Fri Oct 21 23:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Changelog: The Changelog 511: The terminal as a platform</title>
+            <link>https://changelog.com/podcast/511</link>
+            <description>The Changelog 511: The terminal as a platform</description>
+            <pubDate>Fri Oct 21 22:00:00 2022</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Identificaron una vulnerabilidad en la biblioteca del algoritmo SHA-3</title>
             <link>https://www.linuxadictos.com/identificaron-una-vulnerabilidad-en-la-biblioteca-del-algoritmo-sha-3.html</link>
             <description>Identificaron una vulnerabilidad en la biblioteca del algoritmo SHA-3</description>
@@ -34,41 +70,5 @@
             <link>https://hackaday.com/2022/10/21/errf-22-recreator-3d-turns-trash-into-filament/</link>
             <description>ERRF 22: Recreator 3D Turns Trash into Filament</description>
             <pubDate>Fri Oct 21 20:00:16 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Cómo cambiar la contraseña (o el PIN) de Windows 11</title>
-            <link>https://www.genbeta.com/paso-a-paso/como-cambiar-contrasena-windows-11</link>
-            <description>Cómo cambiar la contraseña (o el PIN) de Windows 11</description>
-            <pubDate>Fri Oct 21 19:35:22 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Francia exhibe músculo militar con su portaviones nuclear de nueva generación: así será el PA-Ng</title>
-            <link>https://www.xataka.com/otros/francia-exhibe-musculo-militar-su-portaviones-nuclear-nueva-generacion-asi-sera-pa-ng</link>
-            <description>Francia exhibe músculo militar con su portaviones nuclear de nueva generación: así será el PA-Ng</description>
-            <pubDate>Fri Oct 21 19:02:00 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La importancia de sentarse bien al conducir: la DGT te recuerda las 5 reglas a seguir</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/importancia-sentarse-bien-conducir-dgt-recuerda-5-reglas/</link>
-            <description>La importancia de sentarse bien al conducir: la DGT te recuerda las 5 reglas a seguir</description>
-            <pubDate>Fri Oct 21 19:00:30 2022</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Rusticl es un controlador de OpenCL 3 para Mesa muy prometedor</title>
-            <link>https://www.muylinux.com/2022/10/21/rusticl-opencl-3-mesa/</link>
-            <description>Rusticl es un controlador de OpenCL 3 para Mesa muy prometedor</description>
-            <pubDate>Fri Oct 21 18:40:14 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Windows tiene un problema con los archivos basura. La solución de Microsoft: crear su propio CCleaner</title>
-            <link>https://www.xataka.com/aplicaciones/windows-tiene-problema-archivos-basura-solucion-microsoft-crear-su-propio-ccleaner</link>
-            <description>Windows tiene un problema con los archivos basura. La solución de Microsoft: crear su propio CCleaner</description>
-            <pubDate>Fri Oct 21 18:31:19 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Hackaday Prize 2022: Recycled Plastic Skateboard Decks Demonstrate Small-Scale Injection Molding</title>
-            <link>https://hackaday.com/2022/10/21/hackaday-prize-2022-recycled-plastic-skateboard-decks-demonstrate-small-scale-injection-molding/</link>
-            <description>Hackaday Prize 2022: Recycled Plastic Skateboard Decks Demonstrate Small-Scale Injection Molding</description>
-            <pubDate>Fri Oct 21 18:30:00 2022</pubDate>
             </item></channel>
 </rss>
