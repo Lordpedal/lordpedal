@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Building A Local Network with LoRaWAN</title>
+            <link>https://hackaday.com/2022/10/22/building-a-local-network-with-lorawan/</link>
+            <description>Building A Local Network with LoRaWAN</description>
+            <pubDate>Sun Oct 23 05:00:28 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Commodordion Turns Two C64s Into a Single Instrument</title>
+            <link>https://hackaday.com/2022/10/22/the-commodordion-turns-two-c64s-into-a-single-instrument/</link>
+            <description>The Commodordion Turns Two C64s Into a Single Instrument</description>
+            <pubDate>Sun Oct 23 02:00:34 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 2022 Cyberdeck Contest: QAZ Personal Terminal</title>
+            <link>https://hackaday.com/2022/10/22/2022-cyberdeck-contest-qaz-personal-terminal/</link>
+            <description>2022 Cyberdeck Contest: QAZ Personal Terminal</description>
+            <pubDate>Sat Oct 22 23:00:49 2022</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: When [Elon] Says No, Just Reverse Engineer the Starlink Signal</title>
             <link>https://hackaday.com/2022/10/22/when-elon-says-no-just-reverse-engineer-the-starlink-signal/</link>
             <description>When [Elon] Says No, Just Reverse Engineer the Starlink Signal</description>
@@ -52,23 +70,5 @@
             <link>https://hackaday.com/2022/10/22/velomobile-gets-electric-assist/</link>
             <description>Velomobile Gets Electric Assist</description>
             <pubDate>Sat Oct 22 17:00:14 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Tras dos años de interminables retrasos y sobrecostes, la gran crisis de los contenedores encarrila su fin</title>
-            <link>https://www.xataka.com/movilidad/dos-anos-interminables-retrasos-sobrecostes-gran-crisis-contenedores-encarrila-su-fin</link>
-            <description>Tras dos años de interminables retrasos y sobrecostes, la gran crisis de los contenedores encarrila su fin</description>
-            <pubDate>Sat Oct 22 16:31:40 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: 5 películas de miedo en Disney+ que no puedes perderte este Halloween</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/peliculas-miedo-halloween-disney/</link>
-            <description>5 películas de miedo en Disney+ que no puedes perderte este Halloween</description>
-            <pubDate>Sat Oct 22 16:03:36 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Ubuntu Budgie 22.10. Cuando el hábito hace al monje</title>
-            <link>https://www.linuxadictos.com/ubuntu-budgie-22-10-kinetic-kudu.html</link>
-            <description>Ubuntu Budgie 22.10. Cuando el hábito hace al monje</description>
-            <pubDate>Sat Oct 22 16:02:54 2022</pubDate>
             </item></channel>
 </rss>
