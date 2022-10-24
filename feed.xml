@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Atareao: Del portapapeles a un archivo y una de galletas</title>
+            <link>https://atareao.es/podcast/del-portapapeles-a-un-archivo-y-una-de-galletas/</link>
+            <description>Del portapapeles a un archivo y una de galletas</description>
+            <pubDate>Mon Oct 24 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Kazam graba la pantalla en negro en Ubuntu</title>
+            <link>https://www.cambiatealinux.com/kazam-graba-la-pantalla-en-negro-en-ubuntu</link>
+            <description>Kazam graba la pantalla en negro en Ubuntu</description>
+            <pubDate>Mon Oct 24 05:11:56 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Así puedes saber si tu móvil es compatible con 5G</title>
+            <link>https://www.adslzone.net/noticias/redes/saber-compatibilidad-movil-5g/</link>
+            <description>Así puedes saber si tu móvil es compatible con 5G</description>
+            <pubDate>Mon Oct 24 05:03:31 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: DIY Arduino Hearing Test Device</title>
+            <link>https://hackaday.com/2022/10/23/diy-arduino-hearing-test-device/</link>
+            <description>DIY Arduino Hearing Test Device</description>
+            <pubDate>Mon Oct 24 05:00:33 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Sight and Sound Combine in This Engaging Synthesizer Sculpture</title>
+            <link>https://hackaday.com/2022/10/23/sight-and-sound-combine-in-this-engaging-synthesizer-sculpture/</link>
+            <description>Sight and Sound Combine in This Engaging Synthesizer Sculpture</description>
+            <pubDate>Mon Oct 24 02:00:09 2022</pubDate>
+            </item>
+            <item>
+            <title>Freak Spot: Modificar espacio entre párrafos en LibreOffice Writer</title>
+            <link>https://freakspot.net/modificar-espacio-entre-p%C3%A1rrafos-en-LibreOffice-Writer/</link>
+            <description>Modificar espacio entre párrafos en LibreOffice Writer</description>
+            <pubDate>Mon Oct 24 02:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: October 23, 2022</title>
+            <link>https://hackaday.com/2022/10/23/hackaday-links-october-23-2022/</link>
+            <description>Hackaday Links: October 23, 2022</description>
+            <pubDate>Sun Oct 23 23:00:52 2022</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Look Inside This “Meditation Headband” And Integrate It Into Your Own Projects</title>
             <link>https://hackaday.com/2022/10/23/look-inside-this-meditation-headband-and-integrate-it-into-your-own-projects/</link>
             <description>Look Inside This “Meditation Headband” And Integrate It Into Your Own Projects</description>
@@ -28,47 +70,5 @@
             <link>https://www.xataka.com/movilidad/me-das-dinero-publico-no-hay-planta-volkswagen-aplica-sagunto-estrategia-siempre</link>
             <description>O me das dinero público o no hay planta: Volkswagen aplica en Sagunto la misma estrategia de siempre</description>
             <pubDate>Sun Oct 23 18:00:11 2022</pubDate>
-            </item>
-            <item>
-            <title>Magnet: La aplicación de moda en EEUU se basa en que los adolescentes se envíen cumplidos unos a otros</title>
-            <link>https://magnet.xataka.com/un-mundo-fascinante/aplicacion-moda-eeuu-se-basa-que-adolescentes-se-envien-cumplidos-unos-a-otros</link>
-            <description>La aplicación de moda en EEUU se basa en que los adolescentes se envíen cumplidos unos a otros</description>
-            <pubDate>Sun Oct 23 17:15:33 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: No pierdas más tus llaves; así funciona un localizador Bluetooth</title>
-            <link>https://www.redeszone.net/noticias/hogar/llaves-funcionamiento-localizador-bluetooth/</link>
-            <description>No pierdas más tus llaves; así funciona un localizador Bluetooth</description>
-            <pubDate>Sun Oct 23 17:06:10 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Design Your Own Chip With TinyTapeout</title>
-            <link>https://hackaday.com/2022/10/23/design-your-own-chip-with-tinytapeout/</link>
-            <description>Design Your Own Chip With TinyTapeout</description>
-            <pubDate>Sun Oct 23 17:00:21 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Onkalo: el primer depósito nuclear geológico del mundo permitirá almacenar desechos durante un millón de años</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/onkalo-primer-deposito-nuclear-geologico-mundo-permitira-almacenar-desechos-durante-millon-anos</link>
-            <description>Onkalo: el primer depósito nuclear geológico del mundo permitirá almacenar desechos durante un millón de años</description>
-            <pubDate>Sun Oct 23 17:00:03 2022</pubDate>
-            </item>
-            <item>
-            <title>Notxor tiene un blog: Control de versiones</title>
-            <link>https://notxor.nueva-actitud.org/2022/10/23/control-de-versiones.html</link>
-            <description>Control de versiones</description>
-            <pubDate>Sun Oct 23 16:42:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El siguiente salto en la energía solar ya está en marcha: tejas fotovoltaicas-térmicas para tu casa</title>
-            <link>https://www.xataka.com/energia/siguiente-salto-energia-solar-esta-marcha-tejas-fotovoltaicas-termicas-para-tu-casa</link>
-            <description>El siguiente salto en la energía solar ya está en marcha: tejas fotovoltaicas-térmicas para tu casa</description>
-            <pubDate>Sun Oct 23 16:30:07 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Estas 10 películas de brujas son perfectas para ver en familia</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/peliculas-brujas-familia/</link>
-            <description>Estas 10 películas de brujas son perfectas para ver en familia</description>
-            <pubDate>Sun Oct 23 16:06:59 2022</pubDate>
             </item></channel>
 </rss>
