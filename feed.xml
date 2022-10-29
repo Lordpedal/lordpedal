@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: You Can Now Bootstrap Your Amiga Without A Floppy With This One Weird Trick</title>
+            <link>https://hackaday.com/2022/10/28/you-can-now-bootstrap-your-amiga-without-a-floppy-with-this-one-weird-trick/</link>
+            <description>You Can Now Bootstrap Your Amiga Without A Floppy With This One Weird Trick</description>
+            <pubDate>Sat Oct 29 05:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: Meet the Award Winners</title>
+            <link>https://makezine.com/article/maker-news/meet-the-award-winners/</link>
+            <description>Meet the Award Winners</description>
+            <pubDate>Sat Oct 29 02:26:45 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Luigi’s Mansion First Person Mod Brings Spooky New Perspective</title>
+            <link>https://hackaday.com/2022/10/28/luigis-mansion-first-person-mod-brings-spooky-new-perspective/</link>
+            <description>Luigi’s Mansion First Person Mod Brings Spooky New Perspective</description>
+            <pubDate>Sat Oct 29 02:00:56 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Debido a una vulnerabilidad en OpenSSL Fedora 37 se retrasó dos semanas, estaría llegando el 15 de noviembre</title>
+            <link>https://blog.desdelinux.net/debido-a-una-vulnerabilidad-en-openssl-fedora-37-se-retraso-dos-semanas-estaria-llegando-el-15-de-noviembre/</link>
+            <description>Debido a una vulnerabilidad en OpenSSL Fedora 37 se retrasó dos semanas, estaría llegando el 15 de noviembre</description>
+            <pubDate>Fri Oct 28 23:07:25 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Driving Three-Color E-Paper Pricetags With An Arduino</title>
+            <link>https://hackaday.com/2022/10/28/driving-three-color-e-paper-pricetags-with-an-arduino/</link>
+            <description>Driving Three-Color E-Paper Pricetags With An Arduino</description>
+            <pubDate>Fri Oct 28 23:00:09 2022</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: The Winner’s Circle: Here are the Winners and Standouts From our Inaugural Amazing Maker Awards</title>
+            <link>https://makezine.com/article/maker-news/the-winners-circle-amazing-maker-awards/</link>
+            <description>The Winner’s Circle: Here are the Winners and Standouts From our Inaugural Amazing Maker Awards</description>
+            <pubDate>Fri Oct 28 23:00:00 2022</pubDate>
+            </item>
+            <item>
             <title>Changelog: The Changelog 512: Linux mythbusting & retro gaming</title>
             <link>https://changelog.com/podcast/512</link>
             <description>The Changelog 512: Linux mythbusting & retro gaming</description>
@@ -34,41 +70,5 @@
             <link>https://changelog.com/jsparty/249</link>
             <description>JS Party 249: Tiny CSS Projects</description>
             <pubDate>Fri Oct 28 20:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Todos los informes que recomienda pedir la DGT al comprar tu nuevo coche</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/todos-informes-pedir-dgt-comprar-nuevo-coche/</link>
-            <description>Todos los informes que recomienda pedir la DGT al comprar tu nuevo coche</description>
-            <pubDate>Fri Oct 28 19:00:10 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Mini Mars Rover Runs On Pi Pico W</title>
-            <link>https://hackaday.com/2022/10/28/mini-mars-rover-runs-on-pi-pico-w/</link>
-            <description>Mini Mars Rover Runs On Pi Pico W</description>
-            <pubDate>Fri Oct 28 18:30:44 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: LaLiga ataca a TDTChannels pese a que no ofrece fútbol pirata</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/laliga-ataca-telegram-tdtchannels/</link>
-            <description>LaLiga ataca a TDTChannels pese a que no ofrece fútbol pirata</description>
-            <pubDate>Fri Oct 28 18:02:29 2022</pubDate>
-            </item>
-            <item>
-            <title>Pymes y Autonomos: Estos son los retos del pequeño comercio ante la campaña del Black Friday más complicada de los últimos años</title>
-            <link>https://www.pymesyautonomos.com/marketing-y-comercial/estos-retos-pequeno-comercio-campana-black-friday-complicada-ultimos-anos</link>
-            <description>Estos son los retos del pequeño comercio ante la campaña del Black Friday más complicada de los últimos años</description>
-            <pubDate>Fri Oct 28 18:01:02 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: No compres ningún dispositivo inteligente si no tienen esto</title>
-            <link>https://www.redeszone.net/noticias/hogar/no-compres-dispositivo-inteligente-caracteristica/</link>
-            <description>No compres ningún dispositivo inteligente si no tienen esto</description>
-            <pubDate>Fri Oct 28 17:05:48 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Locura en El Corte Inglés: Esta Smart TV de 75 pulgadas por 700 euros menos</title>
-            <link>https://www.adslzone.net/ofertas/mix/smart-tv-lg-75nano826qb-28-octubre-2022/</link>
-            <description>Locura en El Corte Inglés: Esta Smart TV de 75 pulgadas por 700 euros menos</description>
-            <pubDate>Fri Oct 28 17:00:23 2022</pubDate>
             </item></channel>
 </rss>
