@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: Install WoeUSB on Ubuntu to Create a Bootable Windows USB</title>
+            <link>https://itsfoss.com/install-woeusb-ubuntu/</link>
+            <description>Install WoeUSB on Ubuntu to Create a Bootable Windows USB</description>
+            <pubDate>Sun Oct 30 06:44:46 2022</pubDate>
+            </item>
+            <item>
+            <title>KDE Blog: Resumen final de KDE en Google Summer of Code 2022</title>
+            <link>https://www.kdeblog.com/resumen-final-de-kde-en-google-summer-of-code-2022.html</link>
+            <description>Resumen final de KDE en Google Summer of Code 2022</description>
+            <pubDate>Sun Oct 30 06:07:34 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Pi-based Spectrometer Gets An Upgrade</title>
+            <link>https://hackaday.com/2022/10/29/pi-based-spectrometer-gets-an-upgrade/</link>
+            <description>Pi-based Spectrometer Gets An Upgrade</description>
+            <pubDate>Sun Oct 30 05:00:15 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Octubre 2022: Lo bueno, lo malo y lo interesante del Software Libre</title>
+            <link>https://blog.desdelinux.net/octubre-2022-bueno-malo-interesante-software-libre/</link>
+            <description>Octubre 2022: Lo bueno, lo malo y lo interesante del Software Libre</description>
+            <pubDate>Sun Oct 30 05:00:14 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: All Your Pixels Are (Probably Not) Belong To Pantone</title>
+            <link>https://hackaday.com/2022/10/29/all-your-pixels-are-probably-not-belong-to-pantone/</link>
+            <description>All Your Pixels Are (Probably Not) Belong To Pantone</description>
+            <pubDate>Sun Oct 30 02:00:19 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Welding Aluminum with a MIG Welder</title>
+            <link>https://hackaday.com/2022/10/29/welding-aluminum-with-a-mig-welder/</link>
+            <description>Welding Aluminum with a MIG Welder</description>
+            <pubDate>Sat Oct 29 23:00:27 2022</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Using The Sun to Turn Epoxy into Furniture</title>
             <link>https://hackaday.com/2022/10/29/using-the-sun-to-turn-epoxy-into-furniture/</link>
             <description>Using The Sun to Turn Epoxy into Furniture</description>
@@ -34,41 +70,5 @@
             <link>https://www.redeszone.net/noticias/hogar/alarma-vs-sistema-domotico-seguridad/</link>
             <description>¿Es mejor poner una alarma en casa o un sistema domótico de seguridad?</description>
             <pubDate>Sat Oct 29 17:06:53 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Play DOOM on Seven-Segment Displays</title>
-            <link>https://hackaday.com/2022/10/29/play-doom-on-seven-segment-displays/</link>
-            <description>Play DOOM on Seven-Segment Displays</description>
-            <pubDate>Sat Oct 29 17:00:24 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Vuelven The Crown, Élite y Anatomía de Grey: Las mejores series que ver este noviembre</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/mejores-series-noviembre-2022/</link>
-            <description>Vuelven The Crown, Élite y Anatomía de Grey: Las mejores series que ver este noviembre</description>
-            <pubDate>Sat Oct 29 16:03:51 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Se acercan las ofertas del 11.11 de AliExpress, ¡qué no se te escapen!</title>
-            <link>https://www.adslzone.net/branded/zona-aliexpress/11-11-aliexpress-ofertas-calentamiento/</link>
-            <description>Se acercan las ofertas del 11.11 de AliExpress, ¡qué no se te escapen!</description>
-            <pubDate>Sat Oct 29 15:55:08 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Realmente ahorra dinero apagar siempre las luces de casa?</title>
-            <link>https://www.redeszone.net/noticias/power/realmente-ahorra-dinero-apagar-luces-casa/</link>
-            <description>¿Realmente ahorra dinero apagar siempre las luces de casa?</description>
-            <pubDate>Sat Oct 29 14:06:40 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon Fire TV Stick vs Google Chromecast vs Xiaomi Mi TV Stick: ¿cuál me compro?</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/stick-tv-amazon-google-xiaomi-comparativa-2022/</link>
-            <description>Amazon Fire TV Stick vs Google Chromecast vs Xiaomi Mi TV Stick: ¿cuál me compro?</description>
-            <pubDate>Sat Oct 29 14:04:06 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Hackaday Supercon: Back at Last!</title>
-            <link>https://hackaday.com/2022/10/29/hackaday-supercon-back-at-last/</link>
-            <description>Hackaday Supercon: Back at Last!</description>
-            <pubDate>Sat Oct 29 14:00:32 2022</pubDate>
             </item></channel>
 </rss>
