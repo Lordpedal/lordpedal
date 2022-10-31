@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Atareao: Migrando webs WordPress a Docker</title>
+            <link>https://atareao.es/podcast/migrando-webs-wordpress-a-docker/</link>
+            <description>Migrando webs WordPress a Docker</description>
+            <pubDate>Mon Oct 31 07:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Nos vendieron el 5G como una cosa y la realidad no tiene nada que ver</title>
+            <link>https://www.adslzone.net/noticias/redes/realidad-redes-5g-espana/</link>
+            <description>Nos vendieron el 5G como una cosa y la realidad no tiene nada que ver</description>
+            <pubDate>Mon Oct 31 06:02:31 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Trinocular Lens Makes Digital Wigglegrams Easier to Take</title>
+            <link>https://hackaday.com/2022/10/30/trinocular-lens-makes-digital-wigglegrams-easier-to-take/</link>
+            <description>Trinocular Lens Makes Digital Wigglegrams Easier to Take</description>
+            <pubDate>Mon Oct 31 05:00:48 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Stop Silicone Cure Inhibition, No Fancy or Expensive Products Required</title>
+            <link>https://hackaday.com/2022/10/30/stop-silicone-cure-inhibition-no-fancy-or-expensive-products-required/</link>
+            <description>Stop Silicone Cure Inhibition, No Fancy or Expensive Products Required</description>
+            <pubDate>Mon Oct 31 02:00:51 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: October 30, 2022</title>
+            <link>https://hackaday.com/2022/10/30/hackaday-links-october-30-2022/</link>
+            <description>Hackaday Links: October 30, 2022</description>
+            <pubDate>Sun Oct 30 23:00:59 2022</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Ubuntu Studio 22.10. La distribución ideal para creadores de contenidos.</title>
             <link>https://www.linuxadictos.com/ubuntu-studio-22-10-la-distribucion-ideal-para-creadores-de-contenidos.html</link>
             <description>Ubuntu Studio 22.10. La distribución ideal para creadores de contenidos.</description>
@@ -40,35 +70,5 @@
             <link>https://www.linuxadictos.com/los-costos-de-la-privacidad-el-caso-danes.html</link>
             <description>Los costos de la privacidad. El caso danés.</description>
             <pubDate>Sun Oct 30 17:31:23 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¡Por fin! Así puedes ver todos los episodios de Dragon Ball en una plataforma</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/ver-dragon-ball-streaming/</link>
-            <description>¡Por fin! Así puedes ver todos los episodios de Dragon Ball en una plataforma</description>
-            <pubDate>Sun Oct 30 17:03:04 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Garmin HUD Got Discontinued, But Not Trashed</title>
-            <link>https://hackaday.com/2022/10/30/garmin-hud-got-discontinued-but-not-trashed/</link>
-            <description>Garmin HUD Got Discontinued, But Not Trashed</description>
-            <pubDate>Sun Oct 30 17:00:16 2022</pubDate>
-            </item>
-            <item>
-            <title>geekland: Saber si usamos la aceleración gráfica por hardware en Linux</title>
-            <link>https://geekland.eu/saber-si-usamos-la-aceleracion-grafica-por-hardware-en-linux/</link>
-            <description>Saber si usamos la aceleración gráfica por hardware en Linux</description>
-            <pubDate>Sun Oct 30 15:18:13 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Así te ayudan estos dispositivos inteligentes a ahorrar agua</title>
-            <link>https://www.redeszone.net/noticias/hogar/dispositivos-inteligentes-ayuda-ahorrar-agua-casa/</link>
-            <description>Así te ayudan estos dispositivos inteligentes a ahorrar agua</description>
-            <pubDate>Sun Oct 30 15:05:12 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El consejo para que no te roben el WiFi que no vale para absolutamente nada</title>
-            <link>https://www.adslzone.net/noticias/redes/consejo-seguridad-wifi-ocultar/</link>
-            <description>El consejo para que no te roben el WiFi que no vale para absolutamente nada</description>
-            <pubDate>Sun Oct 30 15:01:20 2022</pubDate>
             </item></channel>
 </rss>
