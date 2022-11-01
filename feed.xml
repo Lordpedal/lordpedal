@@ -6,16 +6,46 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: An Easy-To-Make Pi-Powered Pocket Password Pal</title>
+            <link>https://hackaday.com/2022/10/31/an-easy-to-make-pi-powered-pocket-password-pal/</link>
+            <description>An Easy-To-Make Pi-Powered Pocket Password Pal</description>
+            <pubDate>Tue Nov  1 05:00:21 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Info-computer, más de 17 años ofreciendo un servicio de calidad a sus clientes</title>
+            <link>https://www.adslzone.net/branded/zona-infocomputer/info-computer-servicio-calidad/</link>
+            <description>Info-computer, más de 17 años ofreciendo un servicio de calidad a sus clientes</description>
+            <pubDate>Tue Nov  1 05:00:16 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Mi lista de aplicaciones portables imprescindibles</title>
+            <link>https://www.linuxadictos.com/mi-lista-de-aplicaciones-portables-imprescindibles.html</link>
+            <description>Mi lista de aplicaciones portables imprescindibles</description>
+            <pubDate>Tue Nov  1 03:14:31 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Infinitely Scrolling E-Ink Landscape Never Repeats</title>
+            <link>https://hackaday.com/2022/10/31/infinitely-scrolling-e-ink-landscape-never-repeats/</link>
+            <description>Infinitely Scrolling E-Ink Landscape Never Repeats</description>
+            <pubDate>Tue Nov  1 02:00:32 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: GNU Make 4.4 ya fue liberado y estas son sus novedades</title>
+            <link>https://blog.desdelinux.net/gnu-make-4-4-ya-fue-liberado-y-estas-son-sus-novedades/</link>
+            <description>GNU Make 4.4 ya fue liberado y estas son sus novedades</description>
+            <pubDate>Tue Nov  1 00:58:38 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Lighting Up Glue Stick Bicycle Tyres With RGB</title>
+            <link>https://hackaday.com/2022/10/31/lighting-up-glue-stick-bicycle-tyres-with-rgb/</link>
+            <description>Lighting Up Glue Stick Bicycle Tyres With RGB</description>
+            <pubDate>Mon Oct 31 23:00:04 2022</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Outline-ss-server, una implementación de Shadowsocks</title>
             <link>https://www.linuxadictos.com/outline-ss-server-una-implementacion-de-shadowsocks.html</link>
             <description>Outline-ss-server, una implementación de Shadowsocks</description>
             <pubDate>Mon Oct 31 22:39:08 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: En FreeBSD añadieron el soporte para el protocolo Netlink utilizado en Linux</title>
-            <link>https://blog.desdelinux.net/en-freebsd-anadieron-el-soporte-para-el-protocolo-netlink-utilizado-en-linux/</link>
-            <description>En FreeBSD añadieron el soporte para el protocolo Netlink utilizado en Linux</description>
-            <pubDate>Mon Oct 31 21:28:31 2022</pubDate>
             </item>
             <item>
             <title>ADSLZone: ¿Hay que avisar 1 mes antes para darte de baja de tu compañía con la nueva ley?</title>
@@ -40,35 +70,5 @@
             <link>https://jugandoenlinux.com/index.php/39-podcast/1501-episodio-06-helloween-edition</link>
             <description>Episodio 06 "Helloween 🎃" edition</description>
             <pubDate>Mon Oct 31 19:03:30 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Actualiza Windows, Chrome o Zoom ya mismo: han encontrado algo bastante grave</title>
-            <link>https://www.adslzone.net/noticias/seguridad/actualizar-windows-chrome-zoom-descubierto-peligro/</link>
-            <description>Actualiza Windows, Chrome o Zoom ya mismo: han encontrado algo bastante grave</description>
-            <pubDate>Mon Oct 31 18:58:18 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Algunas historias de terror del mundo de la tecnología.</title>
-            <link>https://www.linuxadictos.com/algunas-historias-de-terror-del-mundo-de-la-tecnologia.html</link>
-            <description>Algunas historias de terror del mundo de la tecnología.</description>
-            <pubDate>Mon Oct 31 18:30:20 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Evita que tus aparatos gasten más luz con estos consejos</title>
-            <link>https://www.redeszone.net/noticias/power/evitar-aparatos-consuman-necesaria-mas-luz/</link>
-            <description>Evita que tus aparatos gasten más luz con estos consejos</description>
-            <pubDate>Mon Oct 31 18:15:21 2022</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Labplot, software de visualización y análisis de datos de KDE</title>
-            <link>https://www.kdeblog.com/labplot-software-de-visualizacion-y-analisis-de-datos-de-kde.html</link>
-            <description>Labplot, software de visualización y análisis de datos de KDE</description>
-            <pubDate>Mon Oct 31 18:06:10 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: «Son pesadísimos»: cuidado con las llamadas SPAM del 912079492</title>
-            <link>https://www.adslzone.net/noticias/seguridad/llamada-spam-telefono-912079492/</link>
-            <description>«Son pesadísimos»: cuidado con las llamadas SPAM del 912079492</description>
-            <pubDate>Mon Oct 31 18:01:53 2022</pubDate>
             </item></channel>
 </rss>
