@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: Microsoft Warns of Uptick in Hackers Leveraging Publicly-Disclosed 0-Day Vulnerabilities</title>
+            <link>https://thehackernews.com/2022/11/microsoft-warns-of-uptick-in-hackers.html</link>
+            <description>Microsoft Warns of Uptick in Hackers Leveraging Publicly-Disclosed 0-Day Vulnerabilities</description>
+            <pubDate>Sat Nov  5 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Keyboard One Is an Ear of Corne</title>
+            <link>https://hackaday.com/2022/11/04/keyboard-one-is-an-ear-of-corne/</link>
+            <description>Keyboard One Is an Ear of Corne</description>
+            <pubDate>Sat Nov  5 05:00:15 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Prize 2022: Ultratower Is a Powerful Gardening Vertical</title>
+            <link>https://hackaday.com/2022/11/04/hackaday-prize-2022-ultratower-is-a-powerful-gardening-vertical/</link>
+            <description>Hackaday Prize 2022: Ultratower Is a Powerful Gardening Vertical</description>
+            <pubDate>Sat Nov  5 02:00:11 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Plywood Bicycle Makes Frame Building More Accessible</title>
+            <link>https://hackaday.com/2022/11/04/plywood-bicycle-makes-frame-building-more-accessible/</link>
+            <description>Plywood Bicycle Makes Frame Building More Accessible</description>
+            <pubDate>Fri Nov  4 23:00:09 2022</pubDate>
+            </item>
+            <item>
             <title>EsGeeks: ¿Qué es el Protocolo VPN L2TP? ¿Es Seguro?</title>
             <link>https://esgeeks.com/que-es-procotocolo-vpn-l2tp/</link>
             <description>¿Qué es el Protocolo VPN L2TP? ¿Es Seguro?</description>
@@ -18,9 +42,15 @@
             <pubDate>Fri Nov  4 21:02:02 2022</pubDate>
             </item>
             <item>
-            <title>Changelog: Open source game console/engine built by teenagers (for teenagers)</title>
+            <title>Changelog: The Changelog 513: The story of Heroku</title>
+            <link>https://changelog.com/podcast/513</link>
+            <description>The Changelog 513: The story of Heroku</description>
+            <pubDate>Fri Nov  4 21:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Changelog: Open source game console/engine built by teenagers</title>
             <link>https://github.com/hackclub/sprig</link>
-            <description>Open source game console/engine built by teenagers (for teenagers)</description>
+            <description>Open source game console/engine built by teenagers</description>
             <pubDate>Fri Nov  4 20:57:32 2022</pubDate>
             </item>
             <item>
@@ -40,35 +70,5 @@
             <link>https://blog.desdelinux.net/gparted-live/</link>
             <description>Todo sobre GParted Live y las novedades de la versión 1.4.0-6</description>
             <pubDate>Fri Nov  4 19:10:18 2022</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Tercera actualización de KDE Gear 22.08</title>
-            <link>https://www.kdeblog.com/tercera-actualizacion-de-kde-gear-22-08.html</link>
-            <description>Tercera actualización de KDE Gear 22.08</description>
-            <pubDate>Fri Nov  4 19:07:09 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Digi está de moda, pero yo revisaría estas 5 cosas antes de contratar</title>
-            <link>https://www.adslzone.net/noticias/operadores/mirar-5-aspectos-contratar-digi/</link>
-            <description>Digi está de moda, pero yo revisaría estas 5 cosas antes de contratar</description>
-            <pubDate>Fri Nov  4 19:02:35 2022</pubDate>
-            </item>
-            <item>
-            <title>DistritoTux: Tails 5.6 una distribución para navegar anónimo en la red</title>
-            <link>https://www.distritotux.cl/2022/11/tails-56-una-distribucion-para-navegar.html</link>
-            <description>Tails 5.6 una distribución para navegar anónimo en la red</description>
-            <pubDate>Fri Nov  4 19:02:28 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: JS Party 250: Making sense of production</title>
-            <link>https://changelog.com/jsparty/250</link>
-            <description>JS Party 250: Making sense of production</description>
-            <pubDate>Fri Nov  4 19:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 3D Printed Newtonian Telescope Has Stunning Looks, Hadley Breaks The Bank</title>
-            <link>https://hackaday.com/2022/11/04/3d-printed-newtonian-telescope-has-stunning-looks-hadley-breaks-the-bank/</link>
-            <description>3D Printed Newtonian Telescope Has Stunning Looks, Hadley Breaks The Bank</description>
-            <pubDate>Fri Nov  4 18:30:35 2022</pubDate>
             </item></channel>
 </rss>
