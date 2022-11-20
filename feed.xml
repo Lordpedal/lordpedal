@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Colorful Split Keyboard Uses VGA Connections</title>
+            <link>https://hackaday.com/2022/11/19/colorful-split-keyboard-uses-vga-connections/</link>
+            <description>Colorful Split Keyboard Uses VGA Connections</description>
+            <pubDate>Sun Nov 20 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Two Esoteric Programming Languages, One Interpreter</title>
+            <link>https://hackaday.com/2022/11/19/two-esoteric-programming-languages-one-interpreter/</link>
+            <description>Two Esoteric Programming Languages, One Interpreter</description>
+            <pubDate>Sun Nov 20 03:00:25 2022</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Whonix, navegación anónima en internet, confiable y segura</title>
+            <link>https://www.distritotux.cl/2022/11/whonix-navegacion-anonima-en-internet.html</link>
+            <description>Whonix, navegación anónima en internet, confiable y segura</description>
+            <pubDate>Sun Nov 20 01:10:30 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: El software de minado de Norton genera críticas en los usuarios</title>
+            <link>https://www.linuxadictos.com/el-software-de-minado-de-norton-genera-criticas-en-los-usuarios.html</link>
+            <description>El software de minado de Norton genera críticas en los usuarios</description>
+            <pubDate>Sun Nov 20 00:53:49 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Open-Source Passive Radar Taken Down For Regulatory Reasons</title>
+            <link>https://hackaday.com/2022/11/19/open-source-passive-radar-taken-down-for-regulatory-reasons/</link>
+            <description>Open-Source Passive Radar Taken Down For Regulatory Reasons</description>
+            <pubDate>Sun Nov 20 00:00:00 2022</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: ESP32 LED Eyes Help Keep Toddler In Bed</title>
             <link>https://hackaday.com/2022/11/19/esp32-led-eyes-help-keep-toddler-in-bed/</link>
             <description>ESP32 LED Eyes Help Keep Toddler In Bed</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/videojuegos/mejores-enciclopedias-juegos-clasicos-inesperado-extra-reciente-recopilatorio-retro-atari</link>
             <description>Una de las mejores enciclopedias de juegos clásicos es un inesperado extra en un reciente recopilatorio retro de Atari</description>
             <pubDate>Sat Nov 19 18:01:55 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: The Barkhausen Effect: Hearing Magnets Being Born</title>
-            <link>https://hackaday.com/2022/11/19/the-barkhausen-effect-hearing-magnets-being-born/</link>
-            <description>The Barkhausen Effect: Hearing Magnets Being Born</description>
-            <pubDate>Sat Nov 19 18:00:44 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los peajes tampoco se libran de la inflación: las autopistas de pago se preparan para una subida que alcanzará hasta el 9%</title>
-            <link>https://www.xataka.com/movilidad/peajes-tampoco-se-libran-inflacion-autopistas-pago-se-preparan-para-subida-que-alcanzara-9-algun-caso</link>
-            <description>Los peajes tampoco se libran de la inflación: las autopistas de pago se preparan para una subida que alcanzará hasta el 9%</description>
-            <pubDate>Sat Nov 19 17:31:55 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Ordenadores e informática</title>
-            <link>https://www.xataka.com/mejores-ofertas/ordenadores-e-informatica</link>
-            <description>Ordenadores e informática</description>
-            <pubDate>Sat Nov 19 17:10:25 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Estás triste? 8 series para quitar la depresión y olvidarte de los problemas</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/series-animar-dias-tristes/</link>
-            <description>¿Estás triste? 8 series para quitar la depresión y olvidarte de los problemas</description>
-            <pubDate>Sat Nov 19 17:03:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Llevamos años tratando de descifrar si todos los humanos vemos los colores igual. Seguimos sin respuesta</title>
-            <link>https://www.xataka.com/investigacion/llevamos-anos-tratando-descifrar-todos-humanos-vemos-colores-igual-seguimos-respuesta</link>
-            <description>Llevamos años tratando de descifrar si todos los humanos vemos los colores igual. Seguimos sin respuesta</description>
-            <pubDate>Sat Nov 19 17:01:55 2022</pubDate>
             </item></channel>
 </rss>
