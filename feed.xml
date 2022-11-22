@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Las mejores aplicaciones de pizarra para sus sistemas Linux</title>
+            <link>https://www.linuxparty.es/60-software/11218-las-mejores-aplicaciones-de-pizarra-para-sus-sistemas-linux.html</link>
+            <description>Las mejores aplicaciones de pizarra para sus sistemas Linux</description>
+            <pubDate>Tue Nov 22 07:00:01 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Los 3 trucos para saber si un billete es falso</title>
+            <link>https://www.adslzone.net/noticias/fintech/3-trucos-reconocer-billete-falso-noviembre-2022/</link>
+            <description>Los 3 trucos para saber si un billete es falso</description>
+            <pubDate>Tue Nov 22 06:01:18 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Game Boy Advance – Downgraded!</title>
+            <link>https://hackaday.com/2022/11/21/a-game-boy-advance-downgraded/</link>
+            <description>A Game Boy Advance – Downgraded!</description>
+            <pubDate>Tue Nov 22 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Aprovéchate de los beneficios de tener un VPN con las ofertas de NordVPN en Black Friday</title>
+            <link>https://www.adslzone.net/reportajes/temas/vpn-nordvpn-black-friday/</link>
+            <description>Aprovéchate de los beneficios de tener un VPN con las ofertas de NordVPN en Black Friday</description>
+            <pubDate>Tue Nov 22 05:00:33 2022</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: apt remove vs apt purge: What’s the Difference?</title>
+            <link>https://itsfoss.com/apt-remove-purge/</link>
+            <description>apt remove vs apt purge: What’s the Difference?</description>
+            <pubDate>Tue Nov 22 03:17:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Better Air Quality Sensing with CO2</title>
+            <link>https://hackaday.com/2022/11/21/better-air-quality-sensing-with-co2/</link>
+            <description>Better Air Quality Sensing with CO2</description>
+            <pubDate>Tue Nov 22 03:00:07 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Portable ESP32 RGB Lasershow Has All the Trimmings</title>
+            <link>https://hackaday.com/2022/11/21/portable-esp32-rgb-lasershow-has-all-the-trimmings/</link>
+            <description>Portable ESP32 RGB Lasershow Has All the Trimmings</description>
+            <pubDate>Tue Nov 22 00:00:47 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El editor fotográfico Gimp acaba de publicar su versión 2.99.14</title>
             <link>https://lignux.com/el-editor-fotografico-gimp-acaba-de-publicar-su-version-2-99-14/</link>
             <description>El editor fotográfico Gimp acaba de publicar su versión 2.99.14</description>
@@ -28,47 +70,5 @@
             <link>https://chreke.com/little-languages.html</link>
             <description>Little languages are the future of programming</description>
             <pubDate>Mon Nov 21 20:49:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La UE acaba de dar un importante paso para construir su propio Starlink: esto es lo que sabemos de IRIS2</title>
-            <link>https://www.xataka.com/servicios/ue-acaba-dar-importante-paso-para-construir-su-propio-starlink-esto-que-sabemos-iris2</link>
-            <description>La UE acaba de dar un importante paso para construir su propio Starlink: esto es lo que sabemos de IRIS2</description>
-            <pubDate>Mon Nov 21 20:32:00 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: 4 motivos por los que deberías dejar de cargar tu móvil en el coche</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-tecnologia/4-motivos-deberias-dejar-cargar-movil-coche/</link>
-            <description>4 motivos por los que deberías dejar de cargar tu móvil en el coche</description>
-            <pubDate>Mon Nov 21 20:00:42 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Changelog News: Kindle as a smart device, Changelog on Mastodon, GPT-3 up in your CLI, no arch better than bad arch & Mish Manners</title>
-            <link>https://changelog.com/podcast/news-2022-11-21</link>
-            <description>Changelog News: Kindle as a smart device, Changelog on Mastodon, GPT-3 up in your CLI, no arch better than bad arch & Mish Manners</description>
-            <pubDate>Mon Nov 21 20:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Cómo abrir las nuevas ventanas de GNOME Shell en el centro de la pantalla</title>
-            <link>https://www.muylinux.com/2022/11/21/abrir-nuevas-ventanas-gnome-shell-centro-pantalla/</link>
-            <description>Cómo abrir las nuevas ventanas de GNOME Shell en el centro de la pantalla</description>
-            <pubDate>Mon Nov 21 19:54:08 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Como el metaverso va regular, Zuckerberg ahora quiere que WhatsApp y Messenger aporten a los ingresos de Meta</title>
-            <link>https://www.xataka.com/empresas-y-economia/como-metaverso-va-regular-zuckerberg-ahora-quiere-que-whatsapp-messenger-aporten-a-ingresos-meta</link>
-            <description>Como el metaverso va regular, Zuckerberg ahora quiere que WhatsApp y Messenger aporten a los ingresos de Meta</description>
-            <pubDate>Mon Nov 21 19:31:12 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Making SVD Files Searchable With Svd2db</title>
-            <link>https://hackaday.com/2022/11/21/making-svd-files-searchable-with-svd2db/</link>
-            <description>Making SVD Files Searchable With Svd2db</description>
-            <pubDate>Mon Nov 21 19:30:00 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esta policía espió el tráfico de miles de personas para pillar varios IPTV piratas</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/policia-espia-trafico-miles-personas-rastrear-iptv-piratas-italia-2022/</link>
-            <description>Esta policía espió el tráfico de miles de personas para pillar varios IPTV piratas</description>
-            <pubDate>Mon Nov 21 19:02:56 2022</pubDate>
             </item></channel>
 </rss>
