@@ -14,3 +14,11 @@
 - [NPM Fail2Ban Addon: Docker](https://lordpedal.github.io/gnu/linux/docker/npmf2b-docker/)
 
 > ... la culminación de un fin es el comienzo de una realidad.
+
+\
+![Lordpedal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordpedal&count_private=true&show_icons=true&include_all_commits=true)
+
+<!---
+\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordpedal&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+--->
