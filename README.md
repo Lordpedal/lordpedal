@@ -16,7 +16,7 @@
 > ... la culminación de un fin es el comienzo de una realidad.
 
 \
-![Lordpedal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordpedal&count_private=true&show_icons=true&include_all_commits=true)
+![Lordpedal GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordpedal&count_private=true&show_icons=true&include_all_commits=true)
 
 <!---
 \
