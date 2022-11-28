@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: MikroLeo, A 4-Bit Retro Learning Platform</title>
+            <link>https://hackaday.com/2022/11/27/mikroleo-a-4-bit-retro-learning-platform/</link>
+            <description>MikroLeo, A 4-Bit Retro Learning Platform</description>
+            <pubDate>Mon Nov 28 06:00:18 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Elon Musk Confirms Twitter 2.0 will Bring End-to-End Encryption to Direct Messages</title>
+            <link>https://thehackernews.com/2022/11/elon-musk-confirms-twitter-20-will.html</link>
+            <description>Elon Musk Confirms Twitter 2.0 will Bring End-to-End Encryption to Direct Messages</description>
+            <pubDate>Mon Nov 28 05:25:00 2022</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Listar los ficheros con tamaño mayor a 0</title>
+            <link>https://www.cambiatealinux.com/listar-los-ficheros-con-tamano-mayor-a-0</link>
+            <description>Listar los ficheros con tamaño mayor a 0</description>
+            <pubDate>Mon Nov 28 05:05:10 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Create a Compiler Step-By-Step</title>
+            <link>https://hackaday.com/2022/11/27/create-a-compiler-step-by-step/</link>
+            <description>Create a Compiler Step-By-Step</description>
+            <pubDate>Mon Nov 28 03:00:07 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Here’s a Plain C/C++ Implementation of AI Speech Recognition, So Get Hackin’</title>
+            <link>https://hackaday.com/2022/11/27/heres-a-plain-c-c-implementation-of-ai-speech-recognition-so-get-hackin/</link>
+            <description>Here’s a Plain C/C++ Implementation of AI Speech Recognition, So Get Hackin’</description>
+            <pubDate>Mon Nov 28 00:00:44 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Proxmox VE 7.3 llega con base en Debian 11.5, Linux 5.15.74 y mas</title>
+            <link>https://blog.desdelinux.net/proxmox-ve-7-3-llega-con-base-en-debian-11-5-linux-5-15-74-y-mas/</link>
+            <description>Proxmox VE 7.3 llega con base en Debian 11.5, Linux 5.15.74 y mas</description>
+            <pubDate>Sun Nov 27 23:52:14 2022</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Pale Moon 31.4.0 llega con soporte para MacOS 13, JPEG-XL y mas</title>
+            <link>https://ubunlog.com/pale-moon-31-4-0-llega-con-soporte-para-macos-13-jpeg-xl-y-mas/</link>
+            <description>Pale Moon 31.4.0 llega con soporte para MacOS 13, JPEG-XL y mas</description>
+            <pubDate>Sun Nov 27 23:32:36 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Wasmer 3.0 llega con mejoras en WASI, APIs, gestión de memoria y mas</title>
+            <link>https://www.linuxadictos.com/wasmer-3-0-llega-con-mejoras-en-wasi-apis-gestion-de-memoria-y-mas.html</link>
+            <description>Wasmer 3.0 llega con mejoras en WASI, APIs, gestión de memoria y mas</description>
+            <pubDate>Sun Nov 27 23:18:49 2022</pubDate>
+            </item>
+            <item>
+            <title>LiGNUx: El creador de imágenes panorámicas Open Source Hugin acaba de publicar su versión 2022</title>
+            <link>https://lignux.com/el-creador-de-imagenes-panoramicas-open-source-hugin-acaba-de-publicar-su-version-2022/</link>
+            <description>El creador de imágenes panorámicas Open Source Hugin acaba de publicar su versión 2022</description>
+            <pubDate>Sun Nov 27 23:02:47 2022</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Come Learn About New ATtiny Generations</title>
             <link>https://hackaday.com/2022/11/27/come-learn-about-new-attiny-generations/</link>
             <description>Come Learn About New ATtiny Generations</description>
@@ -16,59 +70,5 @@
             <link>https://elpinguinotolkiano.wordpress.com/2022/11/27/mas-sobre-mastodon/</link>
             <description>Más sobre mastodon</description>
             <pubDate>Sun Nov 27 20:52:21 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China da un salto en los vuelos hipersónicos: un motor que alcanza Mach 9 con combustible "low cost"</title>
-            <link>https://www.xataka.com/investigacion/china-da-salto-vuelos-hipersonicos-motor-que-alcanza-mach-9-combustible-low-cost</link>
-            <description>China da un salto en los vuelos hipersónicos: un motor que alcanza Mach 9 con combustible "low cost"</description>
-            <pubDate>Sun Nov 27 20:01:05 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Tim Berners-Lee es el padre de Internet. Ahora quiere descentralizar la web con su nuevo proyecto</title>
-            <link>https://www.xataka.com/servicios/tim-berners-lee-padre-internet-ahora-quiere-descentralizar-web-su-nuevo-proyecto</link>
-            <description>Tim Berners-Lee es el padre de Internet. Ahora quiere descentralizar la web con su nuevo proyecto</description>
-            <pubDate>Sun Nov 27 19:01:05 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cambia la contraseña del WiFi, pero no olvides cambiar la del router también</title>
-            <link>https://www.adslzone.net/noticias/redes/motivo-cambiar-contrasena-router/</link>
-            <description>Cambia la contraseña del WiFi, pero no olvides cambiar la del router también</description>
-            <pubDate>Sun Nov 27 19:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Krusader, el administrador de archivos dos paneles llega a su versión 2.8.0</title>
-            <link>https://ubunlog.com/krusader-el-administrador-de-archivos-dos-paneles-llega-a-su-version-2-8-0/</link>
-            <description>Krusader, el administrador de archivos dos paneles llega a su versión 2.8.0</description>
-            <pubDate>Sun Nov 27 18:25:52 2022</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: 5 lugares donde nunca debes poner un PLC WiFi si quieres que funcione bien</title>
-            <link>https://www.redeszone.net/noticias/redes/errores-comunes-colocar-dispositivos-plc/</link>
-            <description>5 lugares donde nunca debes poner un PLC WiFi si quieres que funcione bien</description>
-            <pubDate>Sun Nov 27 18:05:32 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Alemania ha metido la sexta en su "independencia" del gas ruso: ya tiene su primer puerto para GNL</title>
-            <link>https://www.xataka.com/energia/alemania-ha-metido-sexta-su-independencia-gas-ruso-tiene-su-primer-puerto-para-gnl</link>
-            <description>Alemania ha metido la sexta en su "independencia" del gas ruso: ya tiene su primer puerto para GNL</description>
-            <pubDate>Sun Nov 27 18:01:05 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: I’ve Got Two Turntables and a Laser Engraver</title>
-            <link>https://hackaday.com/2022/11/27/ive-got-two-turntables-and-a-laser-engraver/</link>
-            <description>I’ve Got Two Turntables and a Laser Engraver</description>
-            <pubDate>Sun Nov 27 18:00:37 2022</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Linux Connexion con Eduardo Morenoen Podcast Linux #166￼</title>
-            <link>https://www.kdeblog.com/linux-connexion-con-eduardo-morenoen-podcast-linux-166%ef%bf%bc.html</link>
-            <description>Linux Connexion con Eduardo Morenoen Podcast Linux #166￼</description>
-            <pubDate>Sun Nov 27 17:54:10 2022</pubDate>
-            </item>
-            <item>
-            <title>El condón roto de GNU: Lanzamiento Ubuntu Touch OTA-24</title>
-            <link>https://elcondonrotodegnu.wordpress.com/2022/11/27/lanzamiento-ubuntu-touch-ota-24/</link>
-            <description>Lanzamiento Ubuntu Touch OTA-24</description>
-            <pubDate>Sun Nov 27 17:02:57 2022</pubDate>
             </item></channel>
 </rss>
