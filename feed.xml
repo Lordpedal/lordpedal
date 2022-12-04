@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A Cycle-Accurate Intel 8088 Core For All Your Retro PC Needs</title>
+            <link>https://hackaday.com/2022/12/03/a-cycle-accurate-intel-8088-core-for-all-your-retro-pc-needs/</link>
+            <description>A Cycle-Accurate Intel 8088 Core For All Your Retro PC Needs</description>
+            <pubDate>Sun Dec  4 06:00:27 2022</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: What is Firefox ESR? How to Install it in Ubuntu?</title>
+            <link>https://itsfoss.com/firefox-esr-ubuntu/</link>
+            <description>What is Firefox ESR? How to Install it in Ubuntu?</description>
+            <pubDate>Sun Dec  4 04:20:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Better Coding Through Sketching</title>
+            <link>https://hackaday.com/2022/12/03/better-coding-through-sketching/</link>
+            <description>Better Coding Through Sketching</description>
+            <pubDate>Sun Dec  4 03:00:44 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Build Your Own Mini Fogging Cauldron</title>
+            <link>https://hackaday.com/2022/12/03/build-your-own-mini-fogging-cauldron/</link>
+            <description>Build Your Own Mini Fogging Cauldron</description>
+            <pubDate>Sun Dec  4 00:00:23 2022</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Bit-Banging Bidirectional Ethernet on a Pi Pico</title>
             <link>https://hackaday.com/2022/12/03/bit-banging-bidirectional-ethernet-on-a-pi-pico/</link>
             <description>Bit-Banging Bidirectional Ethernet on a Pi Pico</description>
@@ -46,29 +70,5 @@
             <link>https://hackaday.com/2022/12/03/nixie-display-module-is-addressable-via-spi/</link>
             <description>Nixie Display Module Is Addressable Via SPI</description>
             <pubDate>Sat Dec  3 18:00:50 2022</pubDate>
-            </item>
-            <item>
-            <title>hackplayers: Sylvarcon 2049: A Cybersecurity Adventure</title>
-            <link>https://www.hackplayers.com/2022/11/sylvarcon-2049-cybersecurity-adventure.html</link>
-            <description>Sylvarcon 2049: A Cybersecurity Adventure</description>
-            <pubDate>Sat Dec  3 17:43:23 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las 10 series de Movistar Plus+ que deberías haber visto en 2022</title>
-            <link>https://www.adslzone.net/noticias/ciencia/mejores-series-movistar-2022/</link>
-            <description>Las 10 series de Movistar Plus+ que deberías haber visto en 2022</description>
-            <pubDate>Sat Dec  3 17:03:21 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Unos científicos al fin han resuelto uno de los mayores misterios del planeta: los "círculos de hadas" de Namibia</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/unos-cientificos-al-fin-han-resuelto-uno-mayores-misterios-planeta-circulos-hadas-namibia</link>
-            <description>Unos científicos al fin han resuelto uno de los mayores misterios del planeta: los "círculos de hadas" de Namibia</description>
-            <pubDate>Sat Dec  3 17:01:03 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Con GPT-3.5 tengo la misma sensación de cuando usé Internet por primera vez siendo niño</title>
-            <link>https://www.xataka.com/servicios/gpt-3-5-tengo-sensacion-cuando-use-internet-primera-vez-siendo-nino</link>
-            <description>Con GPT-3.5 tengo la misma sensación de cuando usé Internet por primera vez siendo niño</description>
-            <pubDate>Sat Dec  3 16:31:03 2022</pubDate>
             </item></channel>
 </rss>
