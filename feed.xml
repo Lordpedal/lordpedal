@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Restarting The Grid When The Grid Is Off The Grid</title>
+            <link>https://hackaday.com/2022/12/06/restarting-the-grid-when-the-grid-is-off-the-grid/</link>
+            <description>Restarting The Grid When The Grid Is Off The Grid</description>
+            <pubDate>Wed Dec  7 06:00:56 2022</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: How to Access UEFI Settings in Linux Systems</title>
+            <link>https://itsfoss.com/access-uefi-from-linux/</link>
+            <description>How to Access UEFI Settings in Linux Systems</description>
+            <pubDate>Wed Dec  7 05:44:23 2022</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: apt upgrade retiene paquetes y no los actualiza</title>
+            <link>https://www.cambiatealinux.com/apt-upgrade-retiene-paquetes-y-no-los-actualiza</link>
+            <description>apt upgrade retiene paquetes y no los actualiza</description>
+            <pubDate>Wed Dec  7 05:06:40 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: New Go-based Zerobot Botnet Exploiting Dozen of IoT Vulnerabilities to Expand its Network</title>
+            <link>https://thehackernews.com/2022/12/new-go-based-zerobot-botnet-exploiting.html</link>
+            <description>New Go-based Zerobot Botnet Exploiting Dozen of IoT Vulnerabilities to Expand its Network</description>
+            <pubDate>Wed Dec  7 04:03:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: PSA: Watch Out for White Filament</title>
+            <link>https://hackaday.com/2022/12/06/psa-watch-out-for-white-filament/</link>
+            <description>PSA: Watch Out for White Filament</description>
+            <pubDate>Wed Dec  7 03:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: How On-Frequency Are Those Cheap Radar Modules?</title>
+            <link>https://hackaday.com/2022/12/06/how-on-frequency-are-those-cheap-radar-modules/</link>
+            <description>How On-Frequency Are Those Cheap Radar Modules?</description>
+            <pubDate>Wed Dec  7 00:00:31 2022</pubDate>
+            </item>
+            <item>
+            <title>Linux Express: #160 Linux Express</title>
+            <link>https://podcastlinux.com/posts/linuxexpress/160-Linux-Express/</link>
+            <description>#160 Linux Express</description>
+            <pubDate>Wed Dec  7 00:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Ya fue liberada la nueva version de FreeBSD 12.4</title>
+            <link>https://blog.desdelinux.net/ya-fue-liberada-la-nueva-version-de-freebsd-12-4/</link>
+            <description>Ya fue liberada la nueva version de FreeBSD 12.4</description>
+            <pubDate>Tue Dec  6 22:08:55 2022</pubDate>
+            </item>
+            <item>
             <title>Xataka: El Apple Car se retrasa hasta 2026, según Bloomberg: "reinventar la rueda" no es tan sencillo</title>
             <link>https://www.xataka.com/movilidad/apple-car-se-retrasa-2026-reuters-reinventar-rueda-no-sencillo</link>
             <description>El Apple Car se retrasa hasta 2026, según Bloomberg: "reinventar la rueda" no es tan sencillo</description>
@@ -22,53 +70,5 @@
             <link>https://lignux.com/el-software-de-edicion-de-audio-open-source-audacity-acaba-de-liberar-su-version-3-2-2/</link>
             <description>El software de edición de audio Open Source Audacity acaba de liberar su versión 3.2.2</description>
             <pubDate>Tue Dec  6 21:06:15 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: The World’s Brightest Laser Pointer?</title>
-            <link>https://hackaday.com/2022/12/06/the-worlds-brightest-laser-pointer/</link>
-            <description>The World’s Brightest Laser Pointer?</description>
-            <pubDate>Tue Dec  6 21:00:41 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Unos investigadores del CSIC han creado un perro robot lazarillo que guía a los usuarios gracias a Google Maps</title>
-            <link>https://www.xataka.com/robotica-e-ia/unos-investigadores-csic-han-creado-perro-robot-lazarillo-que-guia-a-usuarios-gracias-a-google-maps</link>
-            <description>Unos investigadores del CSIC han creado un perro robot lazarillo que guía a los usuarios gracias a Google Maps</description>
-            <pubDate>Tue Dec  6 21:00:04 2022</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: An Over-Engineered Moka Pot</title>
-            <link>https://blog.adafruit.com/2022/12/06/an-over-engineered-moka-pot/</link>
-            <description>An Over-Engineered Moka Pot</description>
-            <pubDate>Tue Dec  6 21:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Make: DIY Projects and Ideas for Makers: Arduino Brings PLC Features To Their IDE</title>
-            <link>https://makezine.com/article/technology/arduino/arduino-brings-plc-features-to-their-ide/</link>
-            <description>Arduino Brings PLC Features To Their IDE</description>
-            <pubDate>Tue Dec  6 20:36:45 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Encontraron una vulnerabilidad en Snap que permite ejecutar codigo con privilegios root</title>
-            <link>https://www.linuxadictos.com/encontraron-una-vulnerabilidad-en-snap-que-permite-ejecutar-codigo-con-privilegios-root.html</link>
-            <description>Encontraron una vulnerabilidad en Snap que permite ejecutar codigo con privilegios root</description>
-            <pubDate>Tue Dec  6 20:30:17 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Silicone-Slapping Servos Solve Simon Says</title>
-            <link>https://hackaday.com/2022/12/06/silicone-slapping-servos-solve-simon-says/</link>
-            <description>Silicone-Slapping Servos Solve Simon Says</description>
-            <pubDate>Tue Dec  6 19:30:39 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cuidado con el timo de la doble llamada: igual te cambias de compañía sin motivo</title>
-            <link>https://www.adslzone.net/noticias/seguridad/timo-doble-llamada-cambiar-compania-telefonica/</link>
-            <description>Cuidado con el timo de la doble llamada: igual te cambias de compañía sin motivo</description>
-            <pubDate>Tue Dec  6 19:01:30 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: NVIDIA baja el precio de las RTX 4090 y 4080 justo a tiempo para el lanzamiento de las nuevas gráficas de AMD</title>
-            <link>https://www.xataka.com/componentes/nvidia-baja-precio-rtx-4090-4080-justo-a-tiempo-para-lanzamiento-graficas-amd</link>
-            <description>NVIDIA baja el precio de las RTX 4090 y 4080 justo a tiempo para el lanzamiento de las nuevas gráficas de AMD</description>
-            <pubDate>Tue Dec  6 19:00:05 2022</pubDate>
             </item></channel>
 </rss>
