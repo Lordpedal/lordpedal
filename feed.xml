@@ -6,10 +6,34 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Ultimate Game and Watch Has Support for NES</title>
+            <link>https://hackaday.com/2022/12/09/ultimate-game-and-watch-has-support-for-nes/</link>
+            <description>Ultimate Game and Watch Has Support for NES</description>
+            <pubDate>Sat Dec 10 06:00:08 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Clean Slate is a Vintage Amplifier-Inspired PC</title>
+            <link>https://hackaday.com/2022/12/09/clean-slate-is-a-vintage-amplifier-inspired-pc/</link>
+            <description>Clean Slate is a Vintage Amplifier-Inspired PC</description>
+            <pubDate>Sat Dec 10 03:00:50 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Properly Pipe Laser Light Around with Homebrew Fiber Couplings</title>
+            <link>https://hackaday.com/2022/12/09/properly-pipe-laser-light-around-with-homebrew-fiber-couplings/</link>
+            <description>Properly Pipe Laser Light Around with Homebrew Fiber Couplings</description>
+            <pubDate>Sat Dec 10 00:00:07 2022</pubDate>
+            </item>
+            <item>
             <title>Xataka: Las empresas de logística tienen una respuesta a la falta de mano de obra: contratar robots en lugar de personas</title>
             <link>https://www.xataka.com/empresas-y-economia/empresas-logistica-tienen-respuesta-a-falta-mano-obra-contratar-robots-lugar-personas</link>
             <description>Las empresas de logística tienen una respuesta a la falta de mano de obra: contratar robots en lugar de personas</description>
             <pubDate>Fri Dec  9 22:43:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Changelog: The Changelog 518: Coming home to GitHub</title>
+            <link>https://changelog.com/podcast/518</link>
+            <description>The Changelog 518: Coming home to GitHub</description>
+            <pubDate>Fri Dec  9 22:30:00 2022</pubDate>
             </item>
             <item>
             <title>LiGNUx: El software de virtualización Virtualbox acaba de liberar su versión 7.0.4</title>
@@ -46,29 +70,5 @@
             <link>https://hackaday.com/2022/12/09/an-open-source-powerpc-notebook-edges-closer/</link>
             <description>An Open Source PowerPC Notebook Edges Closer</description>
             <pubDate>Fri Dec  9 19:30:35 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog de informática: Actualizar google Chrome con Powershell</title>
-            <link>https://martinezmartinez.eu/actualizar-google-chrome-con-powershell/</link>
-            <description>Actualizar google Chrome con Powershell</description>
-            <pubDate>Fri Dec  9 19:07:52 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: DC se ha sumido en el caos. Y lo están pagando los planes de James Gunn para los superhéroes de Warner</title>
-            <link>https://www.xataka.com/cine-y-tv/dc-se-ha-sumido-caos-estan-pagando-planes-james-gunn-para-superheroes-warner</link>
-            <description>DC se ha sumido en el caos. Y lo están pagando los planes de James Gunn para los superhéroes de Warner</description>
-            <pubDate>Fri Dec  9 19:01:07 2022</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Análisis nutricional de los turrones de Mercadona: los ordenamos del menos al más saludable</title>
-            <link>https://www.vitonica.com/alimentos/analisis-nutricional-turrones-mercadona-ordenamos-al-saludable</link>
-            <description>Análisis nutricional de los turrones de Mercadona: los ordenamos del menos al más saludable</description>
-            <pubDate>Fri Dec  9 19:01:07 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Quiero enviar Bizum a alguien que no tiene, ¿qué hago?</title>
-            <link>https://www.adslzone.net/noticias/fintech/enviar-bizum-persona-no-registrada/</link>
-            <description>Quiero enviar Bizum a alguien que no tiene, ¿qué hago?</description>
-            <pubDate>Fri Dec  9 18:58:30 2022</pubDate>
             </item></channel>
 </rss>
