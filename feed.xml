@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: Battle of the Texts and the Unicode Savior</title>
+            <link>https://itsfoss.com/unicode-linux/</link>
+            <description>Battle of the Texts and the Unicode Savior</description>
+            <pubDate>Tue Dec 13 06:34:40 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Llegan las vacaciones: así puedes limitar el uso del móvil de tu hijo</title>
+            <link>https://www.adslzone.net/noticias/moviles/limitar-uso-movil-hijos-vacaciones-navidad-2022/</link>
+            <description>Llegan las vacaciones: así puedes limitar el uso del móvil de tu hijo</description>
+            <pubDate>Tue Dec 13 06:01:55 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Interesting Optical Journey Results in Hybrid Viewfinder for Smartphones</title>
+            <link>https://hackaday.com/2022/12/12/interesting-optical-journey-results-in-hybrid-viewfinder-for-smartphones/</link>
+            <description>Interesting Optical Journey Results in Hybrid Viewfinder for Smartphones</description>
+            <pubDate>Tue Dec 13 06:00:22 2022</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Instalar el interprete de comandos zsh</title>
+            <link>https://www.cambiatealinux.com/instalar-el-interprete-de-comandos-zsh</link>
+            <description>Instalar el interprete de comandos zsh</description>
+            <pubDate>Tue Dec 13 04:43:20 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Fortinet Warns of Active Exploitation of New SSL-VPN Pre-auth RCE Vulnerability</title>
+            <link>https://thehackernews.com/2022/12/fortinet-warns-of-active-exploitation.html</link>
+            <description>Fortinet Warns of Active Exploitation of New SSL-VPN Pre-auth RCE Vulnerability</description>
+            <pubDate>Tue Dec 13 03:34:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Travel Uke from a Fallen Tree</title>
+            <link>https://hackaday.com/2022/12/12/travel-uke-from-a-fallen-tree/</link>
+            <description>Travel Uke from a Fallen Tree</description>
+            <pubDate>Tue Dec 13 03:00:07 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Serial Cistercian Digit Module</title>
+            <link>https://hackaday.com/2022/12/12/serial-cistercian-digit-module/</link>
+            <description>Serial Cistercian Digit Module</description>
+            <pubDate>Tue Dec 13 00:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Xataka: El nuevo Twitter Blue llega acompañado de un check dorado: qué significa esta insignia de verificación</title>
+            <link>https://www.xataka.com/aplicaciones/nuevo-twitter-blue-llega-acompanado-check-dorado-que-significa-esta-insignia-verificacion</link>
+            <description>El nuevo Twitter Blue llega acompañado de un check dorado: qué significa esta insignia de verificación</description>
+            <pubDate>Mon Dec 12 23:08:17 2022</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu!: Kdenlive 22.12 Released with “Major Overhaul” of Edit Markers</title>
+            <link>https://www.omgubuntu.co.uk/2022/12/kdenlive-22-12-released</link>
+            <description>Kdenlive 22.12 Released with “Major Overhaul” of Edit Markers</description>
+            <pubDate>Mon Dec 12 23:03:24 2022</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Fedora Budgie y Posh, los nuevos Spin que recibirá la distribución en Fedora 38</title>
             <link>https://www.linuxadictos.com/fedora-budgie-y-posh-los-nuevos-spin-que-recibira-la-distribucion-en-fedora-38.html</link>
             <description>Fedora Budgie y Posh, los nuevos Spin que recibirá la distribución en Fedora 38</description>
@@ -16,59 +70,5 @@
             <link>https://hackaday.com/2022/12/12/esp32-projects-from-northwestern-universitys-embedded-electronics-class/</link>
             <description>ESP32 Projects from Northwestern University’s Embedded Electronics Class</description>
             <pubDate>Mon Dec 12 21:00:36 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Linux 6.1 llega con Rust, mejoras de rendimiento, en controladores y mas</title>
-            <link>https://www.linuxadictos.com/linux-6-1-llega-con-rust-mejoras-de-rendimiento-en-controladores-y-mas.html</link>
-            <description>Linux 6.1 llega con Rust, mejoras de rendimiento, en controladores y mas</description>
-            <pubDate>Mon Dec 12 20:58:47 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Ofertas de Navidad en Vodafone: todo lo que puedes conseguir con descuento</title>
-            <link>https://www.adslzone.net/noticias/operadores/ofertas-navidad-vodafone-2022/</link>
-            <description>Ofertas de Navidad en Vodafone: todo lo que puedes conseguir con descuento</description>
-            <pubDate>Mon Dec 12 20:58:33 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los coches eléctricos tienen un problema con la radio AM, así que algunos fabricantes la están eliminando</title>
-            <link>https://www.xataka.com/movilidad/coches-electricos-tienen-problema-radio-am-asi-que-algunos-fabricantes-estan-eliminando</link>
-            <description>Los coches eléctricos tienen un problema con la radio AM, así que algunos fabricantes la están eliminando</description>
-            <pubDate>Mon Dec 12 20:55:24 2022</pubDate>
-            </item>
-            <item>
-            <title>Linux Magazine News (path: lmi_news): Initial Support for Rust in the Linux Kernel is Finally Released</title>
-            <link>http://www.linux-magazine.com/Online/News/Initial-Support-for-Rust-in-the-Linux-Kernel-is-Finally-Released</link>
-            <description>Initial Support for Rust in the Linux Kernel is Finally Released</description>
-            <pubDate>Mon Dec 12 20:54:29 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Los 4 puntos débiles de Tesla: necesitan solución ya</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/4-puntos-debiles-tesla-necesitan-solucion-ya/</link>
-            <description>Los 4 puntos débiles de Tesla: necesitan solución ya</description>
-            <pubDate>Mon Dec 12 20:00:49 2022</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Changelog News: tRPC, a bug tracker embedded in git, awesome ChatGPT prompts, half-baked cloud dev envs & Whisper.cpp</title>
-            <link>https://changelog.com/podcast/news-2022-12-12</link>
-            <description>Changelog News: tRPC, a bug tracker embedded in git, awesome ChatGPT prompts, half-baked cloud dev envs & Whisper.cpp</description>
-            <pubDate>Mon Dec 12 20:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Esta extensión nos permite añadir posts-its a las páginas web que consultamos: así funciona WebStickies</title>
-            <link>https://www.genbeta.com/herramientas/esta-extension-nos-permite-anadir-posts-its-a-paginas-web-que-consultamos-asi-funciona-webstickies</link>
-            <description>Esta extensión nos permite añadir posts-its a las páginas web que consultamos: así funciona WebStickies</description>
-            <pubDate>Mon Dec 12 19:32:50 2022</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Dos o tres minutos diarios de actividad física vigorosa pueden ser suficientes para mejorar la salud y alargar la vida, según un nuevo estudio</title>
-            <link>https://www.vitonica.com/wellness/dos-tres-minutos-diarios-actividad-fisica-vigorosa-pueden-ser-suficientes-para-mejorar-salud-alargar-vida-nuevo-estudio</link>
-            <description>Dos o tres minutos diarios de actividad física vigorosa pueden ser suficientes para mejorar la salud y alargar la vida, según un nuevo estudio</description>
-            <pubDate>Mon Dec 12 19:21:14 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Esta asfixiante serie distópica de Netflix plantea una pandemia muy original y una interesante reflexión sobre el aislamiento</title>
-            <link>https://www.xataka.com/cine-y-tv/esta-asfixiante-serie-distopica-netflix-plantea-pandemia-muy-original-interesante-reflexion-aislamiento</link>
-            <description>Esta asfixiante serie distópica de Netflix plantea una pandemia muy original y una interesante reflexión sobre el aislamiento</description>
-            <pubDate>Mon Dec 12 19:01:59 2022</pubDate>
             </item></channel>
 </rss>
