@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: Hacking Using SVG Files to Smuggle QBot Malware onto Windows Systems</title>
+            <link>https://thehackernews.com/2022/12/hacking-using-svg-files-to-smuggle-qbot.html</link>
+            <description>Hacking Using SVG Files to Smuggle QBot Malware onto Windows Systems</description>
+            <pubDate>Thu Dec 15 06:02:00 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Vamos al espacio: estas son las mejores webs de astronomía</title>
+            <link>https://www.adslzone.net/noticias/internet/mejores-webs-astronomia-diciembre-2022/</link>
+            <description>Vamos al espacio: estas son las mejores webs de astronomía</description>
+            <pubDate>Thu Dec 15 06:01:20 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Dumping Game Boy Cartridges Via The Link Cable Port</title>
+            <link>https://hackaday.com/2022/12/14/dumping-game-boy-cartridges-via-the-link-cable-port/</link>
+            <description>Dumping Game Boy Cartridges Via The Link Cable Port</description>
+            <pubDate>Thu Dec 15 06:00:55 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: OMEN 16: diseñados para la nueva generación gaming y más allá</title>
+            <link>https://www.adslzone.net/reportajes/temas/omen-16-disenados-para-la-nueva-generacion-gaming-y-mas-alla/</link>
+            <description>OMEN 16: diseñados para la nueva generación gaming y más allá</description>
+            <pubDate>Thu Dec 15 05:30:25 2022</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Cambiar la zona horaria de un servidor linux (timezone)</title>
+            <link>https://www.cambiatealinux.com/cambiar-la-zona-horaria-de-un-servidor-linux-timezone</link>
+            <description>Cambiar la zona horaria de un servidor linux (timezone)</description>
+            <pubDate>Thu Dec 15 04:39:22 2022</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: How to Switch from Debian Stable to Testing</title>
+            <link>https://itsfoss.com/switch-debian-stable-testing/</link>
+            <description>How to Switch from Debian Stable to Testing</description>
+            <pubDate>Thu Dec 15 04:24:23 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: How The Turntable Paradox Works</title>
+            <link>https://hackaday.com/2022/12/14/how-the-turntable-paradox-works/</link>
+            <description>How The Turntable Paradox Works</description>
+            <pubDate>Thu Dec 15 03:00:59 2022</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: Top de herramientas y gadgets para hardware hacking</title>
+            <link>https://www.hackplayers.com/2022/12/top-gadgets-hardware-hacking.html</link>
+            <description>Top de herramientas y gadgets para hardware hacking</description>
+            <pubDate>Thu Dec 15 01:12:12 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Omniwhegs are Awesome Times Two</title>
+            <link>https://hackaday.com/2022/12/14/omniwhegs-are-awesome-times-two/</link>
+            <description>Omniwhegs are Awesome Times Two</description>
+            <pubDate>Thu Dec 15 00:00:08 2022</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Log4 sigue siendo un problema, a un año de su descubrimiento</title>
             <link>https://www.linuxadictos.com/log4-sigue-siendo-un-problema-a-un-ano-de-su-descubrimiento.html</link>
             <description>Log4 sigue siendo un problema, a un año de su descubrimiento</description>
@@ -16,59 +70,5 @@
             <link>https://hackaday.com/2022/12/14/nanoaetherphone-is-a-special-midi-controller/</link>
             <description>Nanoaetherphone Is a Special MIDI Controller</description>
             <pubDate>Wed Dec 14 21:00:16 2022</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Novedades de Dolphin en KDE Gear 22.12</title>
-            <link>https://www.kdeblog.com/novedades-de-dolphin-en-kde-gear-22-12.html</link>
-            <description>Novedades de Dolphin en KDE Gear 22.12</description>
-            <pubDate>Wed Dec 14 20:42:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El último gameplay de ‘Hogwarts Legacy’ nos muestra un mágico mundo abierto y las posibilidades de combate</title>
-            <link>https://www.xataka.com/videojuegos/ultimo-gameplay-hogwarts-legacy-nos-muestra-magico-mundo-abierto-posibilidades-combate</link>
-            <description>El último gameplay de ‘Hogwarts Legacy’ nos muestra un mágico mundo abierto y las posibilidades de combate</description>
-            <pubDate>Wed Dec 14 20:35:24 2022</pubDate>
-            </item>
-            <item>
-            <title>56K: Crear mapas de Quake 1 desde GNU/Linux</title>
-            <link>https://56k.es/fanta/crear-mapas-de-quake-1-desde-gnu-linux/</link>
-            <description>Crear mapas de Quake 1 desde GNU/Linux</description>
-            <pubDate>Wed Dec 14 20:26:47 2022</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Puppy Linux 22.12, nueva versión del cachorro basada en Slackware</title>
-            <link>https://www.muylinux.com/2022/12/14/puppy-linux-22-12/</link>
-            <description>Puppy Linux 22.12, nueva versión del cachorro basada en Slackware</description>
-            <pubDate>Wed Dec 14 20:07:21 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Ante un fallo de la Voyager 1, la NASA se topó con un problema: ¿dónde estaba su manual de instrucciones?</title>
-            <link>https://www.xataka.com/espacio/fallo-voyager-1-nasa-se-topo-problema-donde-estaba-su-manual-instrucciones</link>
-            <description>Ante un fallo de la Voyager 1, la NASA se topó con un problema: ¿dónde estaba su manual de instrucciones?</description>
-            <pubDate>Wed Dec 14 20:00:46 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Lo que no te cuentan del router WiFi 6 de Movistar</title>
-            <link>https://www.adslzone.net/noticias/operadores/aspectos-no-cuentan-router-wifi-6-movistar/</link>
-            <description>Lo que no te cuentan del router WiFi 6 de Movistar</description>
-            <pubDate>Wed Dec 14 20:00:20 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Amazon Studios da luz verde a una serie de ‘God of War’: la exitosa franquicia llegará a Prime Video</title>
-            <link>https://www.xataka.com/streaming/amazon-studios-da-luz-verde-a-serie-god-of-war-exitosa-franquicia-llegara-a-prime-video</link>
-            <description>Amazon Studios da luz verde a una serie de ‘God of War’: la exitosa franquicia llegará a Prime Video</description>
-            <pubDate>Wed Dec 14 19:30:52 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Magnet Clock Makes Field Lines Visible</title>
-            <link>https://hackaday.com/2022/12/14/magnet-clock-makes-field-lines-visible/</link>
-            <description>Magnet Clock Makes Field Lines Visible</description>
-            <pubDate>Wed Dec 14 19:30:00 2022</pubDate>
-            </item>
-            <item>
-            <title>56K: Destripando Tomb Raider 1 desde Linux</title>
-            <link>https://56k.es/fanta/destripando-tomb-raider-1-desde-linux/</link>
-            <description>Destripando Tomb Raider 1 desde Linux</description>
-            <pubDate>Wed Dec 14 19:28:18 2022</pubDate>
             </item></channel>
 </rss>
