@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A Binaural Microphone For The Great Outdoors</title>
+            <link>https://hackaday.com/2022/12/17/a-binaural-microphone-for-the-great-outdoors/</link>
+            <description>A Binaural Microphone For The Great Outdoors</description>
+            <pubDate>Sun Dec 18 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Google Takes Gmail Security to the Next Level with Client-Side Encryption</title>
+            <link>https://thehackernews.com/2022/12/gmail-encryption.html</link>
+            <description>Google Takes Gmail Security to the Next Level with Client-Side Encryption</description>
+            <pubDate>Sun Dec 18 04:41:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: BBC Micro:Bit as Handheld Synthesizer</title>
+            <link>https://hackaday.com/2022/12/17/bbc-microbit-as-handheld-synthesizer/</link>
+            <description>BBC Micro:Bit as Handheld Synthesizer</description>
+            <pubDate>Sun Dec 18 03:00:41 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Printed Film Camera Gets 10 Seconds out of a 35mm Roll</title>
+            <link>https://hackaday.com/2022/12/17/printed-film-camera-gets-10-seconds-out-of-a-35mm-roll/</link>
+            <description>Printed Film Camera Gets 10 Seconds out of a 35mm Roll</description>
+            <pubDate>Sun Dec 18 00:00:51 2022</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El cliente IRC HexChat pública su versión 2.16.1</title>
             <link>https://lignux.com/el-cliente-irc-hexchat-publica-su-version-2-16-1/</link>
             <description>El cliente IRC HexChat pública su versión 2.16.1</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/cine-y-tv/que-saga-avatar-cae-antipatica-taquilleras-historia</link>
             <description>Por qué la saga 'Avatar' cae tan antipática si es una de las más taquilleras de la historia</description>
             <pubDate>Sat Dec 17 18:01:52 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: DIY Square Guitar Is Anything But</title>
-            <link>https://hackaday.com/2022/12/17/diy-square-guitar-is-anything-but/</link>
-            <description>DIY Square Guitar Is Anything But</description>
-            <pubDate>Sat Dec 17 18:00:15 2022</pubDate>
-            </item>
-            <item>
-            <title>telmo: 222</title>
-            <link>https://telmo.club/dialogos/222-2/</link>
-            <description>222</description>
-            <pubDate>Sat Dec 17 17:59:40 2022</pubDate>
-            </item>
-            <item>
-            <title>telmo: 221</title>
-            <link>https://telmo.club/dialogos/221-2/</link>
-            <description>221</description>
-            <pubDate>Sat Dec 17 17:56:29 2022</pubDate>
-            </item>
-            <item>
-            <title>telmo: 220</title>
-            <link>https://telmo.club/dialogos/220-2/</link>
-            <description>220</description>
-            <pubDate>Sat Dec 17 17:54:10 2022</pubDate>
             </item></channel>
 </rss>
