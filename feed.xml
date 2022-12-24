@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: An (Almost) Single-Chip Apple IIe</title>
+            <link>https://hackaday.com/2022/12/23/an-almost-single-chip-apple-iie/</link>
+            <description>An (Almost) Single-Chip Apple IIe</description>
+            <pubDate>Sat Dec 24 06:00:23 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Chainless “Digital Drive” Bikes Use Electric Power Transmission Instead</title>
+            <link>https://hackaday.com/2022/12/23/chainless-digital-drive-bikes-use-electric-power-transmission-instead/</link>
+            <description>Chainless “Digital Drive” Bikes Use Electric Power Transmission Instead</description>
+            <pubDate>Sat Dec 24 03:00:44 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Harmonic vs Cycloidal Show Down</title>
+            <link>https://hackaday.com/2022/12/23/harmonic-vs-cycloidal-show-down/</link>
+            <description>Harmonic vs Cycloidal Show Down</description>
+            <pubDate>Sat Dec 24 00:00:56 2022</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: Entrevista de trabajo para un puesto de ciberseguridad (red teamer)... ¡entre dos IAs!</title>
+            <link>https://www.hackplayers.com/2022/12/entrevista-cyber-entre-dos-IAs.html</link>
+            <description>Entrevista de trabajo para un puesto de ciberseguridad (red teamer)... ¡entre dos IAs!</description>
+            <pubDate>Fri Dec 23 23:41:47 2022</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: ¡Feliz navidad!</title>
+            <link>https://www.hackplayers.com/2022/12/feliz-navidad.html</link>
+            <description>¡Feliz navidad!</description>
+            <pubDate>Fri Dec 23 23:40:39 2022</pubDate>
+            </item>
+            <item>
             <title>MuyLinux: Tails 5.8 mejora el almacenamiento persistente y pone a Wayland por defecto</title>
             <link>https://www.muylinux.com/2022/12/23/tails-5-8/</link>
             <description>Tails 5.8 mejora el almacenamiento persistente y pone a Wayland por defecto</description>
@@ -40,35 +70,5 @@
             <link>https://freakspot.net/arderemos-en-el-fuego-de-la-eternidad/</link>
             <description>Arderemos en el fuego de la eternidad</description>
             <pubDate>Fri Dec 23 21:12:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Todos los descuentos que Amazon ofrece para ahorrar hasta 15 euros en una compra antes de que termine el año</title>
-            <link>https://www.genbeta.com/paso-a-paso/todos-descuentos-que-amazon-ofrece-para-ahorrar-15-euros-compra-antes-que-termine-ano</link>
-            <description>Todos los descuentos que Amazon ofrece para ahorrar hasta 15 euros en una compra antes de que termine el año</description>
-            <pubDate>Fri Dec 23 21:11:10 2022</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: This WiFi Signal Strength Meter Ain’t Afraid of No Ghosts</title>
-            <link>https://hackaday.com/2022/12/23/this-wifi-signal-strength-meter-aint-afraid-of-no-ghosts/</link>
-            <description>This WiFi Signal Strength Meter Ain’t Afraid of No Ghosts</description>
-            <pubDate>Fri Dec 23 21:00:34 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: George Hotz, el hacker de la PS3 que iba a mejorar Twitter, renuncia sin mejorar Twitter</title>
-            <link>https://www.xataka.com/empresas-y-economia/george-hotz-hacker-ps3-que-iba-a-mejorar-twitter-renuncia-mejorar-twitter</link>
-            <description>George Hotz, el hacker de la PS3 que iba a mejorar Twitter, renuncia sin mejorar Twitter</description>
-            <pubDate>Fri Dec 23 21:00:00 2022</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu!: ‘Kora’ Icon Set Gives Your Linux Desktop a Classy New Look</title>
-            <link>https://www.omgubuntu.co.uk/2022/12/kora-icon-theme</link>
-            <description>‘Kora’ Icon Set Gives Your Linux Desktop a Classy New Look</description>
-            <pubDate>Fri Dec 23 20:40:21 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El WiFi funciona peor en Navidad y no es precisamente por las luces del árbol</title>
-            <link>https://www.adslzone.net/noticias/redes/wifi-funciona-peor-navidad-razones/</link>
-            <description>El WiFi funciona peor en Navidad y no es precisamente por las luces del árbol</description>
-            <pubDate>Fri Dec 23 20:00:13 2022</pubDate>
             </item></channel>
 </rss>
