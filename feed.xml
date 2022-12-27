@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Las 5 mejores prácticas para prevenir ataques de inicio de sesión de fuerza bruta SSH en Linux</title>
+            <link>https://www.linuxparty.es/57-seguridad/11265-las-5-mejores-practicas-para-prevenir-ataques-de-inicio-de-sesion-de-fuerza-bruta-ssh-en-linux.html</link>
+            <description>Las 5 mejores prácticas para prevenir ataques de inicio de sesión de fuerza bruta SSH en Linux</description>
+            <pubDate>Tue Dec 27 07:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Teensy Twofer of Plug-In Emulated Retro CPUs</title>
+            <link>https://hackaday.com/2022/12/26/teensy-twofer-of-plug-in-emulated-retro-cpus/</link>
+            <description>Teensy Twofer of Plug-In Emulated Retro CPUs</description>
+            <pubDate>Tue Dec 27 06:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: El 5G sigue creciendo hacia un futuro mucho más inteligente y sostenible</title>
+            <link>https://www.adslzone.net/reportajes/temas/5g-sigue-creciendo-hacia-futuro-inteligente-sostenible/</link>
+            <description>El 5G sigue creciendo hacia un futuro mucho más inteligente y sostenible</description>
+            <pubDate>Tue Dec 27 05:00:55 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Tube Audio Amplifiers Needn’t Be Complex</title>
+            <link>https://hackaday.com/2022/12/26/tube-audio-amplifiers-neednt-be-complex/</link>
+            <description>Tube Audio Amplifiers Needn’t Be Complex</description>
+            <pubDate>Tue Dec 27 03:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Connecting Commercial 433 MHz Sensors to MQTT and Home Assistant with RTL-SDR</title>
+            <link>https://hackaday.com/2022/12/26/connecting-commercial-433-mhz-sensors-to-mqtt-and-home-assistant-with-rtl-sdr/</link>
+            <description>Connecting Commercial 433 MHz Sensors to MQTT and Home Assistant with RTL-SDR</description>
+            <pubDate>Tue Dec 27 00:00:00 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Overture Maps, una fundación para el desarrollo de datos de mapas abiertos interoperables</title>
+            <link>https://blog.desdelinux.net/overture-maps-una-fundacion-para-el-desarrollo-de-datos-de-mapas-abiertos-interoperables/</link>
+            <description>Overture Maps, una fundación para el desarrollo de datos de mapas abiertos interoperables</description>
+            <pubDate>Mon Dec 26 21:54:46 2022</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Xe, el nuevo controlador de Intel para Linux para sus GPU</title>
+            <link>https://blog.desdelinux.net/xe-el-nuevo-controlador-de-intel-para-linux-para-sus-gpu/</link>
+            <description>Xe, el nuevo controlador de Intel para Linux para sus GPU</description>
+            <pubDate>Mon Dec 26 21:20:51 2022</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Turning a Microchip MPLAB Snap Into a UDPI AVR Programmer</title>
             <link>https://hackaday.com/2022/12/26/turning-a-microchip-mplab-snap-into-a-udpi-avr-programmer/</link>
             <description>Turning a Microchip MPLAB Snap Into a UDPI AVR Programmer</description>
@@ -18,57 +60,15 @@
             <pubDate>Mon Dec 26 20:54:24 2022</pubDate>
             </item>
             <item>
+            <title>Desde Linux: ¿Realidad o mentira? Presentan las primeras computadoras cuánticas portátiles</title>
+            <link>https://blog.desdelinux.net/realidad-o-mentira-presentan-las-primeras-computadoras-cuanticas-portatiles/</link>
+            <description>¿Realidad o mentira? Presentan las primeras computadoras cuánticas portátiles</description>
+            <pubDate>Mon Dec 26 20:28:49 2022</pubDate>
+            </item>
+            <item>
             <title>Ubunlog: Sway 1.8 llega con mejoras para Vulkan y mas</title>
             <link>https://ubunlog.com/sway-1-8-llega-con-mejoras-para-vulkan-y-mas/</link>
             <description>Sway 1.8 llega con mejoras para Vulkan y mas</description>
             <pubDate>Mon Dec 26 20:03:52 2022</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Llega Darktable 4.2 celebrando su décimo aniversario y estas son sus novedades</title>
-            <link>https://ubunlog.com/llega-darktable-4-2-celebrando-su-decimo-aniversario-y-estas-son-sus-novedades/</link>
-            <description>Llega Darktable 4.2 celebrando su décimo aniversario y estas son sus novedades</description>
-            <pubDate>Mon Dec 26 19:36:09 2022</pubDate>
-            </item>
-            <item>
-            <title>NASeros: ¿Cómo funcionan las redes más rápidas del mundo?</title>
-            <link>https://naseros.com/2022/12/26/como-funcionan-las-redes-mas-rapidas-del-mundo/?utm_source=rss&utm_medium=rss&utm_campaign=como-funcionan-las-redes-mas-rapidas-del-mundo</link>
-            <description>¿Cómo funcionan las redes más rápidas del mundo?</description>
-            <pubDate>Mon Dec 26 19:30:02 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El peor error que puedes cometer al crear una red WiFi para invitados</title>
-            <link>https://www.adslzone.net/noticias/redes/error-wifi-red-invitados/</link>
-            <description>El peor error que puedes cometer al crear una red WiFi para invitados</description>
-            <pubDate>Mon Dec 26 19:03:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Así será el OnePlus 11: la marca desvela el diseño y otros secretos de su próximo móvil de gama alta</title>
-            <link>https://www.xataka.com/moviles/asi-sera-oneplus-11-marca-desvela-diseno-otros-secretos-su-proximo-movil-gama-alta</link>
-            <description>Así será el OnePlus 11: la marca desvela el diseño y otros secretos de su próximo móvil de gama alta</description>
-            <pubDate>Mon Dec 26 19:01:08 2022</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Terapia morita: así es como en Japón y en otros países orientales afrontan los pensamientos recurrentes</title>
-            <link>https://www.vitonica.com/wellness/terapia-morita-asi-como-japon-paises-orientales-afrontan-pensamientos-recurrentes</link>
-            <description>Terapia morita: así es como en Japón y en otros países orientales afrontan los pensamientos recurrentes</description>
-            <pubDate>Mon Dec 26 19:00:23 2022</pubDate>
-            </item>
-            <item>
-            <title>Victorhck in the free world: Blender vuelve a la carga con un nuevo corto</title>
-            <link>https://victorhckinthefreeworld.com/2022/12/26/blender-vuelve-a-la-carga-con-un-nuevo-corto/</link>
-            <description>Blender vuelve a la carga con un nuevo corto</description>
-            <pubDate>Mon Dec 26 18:59:01 2022</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Point-E la nueva solución de  de OpenAI que genera imágenes 3D</title>
-            <link>https://blog.desdelinux.net/point-e-la-nueva-solucion-de-de-openai-que-genera-imagenes-3d/</link>
-            <description>Point-E la nueva solución de  de OpenAI que genera imágenes 3D</description>
-            <pubDate>Mon Dec 26 18:38:00 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: Vuelta a lo sencillo y básico: LG lanzará una gama de electrodomésticos de aspecto minimalista y con funciones actualizables</title>
-            <link>https://www.xatakahome.com/electrodomesticos-innovadores/vuelta-a-sencillo-basico-lg-lanzara-gama-electrodomesticos-aspecto-minimalista-funciones-actualizables</link>
-            <description>Vuelta a lo sencillo y básico: LG lanzará una gama de electrodomésticos de aspecto minimalista y con funciones actualizables</description>
-            <pubDate>Mon Dec 26 18:08:23 2022</pubDate>
             </item></channel>
 </rss>
