@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Raspberry Pi and ppLOGGER Make a Low-Cost Chemiluminescence Detector</title>
+            <link>https://hackaday.com/2022/12/31/raspberry-pi-and-pplogger-make-a-low-cost-chemiluminescence-detector/</link>
+            <description>Raspberry Pi and ppLOGGER Make a Low-Cost Chemiluminescence Detector</description>
+            <pubDate>Sun Jan  1 06:00:32 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Dirty USB-C Tricks: One Port For The Price Of Two</title>
+            <link>https://hackaday.com/2022/12/31/dirty-usb-c-tricks-one-port-for-the-price-of-two/</link>
+            <description>Dirty USB-C Tricks: One Port For The Price Of Two</description>
+            <pubDate>Sun Jan  1 03:00:38 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Get To Know Touch With This Dev Board</title>
+            <link>https://hackaday.com/2022/12/31/get-to-know-touch-with-this-dev-board/</link>
+            <description>Get To Know Touch With This Dev Board</description>
+            <pubDate>Sun Jan  1 00:00:50 2023</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: KiCad 2022 End-of-Year Recap and 7.0 Preview</title>
             <link>https://hackaday.com/2022/12/31/kicad-2022-end-of-year-recap-and-7-0-preview/</link>
             <description>KiCad 2022 End-of-Year Recap and 7.0 Preview</description>
@@ -52,23 +70,5 @@
             <link>https://hackaday.com/2022/12/31/battery-powered-esp8266-sensor-never-been-simpler/</link>
             <description>Battery-Powered ESP8266 Sensor? Never Been Simpler</description>
             <pubDate>Sat Dec 31 18:00:48 2022</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hyundai tiene claro que sólo venderá coches eléctricos. Y el primer paso lo va a dar en Noruega en 2023</title>
-            <link>https://www.xataka.com/movilidad/hyundai-tiene-claro-que-solo-vendera-coches-electricos-primer-paso-va-a-dar-noruega-2023</link>
-            <description>Hyundai tiene claro que sólo venderá coches eléctricos. Y el primer paso lo va a dar en Noruega en 2023</description>
-            <pubDate>Sat Dec 31 17:01:18 2022</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Stickers de WhatsApp para triunfar en Nochevieja y Año Nuevo</title>
-            <link>https://www.adslzone.net/noticias/whatsapp/paquetes-stickers-whatsapp-nochevieja-ano-nuevo-2022/</link>
-            <description>Stickers de WhatsApp para triunfar en Nochevieja y Año Nuevo</description>
-            <pubDate>Sat Dec 31 17:01:10 2022</pubDate>
-            </item>
-            <item>
-            <title>Diario del Viajero: Si te has enamorado de París viendo 'Emily in Paris' aquí tienes (casi) todos los lugares que salen en la serie</title>
-            <link>https://www.diariodelviajero.com/recomendaciones-de-la-casa/te-has-enamorado-paris-viendo-emily-in-paris-estos-sitios-a-que-deberas-ir</link>
-            <description>Si te has enamorado de París viendo 'Emily in Paris' aquí tienes (casi) todos los lugares que salen en la serie</description>
-            <pubDate>Sat Dec 31 16:52:20 2022</pubDate>
             </item></channel>
 </rss>
