@@ -6,15 +6,63 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Dejar de usar C y C++ y centrarse en Rust y Java: es lo que recomienda la Agencia de Seguridad de EE.UU a empresas del mundo</title>
+            <link>https://www.linuxparty.es/54-programacion/11287-dejar-de-usar-c-y-c-y-centrarse-en-rust-y-java-es-lo-que-recomienda-la-agencia-de-seguridad-de-ee-uu-a-empresas-del-mundo.html</link>
+            <description>Dejar de usar C y C++ y centrarse en Rust y Java: es lo que recomienda la Agencia de Seguridad de EE.UU a empresas del mundo</description>
+            <pubDate>Thu Jan 12 07:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Atareao: Un servidor gratuito o como exprimir GitLab</title>
+            <link>https://atareao.es/podcast/un-servidor-gratuito-o-como-exprimir-gitlab/</link>
+            <description>Un servidor gratuito o como exprimir GitLab</description>
+            <pubDate>Thu Jan 12 07:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Hay 20 contraseñas que nunca deberías utilizar</title>
+            <link>https://www.adslzone.net/noticias/seguridad/20-contrasenas-nunca-debes-utilizar/</link>
+            <description>Hay 20 contraseñas que nunca deberías utilizar</description>
+            <pubDate>Thu Jan 12 06:01:48 2023</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: TM1637 case #3DThursday #3DPrinting</title>
+            <link>https://blog.adafruit.com/2023/01/12/tm1637-case-3dthursday-3dprinting/</link>
+            <description>TM1637 case #3DThursday #3DPrinting</description>
+            <pubDate>Thu Jan 12 06:00:14 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D Printed Wind Turbine Has All the Features, Just Smaller</title>
+            <link>https://hackaday.com/2023/01/11/3d-printed-wind-turbine-has-all-the-features-just-smaller/</link>
+            <description>3D Printed Wind Turbine Has All the Features, Just Smaller</description>
+            <pubDate>Thu Jan 12 06:00:13 2023</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Cambiar de tamaño o lugar el fichero de swap en Linux</title>
+            <link>https://www.cambiatealinux.com/cambiar-de-tamano-o-lugar-el-fichero-de-swap-en-linux</link>
+            <description>Cambiar de tamaño o lugar el fichero de swap en Linux</description>
+            <pubDate>Thu Jan 12 05:51:24 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Lunar Rover is No Toy</title>
+            <link>https://hackaday.com/2023/01/11/lunar-rover-is-no-toy/</link>
+            <description>Lunar Rover is No Toy</description>
+            <pubDate>Thu Jan 12 03:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: NASA Help Wanted: Telescope Optional</title>
+            <link>https://hackaday.com/2023/01/11/nasa-help-wanted-telescope-optional/</link>
+            <description>NASA Help Wanted: Telescope Optional</description>
+            <pubDate>Thu Jan 12 00:00:41 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Ardour llega a su versión 7.2, una suite de edición de audio Open Source</title>
             <link>https://lignux.com/ardour-llega-a-su-version-7-2-una-suite-de-edicion-de-audio-open-source/</link>
             <description>Ardour llega a su versión 7.2, una suite de edición de audio Open Source</description>
             <pubDate>Wed Jan 11 22:54:30 2023</pubDate>
             </item>
             <item>
-            <title>Xataka: Apple está trabajando en una idea que Steve Jos aborrecía: portátiles con pantalla táctil, según Mark Gurman</title>
+            <title>Xataka: Apple está trabajando en una idea que Steve Jobs aborrecía: portátiles con pantalla táctil, según Mark Gurman</title>
             <link>https://www.xataka.com/ordenadores/apple-esta-trabajando-idea-que-steve-jos-aborrecia-portatiles-pantalla-tactil-mark-gurman</link>
-            <description>Apple está trabajando en una idea que Steve Jos aborrecía: portátiles con pantalla táctil, según Mark Gurman</description>
+            <description>Apple está trabajando en una idea que Steve Jobs aborrecía: portátiles con pantalla táctil, según Mark Gurman</description>
             <pubDate>Wed Jan 11 22:13:46 2023</pubDate>
             </item>
             <item>
@@ -22,53 +70,5 @@
             <link>http://www.linux-magazine.com/Online/News/Nobara-Project-is-a-Modified-Version-of-Fedora-With-User-Friendly-Fixes</link>
             <description>Nobara Project is a Modified Version of Fedora With User-Friendly Fixes</description>
             <pubDate>Wed Jan 11 22:08:11 2023</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Tras 20 años de desarrollo llega FreeCol 1.0, el clon libre del clásico Colonization</title>
-            <link>https://www.muylinux.com/2023/01/11/freecol-1-0-colonization/</link>
-            <description>Tras 20 años de desarrollo llega FreeCol 1.0, el clon libre del clásico Colonization</description>
-            <pubDate>Wed Jan 11 21:28:06 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: VK, Yandex, Sberbank y Rostelecom pretenden desarrollar su propia versión de Android</title>
-            <link>https://www.linuxadictos.com/vk-yandex-sberbank-y-rostelecom-pretenden-desarrollar-su-propia-version-de-android.html</link>
-            <description>VK, Yandex, Sberbank y Rostelecom pretenden desarrollar su propia versión de Android</description>
-            <pubDate>Wed Jan 11 21:12:28 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esto es lo que necesitas para aprovechar tu conexión: desde 100 megas a 1 giga</title>
-            <link>https://www.adslzone.net/noticias/redes/requisitos-aprovechar-conexion-100-megas-1-giga/</link>
-            <description>Esto es lo que necesitas para aprovechar tu conexión: desde 100 megas a 1 giga</description>
-            <pubDate>Wed Jan 11 21:01:18 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Building a Homemade Ambient Pressure Submarine</title>
-            <link>https://hackaday.com/2023/01/11/building-a-homemade-ambient-pressure-submarine/</link>
-            <description>Building a Homemade Ambient Pressure Submarine</description>
-            <pubDate>Wed Jan 11 21:00:42 2023</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Better Application Menu, otro lanzador de aplicaciones para KDE – Plasmoides de KDE (215)</title>
-            <link>https://www.kdeblog.com/better-application-menu-otro-lanzador-de-aplicaciones-para-kde-plasmoides-de-kde-215.html</link>
-            <description>Better Application Menu, otro lanzador de aplicaciones para KDE – Plasmoides de KDE (215)</description>
-            <pubDate>Wed Jan 11 20:00:59 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Tu coche puede tener la pegatina de la DGT y quizás no lo sepas: así puedes comprobarlo</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/coche-puede-tener-pegatina-dgt-comprobarlo/</link>
-            <description>Tu coche puede tener la pegatina de la DGT y quizás no lo sepas: así puedes comprobarlo</description>
-            <pubDate>Wed Jan 11 20:00:35 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Era cuestión de tiempo que OpenAI empezara a cobrar por ChatGPT: esto ofrecerá la versión de pago</title>
-            <link>https://www.xataka.com/robotica-e-ia/era-cuestion-tiempo-que-openai-empezara-a-cobrar-chatgpt-esto-ofrecera-version-pago</link>
-            <description>Era cuestión de tiempo que OpenAI empezara a cobrar por ChatGPT: esto ofrecerá la versión de pago</description>
-            <pubDate>Wed Jan 11 20:00:29 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Elon Musk se olvida de sus críticas al feed algorítmico de Twitter y opta por copiar el 'modelo TikTok'</title>
-            <link>https://www.genbeta.com/actualidad/elon-musk-se-olvida-sus-criticas-al-feed-algoritmico-twitter-opta-copiar-modelo-tiktok</link>
-            <description>Elon Musk se olvida de sus críticas al feed algorítmico de Twitter y opta por copiar el 'modelo TikTok'</description>
-            <pubDate>Wed Jan 11 19:47:21 2023</pubDate>
             </item></channel>
 </rss>
