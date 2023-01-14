@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Swap the Clock Chip on the Mac SE/30 with an ATTiny85</title>
+            <link>https://hackaday.com/2023/01/13/swap-the-clock-chip-on-the-mac-se-30-with-an-attiny85/</link>
+            <description>Swap the Clock Chip on the Mac SE/30 with an ATTiny85</description>
+            <pubDate>Sat Jan 14 06:00:29 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: TikTok Fined $5.4 Million by French Regulator for Violating Cookie Laws</title>
+            <link>https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html</link>
+            <description>TikTok Fined $5.4 Million by French Regulator for Violating Cookie Laws</description>
+            <pubDate>Sat Jan 14 05:01:00 2023</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Scareware: Qué es, Ejemplos y Cómo Evitarlo</title>
+            <link>https://esgeeks.com/que-es-scareware/</link>
+            <description>Scareware: Qué es, Ejemplos y Cómo Evitarlo</description>
+            <pubDate>Sat Jan 14 04:37:03 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Cisco Issues Warning for Unpatched Vulnerabilities in EoL Business Routers</title>
+            <link>https://thehackernews.com/2023/01/cisco-issues-warning-for-unpatched.html</link>
+            <description>Cisco Issues Warning for Unpatched Vulnerabilities in EoL Business Routers</description>
+            <pubDate>Sat Jan 14 04:11:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Detecting Algal Blooms with the Help of AI</title>
+            <link>https://hackaday.com/2023/01/13/detecting-algal-blooms-with-the-help-of-ai/</link>
+            <description>Detecting Algal Blooms with the Help of AI</description>
+            <pubDate>Sat Jan 14 03:00:34 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Microsoft y OpenAI están trabajando en una versión de Bing que integra ChatGPT</title>
+            <link>https://www.linuxadictos.com/microsoft-y-openai-estan-trabajando-en-una-version-de-bing-que-integra-chatgpt.html</link>
+            <description>Microsoft y OpenAI están trabajando en una versión de Bing que integra ChatGPT</description>
+            <pubDate>Sat Jan 14 00:57:31 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: OpenAI comenzará a cobrar por el uso de ChatGPT, lanzando una versión profesional</title>
+            <link>https://www.linuxadictos.com/openai-comenzara-a-cobrar-por-el-uso-de-chatgpt-lanzando-una-version-profesional.html</link>
+            <description>OpenAI comenzará a cobrar por el uso de ChatGPT, lanzando una versión profesional</description>
+            <pubDate>Sat Jan 14 00:28:37 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An E-Ink Progress Bar for Your Unborn Child</title>
+            <link>https://hackaday.com/2023/01/13/an-e-ink-progress-bar-for-your-unborn-child/</link>
+            <description>An E-Ink Progress Bar for Your Unborn Child</description>
+            <pubDate>Sat Jan 14 00:00:07 2023</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Calificación 9.1 de 10, ¿Que distribución es?</title>
+            <link>https://www.distritotux.cl/2023/01/calificacion-91-de-10-que-distribucion.html</link>
+            <description>Calificación 9.1 de 10, ¿Que distribución es?</description>
+            <pubDate>Fri Jan 13 23:25:52 2023</pubDate>
+            </item>
+            <item>
             <title>Changelog: Medium embraces Mastodon</title>
             <link>https://scribe.rip/medium-embraces-mastodon-19dcb873eb11</link>
             <description>Medium embraces Mastodon</description>
@@ -16,59 +70,5 @@
             <link>https://jugandoenlinux.com/index.php/homepage/rol/1522-hogwarts-legacy-llegara-a-steam-deck-y-linux-en-su-lanzamiento</link>
             <description>Hogwarts Legacy llegará a Steam Deck y Linux en su lanzamiento</description>
             <pubDate>Fri Jan 13 21:04:02 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las elegidas: estas son las 5 tarifas de fibra más baratas de 2023</title>
-            <link>https://www.adslzone.net/noticias/operadores/5-tarifas-fibra-baratas-enero-2023/</link>
-            <description>Las elegidas: estas son las 5 tarifas de fibra más baratas de 2023</description>
-            <pubDate>Fri Jan 13 21:03:43 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Arduino Library Brings rtl_433 to the ESP32</title>
-            <link>https://hackaday.com/2023/01/13/arduino-library-brings-rtl_433-to-the-esp32/</link>
-            <description>Arduino Library Brings rtl_433 to the ESP32</description>
-            <pubDate>Fri Jan 13 21:00:50 2023</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Natives in Tech pide a la Apache Software Foundation que cambie su nombre</title>
-            <link>https://blog.desdelinux.net/natives-in-tech-pide-a-la-apache-software-foundation-que-cambie-su-nombre/</link>
-            <description>Natives in Tech pide a la Apache Software Foundation que cambie su nombre</description>
-            <pubDate>Fri Jan 13 20:29:38 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Your tech stack is not the product</title>
-            <link>https://hoho.com/posts/your-stack-is-not-the-product/</link>
-            <description>Your tech stack is not the product</description>
-            <pubDate>Fri Jan 13 20:17:01 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: La última actualización de Microsoft Defender está provocando el borrado de los accesos directos en Windows 10</title>
-            <link>https://www.genbeta.com/actualidad/ultima-actualizacion-microsoft-defender-esta-provocando-borrado-accesos-directos-windows-10</link>
-            <description>La última actualización de Microsoft Defender está provocando el borrado de los accesos directos en Windows 10</description>
-            <pubDate>Fri Jan 13 20:10:04 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: GPT-4: cuándo se lanzará la IA más avanzada de OpenAI, cómo funcionará y todas las novedades</title>
-            <link>https://www.xataka.com/nuevo/gpt-4-que-cuando-sale-como-funciona-toda-informacion</link>
-            <description>GPT-4: cuándo se lanzará la IA más avanzada de OpenAI, cómo funcionará y todas las novedades</description>
-            <pubDate>Fri Jan 13 20:01:06 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Plan Moves en 2023: así te ahorras 7.000 euros al comprar un coche eléctrico</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/plan-moves-2023-ahorras-7-000-euros-coche-electrico/</link>
-            <description>Plan Moves en 2023: así te ahorras 7.000 euros al comprar un coche eléctrico</description>
-            <pubDate>Fri Jan 13 20:00:07 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: z-tokens – random tokens generation and related tools</title>
-            <link>https://github.com/volution/z-tokens</link>
-            <description>z-tokens – random tokens generation and related tools</description>
-            <pubDate>Fri Jan 13 19:32:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: DIY Fiber Laser Adds Metal Cutting to the Mix</title>
-            <link>https://hackaday.com/2023/01/13/diy-fiber-laser-adds-metal-cutting-to-the-mix/</link>
-            <description>DIY Fiber Laser Adds Metal Cutting to the Mix</description>
-            <pubDate>Fri Jan 13 19:30:32 2023</pubDate>
             </item></channel>
 </rss>
