@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>ADSLZone: Fórmate sin pagar ni un duro: estos 51 cursos de Google son totalmente gratis</title>
+            <link>https://www.adslzone.net/noticias/tecnologia/51-cursos-gratis-google-enero-2023/</link>
+            <description>Fórmate sin pagar ni un duro: estos 51 cursos de Google son totalmente gratis</description>
+            <pubDate>Wed Jan 18 06:03:21 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: One-Size-Fits-All Wrench Points to a Nut Job</title>
+            <link>https://hackaday.com/2023/01/17/one-size-fits-all-wrench-points-to-a-nut-job/</link>
+            <description>One-Size-Fits-All Wrench Points to a Nut Job</description>
+            <pubDate>Wed Jan 18 06:00:19 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: CISA Warns of Flaws in Siemens, GE Digital, and Contec Industrial Control Systems</title>
+            <link>https://thehackernews.com/2023/01/cisa-warns-of-flaws-in-siemens-ge.html</link>
+            <description>CISA Warns of Flaws in Siemens, GE Digital, and Contec Industrial Control Systems</description>
+            <pubDate>Wed Jan 18 05:56:00 2023</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Tips for 3D Printing Parts for the Gridfinity Storage System</title>
+            <link>https://blog.adafruit.com/2023/01/17/tips-for-3d-printing-parts-for-the-gridfinity-storage-system/</link>
+            <description>Tips for 3D Printing Parts for the Gridfinity Storage System</description>
+            <pubDate>Wed Jan 18 04:00:58 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Turns Out, Lightning Can Strike Twice, With a Little Help</title>
+            <link>https://hackaday.com/2023/01/17/turns-out-lighting-can-strike-twice-with-a-little-help/</link>
+            <description>Turns Out, Lightning Can Strike Twice, With a Little Help</description>
+            <pubDate>Wed Jan 18 03:00:12 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: El proyecto Chromium admitirá el uso de bibliotecas Rust</title>
+            <link>https://blog.desdelinux.net/el-proyecto-chromium-admitira-el-uso-de-bibliotecas-rust/</link>
+            <description>El proyecto Chromium admitirá el uso de bibliotecas Rust</description>
+            <pubDate>Wed Jan 18 01:54:10 2023</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: CVE-2023-0321 Divulgación de información sensible en productos de Campbell Scientific</title>
+            <link>https://www.hackplayers.com/2023/01/cve-2023-0321-info-sensible-campbell.html</link>
+            <description>CVE-2023-0321 Divulgación de información sensible en productos de Campbell Scientific</description>
+            <pubDate>Wed Jan 18 00:16:38 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Kirby Sucks, Literally</title>
+            <link>https://hackaday.com/2023/01/17/kirby-sucks-literally/</link>
+            <description>Kirby Sucks, Literally</description>
+            <pubDate>Wed Jan 18 00:00:06 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Express: #163 Linux Express</title>
+            <link>https://podcastlinux.com/posts/linuxexpress/163-Linux-Express/</link>
+            <description>#163 Linux Express</description>
+            <pubDate>Wed Jan 18 00:00:00 2023</pubDate>
+            </item>
+            <item>
             <title>Xataka: Ya sabemos por qué algunos clientes de terceros de Twitter no funcionan. La red social está bloqueando su API</title>
             <link>https://www.xataka.com/aplicaciones/sabemos-que-algunos-clientes-terceros-twitter-no-funcionan-red-social-esta-bloqueando-su-api</link>
             <description>Ya sabemos por qué algunos clientes de terceros de Twitter no funcionan. La red social está bloqueando su API</description>
@@ -16,59 +70,5 @@
             <link>https://blog.desdelinux.net/mx-linux-21-3-llega-con-xfce-4-18-y-mas/</link>
             <description>MX Linux 21.3 llega con Xfce 4.18 y mas</description>
             <pubDate>Tue Jan 17 21:52:21 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Microsoft se prepara para un recorte histórico. Los despidos afectarán a todas sus divisiones, según Reuters</title>
-            <link>https://www.xataka.com/empresas-y-economia/microsoft-se-prepara-para-recorte-historico-despidos-afectaran-a-todas-sus-divisiones-reuters</link>
-            <description>Microsoft se prepara para un recorte histórico. Los despidos afectarán a todas sus divisiones, según Reuters</description>
-            <pubDate>Tue Jan 17 21:48:57 2023</pubDate>
-            </item>
-            <item>
-            <title>▶ Noticias desde entreunosyceros: Lista de cosas que hacer, crea una usando HTML, CSS y jQuery</title>
-            <link>https://entreunosyceros.net/lista-de-cosas-que-hacer-html-css-jquery/</link>
-            <description>Lista de cosas que hacer, crea una usando HTML, CSS y jQuery</description>
-            <pubDate>Tue Jan 17 21:45:29 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Movistar, Vodafone, Orange o Yoigo: ya sabemos quién tiene la mejor red móvil en 2023</title>
-            <link>https://www.adslzone.net/noticias/operadores/movistar-vodafone-orange-yoigo-mejor-red-movil-espana-enero-2023/</link>
-            <description>Movistar, Vodafone, Orange o Yoigo: ya sabemos quién tiene la mejor red móvil en 2023</description>
-            <pubDate>Tue Jan 17 21:01:02 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: The libraries we use to build Rails apps</title>
-            <link>https://evilmartians.com/chronicles/gemfile-of-dreams-libraries-we-use-to-build-rails-apps</link>
-            <description>The libraries we use to build Rails apps</description>
-            <pubDate>Tue Jan 17 21:01:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Megahex will Give You Robo-Arachnophobia</title>
-            <link>https://hackaday.com/2023/01/17/megahex-will-give-you-robo-arachnophobia/</link>
-            <description>Megahex will Give You Robo-Arachnophobia</description>
-            <pubDate>Tue Jan 17 21:00:10 2023</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: ¿Con qué Frecuencia Tienes que Reiniciar tu Servidor Linux?</title>
-            <link>https://esgeeks.com/frecuencia-reiniciar-servidor-linux/</link>
-            <description>¿Con qué Frecuencia Tienes que Reiniciar tu Servidor Linux?</description>
-            <pubDate>Tue Jan 17 20:50:39 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Google libera el mando de Stadia: así puedes activar el Modo Bluetooth para usarlo en otras plataformas</title>
-            <link>https://www.xataka.com/videojuegos/google-libera-mando-stadia-asi-puedes-activar-modo-bluetooth-para-usarlo-otras-plataformas</link>
-            <description>Google libera el mando de Stadia: así puedes activar el Modo Bluetooth para usarlo en otras plataformas</description>
-            <pubDate>Tue Jan 17 20:37:23 2023</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: LibreELEC 10.0.4 ya fue liberado y estas son sus novedades</title>
-            <link>https://blog.desdelinux.net/libreelec-10-0-4-ya-fue-liberado-y-estas-son-sus-novedades/</link>
-            <description>LibreELEC 10.0.4 ya fue liberado y estas son sus novedades</description>
-            <pubDate>Tue Jan 17 20:36:08 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Practical AI 207: Machine learning at small organizations</title>
-            <link>https://changelog.com/practicalai/207</link>
-            <description>Practical AI 207: Machine learning at small organizations</description>
-            <pubDate>Tue Jan 17 20:15:00 2023</pubDate>
             </item></channel>
 </rss>
