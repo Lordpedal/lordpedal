@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Atareao: Bash y viene Zsh o donde dije Bash…</title>
+            <link>https://atareao.es/podcast/bash-y-viene-zsh-o-donde-dije-bash/</link>
+            <description>Bash y viene Zsh o donde dije Bash…</description>
+            <pubDate>Thu Jan 19 07:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Yo no las instalaría: es bastante probable que estos 7 tipos de apps roben tus datos</title>
+            <link>https://www.adslzone.net/noticias/seguridad/7-apps-roban-datos-recomiendan-no-instalar/</link>
+            <description>Yo no las instalaría: es bastante probable que estos 7 tipos de apps roben tus datos</description>
+            <pubDate>Thu Jan 19 06:01:44 2023</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Apple Watch Stand / Charging Dock #3DThursday #3DPrinting</title>
+            <link>https://blog.adafruit.com/2023/01/19/apple-watch-stand-charging-dock-3dthursday-3dprinting/</link>
+            <description>Apple Watch Stand / Charging Dock #3DThursday #3DPrinting</description>
+            <pubDate>Thu Jan 19 06:00:57 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D Printed Berlin Uhr is an Attractive Germanic Clock</title>
+            <link>https://hackaday.com/2023/01/18/3d-printed-berlin-uhr-is-an-attractive-germanic-clock/</link>
+            <description>3D Printed Berlin Uhr is an Attractive Germanic Clock</description>
+            <pubDate>Thu Jan 19 06:00:04 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Mailchimp Suffers Another Security Breach Compromising Some Customers' Information</title>
+            <link>https://thehackernews.com/2023/01/mailchimp-suffers-another-security.html</link>
+            <description>Mailchimp Suffers Another Security Breach Compromising Some Customers' Information</description>
+            <pubDate>Thu Jan 19 05:33:00 2023</pubDate>
+            </item>
+            <item>
+            <title>- Junco TIC: Flask-WTF para manejo de formularios</title>
+            <link>https://juncotic.com/flask-wtf-manejo-de-formularios/</link>
+            <description>Flask-WTF para manejo de formularios</description>
+            <pubDate>Thu Jan 19 03:12:21 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Soundscape Sculpture Is Pleasing Art For Your Ears</title>
+            <link>https://hackaday.com/2023/01/18/soundscape-sculpture-is-pleasing-art-for-your-ears/</link>
+            <description>Soundscape Sculpture Is Pleasing Art For Your Ears</description>
+            <pubDate>Thu Jan 19 03:00:02 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Xubuntu Minimal es una nueva variante que pretende caber en un CD-ROM</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/xubuntu-minimal-es-una-nueva-variante-que-pretende-caber-en-un-cd-rom/</link>
+            <description>Xubuntu Minimal es una nueva variante que pretende caber en un CD-ROM</description>
+            <pubDate>Thu Jan 19 00:01:55 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Weatherproof Raspberry Pi Camera Enclosure, In a Pinch</title>
+            <link>https://hackaday.com/2023/01/18/weatherproof-raspberry-pi-camera-enclosure-in-a-pinch/</link>
+            <description>Weatherproof Raspberry Pi Camera Enclosure, In a Pinch</description>
+            <pubDate>Thu Jan 19 00:00:52 2023</pubDate>
+            </item>
+            <item>
             <title>Xataka: Twitter, que está hasta el cuello de deudas, pierde a sus principales anunciantes: su futuro es cada vez más incierto</title>
             <link>https://www.xataka.com/empresas-y-economia/twitter-que-esta-cuello-deudas-pierde-a-sus-principales-anunciantes-su-futuro-cada-vez-incierto</link>
             <description>Twitter, que está hasta el cuello de deudas, pierde a sus principales anunciantes: su futuro es cada vez más incierto</description>
@@ -16,59 +70,5 @@
             <link>https://lignux.com/tutorial-para-instalar-la-version-de-mantenimiento-del-kernel-linux-6-1-6/</link>
             <description>Tutorial para instalar la versión de mantenimiento del Kernel Linux 6.1.6</description>
             <pubDate>Wed Jan 18 21:44:22 2023</pubDate>
-            </item>
-            <item>
-            <title>DistritoTux: Revisando openSUSE Tumbleweed, distro alemana de gran calidad</title>
-            <link>https://www.distritotux.cl/2023/01/revisando-opensuse-tumbleweed-distro.html</link>
-            <description>Revisando openSUSE Tumbleweed, distro alemana de gran calidad</description>
-            <pubDate>Wed Jan 18 21:29:54 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Claude, un chatbot creado por ex empleados de OpenAI</title>
-            <link>https://www.linuxadictos.com/claude-un-chatbot-creado-por-ex-empleados-de-openai.html</link>
-            <description>Claude, un chatbot creado por ex empleados de OpenAI</description>
-            <pubDate>Wed Jan 18 21:21:40 2023</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Firefox 109 ya fue liberado y estas son sus novedades</title>
-            <link>https://blog.desdelinux.net/firefox-109-ya-fue-liberado-y-estas-son-sus-novedades/</link>
-            <description>Firefox 109 ya fue liberado y estas son sus novedades</description>
-            <pubDate>Wed Jan 18 21:06:05 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las nuevas tarifas de Digi contra O2, Lowi, Simyo, Pepephone y Finetwork</title>
-            <link>https://www.adslzone.net/noticias/operadores/digi-contra-tarifas-otros-operadores/</link>
-            <description>Las nuevas tarifas de Digi contra O2, Lowi, Simyo, Pepephone y Finetwork</description>
-            <pubDate>Wed Jan 18 21:03:29 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Internal Heating Element Makes These PCBs Self-Soldering</title>
-            <link>https://hackaday.com/2023/01/18/internal-heating-element-makes-these-pcbs-self-soldering/</link>
-            <description>Internal Heating Element Makes These PCBs Self-Soldering</description>
-            <pubDate>Wed Jan 18 21:00:42 2023</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Xubuntu Minimal es una nueva variante que pretende caber en un CD-ROM</title>
-            <link>https://www.muylinux.com/2023/01/18/xubuntu-minimal/</link>
-            <description>Xubuntu Minimal es una nueva variante que pretende caber en un CD-ROM</description>
-            <pubDate>Wed Jan 18 20:07:35 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo actuar en caso de aquaplaning: 3 maneras de prevenirlo en tu coche</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/como-actuar-aquaplaning-3-maneras-prevenirlo-coche/</link>
-            <description>Cómo actuar en caso de aquaplaning: 3 maneras de prevenirlo en tu coche</description>
-            <pubDate>Wed Jan 18 20:00:47 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los juegos de Blizzard dejarán de publicarse en China. El problema es que es el mercado más grande del mundo</title>
-            <link>https://www.xataka.com/videojuegos/juegos-blizzard-dejaran-publicarse-china-problema-que-mercado-grande-mundo</link>
-            <description>Los juegos de Blizzard dejarán de publicarse en China. El problema es que es el mercado más grande del mundo</description>
-            <pubDate>Wed Jan 18 20:00:02 2023</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Detectaron dos vulnerabilidades en Git que permitían la ejecución remota de código</title>
-            <link>https://blog.desdelinux.net/detectaron-dos-vulnerabilidades-en-git-que-permitian-la-ejecucion-remota-de-codigo/</link>
-            <description>Detectaron dos vulnerabilidades en Git que permitían la ejecución remota de código</description>
-            <pubDate>Wed Jan 18 19:57:44 2023</pubDate>
             </item></channel>
 </rss>
