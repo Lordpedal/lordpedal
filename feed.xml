@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: 3D Printed Triptych Shows Trio Of AI-Generated Images</title>
+            <link>https://hackaday.com/2023/01/20/3d-printed-triptych-shows-trio-of-ai-generated-images/</link>
+            <description>3D Printed Triptych Shows Trio Of AI-Generated Images</description>
+            <pubDate>Sat Jan 21 06:00:48 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: RP2040 DMA Hack Makes Another ‘CPU Core’</title>
+            <link>https://hackaday.com/2023/01/20/help-needed-on-thumb-image-rp2040-dma-hack-makes-another-cpu-core/</link>
+            <description>RP2040 DMA Hack Makes Another ‘CPU Core’</description>
+            <pubDate>Sat Jan 21 03:00:35 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Open Metaverse, una fundación de la mano de la Linux Fundation para llevar el metaverso a realidad</title>
+            <link>https://www.linuxadictos.com/open-metaverse-una-fundacion-de-la-mano-de-la-linux-fundation-para-llevar-el-metaverso-a-realidad.html</link>
+            <description>Open Metaverse, una fundación de la mano de la Linux Fundation para llevar el metaverso a realidad</description>
+            <pubDate>Sat Jan 21 00:25:44 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: GCompris 3: la suite de juegos educativos se renueva con más actividades</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/gcompris-3-la-suite-de-juegos-educativos-se-renueva-con-mas-actividades/</link>
+            <description>GCompris 3: la suite de juegos educativos se renueva con más actividades</description>
+            <pubDate>Sat Jan 21 00:01:54 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Wormhole Coffee Table Takes Woodworking to Another Dimension</title>
+            <link>https://hackaday.com/2023/01/20/wormhole-coffee-table-takes-woodworking-to-another-dimension/</link>
+            <description>Wormhole Coffee Table Takes Woodworking to Another Dimension</description>
+            <pubDate>Sat Jan 21 00:00:27 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Detectaron una vulnerabilidad en sudo que permitía cambiar cualquier archivo</title>
+            <link>https://blog.desdelinux.net/detectaron-una-vulnerabilidad-en-sudo-que-permitia-cambiar-cualquier-archivo/</link>
+            <description>Detectaron una vulnerabilidad en sudo que permitía cambiar cualquier archivo</description>
+            <pubDate>Fri Jan 20 23:36:54 2023</pubDate>
+            </item>
+            <item>
             <title>EsGeeks: Cover Your Tracks: Protege tu Navegador contra el Rastreo</title>
             <link>https://esgeeks.com/cover-your-tracks-protegerte-contra-rastreo/</link>
             <description>Cover Your Tracks: Protege tu Navegador contra el Rastreo</description>
@@ -34,41 +70,5 @@
             <link>https://hackaday.com/2023/01/20/one-piece-tank-chassis-pushes-print-in-place-to-new-heights/</link>
             <description>One-Piece Tank Chassis Pushes Print-in-Place To New Heights</description>
             <pubDate>Fri Jan 20 21:00:07 2023</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: AI Designed Raspberry Pi Case #piday #raspberrypi</title>
-            <link>https://blog.adafruit.com/2023/01/20/ai-designed-raspberry-pi-case-piday-raspberrypi/</link>
-            <description>AI Designed Raspberry Pi Case #piday #raspberrypi</description>
-            <pubDate>Fri Jan 20 21:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: En SQLite ya trabajan en un backend HCTree con soporte para escrituras paralelas</title>
-            <link>https://www.linuxadictos.com/en-sqlite-ya-trabajan-en-un-backend-hctree-con-soporte-para-escrituras-paralelas.html</link>
-            <description>En SQLite ya trabajan en un backend HCTree con soporte para escrituras paralelas</description>
-            <pubDate>Fri Jan 20 20:54:03 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: The Changelog 523: Just Postgres</title>
-            <link>https://changelog.com/podcast/523</link>
-            <description>The Changelog 523: Just Postgres</description>
-            <pubDate>Fri Jan 20 20:30:00 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así ha conseguido que le anulen una multa por saltarse un semáforo en rojo</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/anulen-multa-saltarse-semaforo-rojo/</link>
-            <description>Así ha conseguido que le anulen una multa por saltarse un semáforo en rojo</description>
-            <pubDate>Fri Jan 20 20:00:13 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Extrusion For The Pottery Shop</title>
-            <link>https://hackaday.com/2023/01/20/extrusion-for-the-pottery-shop/</link>
-            <description>Extrusion For The Pottery Shop</description>
-            <pubDate>Fri Jan 20 19:30:53 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: JS Party 259: How do you define joy?</title>
-            <link>https://changelog.com/jsparty/259</link>
-            <description>JS Party 259: How do you define joy?</description>
-            <pubDate>Fri Jan 20 19:30:00 2023</pubDate>
             </item></channel>
 </rss>
