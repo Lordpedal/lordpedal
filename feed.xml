@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: An Unexpected Amiga Network Interface</title>
+            <link>https://hackaday.com/2023/01/21/an-unexpected-amiga-network-interface/</link>
+            <description>An Unexpected Amiga Network Interface</description>
+            <pubDate>Sun Jan 22 06:00:02 2023</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: ¿Qué es la Deep Web y Para Qué Sirve? ¿Es Peligroso?</title>
+            <link>https://esgeeks.com/que-es-deep-web/</link>
+            <description>¿Qué es la Deep Web y Para Qué Sirve? ¿Es Peligroso?</description>
+            <pubDate>Sun Jan 22 03:14:49 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: All Your Keys Are Belong to KeyDecoder</title>
+            <link>https://hackaday.com/2023/01/21/all-your-keys-are-belong-to-keydecoder/</link>
+            <description>All Your Keys Are Belong to KeyDecoder</description>
+            <pubDate>Sun Jan 22 03:00:25 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Floppy Photog: Making an IR Filter From a 3.5″ Disk</title>
+            <link>https://hackaday.com/2023/01/21/floppy-photog-making-an-ir-filter-from-a-3-5-disk/</link>
+            <description>Floppy Photog: Making an IR Filter From a 3.5″ Disk</description>
+            <pubDate>Sun Jan 22 00:00:21 2023</pubDate>
+            </item>
+            <item>
             <title>hackplayers: CVE-2023-0321 Divulgación de información sensible en productos de Campbell Scientific</title>
             <link>https://www.hackplayers.com/2023/01/cve-2023-0321-info-sensible-campbell.html</link>
             <description>CVE-2023-0321 Divulgación de información sensible en productos de Campbell Scientific</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/videojuegos/me-he-pasado-varios-horas-delirante-apasionante-mundo-videojuegos-retro-sovieticos-todavia-me-estoy-recuperando</link>
             <description>Me he pasado varios horas en el delirante y apasionante mundo de los videojuegos retro soviéticos y todavía me estoy recuperando</description>
             <pubDate>Sat Jan 21 18:00:54 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Robot Collects Ping Pong Balls For You</title>
-            <link>https://hackaday.com/2023/01/21/robot-collects-ping-pong-balls-for-you/</link>
-            <description>Robot Collects Ping Pong Balls For You</description>
-            <pubDate>Sat Jan 21 18:00:30 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Este es uno de los desafíos más desconocidos de la fusión nuclear y estamos más cerca que nunca de resolverlo</title>
-            <link>https://www.xataka.com/energia/este-uno-desafios-desconocidos-fusion-nuclear-cientificos-estan-cerca-que-nunca-resolverlo</link>
-            <description>Este es uno de los desafíos más desconocidos de la fusión nuclear y estamos más cerca que nunca de resolverlo</description>
-            <pubDate>Sat Jan 21 17:30:54 2023</pubDate>
-            </item>
-            <item>
-            <title>Magnet: En su búsqueda de mejores pronósticos la meteorología se ha convertido en un negocio millonario. Y hay empresas apostando fuerte</title>
-            <link>https://magnet.xataka.com/en-diez-minutos/caza-pronosticos-tiempo-precisos-no-solo-reto-cientifico-se-ha-convertido-negocio-millonario</link>
-            <description>En su búsqueda de mejores pronósticos la meteorología se ha convertido en un negocio millonario. Y hay empresas apostando fuerte</description>
-            <pubDate>Sat Jan 21 17:30:54 2023</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: ¿Qué es la Dark Web?, ¿Es Ilegal?, ¿Es Peligrosa?</title>
-            <link>https://esgeeks.com/que-es-dark-web/</link>
-            <description>¿Qué es la Dark Web?, ¿Es Ilegal?, ¿Es Peligrosa?</description>
-            <pubDate>Sat Jan 21 17:24:18 2023</pubDate>
             </item></channel>
 </rss>
