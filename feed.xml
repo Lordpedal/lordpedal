@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: FPS Game Engine Built in Ancient Macintosh HyperCard Software</title>
+            <link>https://hackaday.com/2023/01/27/fps-game-engine-built-in-ancient-macintosh-hypercard-software/</link>
+            <description>FPS Game Engine Built in Ancient Macintosh HyperCard Software</description>
+            <pubDate>Sat Jan 28 06:00:35 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Ukraine Hit with New Golang-based 'SwiftSlicer' Wiper Malware in Latest Cyber Attack</title>
+            <link>https://thehackernews.com/2023/01/ukraine-hit-with-new-golang-based.html</link>
+            <description>Ukraine Hit with New Golang-based 'SwiftSlicer' Wiper Malware in Latest Cyber Attack</description>
+            <pubDate>Sat Jan 28 05:49:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Single-Resistor Radio Transmitter, Thanks to the Power of Noise</title>
+            <link>https://hackaday.com/2023/01/27/a-single-resistor-radio-transmitter-thanks-to-the-power-of-noise/</link>
+            <description>A Single-Resistor Radio Transmitter, Thanks to the Power of Noise</description>
+            <pubDate>Sat Jan 28 03:00:41 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reverse-Engineering the Conditional Jump Circuitry in the 8086 Processor</title>
+            <link>https://hackaday.com/2023/01/27/reverse-engineering-the-conditional-jump-circuitry-in-the-8086-processor/</link>
+            <description>Reverse-Engineering the Conditional Jump Circuitry in the 8086 Processor</description>
+            <pubDate>Sat Jan 28 00:00:28 2023</pubDate>
+            </item>
+            <item>
+            <title>Changelog: The Changelog 524: Mainframes are still a big thing</title>
+            <link>https://changelog.com/podcast/524</link>
+            <description>The Changelog 524: Mainframes are still a big thing</description>
+            <pubDate>Fri Jan 27 22:00:00 2023</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Cómo pasarse de Windows 10 a Linux</title>
             <link>https://www.linuxadictos.com/como-pasarse-de-windows-10-a-linux.html</link>
             <description>Cómo pasarse de Windows 10 a Linux</description>
@@ -40,35 +70,5 @@
             <link>https://lignux.com/seguridad-y-criptomonedas-que-autenticacion-para-su-criptocartera/</link>
             <description>Seguridad y criptomonedas : ¿qué autenticación para su criptocartera?</description>
             <pubDate>Fri Jan 27 20:28:58 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La prestigiosa revista científica Nature abraza a ChatGPT, pero pone una única condición</title>
-            <link>https://www.xataka.com/robotica-e-ia/prestigiosa-revista-cientifica-nature-abraza-a-chatgpt-pone-unica-condicion</link>
-            <description>La prestigiosa revista científica Nature abraza a ChatGPT, pero pone una única condición</description>
-            <pubDate>Fri Jan 27 20:01:10 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Tu coche de gasolina también puede ser un cero emisiones: así lo convertirás en un ECO</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/coche-gasolina-cero-emisiones-convertirlo-eco/</link>
-            <description>Tu coche de gasolina también puede ser un cero emisiones: así lo convertirás en un ECO</description>
-            <pubDate>Fri Jan 27 20:00:02 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Go Time 264: Long-term code maintenance</title>
-            <link>https://changelog.com/gotime/264</link>
-            <description>Go Time 264: Long-term code maintenance</description>
-            <pubDate>Fri Jan 27 20:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: LED Air Vent Gauges are a Tasteful Mod for the Mazda Miata</title>
-            <link>https://hackaday.com/2023/01/27/led-air-vent-gauges-are-a-tasteful-mod-for-the-mazda-miata/</link>
-            <description>LED Air Vent Gauges are a Tasteful Mod for the Mazda Miata</description>
-            <pubDate>Fri Jan 27 19:30:46 2023</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Comandos básicos para novatos en Linux: 2023 – Quinta Parte</title>
-            <link>https://ubunlog.com/comandos-linux-2023-quinta-parte/</link>
-            <description>Comandos básicos para novatos en Linux: 2023 – Quinta Parte</description>
-            <pubDate>Fri Jan 27 19:29:56 2023</pubDate>
             </item></channel>
 </rss>
