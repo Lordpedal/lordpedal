@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>geekland: Mostrar el título de las ventanas en el panel de i3</title>
+            <link>https://geekland.eu/mostrar-el-titulo-de-las-ventanas-en-el-panel-de-i3/</link>
+            <description>Mostrar el título de las ventanas en el panel de i3</description>
+            <pubDate>Sun Jan 29 06:00:08 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Voice of ChatGPT Is Now On The Air</title>
+            <link>https://hackaday.com/2023/01/28/the-voice-of-chatgpt-is-now-on-the-air/</link>
+            <description>The Voice of ChatGPT Is Now On The Air</description>
+            <pubDate>Sun Jan 29 06:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Gootkit Malware Continues to Evolve with New Components and Obfuscations</title>
+            <link>https://thehackernews.com/2023/01/gootkit-malware-continues-to-evolve.html</link>
+            <description>Gootkit Malware Continues to Evolve with New Components and Obfuscations</description>
+            <pubDate>Sun Jan 29 05:47:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Creative Vandalism The KITT Way</title>
+            <link>https://hackaday.com/2023/01/28/creative-vandalism-the-kitt-way/</link>
+            <description>Creative Vandalism The KITT Way</description>
+            <pubDate>Sun Jan 29 03:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D-Printed Servo Motor Has 360 Degrees of Rotation</title>
+            <link>https://hackaday.com/2023/01/28/3d-printed-servo-motor-has-360-degrees-of-rotation/</link>
+            <description>3D-Printed Servo Motor Has 360 Degrees of Rotation</description>
+            <pubDate>Sun Jan 29 00:00:00 2023</pubDate>
+            </item>
+            <item>
             <title>KDE Blog: Proyectos de sostenibilidad de Season of KDE 2023</title>
             <link>https://www.kdeblog.com/proyectos-de-sostenibilidad-de-season-of-kde-2023.html</link>
             <description>Proyectos de sostenibilidad de Season of KDE 2023</description>
@@ -40,35 +70,5 @@
             <link>https://www.redeszone.net/noticias/redes/tiene-sentido-comprar-servidor-nas-utilidad/</link>
             <description>¿Tiene sentido comprar un servidor NAS hoy en día?</description>
             <pubDate>Sat Jan 28 18:05:48 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Pese al streaming, sigo comprando Blu-Rays y DVDs. Pero el motivo no tiene nada que ver con la calidad de imagen</title>
-            <link>https://www.xataka.com/cine-y-tv/pese-al-streaming-sigo-comprando-blu-rays-dvds-motivo-no-tiene-nada-que-ver-calidad-imagen</link>
-            <description>Pese al streaming, sigo comprando Blu-Rays y DVDs. Pero el motivo no tiene nada que ver con la calidad de imagen</description>
-            <pubDate>Sat Jan 28 18:01:14 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Toroidal Propellers Make Drones Less Annoying</title>
-            <link>https://hackaday.com/2023/01/28/toroidal-propellers-make-drones-less-annoying/</link>
-            <description>Toroidal Propellers Make Drones Less Annoying</description>
-            <pubDate>Sat Jan 28 18:00:33 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Iberia sufre una caída en sus sistemas que ha provocado cancelaciones de vuelos y retrasos</title>
-            <link>https://www.xataka.com/otros/iberia-sufre-caida-sus-sistemas-que-ha-provocado-cancelaciones-vuelos-retrasos</link>
-            <description>Iberia sufre una caída en sus sistemas que ha provocado cancelaciones de vuelos y retrasos</description>
-            <pubDate>Sat Jan 28 17:50:45 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Llevamos medio siglo tratando de descubrir quién creó una pintura renacentista. Una IA acaba de resolverlo al 97%</title>
-            <link>https://www.xataka.com/otros/llevamos-medio-siglo-tratando-descubrir-quien-creo-pintura-renacentista-ia-acaba-resolverlo-al-97</link>
-            <description>Llevamos medio siglo tratando de descubrir quién creó una pintura renacentista. Una IA acaba de resolverlo al 97%</description>
-            <pubDate>Sat Jan 28 17:31:14 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Carnaval de Cádiz 2023 en directo: Dónde ver y seguir el COAC</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/donde-ver-coac-2023-cadiz/</link>
-            <description>Carnaval de Cádiz 2023 en directo: Dónde ver y seguir el COAC</description>
-            <pubDate>Sat Jan 28 17:04:41 2023</pubDate>
             </item></channel>
 </rss>
