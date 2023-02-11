@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Pi Pico Breathes New Life into Original PlayStation</title>
+            <link>https://hackaday.com/2023/02/10/pi-pico-breathes-new-life-into-original-playstation/</link>
+            <description>Pi Pico Breathes New Life into Original PlayStation</description>
+            <pubDate>Sat Feb 11 06:00:30 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: CISA Warns of Active Attacks Exploiting Fortra MFT, TerraMaster NAS, and Intel Driver Flaws</title>
+            <link>https://thehackernews.com/2023/02/cisa-warns-of-active-attacks-exploiting.html</link>
+            <description>CISA Warns of Active Attacks Exploiting Fortra MFT, TerraMaster NAS, and Intel Driver Flaws</description>
+            <pubDate>Sat Feb 11 05:45:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: JFET Stands in For Triode in This Infinite Impedance Detector</title>
+            <link>https://hackaday.com/2023/02/10/jfet-stands-in-for-triode-in-this-infinite-impedance-detector/</link>
+            <description>JFET Stands in For Triode in This Infinite Impedance Detector</description>
+            <pubDate>Sat Feb 11 03:00:40 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Intel está cerca de completar el trabajo en torno a Mesa para soportar Xe</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/intel-esta-cerca-de-completar-el-trabajo-en-torno-a-mesa-para-soportar-xe/</link>
+            <description>Intel está cerca de completar el trabajo en torno a Mesa para soportar Xe</description>
+            <pubDate>Sat Feb 11 00:02:39 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An Instant Camera Using E-Paper As Film</title>
+            <link>https://hackaday.com/2023/02/10/an-instant-camera-using-e-paper-as-film/</link>
+            <description>An Instant Camera Using E-Paper As Film</description>
+            <pubDate>Sat Feb 11 00:00:54 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Posibles usos para un NAS</title>
             <link>https://lignux.com/posibles-usos-para-un-nas/</link>
             <description>Posibles usos para un NAS</description>
@@ -40,35 +70,5 @@
             <link>https://changelog.com/podcast/526</link>
             <description>The Changelog 526: Git with your friends</description>
             <pubDate>Fri Feb 10 21:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Trucos básicos para saber cómo dar órdenes a una inteligencia artificial y así generar mejores imágenes y textos</title>
-            <link>https://www.genbeta.com/a-fondo/trucos-basicos-para-saber-como-dar-ordenes-a-inteligencia-artificial-asi-generar-mejores-imagenes-textos</link>
-            <description>Trucos básicos para saber cómo dar órdenes a una inteligencia artificial y así generar mejores imágenes y textos</description>
-            <pubDate>Fri Feb 10 20:11:27 2023</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Cuáles son los requisitos para instalar Lubuntu</title>
-            <link>https://ubunlog.com/cuales-son-los-requisitos-para-instalar-lubuntu/</link>
-            <description>Cuáles son los requisitos para instalar Lubuntu</description>
-            <pubDate>Fri Feb 10 20:10:50 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las 2 multas que te pueden poner por culpa de la matrícula de tu coche</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/2-multas-poner-culpa-matricula-coche/</link>
-            <description>Las 2 multas que te pueden poner por culpa de la matrícula de tu coche</description>
-            <pubDate>Fri Feb 10 20:00:27 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: JS Party 262: Generative AI for devs</title>
-            <link>https://changelog.com/jsparty/262</link>
-            <description>JS Party 262: Generative AI for devs</description>
-            <pubDate>Fri Feb 10 20:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Bridging The Gap Between Dissimilar Road Types With Foam</title>
-            <link>https://hackaday.com/2023/02/10/bridging-the-gap-between-dissimilar-road-types-with-foam/</link>
-            <description>Bridging The Gap Between Dissimilar Road Types With Foam</description>
-            <pubDate>Fri Feb 10 19:30:20 2023</pubDate>
             </item></channel>
 </rss>
