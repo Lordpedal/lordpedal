@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A Look Back at the Xbox 360’s Hard Drive Security</title>
+            <link>https://hackaday.com/2023/02/11/a-look-back-at-the-xbox-360s-hard-drive-security/</link>
+            <description>A Look Back at the Xbox 360’s Hard Drive Security</description>
+            <pubDate>Sun Feb 12 06:00:02 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Directing Ambient Light For Some Extra Glow</title>
+            <link>https://hackaday.com/2023/02/11/directing-ambient-light-for-some-extra-glow/</link>
+            <description>Directing Ambient Light For Some Extra Glow</description>
+            <pubDate>Sun Feb 12 03:00:58 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Translaite: Un interesante sitio web gratuito para probar ChatGPT</title>
+            <link>https://blog.desdelinux.net/translaite-chatgpt/</link>
+            <description>Translaite: Un interesante sitio web gratuito para probar ChatGPT</description>
+            <pubDate>Sun Feb 12 01:17:28 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Raspberry Pi Weather Station Features Wireless Sensor Nodes</title>
+            <link>https://hackaday.com/2023/02/11/raspberry-pi-weather-station-features-wireless-sensor-nodes/</link>
+            <description>Raspberry Pi Weather Station Features Wireless Sensor Nodes</description>
+            <pubDate>Sun Feb 12 00:00:59 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Wine acaba de anunciar su versión 8.1</title>
             <link>https://lignux.com/wine-acaba-de-anunciar-su-version-8-1/</link>
             <description>Wine acaba de anunciar su versión 8.1</description>
@@ -46,29 +70,5 @@
             <link>https://www.redeszone.net/noticias/power/apagar-calefaccion-noches-buena-idea/</link>
             <description>¿Apagar o no la calefacción por la noche? Esto debes saber para ahorrar</description>
             <pubDate>Sat Feb 11 18:13:38 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'Age of Empires II Definitive Edition' resuelve en su versión Xbox el gran problema del género en consola: los controles</title>
-            <link>https://www.xataka.com/videojuegos/age-of-empires-ii-definitive-edition-resuelve-su-version-xbox-gran-problema-genero-consola-controles</link>
-            <description>'Age of Empires II Definitive Edition' resuelve en su versión Xbox el gran problema del género en consola: los controles</description>
-            <pubDate>Sat Feb 11 18:01:58 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Grocery Store Robot Gets Brief Taste of Freedom</title>
-            <link>https://hackaday.com/2023/02/11/grocery-store-robot-gets-brief-taste-of-freedom/</link>
-            <description>Grocery Store Robot Gets Brief Taste of Freedom</description>
-            <pubDate>Sat Feb 11 18:00:01 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Cómo ver gratis la gala de los Premios Goya 2023 en directo y por internet</title>
-            <link>https://www.genbeta.com/paso-a-paso/como-ver-gratis-gala-premios-goya-2023-directo-internet</link>
-            <description>Cómo ver gratis la gala de los Premios Goya 2023 en directo y por internet</description>
-            <pubDate>Sat Feb 11 17:31:58 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Supervivencia y adrenalina: 5 series de zombies a las que engancharte</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/series-zombies-supervivencia/</link>
-            <description>Supervivencia y adrenalina: 5 series de zombies a las que engancharte</description>
-            <pubDate>Sat Feb 11 17:03:31 2023</pubDate>
             </item></channel>
 </rss>
