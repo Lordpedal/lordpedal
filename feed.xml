@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Hack Lets Intel MacBook Run Without a Battery</title>
+            <link>https://hackaday.com/2023/02/17/hack-lets-intel-macbook-run-without-a-battery/</link>
+            <description>Hack Lets Intel MacBook Run Without a Battery</description>
+            <pubDate>Sat Feb 18 06:00:38 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Quantum Interconnects Get Faster</title>
+            <link>https://hackaday.com/2023/02/17/quantum-interconnects-get-faster/</link>
+            <description>Quantum Interconnects Get Faster</description>
+            <pubDate>Sat Feb 18 03:00:24 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: systemd 253 profundiza en las imágenes del kernel unificadas y el arranque</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/systemd-253-profundiza-en-las-imagenes-del-kernel-unificadas-y-el-arranque/</link>
+            <description>systemd 253 profundiza en las imágenes del kernel unificadas y el arranque</description>
+            <pubDate>Sat Feb 18 00:02:03 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Fail of The Week: Epic 312 Weeks Of Fixing A Broken Project</title>
+            <link>https://hackaday.com/2023/02/17/fail-of-the-week-epic-312-weeks-of-fixing-a-broken-project/</link>
+            <description>Fail of The Week: Epic 312 Weeks Of Fixing A Broken Project</description>
+            <pubDate>Sat Feb 18 00:00:48 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El editor de vídeo Kdenlive alcanza su versión final 22.12.2</title>
             <link>https://lignux.com/el-editor-de-video-kdenlive-alcanza-su-version-final-22-12-2/</link>
             <description>El editor de vídeo Kdenlive alcanza su versión final 22.12.2</description>
@@ -46,29 +70,5 @@
             <link>https://www.genbeta.com/navegadores/14-mejores-extensiones-para-chatgpt-exprime-opciones-inteligencia-artificial-moda-integrandola-tu-navegador</link>
             <description>Las 14 mejores extensiones para ChatGPT: exprime las opciones de la inteligencia artificial de moda integrándola en tu navegador</description>
             <pubDate>Fri Feb 17 20:39:44 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: 4 preguntas clave a la prohibición europea de los coches de combustión que debes saber</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/4-preguntas-clave-prohibicion-europea-coches-combustion-debes-saber/</link>
-            <description>4 preguntas clave a la prohibición europea de los coches de combustión que debes saber</description>
-            <pubDate>Fri Feb 17 20:00:26 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Alguien ha creado un robot que cocina, pone la mesa y hasta limpia (pero tiene truco)</title>
-            <link>https://www.xataka.com/robotica-e-ia/alguien-ha-creado-robot-que-cocina-pone-mesa-limpia-tiene-truco</link>
-            <description>Alguien ha creado un robot que cocina, pone la mesa y hasta limpia (pero tiene truco)</description>
-            <pubDate>Fri Feb 17 20:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Like Chording But Not</title>
-            <link>https://hackaday.com/2023/02/17/like-chording-but-not/</link>
-            <description>Like Chording But Not</description>
-            <pubDate>Fri Feb 17 19:30:30 2023</pubDate>
-            </item>
-            <item>
-            <title>Diario del Viajero: Estas son todas las localizaciones londinenses que nos enamoran en la temporada 4 de 'You'</title>
-            <link>https://www.diariodelviajero.com/reino-unido/estas-todas-localizaciones-londinenses-que-nos-enamoran-temporada-4-you</link>
-            <description>Estas son todas las localizaciones londinenses que nos enamoran en la temporada 4 de 'You'</description>
-            <pubDate>Fri Feb 17 19:13:01 2023</pubDate>
             </item></channel>
 </rss>
