@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: FOSS Weekly #23.08: Kernel 6.2 Raspberry Pi Debugger, 40 FOSS Android Apps and More</title>
+            <link>https://itsfoss.com/foss-weekly-23-08/</link>
+            <description>FOSS Weekly #23.08: Kernel 6.2 Raspberry Pi Debugger, 40 FOSS Android Apps and More</description>
+            <pubDate>Thu Feb 23 06:02:57 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Aprueba en la próxima convocatoria con estas webs de tests de oposiciones gratis</title>
+            <link>https://www.adslzone.net/noticias/internet/webs-tests-oposiciones-gratis/</link>
+            <description>Aprueba en la próxima convocatoria con estas webs de tests de oposiciones gratis</description>
+            <pubDate>Thu Feb 23 06:02:12 2023</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Lithophane Box #3DPrinting</title>
+            <link>https://blog.adafruit.com/2023/02/23/lithophane-box-3dprinting/</link>
+            <description>Lithophane Box #3DPrinting</description>
+            <pubDate>Thu Feb 23 06:00:18 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Lo-Fi Tchaikovsky</title>
+            <link>https://hackaday.com/2023/02/22/lo-fi-tchaikovsky/</link>
+            <description>Lo-Fi Tchaikovsky</description>
+            <pubDate>Thu Feb 23 06:00:13 2023</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Linux is Just a Kernel: What Does it Mean?</title>
+            <link>https://itsfoss.com/linux-kernel-os/</link>
+            <description>Linux is Just a Kernel: What Does it Mean?</description>
+            <pubDate>Thu Feb 23 04:00:23 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An Amiga Mouse, The Modern Way</title>
+            <link>https://hackaday.com/2023/02/22/an-amiga-mouse-the-modern-way/</link>
+            <description>An Amiga Mouse, The Modern Way</description>
+            <pubDate>Thu Feb 23 03:00:23 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Ubuntu veta la preinstalación de Flatpak en todas sus ediciones oficiales</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/ubuntu-veta-la-preinstalacion-de-flatpak-en-todas-sus-ediciones-oficiales/</link>
+            <description>Ubuntu veta la preinstalación de Flatpak en todas sus ediciones oficiales</description>
+            <pubDate>Thu Feb 23 00:02:38 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Laser Scanner Upgraded to use PCB Motor</title>
+            <link>https://hackaday.com/2023/02/22/laser-scanner-upgraded-to-use-pcb-motor/</link>
+            <description>Laser Scanner Upgraded to use PCB Motor</description>
+            <pubDate>Thu Feb 23 00:00:32 2023</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Plasma 5.27.1 empieza a corregir los fallos de la última versión de Plasma 5</title>
+            <link>https://ubunlog.com/plasma-5-27-1-empieza-a-corregir-los-fallos-de-la-ultima-version-de-plasma-5/</link>
+            <description>Plasma 5.27.1 empieza a corregir los fallos de la última versión de Plasma 5</description>
+            <pubDate>Wed Feb 22 22:50:23 2023</pubDate>
+            </item>
+            <item>
             <title>Linux Magazine News (path: lmi_news): openSUSE Leap 15.5 Beta Now Available</title>
             <link>http://www.linux-magazine.com/Online/News/openSUSE-Leap-15.5-Beta-Now-Available</link>
             <description>openSUSE Leap 15.5 Beta Now Available</description>
@@ -16,59 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/solucion-o2-acabar-wifi-lento/</link>
             <description>La solución de O2 para acabar para siempre con el WiFi lento</description>
             <pubDate>Wed Feb 22 21:02:38 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Digital Replica of Antique Weather Monitoring Instrument</title>
-            <link>https://hackaday.com/2023/02/22/digital-replica-antique-weather-monitoring-instruments/</link>
-            <description>Digital Replica of Antique Weather Monitoring Instrument</description>
-            <pubDate>Wed Feb 22 21:00:33 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Estas son las averías más importantes que puede provocar el sistema Start/Stop de tu coche</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/start-stop-coche-averias-mas-importantes/</link>
-            <description>Estas son las averías más importantes que puede provocar el sistema Start/Stop de tu coche</description>
-            <pubDate>Wed Feb 22 20:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Alguien ha pagado 63.000 dólares por un iPhone original sin desprecintar. Es el más caro de la historia</title>
-            <link>https://www.xataka.com/retro/alguien-ha-pagado-63-000-dolares-iphone-original-desprecintar-caro-historia</link>
-            <description>Alguien ha pagado 63.000 dólares por un iPhone original sin desprecintar. Es el más caro de la historia</description>
-            <pubDate>Wed Feb 22 19:30:54 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Drawing Knots on an Oscilloscope Using Analog Means</title>
-            <link>https://hackaday.com/2023/02/22/drawing-knots-on-an-oscilloscope-using-analog-means/</link>
-            <description>Drawing Knots on an Oscilloscope Using Analog Means</description>
-            <pubDate>Wed Feb 22 19:30:36 2023</pubDate>
-            </item>
-            <item>
-            <title>Magnet: "Estamos desconcertados": la carta que alguien envió hace un siglo en Londres y que ha llegado ahora a su destino</title>
-            <link>https://magnet.xataka.com/que-pasa-cuando/estamos-desconcertados-carta-que-alguien-envio-hace-siglo-londres-que-ha-llegado-ahora-a-su-destino</link>
-            <description>"Estamos desconcertados": la carta que alguien envió hace un siglo en Londres y que ha llegado ahora a su destino</description>
-            <pubDate>Wed Feb 22 19:27:40 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: How to start your blog in 2023</title>
-            <link>https://molodtsov.me/2023/02/how-to-start-your-blog-in-2023/</link>
-            <description>How to start your blog in 2023</description>
-            <pubDate>Wed Feb 22 19:25:00 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Dune y otras 12 películas que verás en Movistar Plus+ en marzo</title>
-            <link>https://www.adslzone.net/noticias/operadores/peliculas-movistar-plus-marzo-2023/</link>
-            <description>Dune y otras 12 películas que verás en Movistar Plus+ en marzo</description>
-            <pubDate>Wed Feb 22 19:01:40 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Esta insólita mezcla española de comedia en la carretera y horror con alienígenas está triunfando en Prime Video</title>
-            <link>https://www.xataka.com/streaming/esta-insolita-mezcla-espanola-comedia-carretera-horror-alienigenas-esta-triunfando-prime-video</link>
-            <description>Esta insólita mezcla española de comedia en la carretera y horror con alienígenas está triunfando en Prime Video</description>
-            <pubDate>Wed Feb 22 19:00:53 2023</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: La hora intempestiva a la que entrena Jennifer Aniston para mantenerse en forma a los 54 años</title>
-            <link>https://www.vitonica.com/entrenamiento/hora-intempestiva-a-que-entrena-jennifer-aniston-para-mantenerse-forma-a-54-anos</link>
-            <description>La hora intempestiva a la que entrena Jennifer Aniston para mantenerse en forma a los 54 años</description>
-            <pubDate>Wed Feb 22 19:00:53 2023</pubDate>
             </item></channel>
 </rss>
