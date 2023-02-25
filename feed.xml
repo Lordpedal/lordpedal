@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>Blog – Hackaday: Deep Dive into the HP ScantJet 4C</title>
-            <link>https://hackaday.com/2023/02/24/deep-dive-into-the-hp-scantjet-4c/</link>
-            <description>Deep Dive into the HP ScantJet 4C</description>
-            <pubDate>Sat Feb 25 06:00:56 2023</pubDate>
+            <title>Xataka: Singapur está criando millones de mosquitos en un laboratorio. Tiene buenos motivos para hacerlo</title>
+            <link>https://www.xataka.com/investigacion/singapur-esta-criando-millones-mosquitos-laboratorio-tiene-buenos-motivos-para-hacerlo</link>
+            <description>Singapur está criando millones de mosquitos en un laboratorio. Tiene buenos motivos para hacerlo</description>
+            <pubDate>Sat Feb 25 14:01:18 2023</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Pushing Crates in 8-bit Color</title>
-            <link>https://hackaday.com/2023/02/24/pushing-crates-in-8-bit-color/</link>
-            <description>Pushing Crates in 8-bit Color</description>
-            <pubDate>Sat Feb 25 03:00:34 2023</pubDate>
+            <title>Genbeta: 15 increíbles trucos de Excel para hacer en segundos las tareas más repetitivas</title>
+            <link>https://www.genbeta.com/a-fondo/15-increibles-trucos-excel-para-hacer-segundos-tareas-repetitivas</link>
+            <description>15 increíbles trucos de Excel para hacer en segundos las tareas más repetitivas</description>
+            <pubDate>Sat Feb 25 14:01:18 2023</pubDate>
             </item>
             <item>
-            <title>Linux en español: Mesa 23 da un impulso a RADV y representa un desafío para Intel</title>
-            <link>https://www.xn--linuxenespaol-skb.com/noticias/mesa-23-da-un-impulso-a-radv-y-representa-un-desafio-para-intel/</link>
-            <description>Mesa 23 da un impulso a RADV y representa un desafío para Intel</description>
-            <pubDate>Sat Feb 25 00:01:57 2023</pubDate>
+            <title>_ voidNull: Instalar Transmission en GNU/Linux para no tener que ir al VideoClub -guiñoguiño-.</title>
+            <link>https://voidnull.es/instalar-transmission-en-gnu-linux/</link>
+            <description>Instalar Transmission en GNU/Linux para no tener que ir al VideoClub -guiñoguiño-.</description>
+            <pubDate>Sat Feb 25 14:00:54 2023</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Producing a Pair of Parallel Pliers</title>
-            <link>https://hackaday.com/2023/02/24/producing-a-pair-of-parallel-pliers/</link>
-            <description>Producing a Pair of Parallel Pliers</description>
-            <pubDate>Sat Feb 25 00:00:13 2023</pubDate>
+            <title>ADSLZone: Así puedes ver todos los episodios de Dragon Ball</title>
+            <link>https://www.adslzone.net/reportajes/series/ver-dragon-ball/</link>
+            <description>Así puedes ver todos los episodios de Dragon Ball</description>
+            <pubDate>Sat Feb 25 13:05:07 2023</pubDate>
             </item>
             <item>
-            <title>Changelog: The Changelog 528: Into the Fediverse</title>
-            <link>https://changelog.com/podcast/528</link>
-            <description>The Changelog 528: Into the Fediverse</description>
-            <pubDate>Fri Feb 24 22:00:00 2023</pubDate>
+            <title>Xataka: Neuralink ha sobrevivido a su año más difícil desde que existe. Y ahora parece más fuerte que nunca</title>
+            <link>https://www.xataka.com/empresas-y-economia/neuralink-ha-sobrevivido-a-su-ano-dificil-que-existe-ahora-parece-fuerte-que-nunca</link>
+            <description>Neuralink ha sobrevivido a su año más difícil desde que existe. Y ahora parece más fuerte que nunca</description>
+            <pubDate>Sat Feb 25 13:01:16 2023</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Low Power Challenge: E-Paper Shelf Label Becomes Ultra-Frugal Clock</title>
-            <link>https://hackaday.com/2023/02/24/low-power-challenge-e-paper-shelf-label-becomes-ultra-frugal-clock/</link>
-            <description>Low Power Challenge: E-Paper Shelf Label Becomes Ultra-Frugal Clock</description>
-            <pubDate>Fri Feb 24 21:00:18 2023</pubDate>
+            <title>Ubunlog: KDE mejora la experiencia multi-monitor y corrige muchos bugs en Plasma 5.27</title>
+            <link>https://ubunlog.com/kde-mejora-la-experiencia-multi-monitor-y-corrige-muchos-bugs-en-plasma-5-27/</link>
+            <description>KDE mejora la experiencia multi-monitor y corrige muchos bugs en Plasma 5.27</description>
+            <pubDate>Sat Feb 25 12:15:55 2023</pubDate>
             </item>
             <item>
-            <title>ADSLZone: ¿Por qué ya no hay ofertas en fibra y móvil con Movistar, Orange, Vodafone y Yoigo?</title>
-            <link>https://www.adslzone.net/noticias/operadores/movistar-orange-vodafone-yoigo-sin-ofertas-fibra-movil/</link>
-            <description>¿Por qué ya no hay ofertas en fibra y móvil con Movistar, Orange, Vodafone y Yoigo?</description>
-            <pubDate>Fri Feb 24 20:58:40 2023</pubDate>
+            <title>RedesZone: Enchufe inteligente Bluetooth vs Wi-Fi: ¿cuál me conviene más?</title>
+            <link>https://www.redeszone.net/noticias/hogar/enchufe-inteligente-wifi-bluetooth-diferencias/</link>
+            <description>Enchufe inteligente Bluetooth vs Wi-Fi: ¿cuál me conviene más?</description>
+            <pubDate>Sat Feb 25 12:15:10 2023</pubDate>
             </item>
             <item>
-            <title>Changelog: PaperAge – easy and secure paper backups of (smallish) secrets</title>
-            <link>https://github.com/matiaskorhonen/paper-age</link>
-            <description>PaperAge – easy and secure paper backups of (smallish) secrets</description>
-            <pubDate>Fri Feb 24 20:34:00 2023</pubDate>
+            <title>Xataka: He probado Android Automotive. Ya no hay vuelta atrás</title>
+            <link>https://www.xataka.com/movilidad/he-probado-android-automotive-no-hay-vuelta-atras</link>
+            <description>He probado Android Automotive. Ya no hay vuelta atrás</description>
+            <pubDate>Sat Feb 25 12:01:16 2023</pubDate>
             </item>
             <item>
-            <title>Xataka: Starlink se ha vuelto imbatible en el espacio. China cree que es una amenaza y se prepara para superarlo, según SCMP</title>
-            <link>https://www.xataka.com/espacio/starlink-se-ha-vuelto-imbatible-espacio-china-cree-que-amenaza-se-prepara-para-superarlo-scmp</link>
-            <description>Starlink se ha vuelto imbatible en el espacio. China cree que es una amenaza y se prepara para superarlo, según SCMP</description>
-            <pubDate>Fri Feb 24 20:31:00 2023</pubDate>
+            <title>Blog – Hackaday: This Camera Produces a Picture, Using the Scene Before It</title>
+            <link>https://hackaday.com/2023/02/25/this-camera-produces-a-picture-using-the-scene-before-it/</link>
+            <description>This Camera Produces a Picture, Using the Scene Before It</description>
+            <pubDate>Sat Feb 25 12:00:30 2023</pubDate>
             </item>
             <item>
-            <title>ADSLZone: La compra inteligente para este 2023 está en los coches híbridos, pero no en los enchufables</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/compra-inteligente-2023-coches-hibridos/</link>
-            <description>La compra inteligente para este 2023 está en los coches híbridos, pero no en los enchufables</description>
-            <pubDate>Fri Feb 24 20:00:50 2023</pubDate>
+            <title>Ubunlog: GNOME da la bienvenida a tres apps a su círculo. Novedades de esta semana</title>
+            <link>https://ubunlog.com/gnome-da-la-bienvenida-a-tres-apps-a-su-circulo-novedades-de-esta-semana/</link>
+            <description>GNOME da la bienvenida a tres apps a su círculo. Novedades de esta semana</description>
+            <pubDate>Sat Feb 25 11:42:32 2023</pubDate>
             </item>
             <item>
-            <title>Genbeta: Pásame el último capítulo, Bing: el nuevo chatbot de moda también destaca encontrando las mejores webs de descarga vía torrent</title>
-            <link>https://www.genbeta.com/actualidad/pasame-ultimo-capitulo-bing-nuevo-chatbot-moda-tambien-destaca-encontrando-mejores-webs-descarga-via-torrent</link>
-            <description>Pásame el último capítulo, Bing: el nuevo chatbot de moda también destaca encontrando las mejores webs de descarga vía torrent</description>
-            <pubDate>Fri Feb 24 19:48:03 2023</pubDate>
+            <title>Xataka Smart Home: Un simple cargador del móvil estaba estropeando mi conexión a Internet: este era el problema y así lo arreglé</title>
+            <link>https://www.xatakahome.com/la-red-local/simple-cargador-movil-estaba-estropeando-mi-conexion-a-internet-este-era-problema-asi-arregle</link>
+            <description>Un simple cargador del móvil estaba estropeando mi conexión a Internet: este era el problema y así lo arreglé</description>
+            <pubDate>Sat Feb 25 11:09:14 2023</pubDate>
             </item></channel>
 </rss>
