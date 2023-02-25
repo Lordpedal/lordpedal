@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Deep Dive into the HP ScantJet 4C</title>
+            <link>https://hackaday.com/2023/02/24/deep-dive-into-the-hp-scantjet-4c/</link>
+            <description>Deep Dive into the HP ScantJet 4C</description>
+            <pubDate>Sat Feb 25 06:00:56 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Pushing Crates in 8-bit Color</title>
+            <link>https://hackaday.com/2023/02/24/pushing-crates-in-8-bit-color/</link>
+            <description>Pushing Crates in 8-bit Color</description>
+            <pubDate>Sat Feb 25 03:00:34 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Mesa 23 da un impulso a RADV y representa un desafío para Intel</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/mesa-23-da-un-impulso-a-radv-y-representa-un-desafio-para-intel/</link>
+            <description>Mesa 23 da un impulso a RADV y representa un desafío para Intel</description>
+            <pubDate>Sat Feb 25 00:01:57 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Producing a Pair of Parallel Pliers</title>
+            <link>https://hackaday.com/2023/02/24/producing-a-pair-of-parallel-pliers/</link>
+            <description>Producing a Pair of Parallel Pliers</description>
+            <pubDate>Sat Feb 25 00:00:13 2023</pubDate>
+            </item>
+            <item>
+            <title>Changelog: The Changelog 528: Into the Fediverse</title>
+            <link>https://changelog.com/podcast/528</link>
+            <description>The Changelog 528: Into the Fediverse</description>
+            <pubDate>Fri Feb 24 22:00:00 2023</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Low Power Challenge: E-Paper Shelf Label Becomes Ultra-Frugal Clock</title>
             <link>https://hackaday.com/2023/02/24/low-power-challenge-e-paper-shelf-label-becomes-ultra-frugal-clock/</link>
             <description>Low Power Challenge: E-Paper Shelf Label Becomes Ultra-Frugal Clock</description>
@@ -40,35 +70,5 @@
             <link>https://www.genbeta.com/actualidad/pasame-ultimo-capitulo-bing-nuevo-chatbot-moda-tambien-destaca-encontrando-mejores-webs-descarga-via-torrent</link>
             <description>Pásame el último capítulo, Bing: el nuevo chatbot de moda también destaca encontrando las mejores webs de descarga vía torrent</description>
             <pubDate>Fri Feb 24 19:48:03 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: We stand to save $7m over five years from our cloud exit</title>
-            <link>https://world.hey.com/dhh/we-stand-to-save-7m-over-five-years-from-our-cloud-exit-53996caa</link>
-            <description>We stand to save $7m over five years from our cloud exit</description>
-            <pubDate>Fri Feb 24 19:46:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Toroid Transformers Explained</title>
-            <link>https://hackaday.com/2023/02/24/toroid-transformers-explained/</link>
-            <description>Toroid Transformers Explained</description>
-            <pubDate>Fri Feb 24 19:30:20 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: JS Party 264: Frontend Feud: CSS Podcast vs @keyframers</title>
-            <link>https://changelog.com/jsparty/264</link>
-            <description>JS Party 264: Frontend Feud: CSS Podcast vs @keyframers</description>
-            <pubDate>Fri Feb 24 19:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: O2 o Lowi, ¿merecen la pena las marcas baratas de Movistar y Vodafone?</title>
-            <link>https://www.adslzone.net/noticias/operadores/o2-lowi-marcas-baratas-movistar-vodafone/</link>
-            <description>O2 o Lowi, ¿merecen la pena las marcas baratas de Movistar y Vodafone?</description>
-            <pubDate>Fri Feb 24 18:59:42 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Conseguir una PlayStation 5 en España será “mucho más fácil”: Sony ha superado (de momento) los problemas de stock</title>
-            <link>https://www.xataka.com/videojuegos/conseguir-playstation-5-espana-sera-mucho-facil-sony-ha-superado-momento-problemas-stock</link>
-            <description>Conseguir una PlayStation 5 en España será “mucho más fácil”: Sony ha superado (de momento) los problemas de stock</description>
-            <pubDate>Fri Feb 24 18:30:00 2023</pubDate>
             </item></channel>
 </rss>
