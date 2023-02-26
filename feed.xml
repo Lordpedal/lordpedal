@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Cart Cruises Abandoned California Rail</title>
+            <link>https://hackaday.com/2023/02/25/cart-cruises-abandoned-california-rail/</link>
+            <description>Cart Cruises Abandoned California Rail</description>
+            <pubDate>Sun Feb 26 06:00:48 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: NetBeans 17 añade soporte para Java 19 y compatibilidad con JDK 20</title>
+            <link>https://www.linuxadictos.com/netbeans-17-anade-soporte-para-java-19-y-compatibilidad-con-jdk-20.html</link>
+            <description>NetBeans 17 añade soporte para Java 19 y compatibilidad con JDK 20</description>
+            <pubDate>Sun Feb 26 03:34:42 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Forgotten Commodore 900: A Look At a Rare Prototype</title>
+            <link>https://hackaday.com/2023/02/25/the-forgotten-commodore-900-a-look-at-a-rare-prototype/</link>
+            <description>The Forgotten Commodore 900: A Look At a Rare Prototype</description>
+            <pubDate>Sun Feb 26 03:00:32 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Gluon, una biblioteca IMAP open source de la mano de Proton Mail</title>
+            <link>https://www.linuxadictos.com/gluon-una-biblioteca-imap-open-source-de-la-mano-de-proton-mail.html</link>
+            <description>Gluon, una biblioteca IMAP open source de la mano de Proton Mail</description>
+            <pubDate>Sun Feb 26 02:37:07 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: FlexGen, un motor para ejecutar bots de IA en una sola GPU</title>
+            <link>https://blog.desdelinux.net/flexgen-un-motor-para-ejecutar-bots-de-ia-en-una-sola-gpu/</link>
+            <description>FlexGen, un motor para ejecutar bots de IA en una sola GPU</description>
+            <pubDate>Sun Feb 26 02:23:04 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: PanCSF, un nuevo controlador Linux para GPU Mali de la mano de Collabora</title>
+            <link>https://blog.desdelinux.net/pancsf-un-nuevo-controlador-linux-para-gpu-mali-de-la-mano-de-collabora/</link>
+            <description>PanCSF, un nuevo controlador Linux para GPU Mali de la mano de Collabora</description>
+            <pubDate>Sun Feb 26 02:08:58 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Llega la nueva versión de los controladores Mesa 23.0.0</title>
+            <link>https://www.linuxadictos.com/llega-la-nueva-version-de-los-controladores-mesa-23-0-0.html</link>
+            <description>Llega la nueva versión de los controladores Mesa 23.0.0</description>
+            <pubDate>Sun Feb 26 01:52:16 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: New Possibilities from Fading Lighting Technology</title>
+            <link>https://hackaday.com/2023/02/25/new-possibilities-from-fading-lighting-technology/</link>
+            <description>New Possibilities from Fading Lighting Technology</description>
+            <pubDate>Sun Feb 26 00:00:26 2023</pubDate>
+            </item>
+            <item>
             <title>Tomates Asesinos: La gente se queja porque tiene boca porque si tuviera culo se cagaría</title>
             <link>https://tomatesasesinos.com/2023/02/25/la-gente-se-queja-porque-tiene-boca-porque-si-tuviera-culo-se-cagaria/</link>
             <description>La gente se queja porque tiene boca porque si tuviera culo se cagaría</description>
@@ -22,53 +70,5 @@
             <link>https://www.adslzone.net/noticias/redes/varias-redes-wifi-casa-truco/</link>
             <description>Tener varias redes WiFi en casa: el truco de un experto que debes conocer</description>
             <pubDate>Sat Feb 25 19:04:37 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Llevábamos 80 años dando por perdido en el fondo del mar al submarino USS Albacore. Hasta ahora</title>
-            <link>https://www.xataka.com/otros/llevabamos-80-anos-dando-perdido-fondo-mar-al-submarino-uss-albacore-ahora</link>
-            <description>Llevábamos 80 años dando por perdido en el fondo del mar al submarino USS Albacore. Hasta ahora</description>
-            <pubDate>Sat Feb 25 19:01:16 2023</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: LLaMA: La IA de Meta se suma a la competencia contra ChatGPT</title>
-            <link>https://blog.desdelinux.net/llama-ia-meta/</link>
-            <description>LLaMA: La IA de Meta se suma a la competencia contra ChatGPT</description>
-            <pubDate>Sat Feb 25 18:52:50 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Sin Internet en casa? Prueba esto antes de llamar a tu operador</title>
-            <link>https://www.redeszone.net/noticias/redes/pasos-verificar-sin-internet-casa-llamar-operador/</link>
-            <description>¿Sin Internet en casa? Prueba esto antes de llamar a tu operador</description>
-            <pubDate>Sat Feb 25 18:08:21 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Trabajo escribiendo, llevo un año con monitor ultrawide y la revolución de mi día a día ha sido total</title>
-            <link>https://www.xataka.com/ordenadores/trabajo-escribiendo-llevo-ano-monitor-ultrawide-revolucion-mi-dia-a-dia-ha-sido-total</link>
-            <description>Trabajo escribiendo, llevo un año con monitor ultrawide y la revolución de mi día a día ha sido total</description>
-            <pubDate>Sat Feb 25 18:01:16 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Pi Pico Calculates Water Usage</title>
-            <link>https://hackaday.com/2023/02/25/pi-pico-calculates-water-usage/</link>
-            <description>Pi Pico Calculates Water Usage</description>
-            <pubDate>Sat Feb 25 18:00:24 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: 10 series Marvel de dibujos animados para disfrutar de los superhéroes en familia</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/series-marvel-dibujos/</link>
-            <description>10 series Marvel de dibujos animados para disfrutar de los superhéroes en familia</description>
-            <pubDate>Sat Feb 25 17:03:16 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Tres veces más grandes que los mayores pingüinos modernos: Así era el “megapingüino” de Nueva Zelanda</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/tres-veces-grandes-que-mayores-pinguinos-modernos-asi-era-megapinguino-nueva-zelanda</link>
-            <description>Tres veces más grandes que los mayores pingüinos modernos: Así era el “megapingüino” de Nueva Zelanda</description>
-            <pubDate>Sat Feb 25 17:01:17 2023</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Una rutina de 15 minutos en el gimnasio para ganar masa muscular</title>
-            <link>https://www.vitonica.com/entrenamiento/rutina-15-minutos-gimnasio-para-ganar-masa-muscular</link>
-            <description>Una rutina de 15 minutos en el gimnasio para ganar masa muscular</description>
-            <pubDate>Sat Feb 25 17:01:17 2023</pubDate>
             </item></channel>
 </rss>
