@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>ADSLZone: No tienes que contratar la mejor tarifa de Internet: esta es la velocidad que necesitas</title>
+            <link>https://www.adslzone.net/noticias/redes/velocidad-minima-internet-fibra-necesaria/</link>
+            <description>No tienes que contratar la mejor tarifa de Internet: esta es la velocidad que necesitas</description>
+            <pubDate>Thu Mar  2 06:02:16 2023</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Bearded gnome #3DThursday #3DPrinting</title>
+            <link>https://blog.adafruit.com/2023/03/02/bearded-gnome-3dthursday-3dprinting/</link>
+            <description>Bearded gnome #3DThursday #3DPrinting</description>
+            <pubDate>Thu Mar  2 06:00:58 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Making Ghidra Play Nice With RP2040</title>
+            <link>https://hackaday.com/2023/03/01/making-ghidra-play-nice-with-rp2040/</link>
+            <description>Making Ghidra Play Nice With RP2040</description>
+            <pubDate>Thu Mar  2 06:00:13 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Critical Flaw in Cisco IP Phone Series Exposes Users to Command Injection Attack</title>
+            <link>https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html</link>
+            <description>Critical Flaw in Cisco IP Phone Series Exposes Users to Command Injection Attack</description>
+            <pubDate>Thu Mar  2 04:17:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: What Happened to Sweden’s Slot Car EV Road?</title>
+            <link>https://hackaday.com/2023/03/01/what-happened-to-swedens-slot-car-ev-road/</link>
+            <description>What Happened to Sweden’s Slot Car EV Road?</description>
+            <pubDate>Thu Mar  2 03:00:03 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Tale Of Two Broken Flukes</title>
+            <link>https://hackaday.com/2023/03/01/the-tale-of-two-broken-flukes/</link>
+            <description>The Tale Of Two Broken Flukes</description>
+            <pubDate>Thu Mar  2 00:00:42 2023</pubDate>
+            </item>
+            <item>
+            <title>Changelog: The Changelog 529: You’re just a devcontainer.json away</title>
+            <link>https://changelog.com/podcast/529</link>
+            <description>The Changelog 529: You’re just a devcontainer.json away</description>
+            <pubDate>Wed Mar  1 22:30:00 2023</pubDate>
+            </item>
+            <item>
             <title>Xataka: Bruselas propone cambios drásticos para el carnet de conducir: obtención a los 17 años, permiso digital y más</title>
             <link>https://www.xataka.com/movilidad/bruselas-propone-cambios-drasticos-para-carnet-conducir-obtencion-a-17-anos-permiso-digital</link>
             <description>Bruselas propone cambios drásticos para el carnet de conducir: obtención a los 17 años, permiso digital y más</description>
@@ -28,47 +70,5 @@
             <link>https://blog.adafruit.com/2023/03/01/custom-3d-printed-heart-replicas-look-and-pump-just-like-the-real-thing/</link>
             <description>Custom, 3D-printed heart replicas look and pump just like the real thing</description>
             <pubDate>Wed Mar  1 21:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Magazine News (path: lmi_news): Planet Computers Launches ARM-based Linux Desktop PCs</title>
-            <link>http://www.linux-magazine.com/Online/News/Planet-Computers-Launches-ARM-based-Linux-Desktop-PCs</link>
-            <description>Planet Computers Launches ARM-based Linux Desktop PCs</description>
-            <pubDate>Wed Mar  1 20:24:41 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Bluesky, la alternativa a Twitter de Jack Dorsey, ya está disponible en beta: así puedes unirte a la lista de espera</title>
-            <link>https://www.xataka.com/aplicaciones/bluesky-alternativa-a-twitter-jack-dorsey-esta-disponible-beta-asi-puedes-unirte-a-lista-espera</link>
-            <description>Bluesky, la alternativa a Twitter de Jack Dorsey, ya está disponible en beta: así puedes unirte a la lista de espera</description>
-            <pubDate>Wed Mar  1 20:04:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: The lone developer problem</title>
-            <link>https://evanhahn.com/the-lone-developer-problem/</link>
-            <description>The lone developer problem</description>
-            <pubDate>Wed Mar  1 20:01:00 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: No arriesgues: estos 3 malos hábitos acabarán con la batería de tu coche eléctrico</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/3-malos-habitos-acabaran-bateria-coche-electrico/</link>
-            <description>No arriesgues: estos 3 malos hábitos acabarán con la batería de tu coche eléctrico</description>
-            <pubDate>Wed Mar  1 20:00:43 2023</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: El software de edición de audio Open Source Audacity acaba de liberar su versión 3.2.5</title>
-            <link>https://lignux.com/el-software-de-edicion-de-audio-open-source-audacity-acaba-de-liberar-su-version-3-2-5/</link>
-            <description>El software de edición de audio Open Source Audacity acaba de liberar su versión 3.2.5</description>
-            <pubDate>Wed Mar  1 19:52:04 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Taurus MyCook Next: un robot de cocina que promete hacer de todo y tiene una enorme pantalla compatible con Alexa</title>
-            <link>https://www.xataka.com/otros-dispositivos/taurus-mycook-next-caracteristicas-precio-ficha-tecnica</link>
-            <description>Taurus MyCook Next: un robot de cocina que promete hacer de todo y tiene una enorme pantalla compatible con Alexa</description>
-            <pubDate>Wed Mar  1 19:31:29 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Thoroughly Modern Serial Terminal</title>
-            <link>https://hackaday.com/2023/03/01/a-thoroughly-modern-serial-terminal/</link>
-            <description>A Thoroughly Modern Serial Terminal</description>
-            <pubDate>Wed Mar  1 19:30:21 2023</pubDate>
             </item></channel>
 </rss>
