@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A CRT Audio Visualiser For When LEDs Just Won’t Do</title>
+            <link>https://hackaday.com/2023/03/04/a-crt-audio-visualiser-for-when-leds-just-wont-do/</link>
+            <description>A CRT Audio Visualiser For When LEDs Just Won’t Do</description>
+            <pubDate>Sun Mar  5 06:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Crear Virus “falso” con el Bloc de Notas: Bromea a tus Amigos</title>
+            <link>https://esgeeks.com/virus-falso-bloc-notas-windows/</link>
+            <description>Crear Virus “falso” con el Bloc de Notas: Bromea a tus Amigos</description>
+            <pubDate>Sun Mar  5 04:43:57 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reclaiming A Pi-Based Solar Datalogger</title>
+            <link>https://hackaday.com/2023/03/04/reclaiming-a-pi-based-solar-datalogger/</link>
+            <description>Reclaiming A Pi-Based Solar Datalogger</description>
+            <pubDate>Sun Mar  5 03:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Assessing the Micromirror Device from a DLP Printer for Maskless Lithography Duty</title>
+            <link>https://hackaday.com/2023/03/04/assessing-the-micromirror-device-from-a-dlp-printer-for-maskless-lithography-duty/</link>
+            <description>Assessing the Micromirror Device from a DLP Printer for Maskless Lithography Duty</description>
+            <pubDate>Sun Mar  5 00:00:00 2023</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: Aprende Linux desde cero video 02 parte 3 de 3</title>
             <link>https://www.distritotux.cl/2023/03/aprende-linux-desde-cero-video-02-parte_55.html</link>
             <description>Aprende Linux desde cero video 02 parte 3 de 3</description>
@@ -46,29 +70,5 @@
             <link>https://www.redeszone.net/noticias/wifi/que-provoca-interferencias-auriculares-bluetooth/</link>
             <description>Todo esto hace que tus auriculares Bluetooth funcionen mal</description>
             <pubDate>Sat Mar  4 18:10:32 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Es normal que SkyShowtime resulte barato frente a Netflix. La cuestión es si sólo con eso le vale para competir</title>
-            <link>https://www.xataka.com/streaming/normal-que-skyshowtime-resulte-barato-frente-a-netflix-cuestion-solo-eso-le-vale-para-competir</link>
-            <description>Es normal que SkyShowtime resulte barato frente a Netflix. La cuestión es si sólo con eso le vale para competir</description>
-            <pubDate>Sat Mar  4 18:01:44 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: FDM Printing with Resin Update</title>
-            <link>https://hackaday.com/2023/03/04/fdm-printing-with-resin-update/</link>
-            <description>FDM Printing with Resin Update</description>
-            <pubDate>Sat Mar  4 18:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Estas son todas las series que no debes perderte este marzo</title>
-            <link>https://www.adslzone.net/noticias/ciencia/estrenos-series-marzo-2023/</link>
-            <description>Estas son todas las series que no debes perderte este marzo</description>
-            <pubDate>Sat Mar  4 17:02:26 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Inglaterra saqueó las reliquias de medio mundo. Ahora no tiene espacio para las suyas propias</title>
-            <link>https://www.xataka.com/investigacion/inglaterra-saqueo-reliquias-medio-mundo-ahora-no-tiene-espacio-para-suyas-propias</link>
-            <description>Inglaterra saqueó las reliquias de medio mundo. Ahora no tiene espacio para las suyas propias</description>
-            <pubDate>Sat Mar  4 17:01:43 2023</pubDate>
             </item></channel>
 </rss>
