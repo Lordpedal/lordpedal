@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: This Open Hardware Li-Ion Charger Skips the TP4056</title>
+            <link>https://hackaday.com/2023/03/11/this-open-hardware-li-ion-charger-skips-the-tp4056/</link>
+            <description>This Open Hardware Li-Ion Charger Skips the TP4056</description>
+            <pubDate>Sun Mar 12 06:00:31 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Electronic Bandage Speeds Wound Healing</title>
+            <link>https://hackaday.com/2023/03/11/electronic-bandage-speeds-wound-healing/</link>
+            <description>Electronic Bandage Speeds Wound Healing</description>
+            <pubDate>Sun Mar 12 03:00:01 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Quick and Dirty Microscope Motion Control for Focus Stacking</title>
+            <link>https://hackaday.com/2023/03/11/quick-and-dirty-microscope-motion-control-for-focus-stacking/</link>
+            <description>Quick and Dirty Microscope Motion Control for Focus Stacking</description>
+            <pubDate>Sun Mar 12 00:00:07 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Tutorial para instalar la versión de mantenimiento del Kernel Linux 6.2.5</title>
             <link>https://lignux.com/tutorial-para-instalar-la-version-de-mantenimiento-del-kernel-linux-6-2-5/</link>
             <description>Tutorial para instalar la versión de mantenimiento del Kernel Linux 6.2.5</description>
@@ -52,23 +70,5 @@
             <link>https://www.hackplayers.com/2023/03/powershell-con-net-assemblies.html</link>
             <description>SharpPick o cómo ejecutar código de PowerShell a través de ensamblados .NET</description>
             <pubDate>Sat Mar 11 17:18:38 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Estos 5 documentales de Netflix son la mejor opción para ver en familia</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/documentales-animales-netflix-familia/</link>
-            <description>Estos 5 documentales de Netflix son la mejor opción para ver en familia</description>
-            <pubDate>Sat Mar 11 17:03:41 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La eólica ha logrado un récord de generación instantánea en España: qué significa para el mapa energético</title>
-            <link>https://www.xataka.com/energia/eolica-ha-logrado-record-generacion-instantanea-espana-que-significa-para-mapa-energetico</link>
-            <description>La eólica ha logrado un récord de generación instantánea en España: qué significa para el mapa energético</description>
-            <pubDate>Sat Mar 11 17:01:30 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: España ha activado uno de sus mayores soterramientos ferroviarios hasta la fecha: 5 kilómetros en L'Hospitalet</title>
-            <link>https://www.xataka.com/movilidad/espana-ha-activado-uno-sus-mayores-soterramientos-ferroviarios-fecha-5-kilometros-lhospitalet</link>
-            <description>España ha activado uno de sus mayores soterramientos ferroviarios hasta la fecha: 5 kilómetros en L'Hospitalet</description>
-            <pubDate>Sat Mar 11 16:31:31 2023</pubDate>
             </item></channel>
 </rss>
