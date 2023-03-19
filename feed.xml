@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: Linux Jargon Buster: What is LUKS Encryption?</title>
+            <link>https://itsfoss.com/luks/</link>
+            <description>Linux Jargon Buster: What is LUKS Encryption?</description>
+            <pubDate>Sun Mar 19 05:06:44 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Annoying Cicada Magnet Is Nonetheless Authentic</title>
+            <link>https://hackaday.com/2023/03/18/annoying-cicada-magnet-is-nonetheless-authentic/</link>
+            <description>Annoying Cicada Magnet Is Nonetheless Authentic</description>
+            <pubDate>Sun Mar 19 05:00:08 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Building a Truss-Braced Model Airplane: Sense or Nonsense?</title>
+            <link>https://hackaday.com/2023/03/18/building-a-truss-braced-model-airplane-sense-or-nonsense/</link>
+            <description>Building a Truss-Braced Model Airplane: Sense or Nonsense?</description>
+            <pubDate>Sun Mar 19 02:00:53 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Calibrating Thermal Cameras With Hot Patterned Objects</title>
+            <link>https://hackaday.com/2023/03/18/calibrating-thermal-cameras-with-hot-patterned-objects/</link>
+            <description>Calibrating Thermal Cameras With Hot Patterned Objects</description>
+            <pubDate>Sat Mar 18 23:00:00 2023</pubDate>
+            </item>
+            <item>
             <title>OMG! Ubuntu!: Ubuntu Wants You to Test its Steam Snap</title>
             <link>https://www.omgubuntu.co.uk/2023/03/ubuntu-steam-snap-candidate-testing</link>
             <description>Ubuntu Wants You to Test its Steam Snap</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/streaming/mi-trabajo-consiste-ver-series-peliculas-estos-mis-trucos-para-elegir-bien-jungla-streaming</link>
             <description>Mi trabajo consiste en ver series y películas. Estos son mis trucos para elegir bien en la jungla del streaming</description>
             <pubDate>Sat Mar 18 18:01:18 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: eFilm, cinco años después: así es la experiencia de este catálogo inmenso en préstamo para ver películas gratis y de forma legal</title>
-            <link>https://www.genbeta.com/a-fondo/efilm-cinco-anos-despues-asi-experiencia-este-catalogo-inmenso-prestamo-para-ver-peliculas-gratis-forma-legal</link>
-            <description>eFilm, cinco años después: así es la experiencia de este catálogo inmenso en préstamo para ver películas gratis y de forma legal</description>
-            <pubDate>Sat Mar 18 18:01:18 2023</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: WiFi_DB: Herramienta de Recogida y Análisis de Datos de Redes Inalámbricas</title>
-            <link>https://esgeeks.com/wifi_db-recogida-analisis-redes-inalambricas/</link>
-            <description>WiFi_DB: Herramienta de Recogida y Análisis de Datos de Redes Inalámbricas</description>
-            <pubDate>Sat Mar 18 17:50:48 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Si has dado de baja Netflix, estas 7 series infantiles son gratis en streaming</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/series-infantiles-gratis-streaming/</link>
-            <description>Si has dado de baja Netflix, estas 7 series infantiles son gratis en streaming</description>
-            <pubDate>Sat Mar 18 17:05:08 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Qué es la escala Torino y por qué el asteroide más hablado de los últimos días acaba de ser degradado</title>
-            <link>https://www.xataka.com/espacio/que-escala-torino-que-asteroide-hablado-ultimos-dias-acaba-ser-degradado</link>
-            <description>Qué es la escala Torino y por qué el asteroide más hablado de los últimos días acaba de ser degradado</description>
-            <pubDate>Sat Mar 18 17:01:19 2023</pubDate>
             </item></channel>
 </rss>
