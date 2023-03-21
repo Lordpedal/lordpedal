@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>ADSLZone: Aprende a programar gratis: 5 webs que no te puedes perder</title>
+            <link>https://www.adslzone.net/noticias/internet/webs-aprender-programar-gratis/</link>
+            <description>Aprende a programar gratis: 5 webs que no te puedes perder</description>
+            <pubDate>Tue Mar 21 06:03:22 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Live2D: Silently Subverting Threat Models</title>
+            <link>https://hackaday.com/2023/03/20/live2d-silently-subverting-threat-models/</link>
+            <description>Live2D: Silently Subverting Threat Models</description>
+            <pubDate>Tue Mar 21 05:00:31 2023</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: NixOS Series #5: How to set up home-manager on NixOS?</title>
+            <link>https://itsfoss.com/home-manager-nixos/</link>
+            <description>NixOS Series #5: How to set up home-manager on NixOS?</description>
+            <pubDate>Tue Mar 21 04:12:18 2023</pubDate>
+            </item>
+            <item>
+            <title>- Junco TIC: sed: Editando texto desde línea de comandos</title>
+            <link>https://juncotic.com/sed-editando-texto-desde-linea-de-comandos/</link>
+            <description>sed: Editando texto desde línea de comandos</description>
+            <pubDate>Tue Mar 21 03:29:09 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Cold War Listening Post Antennas</title>
+            <link>https://hackaday.com/2023/03/20/cold-war-listening-post-antennas/</link>
+            <description>Cold War Listening Post Antennas</description>
+            <pubDate>Tue Mar 21 02:00:07 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Roban a Ferrari los datos de sus clientes a través de un ciberataque</title>
+            <link>https://www.adslzone.net/noticias/seguridad/ferrari-ciberataque-ransomware/</link>
+            <description>Roban a Ferrari los datos de sus clientes a través de un ciberataque</description>
+            <pubDate>Tue Mar 21 00:45:29 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Amazon Linux 2023 profundiza en Fedora y mejora la seguridad y el rendimiento</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/amazon-linux-2023-profundiza-en-fedora-y-mejora-la-seguridad-y-el-rendimiento/</link>
+            <description>Amazon Linux 2023 profundiza en Fedora y mejora la seguridad y el rendimiento</description>
+            <pubDate>Tue Mar 21 00:01:54 2023</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu!: Ubuntu 23.04: The Best New Features</title>
+            <link>https://www.omgubuntu.co.uk/2023/03/ubuntu-23-04-features</link>
+            <description>Ubuntu 23.04: The Best New Features</description>
+            <pubDate>Mon Mar 20 23:29:28 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Modifying Artwork With Glaze To Interfere With Art Generating Algorithms</title>
+            <link>https://hackaday.com/2023/03/20/modifying-artwork-with-glaze-to-interfere-with-art-generating-algorithms/</link>
+            <description>Modifying Artwork With Glaze To Interfere With Art Generating Algorithms</description>
+            <pubDate>Mon Mar 20 23:00:39 2023</pubDate>
+            </item>
+            <item>
             <title>Xataka: Estos smartphones de Samsung y Google pueden ser hackeados solo con el número de teléfono: así puedes mitigar el riesgo</title>
             <link>https://www.xataka.com/seguridad/estos-smartphones-samsung-google-pueden-ser-hackeados-solo-numero-telefono-asi-puedes-mitigar-riesgo</link>
             <description>Estos smartphones de Samsung y Google pueden ser hackeados solo con el número de teléfono: así puedes mitigar el riesgo</description>
@@ -16,59 +70,5 @@
             <link>https://www.genbeta.com/actualidad/guardia-civil-desmantela-banda-que-estafo-175-000-eur-usando-mensajeria-bizum-asi-metodo-maleta-boliviana</link>
             <description>La Guardia Civil desmantela una banda que estafó 175.000 € usando mensajería y Bizum: así es el método de la 'maleta boliviana'</description>
             <pubDate>Mon Mar 20 20:30:17 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Tengo un truco para ver la TDT con máxima calidad y no necesito ni antena</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/truco-tdt-maxima-calidad/</link>
-            <description>Tengo un truco para ver la TDT con máxima calidad y no necesito ni antena</description>
-            <pubDate>Mon Mar 20 20:03:15 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Working Artificial Horizon Built Into a Single Lego Brick</title>
-            <link>https://hackaday.com/2023/03/20/working-artificial-horizon-built-into-a-single-lego-brick/</link>
-            <description>Working Artificial Horizon Built Into a Single Lego Brick</description>
-            <pubDate>Mon Mar 20 20:00:41 2023</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: Las Mejores Distribuciones Linux para Juegos</title>
-            <link>https://esgeeks.com/mejores-distribuciones-linux-juegos/</link>
-            <description>Las Mejores Distribuciones Linux para Juegos</description>
-            <pubDate>Mon Mar 20 19:55:26 2023</pubDate>
-            </item>
-            <item>
-            <title>DistritoTux: Aprende Linux desde cero, Video 05, Programas, Gráficos e Internet</title>
-            <link>https://www.distritotux.cl/2023/03/aprende-linux-desde-cero-video-05.html</link>
-            <description>Aprende Linux desde cero, Video 05, Programas, Gráficos e Internet</description>
-            <pubDate>Mon Mar 20 19:55:02 2023</pubDate>
-            </item>
-            <item>
-            <title>NASeros: El mejor Disco Duro para tu NAS</title>
-            <link>https://naseros.com/2023/03/20/el-mejor-disco-duro-para-tu-nas/?utm_source=rss&utm_medium=rss&utm_campaign=el-mejor-disco-duro-para-tu-nas</link>
-            <description>El mejor Disco Duro para tu NAS</description>
-            <pubDate>Mon Mar 20 19:30:41 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: Cómo ver los canales de TV de Movistar Plus+ en tus dispositivos sin usar el decodificador: estas son las mejores opciones</title>
-            <link>https://www.xatakahome.com/tutoriales/como-ver-canales-tv-movistar-plus-tus-dispositivos-usar-decodificador-estas-mejores-opciones</link>
-            <description>Cómo ver los canales de TV de Movistar Plus+ en tus dispositivos sin usar el decodificador: estas son las mejores opciones</description>
-            <pubDate>Mon Mar 20 19:18:36 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Todo esto sabe WhatsApp de ti: Descarga el informe para comprobarlo</title>
-            <link>https://www.adslzone.net/noticias/whatsapp/whatsapp-informe-datos/</link>
-            <description>Todo esto sabe WhatsApp de ti: Descarga el informe para comprobarlo</description>
-            <pubDate>Mon Mar 20 19:04:51 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Microsoft confirma que está desarrollando una tienda alternativa a Google Play y App Store. Tiene más sentido que nunca</title>
-            <link>https://www.xataka.com/aplicaciones/microsoft-confirma-que-esta-desarrollando-tienda-alternativa-a-google-play-app-store-tiene-sentido-que-nunca</link>
-            <description>Microsoft confirma que está desarrollando una tienda alternativa a Google Play y App Store. Tiene más sentido que nunca</description>
-            <pubDate>Mon Mar 20 19:04:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Estimula más tus cuádriceps bajando más en sentadilla: tres consejos que te ayudarán a ganar movilidad</title>
-            <link>https://www.vitonica.com/entrenamiento/estimula-tus-cuadriceps-bajando-sentadilla-tres-consejos-que-te-ayudaran-a-ganar-movilidad</link>
-            <description>Estimula más tus cuádriceps bajando más en sentadilla: tres consejos que te ayudarán a ganar movilidad</description>
-            <pubDate>Mon Mar 20 19:00:35 2023</pubDate>
             </item></channel>
 </rss>
