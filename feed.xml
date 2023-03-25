@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: OpenAI Reveals Redis Bug Behind ChatGPT User Data Exposure Incident</title>
+            <link>https://thehackernews.com/2023/03/openai-reveals-redis-bug-behind-chatgpt.html</link>
+            <description>OpenAI Reveals Redis Bug Behind ChatGPT User Data Exposure Incident</description>
+            <pubDate>Sat Mar 25 05:51:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Jenkins Demo Stand For Modern Times</title>
+            <link>https://hackaday.com/2023/03/24/a-jenkins-demo-stand-for-modern-times/</link>
+            <description>A Jenkins Demo Stand For Modern Times</description>
+            <pubDate>Sat Mar 25 05:00:45 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: ThinkShield: la mejor forma para estar protegido de ciberdelincuentes la tiene Lenovo</title>
+            <link>https://www.adslzone.net/reportajes/temas/thinkshield-mejor-forma-protegido-ciberdelincuentes-lenovo/</link>
+            <description>ThinkShield: la mejor forma para estar protegido de ciberdelincuentes la tiene Lenovo</description>
+            <pubDate>Sat Mar 25 05:00:28 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Glowscope Reduces Microscope Cost By Orders of Magnitude</title>
+            <link>https://hackaday.com/2023/03/24/glowscope-reduces-microscope-cost-by-orders-of-magnitude/</link>
+            <description>Glowscope Reduces Microscope Cost By Orders of Magnitude</description>
+            <pubDate>Sat Mar 25 02:00:54 2023</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Aprende Linux desde cero, Video 06, Programas, Oficina, Libre Office</title>
+            <link>https://www.distritotux.cl/2023/03/aprende-linux-desde-cero-video-06.html</link>
+            <description>Aprende Linux desde cero, Video 06, Programas, Oficina, Libre Office</description>
+            <pubDate>Sat Mar 25 00:53:06 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: AMD anuncia FSR 3, su alternativa al DLSS 3 de NVIDIA</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/amd-anuncia-fsr-3-su-alternativa-al-dlss-3-de-nvidia/</link>
+            <description>AMD anuncia FSR 3, su alternativa al DLSS 3 de NVIDIA</description>
+            <pubDate>Sat Mar 25 00:02:17 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Dead Raspberry Pi Boards, PMICs, And New Hope</title>
+            <link>https://hackaday.com/2023/03/24/dead-raspberry-pi-boards-pmics-and-new-hope/</link>
+            <description>Dead Raspberry Pi Boards, PMICs, And New Hope</description>
+            <pubDate>Fri Mar 24 23:00:26 2023</pubDate>
+            </item>
+            <item>
+            <title>LiGNUx: Consigue libertad y anonimato alojando las fuentes de texto en WordPress gracias a Font Hero</title>
+            <link>https://lignux.com/consigue-libertad-y-anonimato-alojando-las-fuentes-de-texto-en-wordpress-gracias-a-font-hero/</link>
+            <description>Consigue libertad y anonimato alojando las fuentes de texto en WordPress gracias a Font Hero</description>
+            <pubDate>Fri Mar 24 22:00:51 2023</pubDate>
+            </item>
+            <item>
             <title>Genbeta: Seis cosas geniales que los nuevos plugins de ChatGPT le permiten hacer por nosotros y que antes no podía</title>
             <link>https://www.genbeta.com/a-fondo/seis-cosas-geniales-que-nuevos-plugins-chatgpt-le-permiten-hacer-nosotros-que-antes-no-podia</link>
             <description>Seis cosas geniales que los nuevos plugins de ChatGPT le permiten hacer por nosotros y que antes no podía</description>
@@ -22,53 +70,5 @@
             <link>https://hackaday.com/2023/03/24/the-keychain-6809/</link>
             <description>The Keychain 6809</description>
             <pubDate>Fri Mar 24 20:00:49 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Nadie se salva: estas son todas las infracciones que te quitarán puntos del carnet</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/nadie-salva-infracciones-quitaran-puntos-carnet/</link>
-            <description>Nadie se salva: estas son todas las infracciones que te quitarán puntos del carnet</description>
-            <pubDate>Fri Mar 24 20:00:25 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Aplausos para uno y acusaciones para el otro: el contraste de Tim Cook en China y del CEO de TikTok en Estados Unidos</title>
-            <link>https://www.xataka.com/empresas-y-economia/aplausos-para-uno-acusaciones-para-otro-contraste-tim-cook-china-ceo-tiktok-estados-unidos</link>
-            <description>Aplausos para uno y acusaciones para el otro: el contraste de Tim Cook en China y del CEO de TikTok en Estados Unidos</description>
-            <pubDate>Fri Mar 24 19:30:08 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La película más misteriosa de la historia ya se ha rodado, pero está en una caja fuerte que no se abrirá hasta el 2115</title>
-            <link>https://www.xataka.com/cine-y-tv/pelicula-misteriosa-historia-se-ha-rodado-esta-caja-fuerte-que-no-se-abrira-2115</link>
-            <description>La película más misteriosa de la historia ya se ha rodado, pero está en una caja fuerte que no se abrirá hasta el 2115</description>
-            <pubDate>Fri Mar 24 19:00:38 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así quedan las tarifas de Orange a partir del domingo tras la subida de precios</title>
-            <link>https://www.adslzone.net/noticias/operadores/nuevos-precios-tarifas-orange-2023/</link>
-            <description>Así quedan las tarifas de Orange a partir del domingo tras la subida de precios</description>
-            <pubDate>Fri Mar 24 18:57:48 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Enjoy an Open-Source Espresso</title>
-            <link>https://hackaday.com/2023/03/24/enjoy-an-open-source-espresso/</link>
-            <description>Enjoy an Open-Source Espresso</description>
-            <pubDate>Fri Mar 24 18:30:59 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: JS Party 268: Recreating Node.js from scratch</title>
-            <link>https://changelog.com/jsparty/268</link>
-            <description>JS Party 268: Recreating Node.js from scratch</description>
-            <pubDate>Fri Mar 24 18:20:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Cuidado con los links que te animan a colocar en tu web: así es la estafa del retroenlace por violación del copyright</title>
-            <link>https://www.genbeta.com/seguridad/cuidado-links-que-te-animan-a-colocar-tu-web-asi-estafa-retroenlace-violacion-copyright</link>
-            <description>Cuidado con los links que te animan a colocar en tu web: así es la estafa del retroenlace por violación del copyright</description>
-            <pubDate>Fri Mar 24 18:06:54 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Por qué no debes tener toda tu casa a la misma temperatura</title>
-            <link>https://www.redeszone.net/noticias/power/toda-vivienda-misma-temperatura-error/</link>
-            <description>Por qué no debes tener toda tu casa a la misma temperatura</description>
-            <pubDate>Fri Mar 24 18:06:51 2023</pubDate>
             </item></channel>
 </rss>
