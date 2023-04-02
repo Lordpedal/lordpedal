@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Why Do Rifa Capacitors Fail?</title>
+            <link>https://hackaday.com/2023/04/01/why-do-rifa-capacitors-fail/</link>
+            <description>Why Do Rifa Capacitors Fail?</description>
+            <pubDate>Sun Apr  2 05:00:14 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Building an Energy Sword Replica From Halo</title>
+            <link>https://hackaday.com/2023/04/01/building-an-energy-sword-replica-from-halo/</link>
+            <description>Building an Energy Sword Replica From Halo</description>
+            <pubDate>Sun Apr  2 02:00:46 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Cat Skull for Internet Connection Divination</title>
+            <link>https://hackaday.com/2023/04/01/cat-skull-for-internet-connection-divination/</link>
+            <description>Cat Skull for Internet Connection Divination</description>
+            <pubDate>Sat Apr  1 23:00:29 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: LibreOffice 7.5.2: ¡Lista la segunda versión de mantenimiento!</title>
+            <link>https://blog.desdelinux.net/libreoffice-7-5-2/</link>
+            <description>LibreOffice 7.5.2: ¡Lista la segunda versión de mantenimiento!</description>
+            <pubDate>Sat Apr  1 22:55:01 2023</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu!: How to Center New Windows in Ubuntu (Hidden Setting)</title>
+            <link>https://www.omgubuntu.co.uk/2023/04/center-new-windows-ubuntu-gnome</link>
+            <description>How to Center New Windows in Ubuntu (Hidden Setting)</description>
+            <pubDate>Sat Apr  1 22:13:14 2023</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Yoigo víctima de un ciberataque que expone los datos privados de sus clientes</title>
             <link>https://www.adslzone.net/noticias/operadores/yoigo-ciberataque-clientes-datos-personales/</link>
             <description>Yoigo víctima de un ciberataque que expone los datos privados de sus clientes</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/marcas/caixabank-peor-empresa-2022/</link>
             <description>Movistar y Vodafone se libran de la quema. Caixabank es la peor empresa del año</description>
             <pubDate>Sat Apr  1 18:46:39 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Mi ordenador hace mucho ruido: soluciones que nunca fallan</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/ordenador-ruido-soluciones/</link>
-            <description>Mi ordenador hace mucho ruido: soluciones que nunca fallan</description>
-            <pubDate>Sat Apr  1 18:04:35 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La historia del Sea Shadow, el buque "furtivo" que quiso ser la joya naval de EEUU y acabó en un rotundo fiasco</title>
-            <link>https://www.xataka.com/historia-tecnologica/historia-sea-shadow-buque-furtivo-que-quiso-ser-joya-naval-eeuu-acabo-rotundo-fiasco</link>
-            <description>La historia del Sea Shadow, el buque "furtivo" que quiso ser la joya naval de EEUU y acabó en un rotundo fiasco</description>
-            <pubDate>Sat Apr  1 18:01:33 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Juegas online? Haz esto para que jugar por Wi-Fi no sea horrible</title>
-            <link>https://www.redeszone.net/noticias/wifi/jugar-online-wifi-evitar-problemas/</link>
-            <description>¿Juegas online? Haz esto para que jugar por Wi-Fi no sea horrible</description>
-            <pubDate>Sat Apr  1 17:06:48 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La vista previa de mi móvil de 1.400€ es terrible. Así es la tradición en Android</title>
-            <link>https://www.xataka.com/fotografia-y-video/vista-previa-mi-movil-1-400eur-terrible-asi-tradicion-android</link>
-            <description>La vista previa de mi móvil de 1.400€ es terrible. Así es la tradición en Android</description>
-            <pubDate>Sat Apr  1 17:01:33 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Modern Dance or Full-Body Keyboard? Why Not Both!</title>
-            <link>https://hackaday.com/2023/04/01/modern-dance-or-full-body-keyboard-why-not-both/</link>
-            <description>Modern Dance or Full-Body Keyboard? Why Not Both!</description>
-            <pubDate>Sat Apr  1 17:00:17 2023</pubDate>
             </item></channel>
 </rss>
