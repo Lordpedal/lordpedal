@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Before You sudo rm -rf /, Take Some Precautions</title>
+            <link>https://hackaday.com/2023/04/21/before-you-sudo-rm-rf-take-some-precautions/</link>
+            <description>Before You sudo rm -rf /, Take Some Precautions</description>
+            <pubDate>Sat Apr 22 05:00:12 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Cyber Resilience Act Threatens Open Source</title>
+            <link>https://hackaday.com/2023/04/21/the-cyber-resilience-act-threatens-open-source/</link>
+            <description>The Cyber Resilience Act Threatens Open Source</description>
+            <pubDate>Sat Apr 22 02:00:22 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: GIMP culmina su transición a GTK3, a la espera del lanzamiento final</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/gimp-culmina-su-transicion-a-gtk3-a-la-espera-del-lanzamiento-final/</link>
+            <description>GIMP culmina su transición a GTK3, a la espera del lanzamiento final</description>
+            <pubDate>Sat Apr 22 00:02:38 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: QEMU 8, nueva versión del emulador de arquitecturas</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/qemu-8-nueva-version-del-emulador-de-arquitecturas/</link>
+            <description>QEMU 8, nueva versión del emulador de arquitecturas</description>
+            <pubDate>Sat Apr 22 00:02:36 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Solar Protocol Envisions a Solar-Powered Web</title>
+            <link>https://hackaday.com/2023/04/21/solar-protocol-envisions-a-solar-powered-web/</link>
+            <description>Solar Protocol Envisions a Solar-Powered Web</description>
+            <pubDate>Fri Apr 21 23:00:20 2023</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Aprende Linux desde cero, Video 11, Rufus y Balena Etcher</title>
+            <link>https://www.distritotux.cl/2023/04/aprende-linux-desde-cero-video-11-rufus.html</link>
+            <description>Aprende Linux desde cero, Video 11, Rufus y Balena Etcher</description>
+            <pubDate>Fri Apr 21 22:30:19 2023</pubDate>
+            </item>
+            <item>
             <title>Indie Libre: Tarjeta Zinli en Venezuela: ¿qué es y para qué sirve?</title>
             <link>https://indielibre.com/2023/04/21/tarjeta-zinli-que-es-y-para-que-sirve/</link>
             <description>Tarjeta Zinli en Venezuela: ¿qué es y para qué sirve?</description>
@@ -24,51 +60,15 @@
             <pubDate>Fri Apr 21 20:00:30 2023</pubDate>
             </item>
             <item>
+            <title>Blog – Hackaday: Miniature Concrete Hoover Dam Is Tiny Engineering Done Right</title>
+            <link>https://hackaday.com/2023/04/21/miniature-concrete-hoover-dam-is-tiny-engineering-done-right/</link>
+            <description>Miniature Concrete Hoover Dam Is Tiny Engineering Done Right</description>
+            <pubDate>Fri Apr 21 20:00:30 2023</pubDate>
+            </item>
+            <item>
             <title>Xataka: CUPRA Tavascan: así es el ambicioso SUV 100% eléctrico con el que el fabricante español quiere iniciar una nueva era</title>
             <link>https://www.xataka.com/movilidad/cupra-tavascan-caracteristicas-precio-ficha-tecnica</link>
             <description>CUPRA Tavascan: así es el ambicioso SUV 100% eléctrico con el que el fabricante español quiere iniciar una nueva era</description>
             <pubDate>Fri Apr 21 19:54:33 2023</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: Tutorial para instalar la versión de mantenimiento del Kernel Linux 6.2.12</title>
-            <link>https://lignux.com/tutorial-para-instalar-la-version-de-mantenimiento-del-kernel-linux-6-2-12/</link>
-            <description>Tutorial para instalar la versión de mantenimiento del Kernel Linux 6.2.12</description>
-            <pubDate>Fri Apr 21 19:23:38 2023</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: Las 3 Mejores Formas de Mejorar tus Habilidades a un Ingeniero DevOps</title>
-            <link>https://esgeeks.com/mejorar-habilidades-ingeniero-devops/</link>
-            <description>Las 3 Mejores Formas de Mejorar tus Habilidades a un Ingeniero DevOps</description>
-            <pubDate>Fri Apr 21 19:11:12 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La OCU advierte: no todos los neumáticos duran igual, hay diferencias de hasta 40000 km</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/estudio-duracion-neumaticos-ocu-abril-2023/</link>
-            <description>La OCU advierte: no todos los neumáticos duran igual, hay diferencias de hasta 40000 km</description>
-            <pubDate>Fri Apr 21 19:01:22 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A High Precision ADC That You Can Understand!</title>
-            <link>https://hackaday.com/2023/04/21/a-high-precision-adc-that-you-can-understand/</link>
-            <description>A High Precision ADC That You Can Understand!</description>
-            <pubDate>Fri Apr 21 18:30:52 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así de sencillo es conseguir 50 euros de descuento en tu factura de Digi</title>
-            <link>https://www.adslzone.net/noticias/operadores/como-conseguir-50-euros-descuento-factura-digi/</link>
-            <description>Así de sencillo es conseguir 50 euros de descuento en tu factura de Digi</description>
-            <pubDate>Fri Apr 21 18:02:15 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Esta versión de pesadilla de 'E.T. El Extraterrestre' contiene la ciencia ficción más brutal que puedes ver en streaming</title>
-            <link>https://www.xataka.com/streaming/esta-version-pesadilla-e-t-extraterrestre-contiene-ciencia-ficcion-brutal-que-puedes-ver-streaming</link>
-            <description>Esta versión de pesadilla de 'E.T. El Extraterrestre' contiene la ciencia ficción más brutal que puedes ver en streaming</description>
-            <pubDate>Fri Apr 21 18:00:37 2023</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Luis Miguel sorprende con su transformación física y luce un cuerpo con 20 kilos menos gracias al ayuno intermitente</title>
-            <link>https://www.vitonica.com/dietas/luis-miguel-se-apunta-a-protocolo-ayuno-intermitente-baja-20-kilos-ultimo-tiempo</link>
-            <description>Luis Miguel sorprende con su transformación física y luce un cuerpo con 20 kilos menos gracias al ayuno intermitente</description>
-            <pubDate>Fri Apr 21 18:00:37 2023</pubDate>
             </item></channel>
 </rss>
