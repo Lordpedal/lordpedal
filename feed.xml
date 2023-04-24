@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Los científicos identifican un nexo entre la mente y el cuerpo en el cerebro humano</title>
+            <link>https://www.linuxparty.es/120-salud/11501-los-cientificos-identifican-un-nexo-entre-la-mente-y-el-cuerpo-en-el-cerebro-humano.html</link>
+            <description>Los científicos identifican un nexo entre la mente y el cuerpo en el cerebro humano</description>
+            <pubDate>Mon Apr 24 06:00:04 2023</pubDate>
+            </item>
+            <item>
+            <title>Atareao: Dashboards accionables en Grafana</title>
+            <link>https://atareao.es/podcast/dashboards-accionables-en-grafana/</link>
+            <description>Dashboards accionables en Grafana</description>
+            <pubDate>Mon Apr 24 06:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Científicos finalmente resolvieron el misterio de cómo funciona el calendario maya</title>
+            <link>https://www.linuxparty.es/87-matematicas/11500-cientificos-finalmente-resolvieron-el-misterio-de-como-funciona-el-calendario-maya.html</link>
+            <description>Científicos finalmente resolvieron el misterio de cómo funciona el calendario maya</description>
+            <pubDate>Mon Apr 24 05:30:04 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Estas apps te ayudan a echar gasolina al mejor precio</title>
+            <link>https://www.adslzone.net/noticias/moviles/apps-echar-gasolina-mejor-precio/</link>
+            <description>Estas apps te ayudan a echar gasolina al mejor precio</description>
+            <pubDate>Mon Apr 24 05:02:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Rickrolling SSID with ESP32</title>
+            <link>https://hackaday.com/2023/04/23/rickrolling-ssid-with-esp32/</link>
+            <description>Rickrolling SSID with ESP32</description>
+            <pubDate>Mon Apr 24 05:00:11 2023</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Rust Basics Series #5: Functions in the Rust Programming Language</title>
+            <link>https://itsfoss.com/rust-functions/</link>
+            <description>Rust Basics Series #5: Functions in the Rust Programming Language</description>
+            <pubDate>Mon Apr 24 04:35:31 2023</pubDate>
+            </item>
+            <item>
+            <title>El Blog de Lázaro: Resetear usuario/contraseña de Nginx Proxy Manager (NPM)</title>
+            <link>https://elblogdelazaro.org/posts/2023-04-24-resetear-usuario-contrasenna-de-nginx-proxy-manager-npm/</link>
+            <description>Resetear usuario/contraseña de Nginx Proxy Manager (NPM)</description>
+            <pubDate>Mon Apr 24 04:30:00 2023</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Ubuntu 23.04 - Lunar Lobster - disponible para descargar.</title>
+            <link>https://www.cambiatealinux.com/ubuntu-23.04-lunar-lobster-disponible-para-descargar.</link>
+            <description>Ubuntu 23.04 - Lunar Lobster - disponible para descargar.</description>
+            <pubDate>Mon Apr 24 03:55:44 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Shake Your PCB Etching, With An Old Optical Drive</title>
+            <link>https://hackaday.com/2023/04/23/shake-your-pcb-etching-with-an-old-optical-drive/</link>
+            <description>Shake Your PCB Etching, With An Old Optical Drive</description>
+            <pubDate>Mon Apr 24 02:00:37 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: April 23, 2023</title>
+            <link>https://hackaday.com/2023/04/23/hackaday-links-april-23-2023/</link>
+            <description>Hackaday Links: April 23, 2023</description>
+            <pubDate>Sun Apr 23 23:00:38 2023</pubDate>
+            </item>
+            <item>
             <title>hackplayers: GOAD: Pwning is coming (lab AD pruebas)</title>
             <link>https://www.hackplayers.com/2023/04/goad-pwning-is-coming-lab-ad-pruebas.html</link>
             <description>GOAD: Pwning is coming (lab AD pruebas)</description>
             <pubDate>Sun Apr 23 21:58:46 2023</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: Linux Kernel 6.3 Released, This is What’s New</title>
-            <link>https://www.omgubuntu.co.uk/2023/04/linux-kernel-6-3-features</link>
-            <description>Linux Kernel 6.3 Released, This is What’s New</description>
-            <pubDate>Sun Apr 23 21:06:24 2023</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: El editor de vídeo Kdenlive alcanza su versión final 23.04</title>
-            <link>https://lignux.com/el-editor-de-video-kdenlive-alcanza-su-version-final-23-04/</link>
-            <description>El editor de vídeo Kdenlive alcanza su versión final 23.04</description>
-            <pubDate>Sun Apr 23 20:54:07 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Tails 5.12 llega con Linux a 6.1.20, correcciones y mas</title>
-            <link>https://www.linuxadictos.com/tails-5-12-llega-con-linux-a-6-1-20-correcciones-y-mas.html</link>
-            <description>Tails 5.12 llega con Linux a 6.1.20, correcciones y mas</description>
-            <pubDate>Sun Apr 23 20:51:57 2023</pubDate>
-            </item>
-            <item>
-            <title>El Pingüino Tolkiano: El todo (trigonométrico) es más que la suma de sus partes (angulares)</title>
-            <link>https://elpinguinotolkiano.wordpress.com/2023/04/23/el-todo-trigonometrico-es-mas-que-la-suma-de-sus-partes-angulares/</link>
-            <description>El todo (trigonométrico) es más que la suma de sus partes (angulares)</description>
-            <pubDate>Sun Apr 23 20:40:38 2023</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Shotwell 0.32.0 llega con mejoras de soporte, reconocimiento y mas</title>
-            <link>https://ubunlog.com/shotwell-0-32-0-llega-con-mejoras-de-soporte-reconocimiento-y-mas/</link>
-            <description>Shotwell 0.32.0 llega con mejoras de soporte, reconocimiento y mas</description>
-            <pubDate>Sun Apr 23 20:32:47 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: No utilices nunca un repetidor WiFi en este caso, es una soberana tontería</title>
-            <link>https://www.adslzone.net/noticias/redes/no-uses-repetidor-wifi/</link>
-            <description>No utilices nunca un repetidor WiFi en este caso, es una soberana tontería</description>
-            <pubDate>Sun Apr 23 20:03:43 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: VCF East 2023: Retro Luminaries Take the Stage</title>
-            <link>https://hackaday.com/2023/04/23/vcf-east-2023-retro-luminaries-take-the-stage/</link>
-            <description>VCF East 2023: Retro Luminaries Take the Stage</description>
-            <pubDate>Sun Apr 23 20:00:07 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Así era Zvezda, el ambicioso proyecto soviético para colonizar la Luna (y ganarle la partida a EEUU)</title>
-            <link>https://www.xataka.com/espacio/asi-era-zvezda-ambicioso-proyecto-sovietico-para-colonizar-luna-ganarle-partida-a-eeuu</link>
-            <description>Así era Zvezda, el ambicioso proyecto soviético para colonizar la Luna (y ganarle la partida a EEUU)</description>
-            <pubDate>Sun Apr 23 19:00:38 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Los 10 productos que yo compraría en el Día sin IVA de MediaMarkt si tengo posibilidad</title>
-            <link>https://www.adslzone.net/ofertas/mix/dia-sin-iva-mediamarkt-abril-2022/</link>
-            <description>Los 10 productos que yo compraría en el Día sin IVA de MediaMarkt si tengo posibilidad</description>
-            <pubDate>Sun Apr 23 18:03:09 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China tiene un arma secreta para conquistar Europa: coches eléctricos de 1.000 kilómetros que no existen</title>
-            <link>https://www.xataka.com/movilidad/china-tiene-arma-secreta-para-conquistar-europa-coches-electricos-1-000-kilometros-que-no-existen</link>
-            <description>China tiene un arma secreta para conquistar Europa: coches eléctricos de 1.000 kilómetros que no existen</description>
-            <pubDate>Sun Apr 23 18:00:38 2023</pubDate>
             </item></channel>
 </rss>
