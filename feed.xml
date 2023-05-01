@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Los californianos ya han comprado más de 1,5 millones de vehículos eléctricos</title>
+            <link>https://www.linuxparty.es/43-negocios/11521-los-californianos-ya-han-comprado-mas-de-1-5-millones-de-vehiculos-electricos.html</link>
+            <description>Los californianos ya han comprado más de 1,5 millones de vehículos eléctricos</description>
+            <pubDate>Mon May  1 05:30:00 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Google Blocks 1.43 Million Malicious Apps, Bans 73,000 Bad Accounts in 2022</title>
+            <link>https://thehackernews.com/2023/05/google-blocks-143-million-malicious.html</link>
+            <description>Google Blocks 1.43 Million Malicious Apps, Bans 73,000 Bad Accounts in 2022</description>
+            <pubDate>Mon May  1 05:10:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Liquid Neural Networks Do More with Less</title>
+            <link>https://hackaday.com/2023/04/30/liquid-neural-networks-do-more-with-less/</link>
+            <description>Liquid Neural Networks Do More with Less</description>
+            <pubDate>Mon May  1 05:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Rust Basics Series #6: Conditional Statements</title>
+            <link>https://itsfoss.com/rust-if-else/</link>
+            <description>Rust Basics Series #6: Conditional Statements</description>
+            <pubDate>Mon May  1 04:38:35 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: High Voltage Power Supply From USB</title>
+            <link>https://hackaday.com/2023/04/30/high-voltage-power-supply-from-usb/</link>
+            <description>High Voltage Power Supply From USB</description>
+            <pubDate>Mon May  1 02:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: April 30, 2023</title>
+            <link>https://hackaday.com/2023/04/30/hackaday-links-april-30-2023/</link>
+            <description>Hackaday Links: April 30, 2023</description>
+            <pubDate>Sun Apr 30 23:00:09 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El emulador de juegos de PSP, Emulator ‘PPSSPP’ llega a su versión 1.15</title>
             <link>https://lignux.com/el-emulador-de-juegos-de-psp-emulator-ppsspp-llega-a-su-version-1-15/</link>
             <description>El emulador de juegos de PSP, Emulator ‘PPSSPP’ llega a su versión 1.15</description>
@@ -34,41 +70,5 @@
             <link>https://www.xataka.com/otros/chile-esta-construyendo-mayor-megapuente-colgante-america-latina-2-7-kilometros-aguas-pacifico</link>
             <description>Chile está construyendo el mayor megapuente colgante de América Latina: 2,7 kilómetros sobre las aguas del Pacífico</description>
             <pubDate>Sun Apr 30 18:01:41 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Se me ha roto el móvil, ¿cómo lo pueden reparar Movistar o Vodafone?</title>
-            <link>https://www.adslzone.net/noticias/operadores/movil-roto-reparar-movistar-vodafone/</link>
-            <description>Se me ha roto el móvil, ¿cómo lo pueden reparar Movistar o Vodafone?</description>
-            <pubDate>Sun Apr 30 18:00:31 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Pagas mucho por tu conexión a Internet? Comprueba esto</title>
-            <link>https://www.redeszone.net/noticias/redes/comprobar-pagar-mucho-internet/</link>
-            <description>¿Pagas mucho por tu conexión a Internet? Comprueba esto</description>
-            <pubDate>Sun Apr 30 17:07:05 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El almacenamiento en la nube también puede ser descentralizado. Así es el sistema que utiliza hasta el CERN</title>
-            <link>https://www.xataka.com/criptomonedas/almacenamiento-nube-tambien-puede-ser-descentralizado-asi-sistema-p2p-abierto-que-utiliza-cern</link>
-            <description>El almacenamiento en la nube también puede ser descentralizado. Así es el sistema que utiliza hasta el CERN</description>
-            <pubDate>Sun Apr 30 17:01:41 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: OpenAI acaba de lanzar un curso gratis para aprender una profesión con la que hay quien gana 300.000 dólares al año</title>
-            <link>https://www.genbeta.com/desarrollo/openai-acaba-lanzar-curso-gratis-para-aprender-profesion-que-hay-quien-gana-300-000-dolares-al-ano</link>
-            <description>OpenAI acaba de lanzar un curso gratis para aprender una profesión con la que hay quien gana 300.000 dólares al año</description>
-            <pubDate>Sun Apr 30 17:01:41 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Embed Hardware Into 3D Prints, But Not In The Way You’re Thinking</title>
-            <link>https://hackaday.com/2023/04/30/embed-hardware-into-3d-prints-but-not-in-the-way-youre-thinking/</link>
-            <description>Embed Hardware Into 3D Prints, But Not In The Way You’re Thinking</description>
-            <pubDate>Sun Apr 30 17:00:14 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: España siempre lo tuvo todo para convertirse en la gran potencia solar. Y al fin parece estar cumpliendo</title>
-            <link>https://www.xataka.com/energia/espana-siempre-tuvo-todo-para-convertirse-gran-potencia-solar-al-fin-parece-estar-cumpliendo</link>
-            <description>España siempre lo tuvo todo para convertirse en la gran potencia solar. Y al fin parece estar cumpliendo</description>
-            <pubDate>Sun Apr 30 16:31:39 2023</pubDate>
             </item></channel>
 </rss>
