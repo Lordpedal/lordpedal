@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: ¿Qué es el Copilot de GitHub y cómo funciona este asistente de programación?</title>
+            <link>https://www.linuxparty.es/54-programacion/11527-que-es-el-copilot-de-github-y-como-funciona-este-asistente-de-programacion.html</link>
+            <description>¿Qué es el Copilot de GitHub y cómo funciona este asistente de programación?</description>
+            <pubDate>Tue May  2 06:00:05 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Alert: Active Exploitation of TP-Link, Apache, and Oracle Vulnerabilities Detected</title>
+            <link>https://thehackernews.com/2023/05/active-exploitation-of-tp-link-apache.html</link>
+            <description>Alert: Active Exploitation of TP-Link, Apache, and Oracle Vulnerabilities Detected</description>
+            <pubDate>Tue May  2 05:35:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Diez años de KaOS Linux</title>
+            <link>https://www.linuxparty.es/35-linux/11526-diez-anos-de-kaos-linux.html</link>
+            <description>Diez años de KaOS Linux</description>
+            <pubDate>Tue May  2 05:30:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Recreating a Non-Standard USB Cable</title>
+            <link>https://hackaday.com/2023/05/01/recreating-a-non-standard-usb-cable/</link>
+            <description>Recreating a Non-Standard USB Cable</description>
+            <pubDate>Tue May  2 05:00:47 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: ESA’s Jupiter-bound Probe Hits Antenna Snag</title>
+            <link>https://hackaday.com/2023/05/01/esas-jupiter-bound-probe-hits-antenna-snag/</link>
+            <description>ESA’s Jupiter-bound Probe Hits Antenna Snag</description>
+            <pubDate>Tue May  2 02:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Squeeze Over a Minute Of Movie Filming Onto a 35mm Still Cartridge</title>
+            <link>https://hackaday.com/2023/05/01/squeeze-over-a-minute-of-movie-filming-onto-a-35mm-still-cartridge/</link>
+            <description>Squeeze Over a Minute Of Movie Filming Onto a 35mm Still Cartridge</description>
+            <pubDate>Mon May  1 23:00:25 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El reproductor Audacious alcanza su versión 4.3.1</title>
             <link>https://lignux.com/el-reproductor-audacious-alcanza-su-version-4-3-1/</link>
             <description>El reproductor Audacious alcanza su versión 4.3.1</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/saltarse-bloqueo-causas-ajenas-vodafone-web-no-disponible/</link>
             <description>«Por causas ajenas a Vodafone, esta web no está disponible»: ¿hay solución?</description>
             <pubDate>Mon May  1 19:59:45 2023</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: Add a Dedicated Audio Panel to Quick Settings in Ubuntu 23.04</title>
-            <link>https://www.omgubuntu.co.uk/2023/05/quick-settings-audio-panel-gnome-extension</link>
-            <description>Add a Dedicated Audio Panel to Quick Settings in Ubuntu 23.04</description>
-            <pubDate>Mon May  1 19:11:40 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Magazine News (path: lmi_news): TUXEDO Computers Announces InfinityBook Pro 14</title>
-            <link>http://www.linux-magazine.com/Online/News/TUXEDO-Computers-Announces-InfinityBook-Pro-14</link>
-            <description>TUXEDO Computers Announces InfinityBook Pro 14</description>
-            <pubDate>Mon May  1 19:10:54 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Me puedo gastar todo el Bono Cultural en cine y películas?</title>
-            <link>https://www.adslzone.net/noticias/internet/gastar-todo-bono-cultural-cine-peliculas-2023/</link>
-            <description>¿Me puedo gastar todo el Bono Cultural en cine y películas?</description>
-            <pubDate>Mon May  1 19:00:36 2023</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Changelog News 42: Hyperswitch, the future of programming, Thoughtworks' latest tech radar & your docs aren't "simple"</title>
-            <link>https://changelog.com/news/42</link>
-            <description>Changelog News 42: Hyperswitch, the future of programming, Thoughtworks' latest tech radar & your docs aren't "simple"</description>
-            <pubDate>Mon May  1 19:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Op Amp Challenge: An Op-Amp Buck Regulator</title>
-            <link>https://hackaday.com/2023/05/01/op-amp-challenge-an-op-amp-buck-regulator/</link>
-            <description>Op Amp Challenge: An Op-Amp Buck Regulator</description>
-            <pubDate>Mon May  1 18:30:35 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: España tiene muchos motivos para ser optimista con el coche eléctrico. Seat y Skoda son el mejor ejemplo</title>
-            <link>https://www.xataka.com/movilidad/skoda-seat-cupra-coche-electrico-que-espana-tiene-motivos-para-ser-optimista</link>
-            <description>España tiene muchos motivos para ser optimista con el coche eléctrico. Seat y Skoda son el mejor ejemplo</description>
-            <pubDate>Mon May  1 18:02:00 2023</pubDate>
             </item></channel>
 </rss>
