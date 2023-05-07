@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: The Forgotten Rescue of the Salyut 7 Space Station</title>
+            <link>https://hackaday.com/2023/05/06/the-forgotten-rescue-of-the-salyut-7-space-station/</link>
+            <description>The Forgotten Rescue of the Salyut 7 Space Station</description>
+            <pubDate>Sun May  7 05:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Rust Basics Series #7: Using Loops in Rust</title>
+            <link>https://itsfoss.com/rust-loops/</link>
+            <description>Rust Basics Series #7: Using Loops in Rust</description>
+            <pubDate>Sun May  7 04:43:32 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Op-Amp Challenge: A Low Noise Amplifier For Those Truly Low Noise Measurements</title>
+            <link>https://hackaday.com/2023/05/06/op-amp-challenge-a-low-noise-amplifier-for-those-truly-low-noise-measurements/</link>
+            <description>Op-Amp Challenge: A Low Noise Amplifier For Those Truly Low Noise Measurements</description>
+            <pubDate>Sun May  7 02:00:18 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: WSysMon: Un Clone de Linux del Administrador de tareas de Windows</title>
+            <link>https://blog.desdelinux.net/wsysmon/</link>
+            <description>WSysMon: Un Clone de Linux del Administrador de tareas de Windows</description>
+            <pubDate>Sat May  6 23:21:55 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Laser Triangulation Makes 3D Printer Pressure Advance Tuning Easier</title>
+            <link>https://hackaday.com/2023/05/06/laser-triangulation-makes-3d-printer-pressure-advance-tuning-easier/</link>
+            <description>Laser Triangulation Makes 3D Printer Pressure Advance Tuning Easier</description>
+            <pubDate>Sat May  6 23:00:00 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El software de edición de audio Open Source Audacity acaba de liberar su versión 3.3.2</title>
             <link>https://lignux.com/el-software-de-edicion-de-audio-open-source-audacity-acaba-de-liberar-su-version-3-3-2/</link>
             <description>El software de edición de audio Open Source Audacity acaba de liberar su versión 3.3.2</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/internet/por-que-google-chrome-reinicia-solo/</link>
             <description>¿Por qué se reinicia Google Chrome si no hago nada?</description>
             <pubDate>Sat May  6 18:01:25 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Tras 80 años buscando en las profundidades, hemos encontrado al fin una joya de los submarinos: el Defender</title>
-            <link>https://www.xataka.com/otros/80-anos-buscando-profundidades-hemos-encontrado-al-fin-joya-submarinos-defender</link>
-            <description>Tras 80 años buscando en las profundidades, hemos encontrado al fin una joya de los submarinos: el Defender</description>
-            <pubDate>Sat May  6 18:01:00 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Mira esto antes de elegir dónde subir tus archivos a la nube</title>
-            <link>https://www.redeszone.net/noticias/redes/elegir-donde-subir-archivos-nube/</link>
-            <description>Mira esto antes de elegir dónde subir tus archivos a la nube</description>
-            <pubDate>Sat May  6 17:07:54 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: A un ritmo del 400%, la industria del coche ha encontrado a su próximo meteorito: BYD</title>
-            <link>https://www.xataka.com/movilidad/a-ritmo-400-industria-coche-ha-encontrado-a-su-proximo-meteorito-byd</link>
-            <description>A un ritmo del 400%, la industria del coche ha encontrado a su próximo meteorito: BYD</description>
-            <pubDate>Sat May  6 17:01:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: PC Classics, Right In Your Browser With EmuOS</title>
-            <link>https://hackaday.com/2023/05/06/pc-classics-right-in-your-browser-with-emuos/</link>
-            <description>PC Classics, Right In Your Browser With EmuOS</description>
-            <pubDate>Sat May  6 17:00:22 2023</pubDate>
-            </item>
-            <item>
-            <title>Ubuntu Buzz !: How To Install Fedora 38 Workstation for Beginners</title>
-            <link>http://www.ubuntubuzz.com/2023/05/how-to-install-fedora-38-workstation-for-beginners.html</link>
-            <description>How To Install Fedora 38 Workstation for Beginners</description>
-            <pubDate>Sat May  6 16:50:43 2023</pubDate>
             </item></channel>
 </rss>
