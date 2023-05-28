@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Hacking a “Smart” Electric Toothbrush To Reset Its Usage Counter</title>
+            <link>https://hackaday.com/2023/05/27/hacking-a-smart-electric-toothbrush-to-reset-its-usage-counter/</link>
+            <description>Hacking a “Smart” Electric Toothbrush To Reset Its Usage Counter</description>
+            <pubDate>Sun May 28 05:00:19 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: AI Image Generation Gets a Drag Interface</title>
+            <link>https://hackaday.com/2023/05/27/ai-image-generation-gets-a-drag-interface/</link>
+            <description>AI Image Generation Gets a Drag Interface</description>
+            <pubDate>Sun May 28 02:00:12 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Headset’s Poor Range Fixed By Replacing Antenna</title>
+            <link>https://hackaday.com/2023/05/27/headsets-poor-range-fixed-by-replacing-antenna/</link>
+            <description>Headset’s Poor Range Fixed By Replacing Antenna</description>
+            <pubDate>Sat May 27 23:00:05 2023</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Evita que te timen: Las estafas de Bizum más frecuentes</title>
             <link>https://www.adslzone.net/noticias/fintech/estafas-habituales-bizum/</link>
             <description>Evita que te timen: Las estafas de Bizum más frecuentes</description>
@@ -52,23 +70,5 @@
             <link>https://hackaday.com/2023/05/27/beepberry-brings-memory-lcd-and-a-physical-keyboard-to-your-pi/</link>
             <description>Beepberry Brings Memory LCD and a Physical Keyboard to Your Pi</description>
             <pubDate>Sat May 27 17:00:56 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El gran salto adelante de la India: está construyendo 100 kilómetros de infraestructuras cada 100 horas</title>
-            <link>https://www.xataka.com/otros/gran-salto-adelante-india-esta-construyendo-100-kilometros-infraestructuras-cada-100-horas</link>
-            <description>El gran salto adelante de la India: está construyendo 100 kilómetros de infraestructuras cada 100 horas</description>
-            <pubDate>Sat May 27 17:00:40 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Ya hay ciudades que protestan contra los nómadas digitales. Acusan a los que llegan con altos salarios de traer problemas</title>
-            <link>https://www.genbeta.com/a-fondo/hay-ciudades-que-protestan-nomadas-digitales-estas-personas-que-llegan-altos-salarios-pueden-traer-problemas</link>
-            <description>Ya hay ciudades que protestan contra los nómadas digitales. Acusan a los que llegan con altos salarios de traer problemas</description>
-            <pubDate>Sat May 27 17:00:40 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La Sirenita ha vuelto: Así puedes ver todas las películas</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/peliculas-sirenas/</link>
-            <description>La Sirenita ha vuelto: Así puedes ver todas las películas</description>
-            <pubDate>Sat May 27 16:03:18 2023</pubDate>
             </item></channel>
 </rss>
