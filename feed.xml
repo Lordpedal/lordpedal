@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Mat Boards Are Spendy, So DIY CNC Tool To The Rescue</title>
+            <link>https://hackaday.com/2023/05/29/mat-boards-are-spendy-so-diy-cnc-tool-to-the-rescue/</link>
+            <description>Mat Boards Are Spendy, So DIY CNC Tool To The Rescue</description>
+            <pubDate>Tue May 30 05:00:50 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: No veas los vídeos de YouTube enteros: esta extensión de Chrome te los resume</title>
+            <link>https://www.adslzone.net/noticias/internet/videos-youtube-enteros-extension-chrome-resume/</link>
+            <description>No veas los vídeos de YouTube enteros: esta extensión de Chrome te los resume</description>
+            <pubDate>Tue May 30 05:00:20 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Your Engineering Pad in Browser</title>
+            <link>https://hackaday.com/2023/05/29/your-engineering-pad-in-browser/</link>
+            <description>Your Engineering Pad in Browser</description>
+            <pubDate>Tue May 30 02:00:21 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Google Nest Hub Teardown</title>
+            <link>https://hackaday.com/2023/05/29/google-nest-hub-teardown/</link>
+            <description>Google Nest Hub Teardown</description>
+            <pubDate>Mon May 29 23:00:06 2023</pubDate>
+            </item>
+            <item>
+            <title>Xataka: NVIDIA apunta a ser invencible en hardware para IA: así es el monstruoso DGX GH200 para entrenar “modelos gigantes”</title>
+            <link>https://www.xataka.com/robotica-e-ia/nvidia-apunta-a-ser-invencible-hardware-para-ia-asi-monstruoso-dgx-gh200-para-entrenar-modelos-gigantes</link>
+            <description>NVIDIA apunta a ser invencible en hardware para IA: así es el monstruoso DGX GH200 para entrenar “modelos gigantes”</description>
+            <pubDate>Mon May 29 22:52:40 2023</pubDate>
+            </item>
+            <item>
             <title>MuyLinux: KDE neon, Nvidia y Wayland sin problemas, instalando este paquete</title>
             <link>https://www.muylinux.com/2023/05/29/kde-neon-nvidia-wayland-problema-solucion/</link>
             <description>KDE neon, Nvidia y Wayland sin problemas, instalando este paquete</description>
@@ -40,35 +70,5 @@
             <link>https://hackaday.com/2023/05/29/automate-handwritten-postcards-with-robots/</link>
             <description>Automate Handwritten Postcards With Robots</description>
             <pubDate>Mon May 29 20:00:25 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: “Yo te resuelvo el problema”: cuando Steve Jobs pagó 100.000 dólares por el logo de una de sus empresas (sin lamentarse)</title>
-            <link>https://www.xataka.com/empresas-y-economia/yo-te-resuelvo-problema-cuando-steve-jobs-pago-100-000-dolares-logo-sus-empresas-lamentarse</link>
-            <description>“Yo te resuelvo el problema”: cuando Steve Jobs pagó 100.000 dólares por el logo de una de sus empresas (sin lamentarse)</description>
-            <pubDate>Mon May 29 19:33:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Nadie se molesta en leer los 'términos de uso' del software. Este reto de 'ideas terribles' quizá no cambie eso… pero nos hemos reído</title>
-            <link>https://www.genbeta.com/web-20/nadie-se-molesta-leer-terminos-uso-software-este-reto-ideas-terribles-quiza-no-cambie-eso-nos-hemos-reido</link>
-            <description>Nadie se molesta en leer los 'términos de uso' del software. Este reto de 'ideas terribles' quizá no cambie eso… pero nos hemos reído</description>
-            <pubDate>Mon May 29 19:02:55 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Cuánto recauda la DGT en multas cada día?</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/recaudacion-diaria-multas-dgt-0523/</link>
-            <description>¿Cuánto recauda la DGT en multas cada día?</description>
-            <pubDate>Mon May 29 19:02:03 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Microsoft ha dejado de fabricar sus teclados ergonómicos. Así que hay gente haciendo acopio</title>
-            <link>https://www.xataka.com/perifericos/microsoft-ha-dejado-fabricar-sus-teclados-ergonomicos-asi-que-alguien-ha-comprado-10-tiron</link>
-            <description>Microsoft ha dejado de fabricar sus teclados ergonómicos. Así que hay gente haciendo acopio</description>
-            <pubDate>Mon May 29 18:30:59 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Hackaday Prize 2023: Scratch Made 8-Bit Educational Computer</title>
-            <link>https://hackaday.com/2023/05/29/hackaday-prize-2023-scratch-made-8-bit-educational-computer/</link>
-            <description>Hackaday Prize 2023: Scratch Made 8-Bit Educational Computer</description>
-            <pubDate>Mon May 29 18:30:01 2023</pubDate>
             </item></channel>
 </rss>
