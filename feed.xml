@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Retro-Inspired Computer Case Hosts Mechanical Keyboard</title>
+            <link>https://hackaday.com/2023/06/24/retro-inspired-computer-case-hosts-mechanical-keyboard/</link>
+            <description>Retro-Inspired Computer Case Hosts Mechanical Keyboard</description>
+            <pubDate>Sun Jun 25 05:00:49 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A 32-Bit RISC-V CPU Core in 600 Lines of C</title>
+            <link>https://hackaday.com/2023/06/24/a-32-bit-risc-v-cpu-core-in-600-lines-of-c/</link>
+            <description>A 32-Bit RISC-V CPU Core in 600 Lines of C</description>
+            <pubDate>Sun Jun 25 02:00:15 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Ventbots are fans of HVAC and Home Automation</title>
+            <link>https://hackaday.com/2023/06/24/ventbots-are-fans-of-hvac-and-home-automation/</link>
+            <description>Ventbots are fans of HVAC and Home Automation</description>
+            <pubDate>Sat Jun 24 23:00:43 2023</pubDate>
+            </item>
+            <item>
+            <title>LiGNUx: Wine acaba de anunciar su versión 8.11</title>
+            <link>https://lignux.com/wine-acaba-de-anunciar-su-version-8-11/</link>
+            <description>Wine acaba de anunciar su versión 8.11</description>
+            <pubDate>Sat Jun 24 21:00:08 2023</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Por qué no veo mi red WiFi y sí la de otras personas</title>
             <link>https://www.adslzone.net/noticias/redes/red-wifi-no-visible/</link>
             <description>Por qué no veo mi red WiFi y sí la de otras personas</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/investigacion/mayas-construyeron-ciudad-perdida-piramides-15-metros-hemos-encontrado-gracias-a-lidar</link>
             <description>Los mayas construyeron una ciudad perdida con pirámides de 15 metros. Y la hemos encontrado gracias a LiDAR</description>
             <pubDate>Sat Jun 24 17:01:31 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Robodog Goes Free Thanks To Unofficial SDK</title>
-            <link>https://hackaday.com/2023/06/24/robodog-goes-free-thanks-to-unofficial-sdk/</link>
-            <description>Robodog Goes Free Thanks To Unofficial SDK</description>
-            <pubDate>Sat Jun 24 17:00:15 2023</pubDate>
-            </item>
-            <item>
-            <title>BricoGeek.com Blog: Comparativa y análisis completo de los módulos Wifi ESP8266 y ESP32</title>
-            <link>http://blog.bricogeek.com/noticias/electronica/comparativa-y-analisis-completo-de-los-modulos-wifi-esp8266-y-esp32/?utm_source=blogfeed&utm_medium=atom10&utm_term=electronica&utm_content=comparativa-y-analisis-completo-de-los-modulos-wifi-esp8266-y-esp32&utm_campaign=blog</link>
-            <description>Comparativa y análisis completo de los módulos Wifi ESP8266 y ESP32</description>
-            <pubDate>Sat Jun 24 16:40:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En su intento de invadir Ucrania, Putin está perdiendo el control de Rusia: Wagner ya está a 400 km de Moscú</title>
-            <link>https://www.xataka.com/magnet/su-intento-invadir-ucrania-putin-esta-perdiendo-control-rusia-wagner-esta-a-400-km-moscu</link>
-            <description>En su intento de invadir Ucrania, Putin está perdiendo el control de Rusia: Wagner ya está a 400 km de Moscú</description>
-            <pubDate>Sat Jun 24 16:25:28 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Celebra el Mes del Orgullo: 5 películas LGTBI que ver online</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/peliculas-lgtbi/</link>
-            <description>Celebra el Mes del Orgullo: 5 películas LGTBI que ver online</description>
-            <pubDate>Sat Jun 24 16:05:51 2023</pubDate>
             </item></channel>
 </rss>
