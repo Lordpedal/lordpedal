@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: MITRE Unveils Top 25 Most Dangerous Software Weaknesses of 2023: Are You at Risk?</title>
+            <link>https://thehackernews.com/2023/06/mitre-unveils-top-25-most-dangerous.html</link>
+            <description>MITRE Unveils Top 25 Most Dangerous Software Weaknesses of 2023: Are You at Risk?</description>
+            <pubDate>Fri Jun 30 05:44:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hydroplaning Boat Skims Over Water</title>
+            <link>https://hackaday.com/2023/06/29/hydroplaning-boat-skims-over-water/</link>
+            <description>Hydroplaning Boat Skims Over Water</description>
+            <pubDate>Fri Jun 30 05:00:51 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Así puedes saber lo que pagarás de hipoteca o préstamo gracias al Banco de España</title>
+            <link>https://www.adslzone.net/noticias/fintech/simulador-cuanto-pagaras-hipoteca-prestamo-banco-espana/</link>
+            <description>Así puedes saber lo que pagarás de hipoteca o préstamo gracias al Banco de España</description>
+            <pubDate>Fri Jun 30 05:00:14 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Spy Radio Setup Gets a Tiny Power Supply for Field Operations</title>
+            <link>https://hackaday.com/2023/06/29/spy-radio-setup-gets-a-tiny-power-supply-for-field-operations/</link>
+            <description>Spy Radio Setup Gets a Tiny Power Supply for Field Operations</description>
+            <pubDate>Fri Jun 30 02:00:44 2023</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Así es el Ilyushin Il-96, el avión insignia flota presidencial rusa que transporta a Vladimir Putin</title>
+            <link>https://www.xataka.com/movilidad/asi-ilyushin-il-96-avion-insignia-flota-presidencial-rusa-que-transporta-a-vladimir-putin</link>
+            <description>Así es el Ilyushin Il-96, el avión insignia flota presidencial rusa que transporta a Vladimir Putin</description>
+            <pubDate>Fri Jun 30 00:17:31 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: firewalld 2.0 introduce prioridades de zonas y soporte para muchos juegos</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/firewalld-2-0-introduce-prioridades-de-zonas-y-soporte-para-muchos-juegos/</link>
+            <description>firewalld 2.0 introduce prioridades de zonas y soporte para muchos juegos</description>
+            <pubDate>Fri Jun 30 00:01:54 2023</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Minamalist Hex Board wall Organizer #3DThursday #3DPrinting</title>
+            <link>https://blog.adafruit.com/2023/06/29/minamalist-hex-board-wall-organizer-3dthursday-3dprinting/</link>
+            <description>Minamalist Hex Board wall Organizer #3DThursday #3DPrinting</description>
+            <pubDate>Fri Jun 30 00:00:02 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Rubber Tracked Bicycle Is Horribly Inefficient</title>
+            <link>https://hackaday.com/2023/06/29/rubber-tracked-bicycle-is-horribly-inefficient/</link>
+            <description>Rubber Tracked Bicycle Is Horribly Inefficient</description>
+            <pubDate>Thu Jun 29 23:00:15 2023</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Jupiter Desk Lamp #3DThursday #3DPrinting</title>
+            <link>https://blog.adafruit.com/2023/06/29/jupiter-desk-lamp-3dthursday-3dprinting/</link>
+            <description>Jupiter Desk Lamp #3DThursday #3DPrinting</description>
+            <pubDate>Thu Jun 29 22:00:45 2023</pubDate>
+            </item>
+            <item>
             <title>Changelog: Go Time 282: K8s vs serverless for distributed systems</title>
             <link>https://changelog.com/gotime/282</link>
             <description>Go Time 282: K8s vs serverless for distributed systems</description>
@@ -16,59 +70,5 @@
             <link>https://blog.adafruit.com/2023/06/29/mechanical-arm-claw-3dprinting-3dthursday/</link>
             <description>Mechanical Arm (Claw) #3Dprinting #3DThursday</description>
             <pubDate>Thu Jun 29 21:00:16 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: "Si les haces lo mismo que hacen ellos, eres una sanguijuela". Así carga un histórico del 'open source' contra Red Hat e IBM</title>
-            <link>https://www.genbeta.com/linux/les-haces-hacen-ellos-eres-sanguijuela-asi-carga-historico-open-source-red-hat-e-ibm</link>
-            <description>"Si les haces lo mismo que hacen ellos, eres una sanguijuela". Así carga un histórico del 'open source' contra Red Hat e IBM</description>
-            <pubDate>Thu Jun 29 20:28:03 2023</pubDate>
-            </item>
-            <item>
-            <title>LiGNUx: El gestor de torrents qBittorrent acaba de publicar su versión 4.5.4</title>
-            <link>https://lignux.com/el-gestor-de-torrents-qbittorrent-acaba-de-publicar-su-version-4-5-4/</link>
-            <description>El gestor de torrents qBittorrent acaba de publicar su versión 4.5.4</description>
-            <pubDate>Thu Jun 29 20:21:32 2023</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: 12 Gauge Extension Cord Cover #3DThursday #3DPrinting</title>
-            <link>https://blog.adafruit.com/2023/06/29/12-gauge-extension-cord-cover-3dthursday-3dprinting/</link>
-            <description>12 Gauge Extension Cord Cover #3DThursday #3DPrinting</description>
-            <pubDate>Thu Jun 29 20:00:30 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esta plataforma de streaming me tiene enganchado y no me lo esperaba</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/plataforma-streaming-enganchado-sorpresa/</link>
-            <description>Esta plataforma de streaming me tiene enganchado y no me lo esperaba</description>
-            <pubDate>Thu Jun 29 20:00:28 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Build A DIY Space Mouse For A More Efficient CAD Workflow</title>
-            <link>https://hackaday.com/2023/06/29/build-a-diy-space-mouse-for-a-more-efficient-cad-workflow/</link>
-            <description>Build A DIY Space Mouse For A More Efficient CAD Workflow</description>
-            <pubDate>Thu Jun 29 20:00:14 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En su batalla contra TSMC, Samsung promete que comenzará a producir chips de 2 nm a gran escala en 2025</title>
-            <link>https://www.xataka.com/componentes/su-batalla-tsmc-samsung-promete-que-comenzara-a-producir-chips-2-nm-a-gran-escala-2025</link>
-            <description>En su batalla contra TSMC, Samsung promete que comenzará a producir chips de 2 nm a gran escala en 2025</description>
-            <pubDate>Thu Jun 29 19:50:41 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Este es el nuevo carnet de conducir que necesitas para alquilar coches</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/nuevo-carnet-conducir-necesitas-alquilar-coches/</link>
-            <description>Este es el nuevo carnet de conducir que necesitas para alquilar coches</description>
-            <pubDate>Thu Jun 29 19:03:06 2023</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: board fin motor mount #3Dprinting #3DThursday</title>
-            <link>https://blog.adafruit.com/2023/06/29/board-fin-motor-mount-3dprinting-3dthursday/</link>
-            <description>board fin motor mount #3Dprinting #3DThursday</description>
-            <pubDate>Thu Jun 29 19:00:16 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Debido a las restricciones de RHEL AlmaLinux y Rocky Linux reconstruirán sus procesos</title>
-            <link>https://www.linuxadictos.com/debido-a-las-restricciones-de-rhel-almalinux-y-rocky-linux-reconstruiran-sus-procesos.html</link>
-            <description>Debido a las restricciones de RHEL AlmaLinux y Rocky Linux reconstruirán sus procesos</description>
-            <pubDate>Thu Jun 29 18:34:16 2023</pubDate>
             </item></channel>
 </rss>
