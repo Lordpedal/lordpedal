@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: An ESP32 Dev Board As A Framework Laptop Module</title>
+            <link>https://hackaday.com/2023/07/01/an-esp32-dev-board-as-a-framework-laptop-module/</link>
+            <description>An ESP32 Dev Board As A Framework Laptop Module</description>
+            <pubDate>Sun Jul  2 05:00:59 2023</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Los 10 Hackers más Famosos de la Historia</title>
+            <link>https://esgeeks.com/10-mejores-hackers-famosos/</link>
+            <description>Los 10 Hackers más Famosos de la Historia</description>
+            <pubDate>Sun Jul  2 03:16:16 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Importing EAGLE Projects Into KiCad 7, And How To Fix Them</title>
+            <link>https://hackaday.com/2023/07/01/importing-eagle-projects-into-kicad-7-and-how-to-fix-them/</link>
+            <description>Importing EAGLE Projects Into KiCad 7, And How To Fix Them</description>
+            <pubDate>Sun Jul  2 02:00:36 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: bpftune, el nuevo sistema de optimización automático BPF para Linux</title>
+            <link>https://blog.desdelinux.net/bpftune-el-nuevo-sistema-de-optimizacion-automatico-bpf-para-linux/</link>
+            <description>bpftune, el nuevo sistema de optimización automático BPF para Linux</description>
+            <pubDate>Sat Jul  1 23:46:11 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Fujitsu Proprietary Keyboard Goes PS/2 with a Pico</title>
+            <link>https://hackaday.com/2023/07/01/fujitsu-proprietary-keyboard-goes-ps-2-with-a-pico/</link>
+            <description>Fujitsu Proprietary Keyboard Goes PS/2 with a Pico</description>
+            <pubDate>Sat Jul  1 23:00:08 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El comparador y sincronizador de carpetas FreeFileSync alcanza su versión 12.4</title>
             <link>https://lignux.com/el-comparador-y-sincronizador-de-carpetas-freefilesync-alcanza-su-version-12-4/</link>
             <description>El comparador y sincronizador de carpetas FreeFileSync alcanza su versión 12.4</description>
@@ -36,39 +66,9 @@
             <pubDate>Sat Jul  1 19:20:12 2023</pubDate>
             </item>
             <item>
-            <title>Xataka: El viejo sueño del Concorde está más vivo que nunca (y dos empresas españolas van a ser claves)</title>
-            <link>https://www.xataka.com/movilidad/viejo-sueno-concorde-esta-vivo-que-nunca-dos-empresas-espanolas-van-a-ser-claves</link>
-            <description>El viejo sueño del Concorde está más vivo que nunca (y dos empresas españolas van a ser claves)</description>
-            <pubDate>Sat Jul  1 18:00:57 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Domina Excel con ChatGPT: Ahorra tiempo y optimiza fórmulas con IA</title>
-            <link>https://www.adslzone.net/noticias/ia/usar-chatgpt-formulas-excel/</link>
-            <description>Domina Excel con ChatGPT: Ahorra tiempo y optimiza fórmulas con IA</description>
-            <pubDate>Sat Jul  1 18:00:14 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Más peligroso de lo que crees: esto te pasará si hackean tu red WiFi</title>
-            <link>https://www.redeszone.net/noticias/seguridad/peligro-real-intrusos-wifi/</link>
-            <description>Más peligroso de lo que crees: esto te pasará si hackean tu red WiFi</description>
-            <pubDate>Sat Jul  1 17:07:43 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Dormir la siesta hace que tengas el cerebro tamaño galaxia. La ciencia lo tiene cada vez más claro</title>
-            <link>https://www.xataka.com/medicina-y-salud/dormir-siesta-hace-que-tengas-cerebro-tamano-galaxia-ciencia-tiene-cada-vez-claro</link>
-            <description>Dormir la siesta hace que tengas el cerebro tamaño galaxia. La ciencia lo tiene cada vez más claro</description>
-            <pubDate>Sat Jul  1 17:00:58 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Hackaday Prize 2023: Throwaway Temperature Logger To Useful ARM Dev Board</title>
-            <link>https://hackaday.com/2023/07/01/hackaday-prize-2023-throwaway-temperature-logger-to-useful-arm-dev-board/</link>
-            <description>Hackaday Prize 2023: Throwaway Temperature Logger To Useful ARM Dev Board</description>
-            <pubDate>Sat Jul  1 17:00:26 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Contágiate de adrenalina con estas 7 películas de zombies</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/peliculas-zombies/</link>
-            <description>Contágiate de adrenalina con estas 7 películas de zombies</description>
-            <pubDate>Sat Jul  1 16:03:09 2023</pubDate>
+            <title>Ubunlog: Xonotic 0.8.6 llega con una gran cantidad de cambios y estos son los mas importantes</title>
+            <link>https://ubunlog.com/xonotic-0-8-6-llega-con-una-gran-cantidad-de-cambios-y-estos-son-los-mas-importantes/</link>
+            <description>Xonotic 0.8.6 llega con una gran cantidad de cambios y estos son los mas importantes</description>
+            <pubDate>Sat Jul  1 18:02:07 2023</pubDate>
             </item></channel>
 </rss>
