@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: Microsoft Releases Patches for 130 Vulnerabilities, Including 6 Under Active Attack</title>
+            <link>https://thehackernews.com/2023/07/microsoft-releases-patches-for-130.html</link>
+            <description>Microsoft Releases Patches for 130 Vulnerabilities, Including 6 Under Active Attack</description>
+            <pubDate>Wed Jul 12 05:34:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: High School Student Builds Inexpensive Centrifuge</title>
+            <link>https://hackaday.com/2023/07/11/high-school-student-builds-inexpensive-centrifuge/</link>
+            <description>High School Student Builds Inexpensive Centrifuge</description>
+            <pubDate>Wed Jul 12 05:00:21 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Phone Thermal Cameras Get Open Source Desktop Tools</title>
+            <link>https://hackaday.com/2023/07/11/phone-thermal-cameras-get-open-source-desktop-tools/</link>
+            <description>Phone Thermal Cameras Get Open Source Desktop Tools</description>
+            <pubDate>Wed Jul 12 02:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Solus 4.4 pretende devolver el impulso a la distribución y mirar hacia el futuro</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/solus-4-4-pretende-devolver-el-impulso-a-la-distribucion-y-mirar-hacia-el-futuro/</link>
+            <description>Solus 4.4 pretende devolver el impulso a la distribución y mirar hacia el futuro</description>
+            <pubDate>Wed Jul 12 00:01:51 2023</pubDate>
+            </item>
+            <item>
+            <title>Podcast Linux: #186 Linux Connexion con Antonio Manfredi</title>
+            <link>https://podcastlinux.com/posts/podcastlinux/186-Podcast-Linux/</link>
+            <description>#186 Linux Connexion con Antonio Manfredi</description>
+            <pubDate>Wed Jul 12 00:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Tearing Down and Improving a Professional Power Supply</title>
+            <link>https://hackaday.com/2023/07/11/tearing-down-and-improving-a-professional-power-supply/</link>
+            <description>Tearing Down and Improving a Professional Power Supply</description>
+            <pubDate>Tue Jul 11 23:00:56 2023</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Este hombre intentó pasar por una aduana china con 420 SSD adheridos a su cuerpo. Spoiler: lo pillaron</title>
+            <link>https://www.xataka.com/otros/este-hombre-intento-pasar-aduana-china-420-ssd-adheridos-a-su-cuerpo-spoiler-pillaron</link>
+            <description>Este hombre intentó pasar por una aduana china con 420 SSD adheridos a su cuerpo. Spoiler: lo pillaron</description>
+            <pubDate>Tue Jul 11 22:31:43 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Tutorial para instalar la versión de mantenimiento del Kernel Linux 6.4.3</title>
             <link>https://lignux.com/tutorial-para-instalar-la-version-de-mantenimiento-del-kernel-linux-6-4-3/</link>
             <description>Tutorial para instalar la versión de mantenimiento del Kernel Linux 6.4.3</description>
@@ -28,47 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/movistar-orange-yoigo-digi-fibra-mas-rapida-0723/</link>
             <description>Movistar, Orange, Yoigo, Digi… Esta es la fibra más rápida de España</description>
             <pubDate>Tue Jul 11 20:00:36 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: An Open-Source Antikythera Mechanism</title>
-            <link>https://hackaday.com/2023/07/11/an-open-source-antikythera-mechanism/</link>
-            <description>An Open-Source Antikythera Mechanism</description>
-            <pubDate>Tue Jul 11 20:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Victorhck in the free world: openSUSE no se verá afectada por el fork de RedHat que creará SUSE</title>
-            <link>https://victorhckinthefreeworld.com/2023/07/11/opensuse-no-se-vera-afectada-por-el-fork-de-redhat-que-creara-suse/</link>
-            <description>openSUSE no se verá afectada por el fork de RedHat que creará SUSE</description>
-            <pubDate>Tue Jul 11 19:41:58 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Thunderbird 115 estrena nuevo diseño Supernova entre sus novedades más destacadas</title>
-            <link>https://www.linuxadictos.com/thunderbird-115-estrena-nuevo-diseno-supernova-entre-sus-novedades-mas-destacadas.html</link>
-            <description>Thunderbird 115 estrena nuevo diseño Supernova entre sus novedades más destacadas</description>
-            <pubDate>Tue Jul 11 19:34:03 2023</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: Thunderbird 115 Released with Major UI Changes</title>
-            <link>https://www.omgubuntu.co.uk/2023/07/thunderbird-115-released</link>
-            <description>Thunderbird 115 Released with Major UI Changes</description>
-            <pubDate>Tue Jul 11 19:32:23 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Con esta web puedes crear páginas como se hacían hace 30 años</title>
-            <link>https://www.adslzone.net/noticias/internet/web-crear-gratis-paginas-retro/</link>
-            <description>Con esta web puedes crear páginas como se hacían hace 30 años</description>
-            <pubDate>Tue Jul 11 19:30:54 2023</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: GPT4All: Ecosistema de Chatbots IA de software de código abierto</title>
-            <link>https://blog.desdelinux.net/gpt4all/</link>
-            <description>GPT4All: Ecosistema de Chatbots IA de software de código abierto</description>
-            <pubDate>Tue Jul 11 19:16:23 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: Esta app mejora el rendimiento de tu televisor Android TV: así la he usado para ganar fluidez en el sistema</title>
-            <link>https://www.xatakahome.com/televisores/esta-app-mejora-rendimiento-tu-televisor-android-tv-asi-he-usado-para-ganar-fluidez-sistema</link>
-            <description>Esta app mejora el rendimiento de tu televisor Android TV: así la he usado para ganar fluidez en el sistema</description>
-            <pubDate>Tue Jul 11 19:16:19 2023</pubDate>
             </item></channel>
 </rss>
