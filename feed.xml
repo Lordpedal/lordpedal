@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Reverse Engineering a Classic ThinkPad Battery</title>
+            <link>https://hackaday.com/2023/07/15/reverse-engineering-a-classic-thinkpad-battery/</link>
+            <description>Reverse Engineering a Classic ThinkPad Battery</description>
+            <pubDate>Sun Jul 16 05:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Gravity Wave Detector is Galactic Sized</title>
+            <link>https://hackaday.com/2023/07/15/gravity-wave-detector-is-galactic-sized/</link>
+            <description>Gravity Wave Detector is Galactic Sized</description>
+            <pubDate>Sun Jul 16 02:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Pi Zero Runs DOOM Via Wireless Power</title>
+            <link>https://hackaday.com/2023/07/15/pi-zero-runs-doom-via-wireless-power/</link>
+            <description>Pi Zero Runs DOOM Via Wireless Power</description>
+            <pubDate>Sat Jul 15 23:00:00 2023</pubDate>
+            </item>
+            <item>
             <title>56K: 🥝 Legend of Kyrandia sufrido en 2023 con Scummvm</title>
             <link>https://56k.es/fanta/%f0%9f%a5%9d-legend-of-kyrandia-sufrido-en-2023-con-scummvm/</link>
             <description>🥝 Legend of Kyrandia sufrido en 2023 con Scummvm</description>
@@ -52,23 +70,5 @@
             <link>https://www.adslzone.net/noticias/internet/webs-detectar-plagio/</link>
             <description>Cómo saber si un texto ha sido plagiado</description>
             <pubDate>Sat Jul 15 18:03:32 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El Titanic del siglo XXI: cómo el Icon of the Seas aspira a superar el legado del barco más famoso de la historia</title>
-            <link>https://www.xataka.com/otros/nuevo-titanic-para-nuevo-siglo-asi-sera-icon-of-the-seas-casi-100-metros-largo-que-legendario-barco</link>
-            <description>El Titanic del siglo XXI: cómo el Icon of the Seas aspira a superar el legado del barco más famoso de la historia</description>
-            <pubDate>Sat Jul 15 18:01:21 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: La niñera y la macro de Excel</title>
-            <link>https://www.linuxadictos.com/la-ninera-y-la-macro-de-excel.html</link>
-            <description>La niñera y la macro de Excel</description>
-            <pubDate>Sat Jul 15 17:48:08 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¡No te equivoques! Estos errores que cometes harán que espíen tu WhatsApp</title>
-            <link>https://www.redeszone.net/noticias/seguridad/errores-cometes-espiar-whatsapp/</link>
-            <description>¡No te equivoques! Estos errores que cometes harán que espíen tu WhatsApp</description>
-            <pubDate>Sat Jul 15 17:03:48 2023</pubDate>
             </item></channel>
 </rss>
