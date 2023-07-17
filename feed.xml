@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: CERT-UA Uncovers Gamaredon's Rapid Data Exfiltration Tactics Following Initial Compromise</title>
+            <link>https://thehackernews.com/2023/07/cert-ua-uncovers-gamaredons-rapid-data.html</link>
+            <description>CERT-UA Uncovers Gamaredon's Rapid Data Exfiltration Tactics Following Initial Compromise</description>
+            <pubDate>Mon Jul 17 05:17:00 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: ¿Por qué son tan recomendables los ventiladores de techo?</title>
+            <link>https://www.adslzone.net/noticias/productos/motivos-recomendables-ventiladores-techo/</link>
+            <description>¿Por qué son tan recomendables los ventiladores de techo?</description>
+            <pubDate>Mon Jul 17 05:00:32 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Illumos Gets a New C Compiler</title>
+            <link>https://hackaday.com/2023/07/16/illumos-gets-a-new-c-compiler/</link>
+            <description>Illumos Gets a New C Compiler</description>
+            <pubDate>Mon Jul 17 05:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Improving Ocean Power with Static Electricity</title>
+            <link>https://hackaday.com/2023/07/16/improving-ocean-power-with-static-electricity/</link>
+            <description>Improving Ocean Power with Static Electricity</description>
+            <pubDate>Mon Jul 17 02:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: July 16, 2023</title>
+            <link>https://hackaday.com/2023/07/16/hackaday-links-july-16-2023/</link>
+            <description>Hackaday Links: July 16, 2023</description>
+            <pubDate>Sun Jul 16 23:00:00 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Vivaldi Browser llega a su versión 6.1</title>
             <link>https://lignux.com/vivaldi-browser-llega-a-su-version-6-1/</link>
             <description>Vivaldi Browser llega a su versión 6.1</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/videojuegos/esta-comunidad-aficionados-sinclair-zx-spectrum-tiene-particular-mision-hacer-peores-juegos-posibles</link>
             <description>Esta comunidad de aficionados del Sinclair ZX Spectrum tiene una particular misión: hacer los peores juegos posibles</description>
             <pubDate>Sun Jul 16 19:01:27 2023</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: DeltaTouch, una app de mensajeria para Ubuntu Touch</title>
-            <link>https://ubunlog.com/deltatouch-una-app-de-mensajeria-para-ubuntu-touch/</link>
-            <description>DeltaTouch, una app de mensajeria para Ubuntu Touch</description>
-            <pubDate>Sun Jul 16 18:58:39 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esto es todo lo que paga Spotify por reproducción de canciones y podcast</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/cuanto-paga-spotify-reproduccion/</link>
-            <description>Esto es todo lo que paga Spotify por reproducción de canciones y podcast</description>
-            <pubDate>Sun Jul 16 18:02:36 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: BMW CE 02: la nueva moto urbana y eléctrica de BMW apunta directamente a los adolescentes</title>
-            <link>https://www.xataka.com/movilidad/bmw-ce-02-nueva-moto-urbana-electrica-apunta-directamente-a-adolescentes</link>
-            <description>BMW CE 02: la nueva moto urbana y eléctrica de BMW apunta directamente a los adolescentes</description>
-            <pubDate>Sun Jul 16 18:01:28 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Linux Mint 21.2 «Victoria» mejora la interfaz de usuario y el soporte para aplicaciones no nativas, entre otras novedades</title>
-            <link>https://www.linuxadictos.com/linux-mint-21-2-victoria-mejora-la-interfaz-de-usuario-y-el-soporte-para-aplicaciones-no-nativas-entre-otras-novedades.html</link>
-            <description>Linux Mint 21.2 «Victoria» mejora la interfaz de usuario y el soporte para aplicaciones no nativas, entre otras novedades</description>
-            <pubDate>Sun Jul 16 17:48:10 2023</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: Linux Mint 21.2 is Out with Gesture Support, App Updates, + UI Tweaks</title>
-            <link>https://www.omgubuntu.co.uk/2023/07/linux-mint-21-2-released</link>
-            <description>Linux Mint 21.2 is Out with Gesture Support, App Updates, + UI Tweaks</description>
-            <pubDate>Sun Jul 16 17:43:38 2023</pubDate>
             </item></channel>
 </rss>
