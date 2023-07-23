@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>KDE Blog: IA en tu escritorio con ChatQPT – Plasmoides de KDE (224)</title>
+            <link>https://www.kdeblog.com/ia-en-tu-escritorio-con-chatqpt-plasmoides-de-kde-224.html</link>
+            <description>IA en tu escritorio con ChatQPT – Plasmoides de KDE (224)</description>
+            <pubDate>Sun Jul 23 05:46:53 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Bridging a Gap Between LLMs and Programming With TypeChat</title>
+            <link>https://hackaday.com/2023/07/22/bridging-a-gap-between-llms-and-programming-with-typechat/</link>
+            <description>Bridging a Gap Between LLMs and Programming With TypeChat</description>
+            <pubDate>Sun Jul 23 05:00:03 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: RFID Emulator + E-paper Badge Can be Programmed With Sound</title>
+            <link>https://hackaday.com/2023/07/22/rfid-emulator-e-paper-badge-can-be-programmed-with-sound/</link>
+            <description>RFID Emulator + E-paper Badge Can be Programmed With Sound</description>
+            <pubDate>Sun Jul 23 02:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 2023 Cyberdeck Contest: Crosberry Pi Loves Lo-Fi Hip Hop</title>
+            <link>https://hackaday.com/2023/07/22/2023-cyberdeck-contest-crosberry-pi-loves-lo-fi-hip-hop/</link>
+            <description>2023 Cyberdeck Contest: Crosberry Pi Loves Lo-Fi Hip Hop</description>
+            <pubDate>Sat Jul 22 23:00:13 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El juego de estrategia Open Source Battle for Wesnoth acaba de estrenar su versión 1.17.19</title>
             <link>https://lignux.com/el-juego-de-estrategia-open-source-battle-for-wesnoth-acaba-de-estrenar-su-version-1-17-19/</link>
             <description>El juego de estrategia Open Source Battle for Wesnoth acaba de estrenar su versión 1.17.19</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/otros/sscv-sleipnir-barco-grua-semisumergible-grande-mundo-titan-capaz-elevar-20-000-toneladas</link>
             <description>SSCV Sleipnir, el barco grúa semisumergible más grande del mundo: un titán capaz de levantar 20.000 toneladas</description>
             <pubDate>Sat Jul 22 18:00:43 2023</pubDate>
-            </item>
-            <item>
-            <title>DistritoTux: Aprende Linux desde Cero, video 16, cuatro últimos entornos de escritorio, simples y retro</title>
-            <link>https://www.distritotux.cl/2023/07/aprende-linux-desde-cero-video-16.html</link>
-            <description>Aprende Linux desde Cero, video 16, cuatro últimos entornos de escritorio, simples y retro</description>
-            <pubDate>Sat Jul 22 17:29:46 2023</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Según Speedometer Firefox supera a Chrome en rendimiento</title>
-            <link>https://blog.desdelinux.net/segun-speedometer-firefox-supera-a-chrome-en-rendimiento/</link>
-            <description>Según Speedometer Firefox supera a Chrome en rendimiento</description>
-            <pubDate>Sat Jul 22 17:21:25 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Siempre habíamos pensado que debíamos la vida al oxígeno. Ahora quizá también a su ausencia</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/siempre-habiamos-pensado-que-debiamos-vida-al-oxigeno-ahora-quiza-tambien-a-su-ausencia</link>
-            <description>Siempre habíamos pensado que debíamos la vida al oxígeno. Ahora quizá también a su ausencia</description>
-            <pubDate>Sat Jul 22 17:00:41 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: The Moment a Bullet Turns Into a Flashlight, Caught on Film</title>
-            <link>https://hackaday.com/2023/07/22/the-moment-a-bullet-turns-into-a-flashlight-caught-on-film/</link>
-            <description>The Moment a Bullet Turns Into a Flashlight, Caught on Film</description>
-            <pubDate>Sat Jul 22 17:00:37 2023</pubDate>
             </item></channel>
 </rss>
