@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>atareao con Linux: atareao el oscuro</title>
+            <link>https://atareao.es/podcast/atareao-el-oscuro/</link>
+            <description>atareao el oscuro</description>
+            <pubDate>Mon Jul 31 06:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Activar controladores adicionales en Linux Mint</title>
+            <link>https://www.cambiatealinux.com/activar-controladores-adicionales-en-linux-mint</link>
+            <description>Activar controladores adicionales en Linux Mint</description>
+            <pubDate>Mon Jul 31 05:51:32 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A New Educational Robotics Platform</title>
+            <link>https://hackaday.com/2023/07/30/a-new-educational-robotics-platform/</link>
+            <description>A New Educational Robotics Platform</description>
+            <pubDate>Mon Jul 31 05:00:51 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An Open-Source, Free Circuit Simulator</title>
+            <link>https://hackaday.com/2023/07/30/an-open-source-free-circuit-simulator/</link>
+            <description>An Open-Source, Free Circuit Simulator</description>
+            <pubDate>Mon Jul 31 02:00:37 2023</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Pale Moon 32.3.1 ya fue liberado y estas son sus novedades</title>
+            <link>https://ubunlog.com/pale-moon-32-3-1-ya-fue-liberado-y-estas-son-sus-novedades/</link>
+            <description>Pale Moon 32.3.1 ya fue liberado y estas son sus novedades</description>
+            <pubDate>Mon Jul 31 01:16:38 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: July 30, 2023</title>
+            <link>https://hackaday.com/2023/07/30/hackaday-links-july-30-2023/</link>
+            <description>Hackaday Links: July 30, 2023</description>
+            <pubDate>Sun Jul 30 23:00:16 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El software de renderizado Blender alcanza su versión final 3.6.1</title>
             <link>https://lignux.com/el-software-de-renderizado-blender-alcanza-su-version-final-3-6-1/</link>
             <description>El software de renderizado Blender alcanza su versión final 3.6.1</description>
@@ -34,41 +70,5 @@
             <link>https://www.xataka.com/movilidad/alibaba-hay-todo-incluso-supuesto-jeep-1-700-dolares-esto-todo-que-ofrece</link>
             <description>En Alibaba es posible encontrar de todo, incluido un supuesto "Jeep" por 1.700 dólares. Esto es todo lo que ofrece</description>
             <pubDate>Sun Jul 30 18:00:39 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Celebra el aniversario de Windows 10 instalando Linux</title>
-            <link>https://www.linuxadictos.com/celebra-el-aniversario-de-windows-10-instalando-linux.html</link>
-            <description>Celebra el aniversario de Windows 10 instalando Linux</description>
-            <pubDate>Sun Jul 30 17:51:27 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La Fórmula E Gen3 ha llegado para reinventar el coche eléctrico: ya están aplastando récords de velocidad</title>
-            <link>https://www.xataka.com/movilidad/formula-e-gen3-ha-llegado-para-reinventar-coche-electrico-estan-aplastando-records-velocidad</link>
-            <description>La Fórmula E Gen3 ha llegado para reinventar el coche eléctrico: ya están aplastando récords de velocidad</description>
-            <pubDate>Sun Jul 30 17:00:39 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: The British Government Is Coming For Your Privacy</title>
-            <link>https://hackaday.com/2023/07/30/the-british-government-is-coming-for-your-privacy/</link>
-            <description>The British Government Is Coming For Your Privacy</description>
-            <pubDate>Sun Jul 30 17:00:18 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En su obsesión por controlar a sus hijos, los padres "helicóptero" tienen un nuevo instrumento: airtags</title>
-            <link>https://www.xataka.com/otros-dispositivos/ultimo-delirante-uso-airtag-padres-que-utilizan-para-rastrear-a-sus-hijos-pequenos</link>
-            <description>En su obsesión por controlar a sus hijos, los padres "helicóptero" tienen un nuevo instrumento: airtags</description>
-            <pubDate>Sun Jul 30 16:00:38 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Algunos lanzamientos de SpaceX están abriendo agujeros en la atmósfera de la Tierra. Literalmente</title>
-            <link>https://www.xataka.com/espacio/spacex-acaba-abrir-brecha-ionosfera-al-lanzar-uno-sus-cohetes-falcon9-no-primera-vez</link>
-            <description>Algunos lanzamientos de SpaceX están abriendo agujeros en la atmósfera de la Tierra. Literalmente</description>
-            <pubDate>Sun Jul 30 15:30:39 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: El fin de la burbuja de la Inteligencia Artificial</title>
-            <link>https://www.linuxadictos.com/el-fin-de-la-burbuja-de-la-inteligencia-artificial.html</link>
-            <description>El fin de la burbuja de la Inteligencia Artificial</description>
-            <pubDate>Sun Jul 30 15:21:02 2023</pubDate>
             </item></channel>
 </rss>
