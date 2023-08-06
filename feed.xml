@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Browser-Based Robot Dog Simulator in ~800 Lines of Code</title>
+            <link>https://hackaday.com/2023/08/05/browser-based-robot-dog-simulator-in-800-lines-of-code/</link>
+            <description>Browser-Based Robot Dog Simulator in ~800 Lines of Code</description>
+            <pubDate>Sun Aug  6 05:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: MiniOS, distro linux, rápida, sencilla y portable</title>
+            <link>https://www.distritotux.cl/2023/08/minios-distro-linux-rapida-sencilla-y.html</link>
+            <description>MiniOS, distro linux, rápida, sencilla y portable</description>
+            <pubDate>Sun Aug  6 03:39:06 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: MX Linux 23 «Libretto» llega con base en Debian 12, mejoras y mas</title>
+            <link>https://blog.desdelinux.net/mx-linux-23-libretto-llega-con-base-en-debian-12-mejoras-y-mas/</link>
+            <description>MX Linux 23 «Libretto» llega con base en Debian 12, mejoras y mas</description>
+            <pubDate>Sun Aug  6 03:32:16 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Ubuntu Touch OTA-2 Focal llega con soporte para nuevos dispositivos, mejoras y mas</title>
+            <link>https://blog.desdelinux.net/ubuntu-touch-ota-2-focal-llega-con-soporte-para-nuevos-dispositivos-mejoras-y-mas/</link>
+            <description>Ubuntu Touch OTA-2 Focal llega con soporte para nuevos dispositivos, mejoras y mas</description>
+            <pubDate>Sun Aug  6 02:56:42 2023</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: BBOT: Automatización OSINT para Hackers</title>
+            <link>https://esgeeks.com/bbot-automatizacion-osint-hackers/</link>
+            <description>BBOT: Automatización OSINT para Hackers</description>
+            <pubDate>Sun Aug  6 02:48:55 2023</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Zorin OS 16.3 llega con Zorin OS Upgrade, mejoras en Zorin Connect y mas</title>
+            <link>https://ubunlog.com/zorin-os-16-3-llega-con-zorin-os-upgrade-mejoras-en-zorin-connect-y-mas/</link>
+            <description>Zorin OS 16.3 llega con Zorin OS Upgrade, mejoras en Zorin Connect y mas</description>
+            <pubDate>Sun Aug  6 02:36:22 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Jailbreaking Tesla Infotainment Systems</title>
+            <link>https://hackaday.com/2023/08/05/jailbreaking-tesla-infotainment-systems/</link>
+            <description>Jailbreaking Tesla Infotainment Systems</description>
+            <pubDate>Sun Aug  6 02:00:46 2023</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Canaima 7.2: Nueva versión de una Distro Latinoamericana</title>
+            <link>https://ubunlog.com/canaima-7-2/</link>
+            <description>Canaima 7.2: Nueva versión de una Distro Latinoamericana</description>
+            <pubDate>Sun Aug  6 00:04:08 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Making a Kid-Scale Apollo 11 Lunar Lander</title>
+            <link>https://hackaday.com/2023/08/05/making-a-kid-scale-apollo-11-lunar-lander/</link>
+            <description>Making a Kid-Scale Apollo 11 Lunar Lander</description>
+            <pubDate>Sat Aug  5 23:00:48 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El comparador y sincronizador de carpetas FreeFileSync alcanza su versión 12.5</title>
             <link>https://lignux.com/el-comparador-y-sincronizador-de-carpetas-freefilesync-alcanza-su-version-12-5/</link>
             <description>El comparador y sincronizador de carpetas FreeFileSync alcanza su versión 12.5</description>
@@ -16,59 +70,5 @@
             <link>https://www.adslzone.net/noticias/streaming-tv/configurar-privacidad-smart-tv/</link>
             <description>¿Tu Smart TV te espía? Configura la tele para que no pueda saber tanto de ti</description>
             <pubDate>Sat Aug  5 20:02:30 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: LK-99: Diamagnetc Semiconductor, Not Superconductor?</title>
-            <link>https://hackaday.com/2023/08/05/lk-99-diamagnetc-semiconductor-not-superconductor/</link>
-            <description>LK-99: Diamagnetc Semiconductor, Not Superconductor?</description>
-            <pubDate>Sat Aug  5 20:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Nunca enchufes tu móvil al USB del avión</title>
-            <link>https://www.adslzone.net/noticias/moviles/razones-no-enchufar-movil-usb-avion/</link>
-            <description>Nunca enchufes tu móvil al USB del avión</description>
-            <pubDate>Sat Aug  5 19:01:29 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Sin moverte de casa y más barato: Cómo imprimir si no tienes impresora</title>
-            <link>https://www.adslzone.net/noticias/internet/imprimir-sin-impresora-webs/</link>
-            <description>Sin moverte de casa y más barato: Cómo imprimir si no tienes impresora</description>
-            <pubDate>Sat Aug  5 18:04:44 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los barcos de vapor no han muerto: así es el impresionante American Queen, el mayor buque de su tipo jamás fabricado</title>
-            <link>https://www.xataka.com/otros/barcos-vapor-no-han-muerto-asi-impresionante-american-queen-mayor-buque-su-tipo-jamas-fabricado</link>
-            <description>Los barcos de vapor no han muerto: así es el impresionante American Queen, el mayor buque de su tipo jamás fabricado</description>
-            <pubDate>Sat Aug  5 18:01:52 2023</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Sobre el Editor VIM: Un Homenaje póstumo a Bram Moolenaar</title>
-            <link>https://ubunlog.com/vim-bram-moolenaar/</link>
-            <description>Sobre el Editor VIM: Un Homenaje póstumo a Bram Moolenaar</description>
-            <pubDate>Sat Aug  5 17:16:53 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Con estos programas podrías tener problemas si te conectas con VPN</title>
-            <link>https://www.redeszone.net/noticias/redes/programas-problemas-usar-vpn/</link>
-            <description>Con estos programas podrías tener problemas si te conectas con VPN</description>
-            <pubDate>Sat Aug  5 17:07:11 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La gente está olvidando lo que le pasó durante la pandemia (porque el trauma se olvida)</title>
-            <link>https://www.xataka.com/medicina-y-salud/gente-esta-olvidando-que-le-paso-durante-pandemia-porque-trauma-se-olvida</link>
-            <description>La gente está olvidando lo que le pasó durante la pandemia (porque el trauma se olvida)</description>
-            <pubDate>Sat Aug  5 17:01:52 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Hay vida más allá de la NASA: la Agencia Espacial Europea tiene unos preciosos pósteres de sus misiones para descargar gratis</title>
-            <link>https://www.genbeta.com/imagen-digital/hay-vida-alla-nasa-agencia-espacial-europea-tiene-unos-preciosos-posteres-sus-misiones-para-descargar-gratis</link>
-            <description>Hay vida más allá de la NASA: la Agencia Espacial Europea tiene unos preciosos pósteres de sus misiones para descargar gratis</description>
-            <pubDate>Sat Aug  5 17:01:52 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: DIY Eye Tracking for VR Headsets, From A to Z</title>
-            <link>https://hackaday.com/2023/08/05/diy-eye-tracking-for-vr-headsets-from-a-to-z/</link>
-            <description>DIY Eye Tracking for VR Headsets, From A to Z</description>
-            <pubDate>Sat Aug  5 17:00:17 2023</pubDate>
             </item></channel>
 </rss>
