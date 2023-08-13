@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Opening a Curta — With Great Care</title>
+            <link>https://hackaday.com/2023/08/12/opening-a-curta-with-great-care/</link>
+            <description>Opening a Curta — With Great Care</description>
+            <pubDate>Sun Aug 13 05:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Cartas de Linux: Un paseo por F-Droid: OmsAnd mapas offline</title>
+            <link>https://cartaslinux.wordpress.com/2023/08/13/un-paseo-por-f-droid-omsand-mapas-offline/</link>
+            <description>Un paseo por F-Droid: OmsAnd mapas offline</description>
+            <pubDate>Sun Aug 13 04:01:44 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: El mantenedor de XFS se retira del proyecto debido a problemas de organización</title>
+            <link>https://blog.desdelinux.net/el-mantenedor-de-xfs-se-retira-del-proyecto-debido-a-problemas-de-organizacion/</link>
+            <description>El mantenedor de XFS se retira del proyecto debido a problemas de organización</description>
+            <pubDate>Sun Aug 13 02:22:28 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: AlmaLinux da cachetada con guante blanco a Red Hat, ya que tuvo que aceptar una corrección de vulnerabilidad</title>
+            <link>https://www.linuxadictos.com/almalinux-da-cachetada-con-guante-blanco-a-red-hat-ya-que-tuvo-que-aceptar-una-correccion-de-vulnerabilidad.html</link>
+            <description>AlmaLinux da cachetada con guante blanco a Red Hat, ya que tuvo que aceptar una corrección de vulnerabilidad</description>
+            <pubDate>Sun Aug 13 02:00:01 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Liquid Metal Battery Goes Into Production</title>
+            <link>https://hackaday.com/2023/08/12/liquid-metal-battery-goes-into-production/</link>
+            <description>Liquid Metal Battery Goes Into Production</description>
+            <pubDate>Sun Aug 13 02:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: ANARI, el estándar con él pretende unificar Khronos los motores de renderizado 3D</title>
+            <link>https://blog.desdelinux.net/anari-el-estandar-con-el-pretende-unificar-khronos-los-motores-de-renderizado-3d/</link>
+            <description>ANARI, el estándar con él pretende unificar Khronos los motores de renderizado 3D</description>
+            <pubDate>Sat Aug 12 23:22:59 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Bench Power Supply Turned Realistic Flight Sim Panel</title>
+            <link>https://hackaday.com/2023/08/12/bench-power-supply-turned-realistic-flight-sim-panel/</link>
+            <description>Bench Power Supply Turned Realistic Flight Sim Panel</description>
+            <pubDate>Sat Aug 12 23:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Revitalizing Marine Biodiversity via 3D Printing</title>
+            <link>https://blog.adafruit.com/2023/08/12/revitalizing-marine-biodiversity-via-3d-printing/</link>
+            <description>Revitalizing Marine Biodiversity via 3D Printing</description>
+            <pubDate>Sat Aug 12 22:00:44 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: TeXstudio acaba de anunciar su versión 4.6.3</title>
             <link>https://lignux.com/texstudio-acaba-de-anunciar-su-version-4-6-3/</link>
             <description>TeXstudio acaba de anunciar su versión 4.6.3</description>
@@ -22,53 +70,5 @@
             <link>https://www.adslzone.net/noticias/productos/bajar-plomos-casa-vacaciones/</link>
             <description>Merece la pena bajar los plomos de casa cuando te vas de vacaciones</description>
             <pubDate>Sat Aug 12 20:02:02 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Blackberry Pi Puts Desktop Linux in Your Pocket</title>
-            <link>https://hackaday.com/2023/08/12/blackberry-pi-puts-desktop-linux-in-your-pocket/</link>
-            <description>Blackberry Pi Puts Desktop Linux in Your Pocket</description>
-            <pubDate>Sat Aug 12 20:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Tunnelcrack una serie de vulnerabilidades para atacar VPN</title>
-            <link>https://blog.desdelinux.net/tunnelcrack-una-serie-de-vulnerabilidades-para-atacar-vpn/</link>
-            <description>Tunnelcrack una serie de vulnerabilidades para atacar VPN</description>
-            <pubDate>Sat Aug 12 19:29:40 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: OpenSSH 9.4 ya fue liberado y estas son sus novedades</title>
-            <link>https://www.linuxadictos.com/openssh-9-4-ya-fue-liberado-y-estas-son-sus-novedades.html</link>
-            <description>OpenSSH 9.4 ya fue liberado y estas son sus novedades</description>
-            <pubDate>Sat Aug 12 19:08:48 2023</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Las discografías logran su cometido bloqueando Youtube-dl</title>
-            <link>https://blog.desdelinux.net/las-discografias-logran-su-cometido-bloqueando-youtube-dl/</link>
-            <description>Las discografías logran su cometido bloqueando Youtube-dl</description>
-            <pubDate>Sat Aug 12 18:50:03 2023</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: ¿Qué es Lumi? – Vídeo</title>
-            <link>https://www.kdeblog.com/que-es-lumi-video.html</link>
-            <description>¿Qué es Lumi? – Vídeo</description>
-            <pubDate>Sat Aug 12 18:28:35 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Arktika, el barco rompehielos más brutal del mundo: un titán ruso y nuclear capaz de atravesar bloques de tres metros</title>
-            <link>https://www.xataka.com/otros/arktika-rompehielos-poderoso-mundo-titan-ruso-propulsion-nuclear-capaz-atravesar-bloques-tres-metros</link>
-            <description>Arktika, el barco rompehielos más brutal del mundo: un titán ruso y nuclear capaz de atravesar bloques de tres metros</description>
-            <pubDate>Sat Aug 12 18:01:18 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La TDT tiene un menú secreto con funciones que no imaginarías</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/tdt-menu-secreto-funciones-especiales/</link>
-            <description>La TDT tiene un menú secreto con funciones que no imaginarías</description>
-            <pubDate>Sat Aug 12 18:00:03 2023</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Wubuntu 11.4 y Kumander 1.1: Lanzamientos fuera de DistroWatch</title>
-            <link>https://ubunlog.com/wubuntu-kumander/</link>
-            <description>Wubuntu 11.4 y Kumander 1.1: Lanzamientos fuera de DistroWatch</description>
-            <pubDate>Sat Aug 12 17:52:03 2023</pubDate>
             </item></channel>
 </rss>
