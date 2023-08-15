@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A Guide to Field Stripping Your Voyager Tricorder</title>
+            <link>https://hackaday.com/2023/08/14/a-guide-to-field-stripping-your-voyager-tricorder/</link>
+            <description>A Guide to Field Stripping Your Voyager Tricorder</description>
+            <pubDate>Tue Aug 15 05:00:39 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Thin Client Wysens up to Become OpenWrt Router</title>
+            <link>https://hackaday.com/2023/08/14/thin-client-wysens-up-to-become-openwrt-router/</link>
+            <description>Thin Client Wysens up to Become OpenWrt Router</description>
+            <pubDate>Tue Aug 15 02:00:17 2023</pubDate>
+            </item>
+            <item>
+            <title>Xataka: RISC-V acaba de conseguir el apoyo de cinco empresas de primer nivel para competir con ARM: este es el plan</title>
+            <link>https://www.xataka.com/componentes/risc-v-acaba-conseguir-apoyo-cinco-empresas-primer-nivel-para-competir-arm-este-plan</link>
+            <description>RISC-V acaba de conseguir el apoyo de cinco empresas de primer nivel para competir con ARM: este es el plan</description>
+            <pubDate>Mon Aug 14 23:05:39 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Speaker with Dancing Ferrofluid</title>
+            <link>https://hackaday.com/2023/08/14/a-speaker-with-dancing-ferrofluid/</link>
+            <description>A Speaker with Dancing Ferrofluid</description>
+            <pubDate>Mon Aug 14 23:00:19 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: Syncthing, el software sincronización de archivos Open Source acaba de anunciar su versión 1.23.7</title>
             <link>https://lignux.com/syncthing-el-software-sincronizacion-de-archivos-open-source-acaba-de-anunciar-su-version-1-23-7/</link>
             <description>Syncthing, el software sincronización de archivos Open Source acaba de anunciar su versión 1.23.7</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/streaming/juegos-netflix-dan-salto-a-televisores-ordenadores-esto-que-sabemos-su-servicio-cloud-gaming</link>
             <description>Los juegos de Netflix dan el salto a televisores y ordenadores: esto es lo que sabemos sobre su servicio de cloud gaming</description>
             <pubDate>Mon Aug 14 18:53:29 2023</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: ¿Cómo Eliminar Cookies del Navegador y Por Qué?</title>
-            <link>https://esgeeks.com/eliminar-cookies-navegador/</link>
-            <description>¿Cómo Eliminar Cookies del Navegador y Por Qué?</description>
-            <pubDate>Mon Aug 14 18:46:28 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Digital Camera For The 1984 Market</title>
-            <link>https://hackaday.com/2023/08/14/a-digital-camera-for-the-1984-market/</link>
-            <description>A Digital Camera For The 1984 Market</description>
-            <pubDate>Mon Aug 14 18:30:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El inglés es una competencia clave para conseguir mejores empleos: en esta página de la UE puedes aprenderlo gratis</title>
-            <link>https://www.xataka.com/otros/ingles-competencia-clave-para-conseguir-mejores-empleos-esta-pagina-ue-puedes-aprenderlo-gratis</link>
-            <description>El inglés es una competencia clave para conseguir mejores empleos: en esta página de la UE puedes aprenderlo gratis</description>
-            <pubDate>Mon Aug 14 18:01:30 2023</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Esta es la fruta que mejora la circulación sanguínea y ayuda a controlar la presión arterial</title>
-            <link>https://www.vitonica.com/alimentos/esta-fruta-que-mejora-circulacion-sanguinea-ayuda-a-controlar-presion-arterial</link>
-            <description>Esta es la fruta que mejora la circulación sanguínea y ayuda a controlar la presión arterial</description>
-            <pubDate>Mon Aug 14 18:01:30 2023</pubDate>
             </item></channel>
 </rss>
