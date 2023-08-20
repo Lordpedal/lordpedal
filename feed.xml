@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Modeling A Guitar for Circuit Simulation</title>
+            <link>https://hackaday.com/2023/08/19/modeling-a-guitar-for-circuit-simulation/</link>
+            <description>Modeling A Guitar for Circuit Simulation</description>
+            <pubDate>Sun Aug 20 05:00:19 2023</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Aprende Terminal de Linux desde cero, video 04, comandos cp,mv,rm y mkdir</title>
+            <link>https://www.distritotux.cl/2023/08/aprende-terminal-de-linux-desde-cero.html</link>
+            <description>Aprende Terminal de Linux desde cero, video 04, comandos cp,mv,rm y mkdir</description>
+            <pubDate>Sun Aug 20 04:24:50 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Off-Grid Radio Also Repairable Off-Grid</title>
+            <link>https://hackaday.com/2023/08/19/off-grid-radio-also-repairable-off-grid/</link>
+            <description>Off-Grid Radio Also Repairable Off-Grid</description>
+            <pubDate>Sun Aug 20 02:00:52 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Electron 26 ya fue liberado y marca el final del soporte para la rama 23</title>
+            <link>https://blog.desdelinux.net/electron-26-ya-fue-liberado-y-marca-el-final-del-soporte-para-la-rama-23/</link>
+            <description>Electron 26 ya fue liberado y marca el final del soporte para la rama 23</description>
+            <pubDate>Sun Aug 20 00:19:34 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Midnight Commander 4.8.30 ya fue liberado y estas son sus novedades</title>
+            <link>https://blog.desdelinux.net/midnight-commander-4-8-30-ya-fue-liberado-y-estas-son-sus-novedades/</link>
+            <description>Midnight Commander 4.8.30 ya fue liberado y estas son sus novedades</description>
+            <pubDate>Sat Aug 19 23:58:23 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Google y Universal Music trabajan en una AI parar crear música</title>
+            <link>https://blog.desdelinux.net/google-y-universal-music-trabajan-en-una-ai-parar-crear-musica/</link>
+            <description>Google y Universal Music trabajan en una AI parar crear música</description>
+            <pubDate>Sat Aug 19 23:40:52 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Mysterious Case of the Disappearing Inventor</title>
+            <link>https://hackaday.com/2023/08/19/the-mysterious-case-of-the-disappearing-inventor/</link>
+            <description>The Mysterious Case of the Disappearing Inventor</description>
+            <pubDate>Sat Aug 19 23:00:57 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El lector y editor de archivos Epub Sigil alcanza su versión 2.0.0</title>
             <link>https://lignux.com/el-lector-y-editor-de-archivos-epub-sigil-alcanza-su-version-2-0-0/</link>
             <description>El lector y editor de archivos Epub Sigil alcanza su versión 2.0.0</description>
@@ -28,47 +70,5 @@
             <link>https://www.distritotux.cl/2023/08/que-fue-de.html</link>
             <description>¿Qué fue de .....?</description>
             <pubDate>Sat Aug 19 19:05:40 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: wxMEdit, un excelente editor de texto/hexadecimal multiplataforma</title>
-            <link>https://www.linuxadictos.com/wxmedit-un-excelente-editor-de-texto-hexadecimal-multiplataforma.html</link>
-            <description>wxMEdit, un excelente editor de texto/hexadecimal multiplataforma</description>
-            <pubDate>Sat Aug 19 18:37:41 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿De verdad tienes 1 Gbps? Esta es la velocidad real de la fibra de Digi</title>
-            <link>https://www.adslzone.net/noticias/operadores/velocidad-real-fibra-digi/</link>
-            <description>¿De verdad tienes 1 Gbps? Esta es la velocidad real de la fibra de Digi</description>
-            <pubDate>Sat Aug 19 18:05:49 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Quake II, renace con el relanzamiento de su código fuente</title>
-            <link>https://www.linuxadictos.com/quake-ii-renace-con-el-relanzamiento-de-su-codigo-fuente.html</link>
-            <description>Quake II, renace con el relanzamiento de su código fuente</description>
-            <pubDate>Sat Aug 19 18:05:14 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El vehículo autónomo más pesado del mundo es una mole de 3.000 toneladas con una misión: mover cohetes</title>
-            <link>https://www.xataka.com/otros/ct-2-vehiculo-autopropulsado-pesado-mundo-gigante-nasa-3-000-toneladas-para-mover-cohetes</link>
-            <description>El vehículo autónomo más pesado del mundo es una mole de 3.000 toneladas con una misión: mover cohetes</description>
-            <pubDate>Sat Aug 19 18:01:35 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: EQT, anunció su intención de comprar SUSE y volverla una empresa privada</title>
-            <link>https://www.linuxadictos.com/eqt-anuncio-su-intencion-de-comprar-suse-y-volverla-una-empresa-privada.html</link>
-            <description>EQT, anunció su intención de comprar SUSE y volverla una empresa privada</description>
-            <pubDate>Sat Aug 19 17:37:37 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Este es el repetidor perfecto para ver Netflix o YouTube sin cortes</title>
-            <link>https://www.redeszone.net/noticias/wifi/repetidor-ideal-netflix-youtube/</link>
-            <description>Este es el repetidor perfecto para ver Netflix o YouTube sin cortes</description>
-            <pubDate>Sat Aug 19 17:03:21 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hay quien cree que hace 50 años encontramos vida en Marte (y que acto seguido la destruimos sin querer)</title>
-            <link>https://www.xataka.com/espacio/hay-quien-cree-que-hace-50-anos-encontramos-vida-marte-que-destruimos-querer</link>
-            <description>Hay quien cree que hace 50 años encontramos vida en Marte (y que acto seguido la destruimos sin querer)</description>
-            <pubDate>Sat Aug 19 17:01:36 2023</pubDate>
             </item></channel>
 </rss>
