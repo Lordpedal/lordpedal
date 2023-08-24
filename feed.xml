@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: La Fundación Mozilla advierte que la ley de bloqueo web propuesta por Francia "podría amenazar la Internet gratuita"</title>
+            <link>https://www.linuxparty.es/123-articulos/11681-la-fundacion-mozilla-advierte-que-la-ley-de-bloqueo-web-propuesta-por-francia-podria-amenazar-la-internet-gratuita.html</link>
+            <description>La Fundación Mozilla advierte que la ley de bloqueo web propuesta por Francia "podría amenazar la Internet gratuita"</description>
+            <pubDate>Thu Aug 24 06:00:06 2023</pubDate>
+            </item>
+            <item>
+            <title>atareao con Linux: Un dashboard para selfhosted con Docker y Rust</title>
+            <link>https://atareao.es/podcast/un-dashboard-para-selfhosted-con-docker-y-rust/</link>
+            <description>Un dashboard para selfhosted con Docker y Rust</description>
+            <pubDate>Thu Aug 24 06:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Cómo ocultar pedidos de Amazon para que no los vea nadie</title>
+            <link>https://www.adslzone.net/noticias/internet/ocultar-pedidos-amazon/</link>
+            <description>Cómo ocultar pedidos de Amazon para que no los vea nadie</description>
+            <pubDate>Thu Aug 24 05:01:36 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: This Car Has Wooden Performance</title>
+            <link>https://hackaday.com/2023/08/23/this-car-has-wooden-performance/</link>
+            <description>This Car Has Wooden Performance</description>
+            <pubDate>Thu Aug 24 05:00:47 2023</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Succulents Plant Trash Bin #3DThursday #3DPrinting</title>
+            <link>https://blog.adafruit.com/2023/08/24/succulents-plant-trash-bin-3dthursday-3dprinting/</link>
+            <description>Succulents Plant Trash Bin #3DThursday #3DPrinting</description>
+            <pubDate>Thu Aug 24 05:00:40 2023</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: FOSS Weekly #23.34: Ubuntu 23.10 Features, Bodhi Linux 7, Useful Shortcuts and More</title>
+            <link>https://itsfoss.com/newsletter/foss-weekly-23-34/</link>
+            <description>FOSS Weekly #23.34: Ubuntu 23.10 Features, Bodhi Linux 7, Useful Shortcuts and More</description>
+            <pubDate>Thu Aug 24 04:29:49 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Custom Font Generation Means Boss Embossing</title>
+            <link>https://hackaday.com/2023/08/23/custom-font-generation-means-boss-embossing/</link>
+            <description>Custom Font Generation Means Boss Embossing</description>
+            <pubDate>Thu Aug 24 02:00:49 2023</pubDate>
+            </item>
+            <item>
+            <title>NKSistemas: Update de Kali Linux 2023.3</title>
+            <link>https://nksistemas.com/update-de-kali-linux-2023-3/</link>
+            <description>Update de Kali Linux 2023.3</description>
+            <pubDate>Thu Aug 24 00:37:09 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Pen Plotter Uses Polar Coordinates</title>
+            <link>https://hackaday.com/2023/08/23/pen-plotter-uses-polar-coordinates/</link>
+            <description>Pen Plotter Uses Polar Coordinates</description>
+            <pubDate>Wed Aug 23 23:00:56 2023</pubDate>
+            </item>
+            <item>
             <title>Xataka: Apptronik ya está trabajando en un rival para el Tesla Bot: así es su robot humanoide pensado para ser producido en masa</title>
             <link>https://www.xataka.com/robotica-e-ia/apptronik-esta-trabajando-rival-para-tesla-bot-asi-su-robot-humanoide-pensado-para-ser-producido-masa</link>
             <description>Apptronik ya está trabajando en un rival para el Tesla Bot: así es su robot humanoide pensado para ser producido en masa</description>
@@ -16,59 +70,5 @@
             <link>https://www.genbeta.com/seguridad/bug-app-movil-apuestas-permitio-estafarle-casi-medio-millon-euros-guardia-civil-ha-detenido-a-sospechoso</link>
             <description>Un bug de una app móvil de apuestas permitió estafarle casi medio millón de euros. La Guardia Civil ya ha detenido a un sospechoso</description>
             <pubDate>Wed Aug 23 20:15:00 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Vas a compartir piso? Esta es la velocidad que deberías contratar</title>
-            <link>https://www.adslzone.net/noticias/redes/velocidad-compartir-piso-0823/</link>
-            <description>¿Vas a compartir piso? Esta es la velocidad que deberías contratar</description>
-            <pubDate>Wed Aug 23 20:02:42 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: DIY Pan and Tilt Camera Mount</title>
-            <link>https://hackaday.com/2023/08/23/diy-pan-and-tilt-camera-mount/</link>
-            <description>DIY Pan and Tilt Camera Mount</description>
-            <pubDate>Wed Aug 23 20:00:14 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Hasta el MS Paint incorporará inteligencia artificial. Según una filtración, también llegaría a otras apps de Windows como Recortes</title>
-            <link>https://www.genbeta.com/actualidad/ms-paint-incorporara-inteligencia-artificial-filtracion-tambien-llegaria-a-otras-apps-windows-como-recortes</link>
-            <description>Hasta el MS Paint incorporará inteligencia artificial. Según una filtración, también llegaría a otras apps de Windows como Recortes</description>
-            <pubDate>Wed Aug 23 19:06:51 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Por qué hay una media luna en Instagram?</title>
-            <link>https://www.adslzone.net/noticias/moviles/por-que-media-luna-instagram-explicacion/</link>
-            <description>¿Por qué hay una media luna en Instagram?</description>
-            <pubDate>Wed Aug 23 19:00:53 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 2023 Cyberdeck Challenge: CyberTapeDeck</title>
-            <link>https://hackaday.com/2023/08/23/2023-cyberdeck-challenge-cybertapedeck/</link>
-            <description>2023 Cyberdeck Challenge: CyberTapeDeck</description>
-            <pubDate>Wed Aug 23 18:30:58 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: París acaba de prohibir los paseos en poni en sus parques. España todavía está lejos de una medida similar</title>
-            <link>https://www.xataka.com/magnet/paris-acaba-prohibir-paseos-poni-sus-parques-espana-todavia-esta-lejos-medida-similar</link>
-            <description>París acaba de prohibir los paseos en poni en sus parques. España todavía está lejos de una medida similar</description>
-            <pubDate>Wed Aug 23 18:01:20 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Los hackers atacan Duolingo y filtran datos de millones de usuarios</title>
-            <link>https://www.adslzone.net/noticias/seguridad/hackers-atacan-duolingo-filtran-datos-millones-usuarios/</link>
-            <description>Los hackers atacan Duolingo y filtran datos de millones de usuarios</description>
-            <pubDate>Wed Aug 23 18:00:27 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: No conectes así tus aparatos, es peligroso y gastas más electricidad</title>
-            <link>https://www.redeszone.net/noticias/power/conectar-aparatos-peligro-gasto-electricidad/</link>
-            <description>No conectes así tus aparatos, es peligroso y gastas más electricidad</description>
-            <pubDate>Wed Aug 23 17:05:43 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Qualcomm presenta sus nuevos chips Snapdragon G Series. Su objetivo: dominar las alternativas a la Steam Deck</title>
-            <link>https://www.xataka.com/videojuegos/qualcomm-presenta-sus-nuevos-chips-snapdragon-g-series-su-objetivo-dominar-alternativas-a-steam-deck</link>
-            <description>Qualcomm presenta sus nuevos chips Snapdragon G Series. Su objetivo: dominar las alternativas a la Steam Deck</description>
-            <pubDate>Wed Aug 23 17:01:21 2023</pubDate>
             </item></channel>
 </rss>
