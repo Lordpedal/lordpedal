@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Arduino-Powered Trap Hopes To Catch Mice</title>
+            <link>https://hackaday.com/2023/09/02/arduino-powered-trap-hopes-to-catch-mice/</link>
+            <description>Arduino-Powered Trap Hopes To Catch Mice</description>
+            <pubDate>Sun Sep  3 05:00:48 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: PoC Exploit Released for Critical VMware Aria's SSH Auth Bypass Vulnerability</title>
+            <link>https://thehackernews.com/2023/09/poc-exploit-released-for-critical.html</link>
+            <description>PoC Exploit Released for Critical VMware Aria's SSH Auth Bypass Vulnerability</description>
+            <pubDate>Sun Sep  3 04:42:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: High Quality 3D Scene Generation from 2D Source, In Realtime</title>
+            <link>https://hackaday.com/2023/09/02/high-quality-3d-scene-generation-from-2d-source-in-realtime/</link>
+            <description>High Quality 3D Scene Generation from 2D Source, In Realtime</description>
+            <pubDate>Sun Sep  3 02:00:06 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: GrapheneOS: Novedades sobre la actualización 2023090200</title>
+            <link>https://blog.desdelinux.net/grapheneos-2023090200/</link>
+            <description>GrapheneOS: Novedades sobre la actualización 2023090200</description>
+            <pubDate>Sat Sep  2 23:23:22 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Is a Pigeon faster than the Internet?</title>
+            <link>https://hackaday.com/2023/09/02/is-a-pigeon-faster-than-the-internet/</link>
+            <description>Is a Pigeon faster than the Internet?</description>
+            <pubDate>Sat Sep  2 23:00:42 2023</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: ¿Merece la pena comprar un router gaming?</title>
             <link>https://www.adslzone.net/noticias/redes/comprar-router-gaming/</link>
             <description>¿Merece la pena comprar un router gaming?</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/movilidad/francisco-ferry-rapido-mundo-barco-capaz-llevar-a-mil-viajeros-135-coches-que-roza-110-km-h</link>
             <description>Se llama Francisco y es el ferry más rápido del mundo: un barco capaz de navegar a 110 km/h cargado de coches</description>
             <pubDate>Sat Sep  2 18:00:43 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Usa de esta manera tu repetidor y tu WiFi realmente volará</title>
-            <link>https://www.redeszone.net/noticias/wifi/usar-bien-repetidor-wifi/</link>
-            <description>Usa de esta manera tu repetidor y tu WiFi realmente volará</description>
-            <pubDate>Sat Sep  2 17:05:42 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Will an 8088 Run DOOM? Now, Yes It Will!</title>
-            <link>https://hackaday.com/2023/09/02/will-an-8088-run-doom-now-yes-it-will/</link>
-            <description>Will an 8088 Run DOOM? Now, Yes It Will!</description>
-            <pubDate>Sat Sep  2 17:00:55 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Un millonario vende su mansión con aparcamiento de limusina para perros. 15 mastines no caben en un coche cualquiera</title>
-            <link>https://www.xataka.com/magnet/millonario-vende-su-mansion-aparcamiento-limusina-para-perros-15-mastines-no-caben-coche</link>
-            <description>Un millonario vende su mansión con aparcamiento de limusina para perros. 15 mastines no caben en un coche cualquiera</description>
-            <pubDate>Sat Sep  2 17:00:42 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Windows 11 te obligará a actualizarlo aunque no quieras</title>
-            <link>https://www.adslzone.net/noticias/windows/windows-11-actualizacion-obligatoria/</link>
-            <description>Windows 11 te obligará a actualizarlo aunque no quieras</description>
-            <pubDate>Sat Sep  2 17:00:15 2023</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Regolith Desktop 3.0: Una nueva versión con geniales novedades</title>
-            <link>https://blog.desdelinux.net/regolith-desktop-3-0/</link>
-            <description>Regolith Desktop 3.0: Una nueva versión con geniales novedades</description>
-            <pubDate>Sat Sep  2 16:53:12 2023</pubDate>
             </item></channel>
 </rss>
