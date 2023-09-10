@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: When Tail Lights Lose Touch With Reality</title>
+            <link>https://hackaday.com/2023/09/09/when-tail-lights-lose-touch-with-reality/</link>
+            <description>When Tail Lights Lose Touch With Reality</description>
+            <pubDate>Sun Sep 10 05:00:53 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Linux se convierte en el segundo sistema más utilizado en Steam superando a MacOS</title>
+            <link>https://blog.desdelinux.net/linux-se-convierte-en-el-segundo-sistema-mas-utilizado-en-steam-superando-a-macos/</link>
+            <description>Linux se convierte en el segundo sistema más utilizado en Steam superando a MacOS</description>
+            <pubDate>Sun Sep 10 02:39:29 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The WebStick is a Small, Cheap NAS</title>
+            <link>https://hackaday.com/2023/09/09/the-webstick-is-a-small-cheap-nas/</link>
+            <description>The WebStick is a Small, Cheap NAS</description>
+            <pubDate>Sun Sep 10 02:00:13 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: GNU Coreutils 9.4 ya fue liberada y estas son sus novedades</title>
+            <link>https://blog.desdelinux.net/gnu-coreutils-9-4-ya-fue-liberada-y-estas-son-sus-novedades/</link>
+            <description>GNU Coreutils 9.4 ya fue liberada y estas son sus novedades</description>
+            <pubDate>Sun Sep 10 01:57:28 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: El sistema de archivos ReiserFS ya es declarado como obsoleto</title>
+            <link>https://blog.desdelinux.net/el-sistema-de-archivos-reiserfs-ya-es-declarado-como-obsoleto/</link>
+            <description>El sistema de archivos ReiserFS ya es declarado como obsoleto</description>
+            <pubDate>Sun Sep 10 01:39:22 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Tape is Very, Very Quiet</title>
+            <link>https://hackaday.com/2023/09/09/tape-is-very-very-quiet/</link>
+            <description>Tape is Very, Very Quiet</description>
+            <pubDate>Sat Sep  9 23:00:11 2023</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: WebOS 2.23 ya fue liberado y estas son sus novedades</title>
             <link>https://www.linuxadictos.com/webos-2-23-ya-fue-liberado-y-estas-son-sus-novedades.html</link>
             <description>WebOS 2.23 ya fue liberado y estas son sus novedades</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/noticias/seguridad/llamadas-spam-ley-0823/</link>
             <description>Todo el verano con llamadas prohibidas a la hora de la siesta ¿de verdad se ha cumplido?</description>
             <pubDate>Sat Sep  9 20:00:33 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Clean Water, From a Plant-Based Filter</title>
-            <link>https://hackaday.com/2023/09/09/clean-water-from-a-plant-based-filter/</link>
-            <description>Clean Water, From a Plant-Based Filter</description>
-            <pubDate>Sat Sep  9 20:00:15 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El truco que pocos conocen para ver Kodi mejor que nunca</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/truco-kodi-ajustar-frecuencia/</link>
-            <description>El truco que pocos conocen para ver Kodi mejor que nunca</description>
-            <pubDate>Sat Sep  9 19:05:27 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China quiere construir el mayor barco metanero del mundo: un titán capaz de proveer gas a 4,7 millones de hogares</title>
-            <link>https://www.xataka.com/energia/china-planea-construir-mayor-barco-metanero-capaz-transportar-gas-para-cubrir-4-7-millones-hogares-mes</link>
-            <description>China quiere construir el mayor barco metanero del mundo: un titán capaz de proveer gas a 4,7 millones de hogares</description>
-            <pubDate>Sat Sep  9 18:00:55 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo guardar todas las pestañas de Chrome con este truco</title>
-            <link>https://www.adslzone.net/noticias/internet/como-guardar-todas-las-pestanas-de-chrome-con-este-truco/</link>
-            <description>Cómo guardar todas las pestañas de Chrome con este truco</description>
-            <pubDate>Sat Sep  9 18:00:11 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Revisa todo esto si vas a usar un repetidor WiFi</title>
-            <link>https://www.redeszone.net/noticias/wifi/revisar-usar-repetidor-wifi/</link>
-            <description>Revisa todo esto si vas a usar un repetidor WiFi</description>
-            <pubDate>Sat Sep  9 17:06:29 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Un pueblo de Argentina ha tenido una idea imaginativa para luchar contra los grandes apagones: cacahuetes</title>
-            <link>https://www.xataka.com/energia/este-pueblo-argentino-ha-sido-capaz-esquivar-grandes-apagones-electricidad-pais-su-secreto-cacahuete</link>
-            <description>Un pueblo de Argentina ha tenido una idea imaginativa para luchar contra los grandes apagones: cacahuetes</description>
-            <pubDate>Sat Sep  9 17:00:52 2023</pubDate>
             </item></channel>
 </rss>
