@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>atareao con Linux: Blog vacacional hundido por Ghost y Watchtower</title>
+            <link>https://atareao.es/podcast/blog-vacacional-hundido-por-ghost-y-watchtower/</link>
+            <description>Blog vacacional hundido por Ghost y Watchtower</description>
+            <pubDate>Mon Sep 18 06:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: La Clave para la Felicidad: Equilibrar Tu 'Cartera de Inversiones'</title>
+            <link>https://www.linuxparty.es/120-salud/11734-la-clave-para-la-felicidad-equilibrar-tu-cartera-de-inversiones.html</link>
+            <description>La Clave para la Felicidad: Equilibrar Tu 'Cartera de Inversiones'</description>
+            <pubDate>Mon Sep 18 05:30:00 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Instalar esta app en tu móvil va a salvarte la vida</title>
+            <link>https://www.adslzone.net/noticias/moviles/instalar-app-salvar-vida-0923/</link>
+            <description>Instalar esta app en tu móvil va a salvarte la vida</description>
+            <pubDate>Mon Sep 18 05:01:46 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D Printing at 100C</title>
+            <link>https://hackaday.com/2023/09/17/3d-printing-at-100c/</link>
+            <description>3D Printing at 100C</description>
+            <pubDate>Mon Sep 18 05:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Install VirtualBox on Windows [So that You Can Run Linux VM]</title>
+            <link>https://itsfoss.com/install-virtualbox-windows/</link>
+            <description>Install VirtualBox on Windows [So that You Can Run Linux VM]</description>
+            <pubDate>Mon Sep 18 04:27:13 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Financially Motivated UNC3944 Threat Actor Shifts Focus to Ransomware Attacks</title>
+            <link>https://thehackernews.com/2023/09/financially-motivated-unc3944-threat.html</link>
+            <description>Financially Motivated UNC3944 Threat Actor Shifts Focus to Ransomware Attacks</description>
+            <pubDate>Mon Sep 18 03:16:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Buck Converter Takes 8V to 100V</title>
+            <link>https://hackaday.com/2023/09/17/buck-converter-has-tremendous-range/</link>
+            <description>Buck Converter Takes 8V to 100V</description>
+            <pubDate>Mon Sep 18 02:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Aprende Terminal de Linux desde cero, video 06,comandos alias,type,man,help y otros</title>
+            <link>https://www.distritotux.cl/2023/09/aprende-terminal-de-linux-desde-cero_17.html</link>
+            <description>Aprende Terminal de Linux desde cero, video 06,comandos alias,type,man,help y otros</description>
+            <pubDate>Mon Sep 18 01:07:56 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: September 17, 2023</title>
+            <link>https://hackaday.com/2023/09/17/hackaday-links-september-17-2023/</link>
+            <description>Hackaday Links: September 17, 2023</description>
+            <pubDate>Sun Sep 17 23:00:03 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El reproductor de vídeo Celluloid (anteriormente Gnome MPV) pública su versión 0.26</title>
             <link>https://lignux.com/el-reproductor-de-video-celluloid-anteriormente-gnome-mpv-publica-su-version-0-26/</link>
             <description>El reproductor de vídeo Celluloid (anteriormente Gnome MPV) pública su versión 0.26</description>
@@ -16,59 +70,5 @@
             <link>https://www.adslzone.net/noticias/streaming-tv/ver-3000-canales-tdt-gratis/</link>
             <description>Así de fácil puedes ver 3.000 canales de TDT gratis y sin descargar una aplicación</description>
             <pubDate>Sun Sep 17 20:03:39 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: The End of Basic?</title>
-            <link>https://hackaday.com/2023/09/17/the-end-of-basic/</link>
-            <description>The End of Basic?</description>
-            <pubDate>Sun Sep 17 20:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Qué fue de ILOVEYOU, el gusano que infectó a más de 50 millones de ordenadores y casó un caos informático global</title>
-            <link>https://www.xataka.com/seguridad/que-fue-iloveyou-gusano-que-infecto-a-10-millones-ordenadores-caso-caos-informatico-global</link>
-            <description>Qué fue de ILOVEYOU, el gusano que infectó a más de 50 millones de ordenadores y casó un caos informático global</description>
-            <pubDate>Sun Sep 17 19:01:17 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo saber el número de serie del PC en caso de tener que repararlo</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/numero-serie-pc/</link>
-            <description>Cómo saber el número de serie del PC en caso de tener que repararlo</description>
-            <pubDate>Sun Sep 17 19:00:59 2023</pubDate>
-            </item>
-            <item>
-            <title>El Pingüino Tolkiano: Muerto OpenSource.com, viva OpenSource.net…</title>
-            <link>https://elpinguinotolkiano.wordpress.com/2023/09/17/muerto-opensource-com-viva-opensource-net/</link>
-            <description>Muerto OpenSource.com, viva OpenSource.net…</description>
-            <pubDate>Sun Sep 17 18:22:04 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Tenemos nuevas soluciones para el problema de los tres cuerpos. Más de 12.000, en concreto</title>
-            <link>https://www.xataka.com/espacio/tenemos-nuevas-soluciones-para-problema-tres-cuerpos-12-000-concreto</link>
-            <description>Tenemos nuevas soluciones para el problema de los tres cuerpos. Más de 12.000, en concreto</description>
-            <pubDate>Sun Sep 17 18:01:16 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Cada cuánto deberías reiniciar el ordenador?</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/frecuencia-reiniciar-ordenador/</link>
-            <description>¿Cada cuánto deberías reiniciar el ordenador?</description>
-            <pubDate>Sun Sep 17 18:00:46 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Estas son las 10 estafas más habituales al comprar en Amazon, no caigas en ellas</title>
-            <link>https://www.redeszone.net/noticias/seguridad/estafas-habituales-comprar-amazon/</link>
-            <description>Estas son las 10 estafas más habituales al comprar en Amazon, no caigas en ellas</description>
-            <pubDate>Sun Sep 17 17:03:34 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Tarifas eléctricas con "baterías virtuales": así es el sistema gratuito para ahorrar más con los paneles solares</title>
-            <link>https://www.xataka.com/energia/tarifas-electricas-baterias-virtuales-asi-sistema-gratuito-para-ahorrar-paneles-solares</link>
-            <description>Tarifas eléctricas con "baterías virtuales": así es el sistema gratuito para ahorrar más con los paneles solares</description>
-            <pubDate>Sun Sep 17 17:01:19 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: La IA ha creado en un año tantas imágenes como las tomadas por las cámaras de fotos en sus primeros 150 años</title>
-            <link>https://www.genbeta.com/imagen-digital/ia-ha-creado-ano-tantas-imagenes-como-tomadas-camaras-fotos-sus-primeros-150-anos</link>
-            <description>La IA ha creado en un año tantas imágenes como las tomadas por las cámaras de fotos en sus primeros 150 años</description>
-            <pubDate>Sun Sep 17 17:01:19 2023</pubDate>
             </item></channel>
 </rss>
