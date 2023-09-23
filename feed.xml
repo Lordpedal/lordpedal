@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Decker Is The Cozy Retro Creative Engine You Didn’t Know You Needed</title>
+            <link>https://hackaday.com/2023/09/22/decker-is-the-cozy-retro-creative-engine-you-didnt-know-you-needed/</link>
+            <description>Decker Is The Cozy Retro Creative Engine You Didn’t Know You Needed</description>
+            <pubDate>Sat Sep 23 05:00:59 2023</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 23 de septiembre</title>
+            <link>https://www.xataka.com/movilidad/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-23-septiembre</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 23 de septiembre</description>
+            <pubDate>Sat Sep 23 03:00:51 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Bending Light to Fit Technology</title>
+            <link>https://hackaday.com/2023/09/22/bending-light-to-fit-technology/</link>
+            <description>Bending Light to Fit Technology</description>
+            <pubDate>Sat Sep 23 02:00:30 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: DIY Repair Brings an X-Ray Microscope Back Into Focus</title>
+            <link>https://hackaday.com/2023/09/22/diy-repair-brings-an-x-ray-microscope-back-into-focus/</link>
+            <description>DIY Repair Brings an X-Ray Microscope Back Into Focus</description>
+            <pubDate>Fri Sep 22 23:00:51 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Bottlerocket 1.15.0 ya fue liberado y estas son sus novedades</title>
+            <link>https://www.linuxadictos.com/bottlerocket-1-15-0-ya-fue-liberado-y-estas-son-sus-novedades.html</link>
+            <description>Bottlerocket 1.15.0 ya fue liberado y estas son sus novedades</description>
+            <pubDate>Fri Sep 22 21:01:45 2023</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: Instalar la última versión de Libreoffice a través de un alias en la terminal</title>
             <link>https://www.distritotux.cl/2023/09/instalar-la-ultima-version-de.html</link>
             <description>Instalar la última versión de Libreoffice a través de un alias en la terminal</description>
@@ -40,35 +70,5 @@
             <link>https://hackaday.com/2023/09/22/thats-not-a-junker-thats-my-generator/</link>
             <description>That’s not a Junker… That’s My Generator</description>
             <pubDate>Fri Sep 22 20:00:24 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Carrefour pone a precio mínimo esta Smart TV 4K top ventas de Samsung con 50 pulgadas</title>
-            <link>https://www.adslzone.net/ofertas/mix/carrefour-smart-tv-samsung-tu50cu7175u-0923/</link>
-            <description>Carrefour pone a precio mínimo esta Smart TV 4K top ventas de Samsung con 50 pulgadas</description>
-            <pubDate>Fri Sep 22 19:05:45 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: BYD hace una demostración de fuerza con un SUV de 1.200 CV que navega: es un primer aviso</title>
-            <link>https://www.xataka.com/movilidad/byd-hace-demostracion-fuerza-suv-1-200-cv-que-navega-primer-aviso</link>
-            <description>BYD hace una demostración de fuerza con un SUV de 1.200 CV que navega: es un primer aviso</description>
-            <pubDate>Fri Sep 22 19:00:50 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Cuidado con este anuncio de 10.000€ para instalar placas solares: no existe ni la subvención ni la asociación que te pide los datos</title>
-            <link>https://www.genbeta.com/seguridad/cuidado-este-anuncio-10-000eur-para-instalar-placas-solares-no-existe-subvencion-asociacion-que-te-pide-datos</link>
-            <description>Cuidado con este anuncio de 10.000€ para instalar placas solares: no existe ni la subvención ni la asociación que te pide los datos</description>
-            <pubDate>Fri Sep 22 18:45:06 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: El fork de Terraform, OpenTF ahora pasó a llamarse OpenTofu</title>
-            <link>https://www.linuxadictos.com/el-fork-de-terraform-opentf-ahora-paso-a-llamarse-opentofu.html</link>
-            <description>El fork de Terraform, OpenTF ahora pasó a llamarse OpenTofu</description>
-            <pubDate>Fri Sep 22 18:39:02 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La NASA recuperá la sonda OSIRIS-Rex con trozos de un asteroide</title>
-            <link>https://www.adslzone.net/noticias/ciencia/la-nasa-recupera-la-sonda-osiris-rex-con-trozos-de-un-asteroide/</link>
-            <description>La NASA recuperá la sonda OSIRIS-Rex con trozos de un asteroide</description>
-            <pubDate>Fri Sep 22 18:30:29 2023</pubDate>
             </item></channel>
 </rss>
