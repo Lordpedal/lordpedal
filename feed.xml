@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Input Device Gets New Input Device</title>
+            <link>https://hackaday.com/2023/09/23/input-device-gets-new-input-device/</link>
+            <description>Input Device Gets New Input Device</description>
+            <pubDate>Sun Sep 24 05:00:15 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Prize 2023: A 3D Printed Vertical Wind Turbine</title>
+            <link>https://hackaday.com/2023/09/23/hackaday-prize-2023-a-3d-printed-vertical-wind-turbine/</link>
+            <description>Hackaday Prize 2023: A 3D Printed Vertical Wind Turbine</description>
+            <pubDate>Sun Sep 24 02:00:39 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Bcachefs ya fue añadido en la rama linux-next y podría estar llegando en Linux 6.7</title>
+            <link>https://www.linuxadictos.com/bcachefs-ya-fue-anadido-en-la-rama-linux-next-y-podria-estar-llegando-en-linux-6-7.html</link>
+            <description>Bcachefs ya fue añadido en la rama linux-next y podría estar llegando en Linux 6.7</description>
+            <pubDate>Sun Sep 24 00:20:06 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Electrostatic Generator Project Starts With Molten Sulfur</title>
+            <link>https://hackaday.com/2023/09/23/electrostatic-generator-project-starts-with-molten-sulfur/</link>
+            <description>Electrostatic Generator Project Starts With Molten Sulfur</description>
+            <pubDate>Sat Sep 23 23:00:56 2023</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Desconecta este dispositivo y mejora el WiFi de tu casa</title>
             <link>https://www.adslzone.net/noticias/redes/desconectar-dispositivo-mejorar-wifi-casa/</link>
             <description>Desconecta este dispositivo y mejora el WiFi de tu casa</description>
@@ -46,29 +70,5 @@
             <link>https://ubunlog.com/alternativas-a-wordpad-para-windows-y-ubuntu/</link>
             <description>Alternativas a WordPad para Windows y Ubuntu</description>
             <pubDate>Sat Sep 23 17:24:53 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Esto es lo más importante al usar una VPN y no debes pasarlo por alto</title>
-            <link>https://www.redeszone.net/noticias/redes/importante-usar-vpn-evitar-problemas/</link>
-            <description>Esto es lo más importante al usar una VPN y no debes pasarlo por alto</description>
-            <pubDate>Sat Sep 23 17:07:47 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 40 millones de años antes de los dinosaurios, unos megadepredadores dominaban la Tierra: los dinocéfalos</title>
-            <link>https://www.xataka.com/investigacion/40-millones-anos-antes-dinosaurios-unos-megadepredadores-dominaban-tierra-dinocefalos</link>
-            <description>40 millones de años antes de los dinosaurios, unos megadepredadores dominaban la Tierra: los dinocéfalos</description>
-            <pubDate>Sat Sep 23 17:00:54 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: High Temp Resin Means Faster Hot Foil Stamping</title>
-            <link>https://hackaday.com/2023/09/23/high-temp-resin-means-faster-hot-foil-stamping/</link>
-            <description>High Temp Resin Means Faster Hot Foil Stamping</description>
-            <pubDate>Sat Sep 23 17:00:36 2023</pubDate>
-            </item>
-            <item>
-            <title>BricoGeek.com Blog: Un NAS casero de 1 Petabyte con Raspberry Pi</title>
-            <link>http://blog.bricogeek.com/noticias/raspberry-pi/un-nas-casero-de-1-petabyte-con-raspberry-pi/?utm_source=blogfeed&utm_medium=atom10&utm_term=raspberry-pi&utm_content=un-nas-casero-de-1-petabyte-con-raspberry-pi&utm_campaign=blog</link>
-            <description>Un NAS casero de 1 Petabyte con Raspberry Pi</description>
-            <pubDate>Sat Sep 23 16:54:00 2023</pubDate>
             </item></channel>
 </rss>
