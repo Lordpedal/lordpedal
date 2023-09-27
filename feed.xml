@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>ADSLZone: ¿Hay que desenchufar el router si hay tormenta?</title>
+            <link>https://www.adslzone.net/noticias/redes/apagar-router-tormenta/</link>
+            <description>¿Hay que desenchufar el router si hay tormenta?</description>
+            <pubDate>Wed Sep 27 05:01:35 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Dead E. Ruxpin Appears Alive and Well</title>
+            <link>https://hackaday.com/2023/09/26/dead-e-ruxpin-appears-alive-and-well/</link>
+            <description>Dead E. Ruxpin Appears Alive and Well</description>
+            <pubDate>Wed Sep 27 05:00:11 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Beating Apple’s Secret Lid Angle Sensor Calibration With Custom Tool</title>
+            <link>https://hackaday.com/2023/09/26/beating-apples-secret-lid-angle-sensor-calibration-with-custom-tool/</link>
+            <description>Beating Apple’s Secret Lid Angle Sensor Calibration With Custom Tool</description>
+            <pubDate>Wed Sep 27 02:00:28 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Express: #181 Linux Express</title>
+            <link>https://podcastlinux.com/posts/linuxexpress/181-Linux-Express/</link>
+            <description>#181 Linux Express</description>
+            <pubDate>Wed Sep 27 00:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Microsoft necesita una cantidad descomunal de energía para sus servidores de IA. Su solución: centrales nucleares</title>
+            <link>https://www.xataka.com/robotica-e-ia/microsoft-necesita-cantidad-descomunal-energia-para-sus-servidores-ia-su-solucion-centrales-nucleares</link>
+            <description>Microsoft necesita una cantidad descomunal de energía para sus servidores de IA. Su solución: centrales nucleares</description>
+            <pubDate>Tue Sep 26 23:12:25 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Feed Your Fasteners in Line, With a Bowl Feeder</title>
+            <link>https://hackaday.com/2023/09/26/feed-your-fasteners-in-line-with-a-bowl-feeder/</link>
+            <description>Feed Your Fasteners in Line, With a Bowl Feeder</description>
+            <pubDate>Tue Sep 26 23:00:25 2023</pubDate>
+            </item>
+            <item>
             <title>Desde Linux: Wolvic 1.5 presenta mejoras en la UI, funciones y mas</title>
             <link>https://blog.desdelinux.net/wolvic-1-5-presenta-mejoras-en-la-ui-funciones-y-mas/</link>
             <description>Wolvic 1.5 presenta mejoras en la UI, funciones y mas</description>
@@ -34,41 +70,5 @@
             <link>https://hackaday.com/2023/09/26/__trashed-13/</link>
             <description>$13 Scope and Logic Analyzer Hits 18 Msps</description>
             <pubDate>Tue Sep 26 20:00:07 2023</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Firefox estrena traductor y se queda a solo dos funciones básicas para alcanzar a la competencia</title>
-            <link>https://www.muylinux.com/2023/09/26/firefox-necesita-dos-funciones-basicas/</link>
-            <description>Firefox estrena traductor y se queda a solo dos funciones básicas para alcanzar a la competencia</description>
-            <pubDate>Tue Sep 26 19:29:32 2023</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Firefox 118 ya fue liberado y estas son sus novedades</title>
-            <link>https://blog.desdelinux.net/firefox-118-ya-fue-liberado-y-estas-son-sus-novedades/</link>
-            <description>Firefox 118 ya fue liberado y estas son sus novedades</description>
-            <pubDate>Tue Sep 26 19:17:33 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cuándo es el Black Friday 2023 y cuáles serán las ofertas más interesantes</title>
-            <link>https://www.adslzone.net/noticias/internet/ofertas-esperadas-black-friday-2023/</link>
-            <description>Cuándo es el Black Friday 2023 y cuáles serán las ofertas más interesantes</description>
-            <pubDate>Tue Sep 26 19:03:47 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Bill Gates cree que plantar árboles masivamente contra el cambio climático es absurdo. Tiene razón</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/bill-gates-cree-que-plantar-arboles-masivamente-cambio-climatico-absurdo-tiene-razon</link>
-            <description>Bill Gates cree que plantar árboles masivamente contra el cambio climático es absurdo. Tiene razón</description>
-            <pubDate>Tue Sep 26 19:01:24 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Drop-In Upgrade PCB Brings USB-C to DualShock 4</title>
-            <link>https://hackaday.com/2023/09/26/drop-in-upgrade-pcb-brings-usb-c-to-dualshock-4/</link>
-            <description>Drop-In Upgrade PCB Brings USB-C to DualShock 4</description>
-            <pubDate>Tue Sep 26 18:30:11 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La película de ciencia ficción y terror de la que todo el mundo habla está en Disney+: una asombrosa pieza de intensidad brutal</title>
-            <link>https://www.xataka.com/streaming/pelicula-ciencia-ficcion-terror-que-todo-mundo-habla-esta-disney-asombrosa-pieza-intensidad-brutal</link>
-            <description>La película de ciencia ficción y terror de la que todo el mundo habla está en Disney+: una asombrosa pieza de intensidad brutal</description>
-            <pubDate>Tue Sep 26 18:01:24 2023</pubDate>
             </item></channel>
 </rss>
