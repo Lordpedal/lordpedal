@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: The Magic Of A Diode Sampler To Increase Oscilloscope Bandwidth</title>
+            <link>https://hackaday.com/2023/09/30/the-magic-of-a-diode-sampler-to-increase-oscilloscope-bandwidth/</link>
+            <description>The Magic Of A Diode Sampler To Increase Oscilloscope Bandwidth</description>
+            <pubDate>Sun Oct  1 05:00:56 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Micro Robot Disregards Gears, Embraces Explosions</title>
+            <link>https://hackaday.com/2023/09/30/micro-robot-disregards-gears-embraces-explosions/</link>
+            <description>Micro Robot Disregards Gears, Embraces Explosions</description>
+            <pubDate>Sun Oct  1 02:00:40 2023</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Aplicaciones de código abierto para hacer deporte</title>
+            <link>https://ubunlog.com/aplicaciones-de-codigo-abierto-para-hacer-deporte/</link>
+            <description>Aplicaciones de código abierto para hacer deporte</description>
+            <pubDate>Sat Sep 30 23:03:29 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: CNC Soldering Bot Handles Your Headers</title>
+            <link>https://hackaday.com/2023/09/30/cnc-soldering-bot-handles-your-headers/</link>
+            <description>CNC Soldering Bot Handles Your Headers</description>
+            <pubDate>Sat Sep 30 23:00:23 2023</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Lista de aplicaciones de Android para iniciarse en el software libre</title>
+            <link>https://ubunlog.com/lista-de-aplicaciones-de-android-para-iniciarse-en-el-software-libre/</link>
+            <description>Lista de aplicaciones de Android para iniciarse en el software libre</description>
+            <pubDate>Sat Sep 30 21:56:12 2023</pubDate>
+            </item>
+            <item>
             <title>El condón roto de GNU: Calendarios 2024 de Yumi la mascota de UBports y Ubuntu Touch</title>
             <link>https://elcondonrotodegnu.wordpress.com/2023/09/30/calendarios-2024-de-yumi-la-mascota-de-ubports-y-ubuntu-touch/</link>
             <description>Calendarios 2024 de Yumi la mascota de UBports y Ubuntu Touch</description>
@@ -16,6 +46,12 @@
             <link>https://ubunlog.com/tercera-parte-de-la-biografia-de-stallman/</link>
             <description>Tercera parte de la biografía de Stallman</description>
             <pubDate>Sat Sep 30 21:10:56 2023</pubDate>
+            </item>
+            <item>
+            <title>LiGNUx: Wine acaba de anunciar su versión 8.17</title>
+            <link>https://lignux.com/wine-acaba-de-anunciar-su-version-8-17/</link>
+            <description>Wine acaba de anunciar su versión 8.17</description>
+            <pubDate>Sat Sep 30 21:00:32 2023</pubDate>
             </item>
             <item>
             <title>ADSLZone: Este tipo de luces que tienes en casa pueden hacer que tu WiFi funcione mal</title>
@@ -34,41 +70,5 @@
             <link>https://hackaday.com/2023/09/30/a-1970s-mask-rom-microcontroller-spills-its-secrets/</link>
             <description>A 1970s Mask ROM Microcontroller Spills Its Secrets</description>
             <pubDate>Sat Sep 30 20:00:12 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así puedes pedirle a Google la retirada de las imágenes de los menores de 18 años</title>
-            <link>https://www.adslzone.net/noticias/internet/google-retirarda-imagenes-menores/</link>
-            <description>Así puedes pedirle a Google la retirada de las imágenes de los menores de 18 años</description>
-            <pubDate>Sat Sep 30 19:00:10 2023</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Breve biografía de Richard Stallman</title>
-            <link>https://ubunlog.com/breve-biografia-de-richard-stallman/</link>
-            <description>Breve biografía de Richard Stallman</description>
-            <pubDate>Sat Sep 30 18:42:49 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Los mejores ordenadores portátiles y en qué fijarte al elegir uno</title>
-            <link>https://www.adslzone.net/listas/equipos/mejores-ordenadores-portatiles/</link>
-            <description>Los mejores ordenadores portátiles y en qué fijarte al elegir uno</description>
-            <pubDate>Sat Sep 30 18:03:54 2023</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Ya fue liberada la versión estable de LibrePCB 1.0</title>
-            <link>https://www.linuxadictos.com/ya-fue-liberada-la-version-estable-de-librepcb-1-0.html</link>
-            <description>Ya fue liberada la versión estable de LibrePCB 1.0</description>
-            <pubDate>Sat Sep 30 18:03:16 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 780 kilómetros en 24 horas: los barcos eléctricos también están dando pasos de gigante en sus capacidades</title>
-            <link>https://www.xataka.com/movilidad/780-kilometros-24-horas-barcos-electricos-tambien-estan-dando-pasos-gigante-sus-capacidades</link>
-            <description>780 kilómetros en 24 horas: los barcos eléctricos también están dando pasos de gigante en sus capacidades</description>
-            <pubDate>Sat Sep 30 18:01:37 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Lo usas cada día y es lo que más roban los ciberdelincuentes; protégete correctamente</title>
-            <link>https://www.redeszone.net/noticias/seguridad/robo-ciberdelincuentes-proteger-cuenta/</link>
-            <description>Lo usas cada día y es lo que más roban los ciberdelincuentes; protégete correctamente</description>
-            <pubDate>Sat Sep 30 17:08:26 2023</pubDate>
             </item></channel>
 </rss>
