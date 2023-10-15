@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Compact, Gesture-Based Remote Control over Bluetooth</title>
+            <link>https://hackaday.com/2023/10/14/compact-gesture-based-remote-control-over-bluetooth/</link>
+            <description>Compact, Gesture-Based Remote Control over Bluetooth</description>
+            <pubDate>Sun Oct 15 05:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: AI-Powered Snore Detector Shakes the Pillow So You Won’t</title>
+            <link>https://hackaday.com/2023/10/14/ai-powered-snore-detector-shakes-the-pillow-so-you-dont-have-to/</link>
+            <description>AI-Powered Snore Detector Shakes the Pillow So You Won’t</description>
+            <pubDate>Sun Oct 15 02:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Ya fue liberada la nueva version de Ubuntu 23.10 «Mantic Minotaur», conoce sus novedades mas importantes</title>
+            <link>https://blog.desdelinux.net/ya-fue-liberada-la-nueva-version-de-ubuntu-23-10-mantic-minotaur-conoce-sus-novedades-mas-importantes/</link>
+            <description>Ya fue liberada la nueva version de Ubuntu 23.10 «Mantic Minotaur», conoce sus novedades mas importantes</description>
+            <pubDate>Sun Oct 15 01:02:30 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: PCB Repair is a Sticky Proposition</title>
+            <link>https://hackaday.com/2023/10/14/pcb-repair-is-a-sticky-proposition/</link>
+            <description>PCB Repair is a Sticky Proposition</description>
+            <pubDate>Sat Oct 14 23:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Raspberry Pi OS 2023-10-10 llega con base en Debian 12, soporte para RPi 5 y mas</title>
+            <link>https://blog.desdelinux.net/raspberry-pi-os-2023-10-10-llega-con-base-en-debian-12-soporte-para-rpi-5-y-mas/</link>
+            <description>Raspberry Pi OS 2023-10-10 llega con base en Debian 12, soporte para RPi 5 y mas</description>
+            <pubDate>Sat Oct 14 22:55:39 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: La suite de dibujo e ilustración digital open source Krita alcanza su versión 5.2.0</title>
             <link>https://lignux.com/la-suite-de-dibujo-e-ilustracion-digital-open-source-krita-alcanza-su-version-5-2-0/</link>
             <description>La suite de dibujo e ilustración digital open source Krita alcanza su versión 5.2.0</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/redes-sociales/ocultar-numero-telegram/</link>
             <description>¿Puedo ocultar mi número en Telegram?</description>
             <pubDate>Sat Oct 14 19:00:16 2023</pubDate>
-            </item>
-            <item>
-            <title>Make: DIY Projects and Ideas for Makers: LiveBlog: Maker Faire Bay Area 2023</title>
-            <link>https://makezine.com/article/maker-news/maker-faire/liveblog-maker-faire-bay-area/</link>
-            <description>LiveBlog: Maker Faire Bay Area 2023</description>
-            <pubDate>Sat Oct 14 18:45:37 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Millones de aves mueren al año por los aerogeneradores. La solución: aspas de velocidad autoadaptable</title>
-            <link>https://www.xataka.com/energia/millones-aves-mueren-al-ano-aerogeneradores-solucion-aspas-velocidad-autoadaptable</link>
-            <description>Millones de aves mueren al año por los aerogeneradores. La solución: aspas de velocidad autoadaptable</description>
-            <pubDate>Sat Oct 14 18:01:43 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Sí, ChatGPT puede ayudarte a preparar tu próxima entrevista de trabajo</title>
-            <link>https://www.adslzone.net/noticias/ia/chat-gpt-entrevista-trabajo/</link>
-            <description>Sí, ChatGPT puede ayudarte a preparar tu próxima entrevista de trabajo</description>
-            <pubDate>Sat Oct 14 18:00:19 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Estoy filtrando datos a Internet sin darme cuenta? Esto tienes que saber</title>
-            <link>https://www.redeszone.net/noticias/seguridad/saber-datos-filtrados-internet/</link>
-            <description>¿Estoy filtrando datos a Internet sin darme cuenta? Esto tienes que saber</description>
-            <pubDate>Sat Oct 14 17:07:04 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Existen muchos trucos para mejorar la memoria. Esto es lo que dice la ciencia sobre ellos</title>
-            <link>https://www.xataka.com/medicina-y-salud/existen-muchos-trucos-para-mejorar-memoria-esto-que-dice-ciencia-ellos</link>
-            <description>Existen muchos trucos para mejorar la memoria. Esto es lo que dice la ciencia sobre ellos</description>
-            <pubDate>Sat Oct 14 17:01:44 2023</pubDate>
             </item></channel>
 </rss>
