@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>atareao con Linux: Tu broker bot para Telegram con Python</title>
+            <link>https://atareao.es/podcast/tu-broker-bot-para-telegram-con-python/</link>
+            <description>Tu broker bot para Telegram con Python</description>
+            <pubDate>Mon Oct 16 06:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Así de fácil puedes instalar apps en Fire TV cuando no estén en la tienda de Amazon</title>
+            <link>https://www.adslzone.net/noticias/streaming-tv/instalar-cualquier-app-fire-tv/</link>
+            <description>Así de fácil puedes instalar apps en Fire TV cuando no estén en la tienda de Amazon</description>
+            <pubDate>Mon Oct 16 05:02:36 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Re-imagining the Water Supply</title>
+            <link>https://hackaday.com/2023/10/15/re-imagining-the-water-supply/</link>
+            <description>Re-imagining the Water Supply</description>
+            <pubDate>Mon Oct 16 05:00:41 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Binance's Smart Chain Exploited in New 'EtherHiding' Malware Campaign</title>
+            <link>https://thehackernews.com/2023/10/binances-smart-chain-exploited-in-new.html</link>
+            <description>Binance's Smart Chain Exploited in New 'EtherHiding' Malware Campaign</description>
+            <pubDate>Mon Oct 16 04:59:00 2023</pubDate>
+            </item>
+            <item>
+            <title>El Blog de Lázaro: Wifi para invitados en router Mikrotik</title>
+            <link>https://elblogdelazaro.org/posts/2023-10-16-wifi-para-invitados-en-router-mikrotik/</link>
+            <description>Wifi para invitados en router Mikrotik</description>
+            <pubDate>Mon Oct 16 04:30:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Can A $3200 Kit Convert Your Car To Electric Power?</title>
+            <link>https://hackaday.com/2023/10/15/can-a-3200-kit-convert-your-car-to-electric-power/</link>
+            <description>Can A $3200 Kit Convert Your Car To Electric Power?</description>
+            <pubDate>Mon Oct 16 02:00:44 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: October 15, 2023</title>
+            <link>https://hackaday.com/2023/10/15/hackaday-links-october-15-2023/</link>
+            <description>Hackaday Links: October 15, 2023</description>
+            <pubDate>Sun Oct 15 23:00:10 2023</pubDate>
+            </item>
+            <item>
+            <title>56K: 🥝 Voodoo Detective en Linux</title>
+            <link>https://56k.es/fanta/%f0%9f%a5%9d-voodoo-detective-en-linux/</link>
+            <description>🥝 Voodoo Detective en Linux</description>
+            <pubDate>Sun Oct 15 22:45:29 2023</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: Stompy: herramienta para timestomping</title>
+            <link>https://www.hackplayers.com/2023/10/stompy-herramienta-para-timestomping.html</link>
+            <description>Stompy: herramienta para timestomping</description>
+            <pubDate>Sun Oct 15 22:41:55 2023</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: En Ubuntu 23.10 «Mantic Minotaur» el acceso al espacio de nombres de usuario esta restringido</title>
+            <link>https://ubunlog.com/en-ubuntu-23-10-mantic-minotaur-el-acceso-al-espacio-de-nombres-de-usuario-esta-restringido/</link>
+            <description>En Ubuntu 23.10 «Mantic Minotaur» el acceso al espacio de nombres de usuario esta restringido</description>
+            <pubDate>Sun Oct 15 21:36:07 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: El reproductor open source VLC anuncia su versión 3.0.19</title>
             <link>https://lignux.com/el-reproductor-open-source-vlc-anuncia-su-version-3-0-19/</link>
             <description>El reproductor open source VLC anuncia su versión 3.0.19</description>
             <pubDate>Sun Oct 15 21:24:37 2023</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: VLC 3.0.19’s Best New Features are Windows-Only</title>
-            <link>https://www.omgubuntu.co.uk/2023/10/vlc-3-0-19-nvidia-super-scaling</link>
-            <description>VLC 3.0.19’s Best New Features are Windows-Only</description>
-            <pubDate>Sun Oct 15 20:45:38 2023</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: El Kernel de Linux 6.1 LTS se convierte en SLTS con 10 Años de Soporte</title>
-            <link>https://nksistemas.com/el-kernel-de-linux-6-1-lts-se-convierte-en-slts-con-10-anos-de-soporte/</link>
-            <description>El Kernel de Linux 6.1 LTS se convierte en SLTS con 10 Años de Soporte</description>
-            <pubDate>Sun Oct 15 20:15:45 2023</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Ubuntu 23.10 «Mantic Minotaur» llega con varias Novedades</title>
-            <link>https://nksistemas.com/ubuntu-23-10-mantic-minotaur-llega-con-varias-novedades/</link>
-            <description>Ubuntu 23.10 «Mantic Minotaur» llega con varias Novedades</description>
-            <pubDate>Sun Oct 15 20:10:59 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Memorialize Your Favorite Chips in Slate</title>
-            <link>https://hackaday.com/2023/10/15/memorialize-your-favorite-chips-in-slate/</link>
-            <description>Memorialize Your Favorite Chips in Slate</description>
-            <pubDate>Sun Oct 15 20:00:24 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Por qué nunca deberías conectarte al WiFi en el tren</title>
-            <link>https://www.adslzone.net/noticias/seguridad/seguridad-wifi-publica-tren/</link>
-            <description>Por qué nunca deberías conectarte al WiFi en el tren</description>
-            <pubDate>Sun Oct 15 20:00:08 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así de fácil se soluciona el error de Chromecast para ver películas y series en HDR</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/solucionar-problema-hdr-chromecast/</link>
-            <description>Así de fácil se soluciona el error de Chromecast para ver películas y series en HDR</description>
-            <pubDate>Sun Oct 15 19:05:16 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Australia ha convertido una vieja locomotora de 1949 en el primer tren solar del mundo: así es el Byron Bay Train</title>
-            <link>https://www.xataka.com/transporte/australia-ha-convertido-vieja-locomotora-1949-primer-tren-solar-mundo-asi-byron-bay-train</link>
-            <description>Australia ha convertido una vieja locomotora de 1949 en el primer tren solar del mundo: así es el Byron Bay Train</description>
-            <pubDate>Sun Oct 15 19:01:52 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Llega a Netflix un estrepitoso fracaso de taquilla con Will Smith duplicado y efectos especiales tremendamente impactantes</title>
-            <link>https://www.xataka.com/streaming/llega-a-netflix-estrepitoso-fracaso-taquilla-will-smith-duplicado-efectos-especiales-tremendamente-impactantes</link>
-            <description>Llega a Netflix un estrepitoso fracaso de taquilla con Will Smith duplicado y efectos especiales tremendamente impactantes</description>
-            <pubDate>Sun Oct 15 18:01:51 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: 10 comandos súper útiles de Alexa que nadie conoce</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/comandos-utiles-alexa/</link>
-            <description>10 comandos súper útiles de Alexa que nadie conoce</description>
-            <pubDate>Sun Oct 15 18:00:23 2023</pubDate>
-            </item>
-            <item>
-            <title>▶ Noticias desde entreunosyceros: Reloj en forma de ruleta, crea el tuyo con JavaScript y CSS</title>
-            <link>https://entreunosyceros.net/reloj-en-forma-de-ruleta-javacript-css/</link>
-            <description>Reloj en forma de ruleta, crea el tuyo con JavaScript y CSS</description>
-            <pubDate>Sun Oct 15 17:39:55 2023</pubDate>
             </item></channel>
 </rss>
