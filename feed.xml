@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Atomic Antenna uses Lasers</title>
+            <link>https://hackaday.com/2023/10/21/atomic-antenna-uses-lasers/</link>
+            <description>Atomic Antenna uses Lasers</description>
+            <pubDate>Sun Oct 22 05:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Bluetooth Device Visualizer Reveals Devices In Vicinity</title>
+            <link>https://hackaday.com/2023/10/21/bluetooth-device-visualizer-reveals-devices-in-vicinity/</link>
+            <description>Bluetooth Device Visualizer Reveals Devices In Vicinity</description>
+            <pubDate>Sun Oct 22 02:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: PC Case Makes Portable Power Supply</title>
+            <link>https://hackaday.com/2023/10/21/pc-case-makes-portable-power-supply/</link>
+            <description>PC Case Makes Portable Power Supply</description>
+            <pubDate>Sat Oct 21 23:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>LiGNUx: El software de virtualización Virtualbox acaba de liberar su versión 7.0.12</title>
+            <link>https://lignux.com/el-software-de-virtualizacion-virtualbox-acaba-de-liberar-su-version-7-0-12/</link>
+            <description>El software de virtualización Virtualbox acaba de liberar su versión 7.0.12</description>
+            <pubDate>Sat Oct 21 21:00:03 2023</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Building a Robot Bartender for Amazon</title>
             <link>https://hackaday.com/2023/10/21/building-a-robot-bartender-for-amazon/</link>
             <description>Building a Robot Bartender for Amazon</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/movilidad/su-busqueda-sostenibilidad-superyates-quieren-ir-paso-alla-elaborar-su-propio-hidrogeno-a-bordo</link>
             <description>En su búsqueda de sostenibilidad, los superyates quieren ir un paso más allá: elaborar su propio hidrógeno a bordo</description>
             <pubDate>Sat Oct 21 17:00:41 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Arduino-Controlled Coil Winder</title>
-            <link>https://hackaday.com/2023/10/21/arduino-controlled-coil-winder/</link>
-            <description>Arduino-Controlled Coil Winder</description>
-            <pubDate>Sat Oct 21 17:00:05 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El cruce entre orca negra y delfín existe y se llama balfín</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/cruce-orca-negra-delfin-existe-se-llama-balfin</link>
-            <description>El cruce entre orca negra y delfín existe y se llama balfín</description>
-            <pubDate>Sat Oct 21 16:20:41 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Carrefour tumba el precio de esta Smart TV 4k de Samsung con 55 pulgadas: hasta 300 € menos</title>
-            <link>https://www.adslzone.net/ofertas/mix/carrefour-smart-tv-samsung-tu55cu8505k-1023/</link>
-            <description>Carrefour tumba el precio de esta Smart TV 4k de Samsung con 55 pulgadas: hasta 300 € menos</description>
-            <pubDate>Sat Oct 21 16:01:42 2023</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: How to Display Battery Percentage in Ubuntu’s Top Panel</title>
-            <link>https://www.omgubuntu.co.uk/2023/10/show-battery-percentage-ubuntu-panel</link>
-            <description>How to Display Battery Percentage in Ubuntu’s Top Panel</description>
-            <pubDate>Sat Oct 21 15:48:13 2023</pubDate>
             </item></channel>
 </rss>
