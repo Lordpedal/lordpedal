@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>ADSLZone: Antes de comprar un router 4G o 5G, fíjate en esto que casi nadie mira</title>
+            <link>https://www.adslzone.net/noticias/redes/comprar-router-4g-5g/</link>
+            <description>Antes de comprar un router 4G o 5G, fíjate en esto que casi nadie mira</description>
+            <pubDate>Wed Oct 25 05:01:48 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: HDMI For The Original Xbox</title>
+            <link>https://hackaday.com/2023/10/24/hdmi-for-the-original-xbox/</link>
+            <description>HDMI For The Original Xbox</description>
+            <pubDate>Wed Oct 25 05:00:56 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Retro Computing Coding Competition Still Open</title>
+            <link>https://hackaday.com/2023/10/24/retro-computing-coding-competition-still-open/</link>
+            <description>Retro Computing Coding Competition Still Open</description>
+            <pubDate>Wed Oct 25 02:00:30 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Kubernetes apuesta por Open Build Service de SUSE para crear sus paquetes</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/kubernetes-apuesta-por-open-build-service-de-suse-para-crear-sus-paquetes/</link>
+            <description>Kubernetes apuesta por Open Build Service de SUSE para crear sus paquetes</description>
+            <pubDate>Wed Oct 25 00:02:10 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Express: #183 Linux Express</title>
+            <link>https://podcastlinux.com/posts/linuxexpress/183-Linux-Express/</link>
+            <description>#183 Linux Express</description>
+            <pubDate>Wed Oct 25 00:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Flaming Skull Hood Ornament Is Not Suitable For Use In Traffic</title>
+            <link>https://hackaday.com/2023/10/24/flaming-skull-hood-ornament-is-not-suitable-for-use-in-traffic/</link>
+            <description>Flaming Skull Hood Ornament Is Not Suitable For Use In Traffic</description>
+            <pubDate>Tue Oct 24 23:00:48 2023</pubDate>
+            </item>
+            <item>
             <title>Xataka: Satya Nadella fue el encargado de ponerle punto final a Windows Phone: el CEO de Microsoft ahora se arrepiente</title>
             <link>https://www.xataka.com/empresas-y-economia/satya-nadella-fue-encargado-ponerle-punto-final-a-windows-phone-ceo-microsoft-ahora-se-arrepiente</link>
             <description>Satya Nadella fue el encargado de ponerle punto final a Windows Phone: el CEO de Microsoft ahora se arrepiente</description>
@@ -18,9 +54,9 @@
             <pubDate>Tue Oct 24 20:40:00 2023</pubDate>
             </item>
             <item>
-            <title>MuyLinux: Holly Million, una chamán al frente de GNOME Foundation</title>
+            <title>MuyLinux: Holly Million, una «chamán» al frente de GNOME Foundation</title>
             <link>https://www.muylinux.com/2023/10/24/holly-million-gnome-foundation/</link>
-            <description>Holly Million, una chamán al frente de GNOME Foundation</description>
+            <description>Holly Million, una «chamán» al frente de GNOME Foundation</description>
             <pubDate>Tue Oct 24 20:10:20 2023</pubDate>
             </item>
             <item>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/dispositivos-compatibles-vowifi-vodafone/</link>
             <description>Estos son los teléfonos compatibles con VoWiFi de Vodafone para llamar sin cobertura móvil</description>
             <pubDate>Tue Oct 24 20:01:39 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Driving an OLED Screen With A 6502 Single-Board Computer</title>
-            <link>https://hackaday.com/2023/10/24/driving-an-oled-screen-with-a-6502-single-board-computer/</link>
-            <description>Driving an OLED Screen With A 6502 Single-Board Computer</description>
-            <pubDate>Tue Oct 24 20:00:16 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Después de dos años desafiantes, Spotify vuelve a ser rentable: la subida de precios ha cumplido con su objetivo</title>
-            <link>https://www.xataka.com/streaming/despues-dos-anos-desafiantes-spotify-vuelve-a-ser-rentable-subida-precios-ha-cumplido-su-objetivo</link>
-            <description>Después de dos años desafiantes, Spotify vuelve a ser rentable: la subida de precios ha cumplido con su objetivo</description>
-            <pubDate>Tue Oct 24 19:48:53 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Qualcomm une Windows y Android: los nuevos Snapdragon permitirán conectar datos de un sistema a otro</title>
-            <link>https://www.xataka.com/servicios/qualcomm-une-windows-android-nuevos-snapdragon-permitiran-conectar-datos-sistema-a-otro</link>
-            <description>Qualcomm une Windows y Android: los nuevos Snapdragon permitirán conectar datos de un sistema a otro</description>
-            <pubDate>Tue Oct 24 19:01:12 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La plataforma Qualcomm Snapdragon X Elite plantea portátiles en los que usaremos un ChatGPT en local</title>
-            <link>https://www.xataka.com/componentes/plataforma-qualcomm-snapdragon-x-elite-plantea-portatiles-que-usaremos-chatgpt-local</link>
-            <description>La plataforma Qualcomm Snapdragon X Elite plantea portátiles en los que usaremos un ChatGPT en local</description>
-            <pubDate>Tue Oct 24 19:01:12 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El Qualcomm Snapdragon 8 Gen 3 es la coronación de un nuevo rey: así es el mejor procesador del momento para móviles</title>
-            <link>https://www.xataka.com/componentes/qualcomm-snapdragon-8-gen-3-coronacion-nuevo-rey-asi-mejor-procesador-momento-para-moviles</link>
-            <description>El Qualcomm Snapdragon 8 Gen 3 es la coronación de un nuevo rey: así es el mejor procesador del momento para móviles</description>
-            <pubDate>Tue Oct 24 19:01:12 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esta alternativa a la Thermomix ahora cuesta 300 euros menos</title>
-            <link>https://www.adslzone.net/ofertas/amazon/robot-cocina-moulinex-companion-xl-1023/</link>
-            <description>Esta alternativa a la Thermomix ahora cuesta 300 euros menos</description>
-            <pubDate>Tue Oct 24 19:00:34 2023</pubDate>
             </item></channel>
 </rss>
