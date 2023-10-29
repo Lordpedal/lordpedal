@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Using EPROMS and EEPROMs As Programmable Logic With Lisp</title>
+            <link>https://hackaday.com/2023/10/28/using-eproms-and-eeproms-as-programmable-logic-with-lisp/</link>
+            <description>Using EPROMS and EEPROMs As Programmable Logic With Lisp</description>
+            <pubDate>Sun Oct 29 05:00:32 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: EcoEDA Integrates Your Junk Bin into Your Designs</title>
+            <link>https://hackaday.com/2023/10/28/ecoeda-integrates-your-junk-bin-into-your-designs/</link>
+            <description>EcoEDA Integrates Your Junk Bin into Your Designs</description>
+            <pubDate>Sun Oct 29 02:00:41 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: “Cheap Yellow Display” Builds Community Through Hardware</title>
+            <link>https://hackaday.com/2023/10/28/cheap-yellow-display-builds-community-through-hardware/</link>
+            <description>“Cheap Yellow Display” Builds Community Through Hardware</description>
+            <pubDate>Sat Oct 28 23:00:06 2023</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: La venta de Vodafone España es inminente. Nueva revolución en el sector a la vista</title>
             <link>https://www.adslzone.net/noticias/operadores/venta-vodafone-zegona/</link>
             <description>La venta de Vodafone España es inminente. Nueva revolución en el sector a la vista</description>
@@ -52,23 +70,5 @@
             <link>https://www.adslzone.net/noticias/whatsapp/stickers-buenas-noches-whatsapp/</link>
             <description>Despídete de forma original con estos stickers de buenas noches de WhatsApp</description>
             <pubDate>Sat Oct 28 18:01:37 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La loca, loca carrera por construir barcos cada vez más grandes: la capacidad de los cargueros ha crecido un 1.500%</title>
-            <link>https://www.xataka.com/transporte/loca-loca-carrera-construir-barcos-cada-vez-grandes-capacidad-cargueros-ha-crecido-1-500</link>
-            <description>La loca, loca carrera por construir barcos cada vez más grandes: la capacidad de los cargueros ha crecido un 1.500%</description>
-            <pubDate>Sat Oct 28 18:01:33 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Un enchufe inteligente puede hacer que tu WiFi vaya mejor si haces esto</title>
-            <link>https://www.redeszone.net/noticias/wifi/enchufe-inteligente-mejorar-wifi/</link>
-            <description>Un enchufe inteligente puede hacer que tu WiFi vaya mejor si haces esto</description>
-            <pubDate>Sat Oct 28 17:06:10 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Unos investigadores estaban siguiendo a un atún. De repente descubrieron que estaba en una carretera camino a Birmingham</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/unos-investigadores-estaban-siguiendo-a-atun-repente-descubrieron-que-estaba-carretera-camino-a-birmingham</link>
-            <description>Unos investigadores estaban siguiendo a un atún. De repente descubrieron que estaba en una carretera camino a Birmingham</description>
-            <pubDate>Sat Oct 28 17:01:33 2023</pubDate>
             </item></channel>
 </rss>
