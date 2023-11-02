@@ -6,15 +6,63 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>atareao con Linux: Hyprland un espectacular tiling con espectaculares efectos</title>
+            <link>https://atareao.es/podcast/hyprland-un-espectacular-tiling-con-espectaculares-efectos/</link>
+            <description>Hyprland un espectacular tiling con espectaculares efectos</description>
+            <pubDate>Thu Nov  2 07:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Plex introduce un cambio muy esperado por los usuarios</title>
+            <link>https://www.adslzone.net/noticias/streaming-tv/plex-cambio-muy-esperado-novedades-1123/</link>
+            <description>Plex introduce un cambio muy esperado por los usuarios</description>
+            <pubDate>Thu Nov  2 06:00:03 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Toy Gaming Controller Makes The Big Leagues</title>
+            <link>https://hackaday.com/2023/11/01/toy-gaming-controller-makes-the-big-leagues/</link>
+            <description>Toy Gaming Controller Makes The Big Leagues</description>
+            <pubDate>Thu Nov  2 05:00:22 2023</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: FOSS Weekly #23.44: Kernel 6.6, Midori Reborn, Gaming Distros, Arch Install and More</title>
+            <link>https://itsfoss.com/newsletter/foss-weekly-23-44/</link>
+            <description>FOSS Weekly #23.44: Kernel 6.6, Midori Reborn, Gaming Distros, Arch Install and More</description>
+            <pubDate>Thu Nov  2 04:30:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Raspberry Pi OS In-Place Upgrades, Not For The Faint Hearted</title>
+            <link>https://hackaday.com/2023/11/01/raspberry-pi-os-in-place-upgrades-not-for-the-faint-hearted/</link>
+            <description>Raspberry Pi OS In-Place Upgrades, Not For The Faint Hearted</description>
+            <pubDate>Thu Nov  2 02:00:55 2023</pubDate>
+            </item>
+            <item>
+            <title>NKSistemas: NVIDIA lanza la versión 545.29.02 de su controlador con varias mejoras</title>
+            <link>https://nksistemas.com/nvidia-lanza-la-version-545-29-02-de-su-controlador-con-varias-mejoras/</link>
+            <description>NVIDIA lanza la versión 545.29.02 de su controlador con varias mejoras</description>
+            <pubDate>Thu Nov  2 00:13:58 2023</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: Principales técnicas de evasión de firewalls</title>
+            <link>https://www.hackplayers.com/2023/07/tecnicas-evasion-firewall.html</link>
+            <description>Principales técnicas de evasión de firewalls</description>
+            <pubDate>Wed Nov  1 23:45:13 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 2023 Halloween Hackfest: Spooky Noise Maker Is Self-Contained</title>
+            <link>https://hackaday.com/2023/11/01/2023-halloween-hackfest-spooky-noise-maker-is-self-contained/</link>
+            <description>2023 Halloween Hackfest: Spooky Noise Maker Is Self-Contained</description>
+            <pubDate>Wed Nov  1 23:00:30 2023</pubDate>
+            </item>
+            <item>
             <title>LiGNUx: NVIDIA actualiza su controlador a la versión 545.29.02</title>
             <link>https://lignux.com/nvidia-actualiza-su-controlador-a-la-version-545-29-02/</link>
             <description>NVIDIA actualiza su controlador a la versión 545.29.02</description>
             <pubDate>Wed Nov  1 22:41:28 2023</pubDate>
             </item>
             <item>
-            <title>Xataka: Unos investigadores del MIT han conseguido evaporar agua con luz (sin calor): se trata de un hallazgo sorprendente</title>
+            <title>Xataka: Unos investigadores del MIT han conseguido evaporar agua con luz: se trata de un hallazgo sorprendente</title>
             <link>https://www.xataka.com/investigacion/unos-investigadores-mit-han-conseguido-evaporar-agua-luz-calor-se-trata-hallazgo-sorprendente</link>
-            <description>Unos investigadores del MIT han conseguido evaporar agua con luz (sin calor): se trata de un hallazgo sorprendente</description>
+            <description>Unos investigadores del MIT han conseguido evaporar agua con luz: se trata de un hallazgo sorprendente</description>
             <pubDate>Wed Nov  1 22:39:52 2023</pubDate>
             </item>
             <item>
@@ -22,53 +70,5 @@
             <link>https://www.hackplayers.com/2023/11/secuestro-de-objetos-com-persistencia.html</link>
             <description>Secuestro de objetos COM para persistencia</description>
             <pubDate>Wed Nov  1 22:28:43 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Qué pasará con los clientes de Vodafone tras la compra por parte de Zegona?</title>
-            <link>https://www.adslzone.net/noticias/operadores/que-pasara-clientes-vodafone-zegona/</link>
-            <description>¿Qué pasará con los clientes de Vodafone tras la compra por parte de Zegona?</description>
-            <pubDate>Wed Nov  1 21:06:02 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Ahora una IA te ayuda a buscar trabajo online</title>
-            <link>https://www.adslzone.net/noticias/ia/ia-ayuda-buscar-trabajo-online-1123/</link>
-            <description>Ahora una IA te ayuda a buscar trabajo online</description>
-            <pubDate>Wed Nov  1 20:30:20 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: This OSHW Trackball is Ready to be Customized</title>
-            <link>https://hackaday.com/2023/11/01/this-oshw-trackball-is-ready-to-be-customized/</link>
-            <description>This OSHW Trackball is Ready to be Customized</description>
-            <pubDate>Wed Nov  1 20:00:33 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon celebra Halloween liquidando esta tablet de 10 pulgadas, 16 Gb de RAM, 4G y Android 13, dejándola por menos de 150 euros</title>
-            <link>https://www.adslzone.net/ofertas/amazon/tablet-teclast-m50-pro-1123/</link>
-            <description>Amazon celebra Halloween liquidando esta tablet de 10 pulgadas, 16 Gb de RAM, 4G y Android 13, dejándola por menos de 150 euros</description>
-            <pubDate>Wed Nov  1 20:00:01 2023</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Experimental Star Wars Speeder Bike #StarWars</title>
-            <link>https://blog.adafruit.com/2023/11/01/experimental-star-wars-speeder-bike-starwars/</link>
-            <description>Experimental Star Wars Speeder Bike #StarWars</description>
-            <pubDate>Wed Nov  1 20:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: Papirus Icon Pack for Linux Gets Fresh Update</title>
-            <link>https://www.omgubuntu.co.uk/2023/11/papirus-icon-pack-november-2023</link>
-            <description>Papirus Icon Pack for Linux Gets Fresh Update</description>
-            <pubDate>Wed Nov  1 19:34:25 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Alguien montó un PC gaming con 22 ventiladores y ahora está preocupado: “Es como un submarino a punto de implosionar”</title>
-            <link>https://www.xataka.com/componentes/alguien-monto-pc-gaming-22-ventiladores-ahora-le-preocupa-su-decision-submarino-a-punto-implosionar</link>
-            <description>Alguien montó un PC gaming con 22 ventiladores y ahora está preocupado: “Es como un submarino a punto de implosionar”</description>
-            <pubDate>Wed Nov  1 19:30:44 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El inesperado cambio de YouTube que te impedirá acceder a la plataforma si no haces esto</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/cambio-youtube-bloquear-anuncios/</link>
-            <description>El inesperado cambio de YouTube que te impedirá acceder a la plataforma si no haces esto</description>
-            <pubDate>Wed Nov  1 19:30:32 2023</pubDate>
             </item></channel>
 </rss>
