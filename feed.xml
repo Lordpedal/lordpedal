@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Lessons in Printer Poop Recycling</title>
+            <link>https://hackaday.com/2023/11/04/lessons-in-printer-poop-recycling/</link>
+            <description>Lessons in Printer Poop Recycling</description>
+            <pubDate>Sun Nov  5 05:00:09 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Looking At How Pyramids Were Built Using Their Casing Stones</title>
+            <link>https://hackaday.com/2023/11/04/looking-at-how-pyramids-were-built-using-their-casing-stones/</link>
+            <description>Looking At How Pyramids Were Built Using Their Casing Stones</description>
+            <pubDate>Sun Nov  5 02:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: OpenELA anuncio la disponibilidad de un repositorio</title>
+            <link>https://www.linuxadictos.com/openela-anuncio-la-disponibilidad-de-un-repositorio.html</link>
+            <description>OpenELA anuncio la disponibilidad de un repositorio</description>
+            <pubDate>Sun Nov  5 00:48:47 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Bcachefs por fin es aceptado y llegara en Linux 6.7</title>
+            <link>https://www.linuxadictos.com/bcachefs-por-fin-es-aceptado-y-llegara-en-linux-6-7.html</link>
+            <description>Bcachefs por fin es aceptado y llegara en Linux 6.7</description>
+            <pubDate>Sun Nov  5 00:27:39 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An Intel 8008 On A Single-Board Computer</title>
+            <link>https://hackaday.com/2023/11/04/an-intel-8008-on-a-single-board-computer/</link>
+            <description>An Intel 8008 On A Single-Board Computer</description>
+            <pubDate>Sat Nov  4 23:00:33 2023</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: BlueOS: Un sistema operativo que utiliza Rust y soporta Linux</title>
+            <link>https://ubunlog.com/blueos-rust-linux/</link>
+            <description>BlueOS: Un sistema operativo que utiliza Rust y soporta Linux</description>
+            <pubDate>Sat Nov  4 22:32:33 2023</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Si no funciona bien tu tele Samsung, haz esto</title>
             <link>https://www.adslzone.net/noticias/streaming-tv/arreglar-problemas-tele-samsung/</link>
             <description>Si no funciona bien tu tele Samsung, haz esto</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/desactivar-servicios-movistar-ahorrar-1123/</link>
             <description>3 cosas que puedes desactivar en Movistar y ahorrar dinero todos los meses</description>
             <pubDate>Sat Nov  4 19:03:30 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: BOKA Vanguard, el barco semisumergible de carga más grande del mundo: una mole para mover 110.000 toneladas</title>
-            <link>https://www.xataka.com/transporte/boka-vanguard-barco-semisumergible-carga-grande-mundo-mole-para-mover-110-000-toneladas</link>
-            <description>BOKA Vanguard, el barco semisumergible de carga más grande del mundo: una mole para mover 110.000 toneladas</description>
-            <pubDate>Sat Nov  4 19:01:01 2023</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: 4 Nuevas Características de Plasma 6 – Vídeo de Nicco</title>
-            <link>https://www.kdeblog.com/4-nuevas-caracteristicas-de-plasma-6-video-de-nicco.html</link>
-            <description>4 Nuevas Características de Plasma 6 – Vídeo de Nicco</description>
-            <pubDate>Sat Nov  4 18:40:21 2023</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Chrome 119 presenta un nuevo ciclo de lanzamiento, grupos de pestañas y mas</title>
-            <link>https://ubunlog.com/chrome-119-presenta-un-nuevo-ciclo-de-lanzamiento-grupos-de-pestanas-y-mas/</link>
-            <description>Chrome 119 presenta un nuevo ciclo de lanzamiento, grupos de pestañas y mas</description>
-            <pubDate>Sat Nov  4 18:37:40 2023</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Firefox 119 llega con mejoras de importación, mejoras en el visor PDF y mas</title>
-            <link>https://ubunlog.com/firefox-119-llega-con-mejoras-de-importacion-mejoras-en-el-visor-pdf-y-mas/</link>
-            <description>Firefox 119 llega con mejoras de importación, mejoras en el visor PDF y mas</description>
-            <pubDate>Sat Nov  4 18:20:49 2023</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Audacity 3.4 llega con soporte para Opus, nuevas funciones y mas</title>
-            <link>https://blog.desdelinux.net/audacity-3-4-llega-con-soporte-para-opus-nuevas-funciones-y-mas/</link>
-            <description>Audacity 3.4 llega con soporte para Opus, nuevas funciones y mas</description>
-            <pubDate>Sat Nov  4 18:05:07 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Haz que todos tus aparatos de casa tengan buen Wi-Fi con estos trucos</title>
-            <link>https://www.redeszone.net/noticias/wifi/trucos-aparatos-casa-buen-wifi/</link>
-            <description>Haz que todos tus aparatos de casa tengan buen Wi-Fi con estos trucos</description>
-            <pubDate>Sat Nov  4 18:03:33 2023</pubDate>
             </item></channel>
 </rss>
