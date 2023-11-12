@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Ham Radio Memes in the 1970s</title>
+            <link>https://hackaday.com/2023/11/11/ham-radio-memes-in-the-1970s/</link>
+            <description>Ham Radio Memes in the 1970s</description>
+            <pubDate>Sun Nov 12 06:00:19 2023</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: ¿Qué es mTLS y Por Qué es un Aliado de la Ciberseguridad?</title>
+            <link>https://esgeeks.com/que-es-mtls/</link>
+            <description>¿Qué es mTLS y Por Qué es un Aliado de la Ciberseguridad?</description>
+            <pubDate>Sun Nov 12 03:54:39 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The AI Pin: a Smart Body Camera That Wants To Compete With Smartphones</title>
+            <link>https://hackaday.com/2023/11/11/the-ai-pin-a-smart-body-camera-that-wants-to-compete-with-smartphones/</link>
+            <description>The AI Pin: a Smart Body Camera That Wants To Compete With Smartphones</description>
+            <pubDate>Sun Nov 12 03:00:21 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Mysterious 6502 Apple 2 simulator</title>
+            <link>https://hackaday.com/2023/11/11/a-mysterious-6502-apple-2-simulator/</link>
+            <description>A Mysterious 6502 Apple 2 simulator</description>
+            <pubDate>Sun Nov 12 00:00:16 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Vega Linux la apuesta de Amazon para reemplazar Android en los Fire TV</title>
+            <link>https://blog.desdelinux.net/vega-linux-la-apuesta-de-amazon-para-reemplazar-android-en-los-fire-tv/</link>
+            <description>Vega Linux la apuesta de Amazon para reemplazar Android en los Fire TV</description>
+            <pubDate>Sat Nov 11 23:56:22 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Fedora 40 dirá adiós a la sesión X11 en KDE y dejando solo a Wayland</title>
+            <link>https://blog.desdelinux.net/fedora-40-dira-adios-a-la-sesion-x11-en-kde-y-dejando-solo-a-wayland/</link>
+            <description>Fedora 40 dirá adiós a la sesión X11 en KDE y dejando solo a Wayland</description>
+            <pubDate>Sat Nov 11 23:26:56 2023</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Exim 4.97 ya fue liberado y estas son sus novedades</title>
+            <link>https://www.linuxadictos.com/exim-4-97-ya-fue-liberado-y-estas-son-sus-novedades.html</link>
+            <description>Exim 4.97 ya fue liberado y estas son sus novedades</description>
+            <pubDate>Sat Nov 11 23:26:31 2023</pubDate>
+            </item>
+            <item>
+            <title>Tomates Asesinos: Los forks de Godot a 2023</title>
+            <link>https://tomatesasesinos.com/2023/11/12/los-forks-de-godot-a-2023/</link>
+            <description>Los forks de Godot a 2023</description>
+            <pubDate>Sat Nov 11 23:06:29 2023</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Llega informe de estado de FreeBSD del tercer trimestre de 2023</title>
+            <link>https://blog.desdelinux.net/llega-informe-de-estado-de-freebsd-del-tercer-trimestre-de-2023/</link>
+            <description>Llega informe de estado de FreeBSD del tercer trimestre de 2023</description>
+            <pubDate>Sat Nov 11 22:35:19 2023</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: KDE 6 contará con soporte para las extensiones Wayland de gestión de color</title>
             <link>https://www.linuxadictos.com/kde-6-contara-con-soporte-para-las-extensiones-wayland-de-gestion-de-color.html</link>
             <description>KDE 6 contará con soporte para las extensiones Wayland de gestión de color</description>
@@ -16,59 +70,5 @@
             <link>https://www.adslzone.net/noticias/seguridad/diferencias-seguridad-wpa2-wpa3/</link>
             <description>Deberías protegerte bien: Estas son las diferencias entre WPA2 y WPA3</description>
             <pubDate>Sat Nov 11 21:00:43 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Neopixels? Try Liquid Nitrogen to Color Shift Your LEDs Instead</title>
-            <link>https://hackaday.com/2023/11/11/neopixels-try-liquid-nitrogen-to-color-shift-your-leds-instead/</link>
-            <description>Neopixels? Try Liquid Nitrogen to Color Shift Your LEDs Instead</description>
-            <pubDate>Sat Nov 11 21:00:29 2023</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Circle Clock, más relojes para plasma – Plasmoides de KDE (233)</title>
-            <link>https://www.kdeblog.com/circle-clock-mas-relojes-para-plasma-plasmoides-de-kde-233.html</link>
-            <description>Circle Clock, más relojes para plasma – Plasmoides de KDE (233)</description>
-            <pubDate>Sat Nov 11 20:03:47 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así puedes convertir tu Amazon Echo en un repetidor WiFi</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/convertir-amazon-echo-repetidor-wifi/</link>
-            <description>Así puedes convertir tu Amazon Echo en un repetidor WiFi</description>
-            <pubDate>Sat Nov 11 20:00:50 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los dirigibles están de vuelta. Y lo han hecho con una de las mayores aeronaves del mundo: 124 metros y 12 motores</title>
-            <link>https://www.xataka.com/transporte/dirigibles-estan-vuelta-han-hecho-mayores-aeronaves-mundo-124-metros-12-motores</link>
-            <description>Los dirigibles están de vuelta. Y lo han hecho con una de las mayores aeronaves del mundo: 124 metros y 12 motores</description>
-            <pubDate>Sat Nov 11 19:01:57 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: De esta forma puedes localizar el iPhone si no lo encuentras gracias a la linterna</title>
-            <link>https://www.adslzone.net/noticias/moviles/encontrar-iphone-usando-linterna/</link>
-            <description>De esta forma puedes localizar el iPhone si no lo encuentras gracias a la linterna</description>
-            <pubDate>Sat Nov 11 19:00:03 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Estos investigadores creen haber descubierto el cementerio más antiguo del mundo. Problema: no lo creamos nosotros</title>
-            <link>https://www.xataka.com/investigacion/estos-investigadores-creen-haber-descubierto-cementerio-antiguo-mundo-problema-no-creamos-nosotros</link>
-            <description>Estos investigadores creen haber descubierto el cementerio más antiguo del mundo. Problema: no lo creamos nosotros</description>
-            <pubDate>Sat Nov 11 18:31:57 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Qué fue de PGP, el programa que hubo que imprimir en un libro para que su creador no fuera acusado de "exportar armamento"</title>
-            <link>https://www.genbeta.com/a-fondo/que-fue-pgp-programa-que-hubo-que-imprimir-libro-su-creador-no-fuera-acusado-exportar-armamento</link>
-            <description>Qué fue de PGP, el programa que hubo que imprimir en un libro para que su creador no fuera acusado de "exportar armamento"</description>
-            <pubDate>Sat Nov 11 18:12:58 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Trucos para mejorar el aislamiento térmico en tu casa y pagar menos luz</title>
-            <link>https://www.redeszone.net/noticias/power/trucos-mejorar-aislamiento-casa/</link>
-            <description>Trucos para mejorar el aislamiento térmico en tu casa y pagar menos luz</description>
-            <pubDate>Sat Nov 11 18:05:23 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los anillos de Saturno son tan finos que cada 15 años los perdemos de vista, y no queda mucho para ello</title>
-            <link>https://www.xataka.com/espacio/anillos-saturno-finos-que-cada-15-anos-perdemos-vista-no-queda-mucho-para-ello</link>
-            <description>Los anillos de Saturno son tan finos que cada 15 años los perdemos de vista, y no queda mucho para ello</description>
-            <pubDate>Sat Nov 11 18:01:57 2023</pubDate>
             </item></channel>
 </rss>
