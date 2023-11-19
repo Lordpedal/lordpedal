@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Bigfoot Turns Classic Sewing Machine into a Leather-Eating Monster</title>
+            <link>https://hackaday.com/2023/11/18/bigfoot-turns-classic-sewing-machine-into-a-leather-eating-monster/</link>
+            <description>Bigfoot Turns Classic Sewing Machine into a Leather-Eating Monster</description>
+            <pubDate>Sun Nov 19 06:00:58 2023</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: LibreOffice Alternatives for Linux</title>
+            <link>https://itsfoss.com/libreoffice-alternatives-linux/</link>
+            <description>LibreOffice Alternatives for Linux</description>
+            <pubDate>Sun Nov 19 05:21:50 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Restoring the Silver Swan Automaton</title>
+            <link>https://hackaday.com/2023/11/18/restoring-the-silver-swan-automaton/</link>
+            <description>Restoring the Silver Swan Automaton</description>
+            <pubDate>Sun Nov 19 03:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Wandering Through Old Word Processors Yields a Beast</title>
+            <link>https://hackaday.com/2023/11/18/wandering-through-old-word-processors-yields-a-beast/</link>
+            <description>Wandering Through Old Word Processors Yields a Beast</description>
+            <pubDate>Sun Nov 19 00:00:48 2023</pubDate>
+            </item>
+            <item>
             <title>El Pingüino Tolkiano: DAE-24: reporte de progreso para noviembre</title>
             <link>https://elpinguinotolkiano.wordpress.com/2023/11/18/dae-24-reporte-de-progreso-para-noviembre/</link>
             <description>DAE-24: reporte de progreso para noviembre</description>
@@ -46,29 +70,5 @@
             <link>https://www.kdeblog.com/avances-de-krita-fruto-de-la-colaboracion-con-el-programa-google-summer-of-code-2023.html</link>
             <description>Avances de Krita fruto de la colaboración con el programa Google Summer of Code 2023</description>
             <pubDate>Sat Nov 18 18:42:30 2023</pubDate>
-            </item>
-            <item>
-            <title>Elbinario: Nueva Instancia searxng</title>
-            <link>https://elbinario.net/2023/11/18/nueva-instancia-searxng/</link>
-            <description>Nueva Instancia searxng</description>
-            <pubDate>Sat Nov 18 18:07:53 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Cuántos aparatos puedes conectar a un repetidor Wi-Fi? Esto debes saber</title>
-            <link>https://www.redeszone.net/noticias/wifi/cuantos-aparatos-conectar-repetidor-wifi/</link>
-            <description>¿Cuántos aparatos puedes conectar a un repetidor Wi-Fi? Esto debes saber</description>
-            <pubDate>Sat Nov 18 18:06:32 2023</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Oracle Linux 9.3: Un Vistazo a las Novedades y Mejoras</title>
-            <link>https://nksistemas.com/oracle-linux-9-3-un-vistazo-a-las-novedades-y-mejoras/</link>
-            <description>Oracle Linux 9.3: Un Vistazo a las Novedades y Mejoras</description>
-            <pubDate>Sat Nov 18 18:02:58 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La caza de ballenas a lo largo de los años ha tenido un efecto inesperado: ha afectado a su diversidad genética</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/caza-ballenas-a-largo-anos-ha-tenido-efecto-inesperado-ha-afectado-a-diversidad-genetica-especie</link>
-            <description>La caza de ballenas a lo largo de los años ha tenido un efecto inesperado: ha afectado a su diversidad genética</description>
-            <pubDate>Sat Nov 18 18:01:25 2023</pubDate>
             </item></channel>
 </rss>
