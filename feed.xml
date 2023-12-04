@@ -6,9 +6,57 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>OMG! Ubuntu: Use Reco to Record System Audio & Your Microphone in Ubuntu</title>
+            <title>It's FOSS: How to Install Docker on Ubuntu</title>
+            <link>https://itsfoss.com/install-docker-ubuntu/</link>
+            <description>How to Install Docker on Ubuntu</description>
+            <pubDate>Mon Dec  4 06:00:40 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Haz estos sencillos pasos en tu móvil para proteger tus fotos y vídeos</title>
+            <link>https://www.adslzone.net/noticias/moviles/pasos-movil-proteger-fotos-videos/</link>
+            <description>Haz estos sencillos pasos en tu móvil para proteger tus fotos y vídeos</description>
+            <pubDate>Mon Dec  4 06:00:06 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Handheld Hackintosh, But So Much More</title>
+            <link>https://hackaday.com/2023/12/03/a-handheld-hackintosh-but-so-much-more/</link>
+            <description>A Handheld Hackintosh, But So Much More</description>
+            <pubDate>Mon Dec  4 06:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>el blog de lázaro: Bloquear acceso a internet en router Mikrotik</title>
+            <link>https://elblogdelazaro.org/posts/2023-12-04-bloquear-acceso-a-internet-en-router-ikrotik/</link>
+            <description>Bloquear acceso a internet en router Mikrotik</description>
+            <pubDate>Mon Dec  4 05:30:00 2023</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Microsoft Warns of Malvertising Scheme Spreading CACTUS Ransomware</title>
+            <link>https://thehackernews.com/2023/12/microsoft-warns-of-malvertising-scheme.html</link>
+            <description>Microsoft Warns of Malvertising Scheme Spreading CACTUS Ransomware</description>
+            <pubDate>Mon Dec  4 04:20:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: pico-WSPR-tx Does it in Software</title>
+            <link>https://hackaday.com/2023/12/03/pico-wspr-tx-does-it-in-software/</link>
+            <description>pico-WSPR-tx Does it in Software</description>
+            <pubDate>Mon Dec  4 03:00:22 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: December 3, 2023</title>
+            <link>https://hackaday.com/2023/12/03/hackaday-links-december-3-2023/</link>
+            <description>Hackaday Links: December 3, 2023</description>
+            <pubDate>Mon Dec  4 00:00:01 2023</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Pling Store y OCS-URL: 2 apps para personalizar Linux y más</title>
+            <link>https://ubunlog.com/pling-store-ocs-url-apps-personalizar-linux/</link>
+            <description>Pling Store y OCS-URL: 2 apps para personalizar Linux y más</description>
+            <pubDate>Sun Dec  3 23:08:50 2023</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: This App Records System Audio & Microphone Together in Ubuntu</title>
             <link>https://www.omgubuntu.co.uk/2023/12/reco-record-system-audio-microphone-same-time-ubuntu</link>
-            <description>Use Reco to Record System Audio & Your Microphone in Ubuntu</description>
+            <description>This App Records System Audio & Microphone Together in Ubuntu</description>
             <pubDate>Sun Dec  3 22:27:45 2023</pubDate>
             </item>
             <item>
@@ -22,53 +70,5 @@
             <link>https://www.adslzone.net/noticias/internet/mejor-hora-compras-navidad-2023/</link>
             <description>Google predice el mejor momento para ir de compras esta Navidad sin esperar colas</description>
             <pubDate>Sun Dec  3 21:02:22 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: The Best Kind of Handheld Gaming Is Homemade</title>
-            <link>https://hackaday.com/2023/12/03/the-best-kind-of-handheld-gaming-is-homemade/</link>
-            <description>The Best Kind of Handheld Gaming Is Homemade</description>
-            <pubDate>Sun Dec  3 21:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Eduke32: Un Juego FPS para Linux basado en Duke Nukem 3D</title>
-            <link>https://ubunlog.com/eduke32-duke-nukem-3d-fps-linux/</link>
-            <description>Eduke32: Un Juego FPS para Linux basado en Duke Nukem 3D</description>
-            <pubDate>Sun Dec  3 20:42:41 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Conoce este truco de Google Maps para una situación de emergencia</title>
-            <link>https://www.adslzone.net/noticias/internet/truco-google-maps-situacion-emergencia/</link>
-            <description>Conoce este truco de Google Maps para una situación de emergencia</description>
-            <pubDate>Sun Dec  3 20:00:42 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Qué fue de los Sony Vaio P, los portátiles de bolsillo que propusieron un nuevo concepto de computación móvil</title>
-            <link>https://www.xataka.com/ordenadores/que-fue-sony-vaio-p-ordenadores-que-bolsillo-que-intentaron-redefinir-concepto-computacion-movil</link>
-            <description>Qué fue de los Sony Vaio P, los portátiles de bolsillo que propusieron un nuevo concepto de computación móvil</description>
-            <pubDate>Sun Dec  3 20:00:00 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Secadoras sin instalación: seca tu ropa dónde quieras aunque llueva</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/secadoras-portatiles-sin-instalacion/</link>
-            <description>Secadoras sin instalación: seca tu ropa dónde quieras aunque llueva</description>
-            <pubDate>Sun Dec  3 19:03:41 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La loca historia del rascacielos "más pequeño del mundo": cómo se gestó el edificio más contradictorio posible</title>
-            <link>https://www.xataka.com/ingenieria-y-megaconstrucciones/loca-historia-rascacielos-pequeno-mundo-como-se-gesto-edificio-contradictorio-posible</link>
-            <description>La loca historia del rascacielos "más pequeño del mundo": cómo se gestó el edificio más contradictorio posible</description>
-            <pubDate>Sun Dec  3 19:01:30 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Evita que tu Wi-Fi tenga altibajos con estos trucos</title>
-            <link>https://www.redeszone.net/noticias/wifi/evitar-wifi-tenga-altibajos/</link>
-            <description>Evita que tu Wi-Fi tenga altibajos con estos trucos</description>
-            <pubDate>Sun Dec  3 18:08:42 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La historia del Duke of Lancaster, el barco olvidado durante décadas con un tesoro único a bordo: 50 recreativas arcade</title>
-            <link>https://www.xataka.com/historia-tecnologica/historia-duke-of-lancaster-barco-olvidado-durante-decadas-tesoro-unico-a-bordo-50-recreativas-arcade</link>
-            <description>La historia del Duke of Lancaster, el barco olvidado durante décadas con un tesoro único a bordo: 50 recreativas arcade</description>
-            <pubDate>Sun Dec  3 18:04:56 2023</pubDate>
             </item></channel>
 </rss>
