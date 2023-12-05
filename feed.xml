@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Finally! A Typeface For Hardware People</title>
+            <link>https://hackaday.com/2023/12/04/finally-a-typeface-for-hardware-people/</link>
+            <description>Finally! A Typeface For Hardware People</description>
+            <pubDate>Tue Dec  5 06:00:37 2023</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Seguro que desconocías esta importante función de la cámara de Windows 11</title>
+            <link>https://www.adslzone.net/noticias/windows/importante-funcion-camara-windows-11/</link>
+            <description>Seguro que desconocías esta importante función de la cámara de Windows 11</description>
+            <pubDate>Tue Dec  5 06:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Better 3D Printing Overhangs? Dive! Dive!</title>
+            <link>https://hackaday.com/2023/12/04/better-3d-printing-overhangs-dive-dive/</link>
+            <description>Better 3D Printing Overhangs? Dive! Dive!</description>
+            <pubDate>Tue Dec  5 03:00:44 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Stereoscopic Macro Lens Shows Two is Better than One</title>
+            <link>https://hackaday.com/2023/12/04/stereoscopic-macro-lens-shows-two-is-better-than-one/</link>
+            <description>Stereoscopic Macro Lens Shows Two is Better than One</description>
+            <pubDate>Tue Dec  5 00:00:33 2023</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Bombazo: Rockstar Games publica el tráiler de GTA VI antes de su lanzamiento (y justo después de que se filtre)</title>
+            <link>https://www.xataka.com/videojuegos/bombazo-rockstar-games-publica-trailer-gta-vi-dia-antes-su-lanzamiento-justo-despues-que-se-filtre</link>
+            <description>Bombazo: Rockstar Games publica el tráiler de GTA VI antes de su lanzamiento (y justo después de que se filtre)</description>
+            <pubDate>Mon Dec  4 23:19:50 2023</pubDate>
+            </item>
+            <item>
             <title>EsGeeks: NoSQLMap: Enumeración y Explotación de Bases de Datos NoSQL</title>
             <link>https://esgeeks.com/nosqlmap-enumeracion-explotacion-nosql/</link>
             <description>NoSQLMap: Enumeración y Explotación de Bases de Datos NoSQL</description>
@@ -40,35 +70,5 @@
             <link>https://hackaday.com/2023/12/04/powering-a-cavity-magnetron-from-a-battery/</link>
             <description>Powering A Cavity Magnetron, From A Battery</description>
             <pubDate>Mon Dec  4 20:13:29 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon hunde el precio de estos auriculares premium JBL con gran batería y cancelación de ruido</title>
-            <link>https://www.adslzone.net/ofertas/amazon/auriculares-jbl-live-flex-1223/</link>
-            <description>Amazon hunde el precio de estos auriculares premium JBL con gran batería y cancelación de ruido</description>
-            <pubDate>Mon Dec  4 20:05:20 2023</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: Logsensor: Descubrir Paneles de Inicio de Sesión y Detectar SQLi</title>
-            <link>https://esgeeks.com/logsensor-descubrir-panel-web-detectar-sqli/</link>
-            <description>Logsensor: Descubrir Paneles de Inicio de Sesión y Detectar SQLi</description>
-            <pubDate>Mon Dec  4 19:30:18 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así puedes ver cuánta memoria usan las pestañas de Google Chrome</title>
-            <link>https://www.adslzone.net/noticias/internet/cuanta-memoria-usan-pestanas-google-chrome/</link>
-            <description>Así puedes ver cuánta memoria usan las pestañas de Google Chrome</description>
-            <pubDate>Mon Dec  4 19:30:08 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Retrotechtacular: The Story of Turpentine</title>
-            <link>https://hackaday.com/2023/12/04/retrotechtacular-the-story-of-turpentine/</link>
-            <description>Retrotechtacular: The Story of Turpentine</description>
-            <pubDate>Mon Dec  4 19:30:03 2023</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Ese supuesto cliente de tu página de Facebook sólo está intentando colarte un malware para robártela</title>
-            <link>https://www.genbeta.com/seguridad/ese-supuesto-cliente-tu-pagina-facebook-solo-esta-intentando-colarte-malware-para-robartela</link>
-            <description>Ese supuesto cliente de tu página de Facebook sólo está intentando colarte un malware para robártela</description>
-            <pubDate>Mon Dec  4 19:24:31 2023</pubDate>
             </item></channel>
 </rss>
