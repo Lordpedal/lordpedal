@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Tube Design Tips To Save A Writer’s Project</title>
+            <link>https://hackaday.com/2023/12/30/tube-design-tips-to-save-a-writers-project/</link>
+            <description>Tube Design Tips To Save A Writer’s Project</description>
+            <pubDate>Sun Dec 31 06:00:00 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Localizing Fireworks Launches With A Raspberry Pi</title>
+            <link>https://hackaday.com/2023/12/30/localizing-fireworks-launches-with-a-raspberry-pi/</link>
+            <description>Localizing Fireworks Launches With A Raspberry Pi</description>
+            <pubDate>Sun Dec 31 03:00:13 2023</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: Lo más visto de 2023 en Hackplayers</title>
+            <link>https://www.hackplayers.com/2023/12/lo-mas-visto-de-2023-en-hackplayers.html</link>
+            <description>Lo más visto de 2023 en Hackplayers</description>
+            <pubDate>Sun Dec 31 00:14:56 2023</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 37C3: When Apple Ditches Thunderbolt, Hack USB-C</title>
+            <link>https://hackaday.com/2023/12/30/37c3-when-apple-ditches-thunderbolt-hack-usb-c/</link>
+            <description>37C3: When Apple Ditches Thunderbolt, Hack USB-C</description>
+            <pubDate>Sun Dec 31 00:00:11 2023</pubDate>
+            </item>
+            <item>
             <title>hackplayers: Explotando CVE-2023-50164 (RCE en Apache Struts 2)</title>
             <link>https://www.hackplayers.com/2023/12/explotando-cve-2023-50164-rce-en-struts2.html</link>
             <description>Explotando CVE-2023-50164 (RCE en Apache Struts 2)</description>
@@ -46,29 +70,5 @@
             <link>https://www.genbeta.com/paso-a-paso/esta-web-mejor-forma-grabar-pantalla-instalar-nada-windows-macos-linux-sonido-webcam</link>
             <description>Esta web es la mejor forma de grabar la pantalla sin instalar nada en Windows, macOS y Linux, con sonido y webcam</description>
             <pubDate>Sat Dec 30 18:48:10 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: Ecológica, con montaje en tres días y cuesta como un coche de gama media: así es la casa portátil de Zomes</title>
-            <link>https://www.xatakahome.com/diseno-y-arquitectura/ecologica-montaje-tres-dias-cuesta-como-coche-gama-media-asi-casa-portatil-zomes-1</link>
-            <description>Ecológica, con montaje en tres días y cuesta como un coche de gama media: así es la casa portátil de Zomes</description>
-            <pubDate>Sat Dec 30 18:27:40 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El mamotreto de Añaza: el megahotel abandonado en la costa de Tenerife desde hace 40 años que nunca se terminó</title>
-            <link>https://www.xataka.com/ingenieria-y-megaconstrucciones/mamotreto-anaza-hotel-abandonado-costa-tenerife-hace-40-anos-que-nunca-se-termino</link>
-            <description>El mamotreto de Añaza: el megahotel abandonado en la costa de Tenerife desde hace 40 años que nunca se terminó</description>
-            <pubDate>Sat Dec 30 18:01:34 2023</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Para esto es útil usar tu VPN en tu casa</title>
-            <link>https://www.redeszone.net/noticias/redes/util-usar-vpn-casa/</link>
-            <description>Para esto es útil usar tu VPN en tu casa</description>
-            <pubDate>Sat Dec 30 18:01:04 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Quivering Facehugger is All Geared Up</title>
-            <link>https://hackaday.com/2023/12/30/quivering-facehugger-is-all-geared-up/</link>
-            <description>Quivering Facehugger is All Geared Up</description>
-            <pubDate>Sat Dec 30 18:00:57 2023</pubDate>
             </item></channel>
 </rss>
