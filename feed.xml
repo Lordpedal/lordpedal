@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: New JinxLoader Targeting Users with Formbook and XLoader Malware</title>
+            <link>https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html</link>
+            <description>New JinxLoader Targeting Users with Formbook and XLoader Malware</description>
+            <pubDate>Mon Jan  1 06:52:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Frog Boy Color Reimagines The Game Boy Color Hardware From The Ground Up</title>
+            <link>https://hackaday.com/2023/12/31/frog-boy-color-reimagines-the-game-boy-color-hardware-from-the-ground-up/</link>
+            <description>Frog Boy Color Reimagines The Game Boy Color Hardware From The Ground Up</description>
+            <pubDate>Mon Jan  1 06:00:56 2024</pubDate>
+            </item>
+            <item>
+            <title>el blog de lázaro: Configurar Pi-Hole en un servidor unRaid</title>
+            <link>https://elblogdelazaro.org/posts/2024-01-01-configurar-pi-hole-en-un-servidor-unraid/</link>
+            <description>Configurar Pi-Hole en un servidor unRaid</description>
+            <pubDate>Mon Jan  1 05:30:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: How IBM Stumbled Onto RISC</title>
+            <link>https://hackaday.com/2023/12/31/how-ibm-stumbled-onto-risc/</link>
+            <description>How IBM Stumbled Onto RISC</description>
+            <pubDate>Mon Jan  1 03:00:11 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An Electronic Orchestra Baton</title>
+            <link>https://hackaday.com/2023/12/31/an-electronic-orchestra-baton/</link>
+            <description>An Electronic Orchestra Baton</description>
+            <pubDate>Mon Jan  1 00:00:15 2024</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: 3D Printing Your Own Triboelectric Generators</title>
             <link>https://hackaday.com/2023/12/31/3d-printing-your-own-triboelectric-generators/</link>
             <description>3D Printing Your Own Triboelectric Generators</description>
@@ -40,35 +70,5 @@
             <link>https://www.genbeta.com/a-fondo/tres-consejos-sencillos-efectivos-para-evitar-estafas-telefonicas-bancarias-que-puedes-dar-esta-cena-nochevieja-a-tu-familia</link>
             <description>Tres consejos sencillos y efectivos para evitar estafas telefónicas bancarias que puedes dar en esta cena de Nochevieja a tu familia</description>
             <pubDate>Sun Dec 31 18:01:38 2023</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Welcome To The Year Of The Diagonal Linux Desktop</title>
-            <link>https://hackaday.com/2023/12/31/welcome-to-the-year-of-the-diagonal-linux-desktop/</link>
-            <description>Welcome To The Year Of The Diagonal Linux Desktop</description>
-            <pubDate>Sun Dec 31 18:00:38 2023</pubDate>
-            </item>
-            <item>
-            <title>DistritoTux: Explorando Auxtral: Una nueva joya en el mundo de las distribuciones Linux</title>
-            <link>https://www.distritotux.cl/2023/12/explorando-auxtral-una-nueva-joya-en-el.html</link>
-            <description>Explorando Auxtral: Una nueva joya en el mundo de las distribuciones Linux</description>
-            <pubDate>Sun Dec 31 17:18:09 2023</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Un estudiante chino tenía en secreto una criptomina de seis millones de dólares en Texas. Ahora tiene un problema</title>
-            <link>https://www.xataka.com/criptomonedas/estudiante-tenia-secreto-cripto-mina-millonaria-eso-nos-dice-mucho-flujo-dinero-china-eeuu</link>
-            <description>Un estudiante chino tenía en secreto una criptomina de seis millones de dólares en Texas. Ahora tiene un problema</description>
-            <pubDate>Sun Dec 31 17:01:38 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon revienta su web y pone este reloj TicWatch Pro con GPS y 45 días de batería a precio mínimo</title>
-            <link>https://www.adslzone.net/ofertas/amazon/smartwatch-ticwatch-pro-3-ultra-1223/</link>
-            <description>Amazon revienta su web y pone este reloj TicWatch Pro con GPS y 45 días de batería a precio mínimo</description>
-            <pubDate>Sun Dec 31 17:01:13 2023</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: No me quiero conectar a esta red Wifi: Cómo eliminarla en iOS y en Android</title>
-            <link>https://www.adslzone.net/noticias/internet/eliminar-wifi-guardado-ios-android/</link>
-            <description>No me quiero conectar a esta red Wifi: Cómo eliminarla en iOS y en Android</description>
-            <pubDate>Sun Dec 31 17:00:37 2023</pubDate>
             </item></channel>
 </rss>
