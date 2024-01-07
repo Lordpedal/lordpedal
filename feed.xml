@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: An Adjustable High-Voltage Power Supply Built with Safety in Mind</title>
+            <link>https://hackaday.com/2024/01/06/an-adjustable-high-voltage-power-supply-built-with-safety-in-mind/</link>
+            <description>An Adjustable High-Voltage Power Supply Built with Safety in Mind</description>
+            <pubDate>Sun Jan  7 06:00:52 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: [Thomas Sanladerer] Gets New Threads</title>
+            <link>https://hackaday.com/2024/01/06/thomas-sanladerer-gets-new-threads/</link>
+            <description>[Thomas Sanladerer] Gets New Threads</description>
+            <pubDate>Sun Jan  7 03:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: SSH-Snake: propagación automatica por SSH</title>
+            <link>https://www.hackplayers.com/2024/01/ssh-snake-propagacion-automatica-por-ssh.html</link>
+            <description>SSH-Snake: propagación automatica por SSH</description>
+            <pubDate>Sun Jan  7 01:12:35 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Seeing Fireworks in a Different Light</title>
+            <link>https://hackaday.com/2024/01/06/seeing-fireworks-in-a-different-light/</link>
+            <description>Seeing Fireworks in a Different Light</description>
+            <pubDate>Sun Jan  7 00:00:15 2024</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Después de dos años, Log4Shell sigue siendo un problema, pues muchos proyectos aún son vulnerables</title>
             <link>https://www.linuxadictos.com/despues-de-dos-anos-log4shell-sigue-siendo-un-problema-pues-muchos-proyectos-aun-son-vulnerables.html</link>
             <description>Después de dos años, Log4Shell sigue siendo un problema, pues muchos proyectos aún son vulnerables</description>
@@ -46,29 +70,5 @@
             <link>https://www.adslzone.net/noticias/streaming-tv/mejores-soportes-colgar-smart-tv/</link>
             <description>Los 4 mejores soportes para colgar tu Smart TV en la pared</description>
             <pubDate>Sat Jan  6 20:01:51 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Por qué pausar una película o serie durante horas puede acabar con tu Smart TV</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/problema-pausar-pelicula-serie-smart-tv/</link>
-            <description>Por qué pausar una película o serie durante horas puede acabar con tu Smart TV</description>
-            <pubDate>Sat Jan  6 19:01:41 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Guanzhou Baiyun, la gigantesca nueva estación de tren china que se ha convertido en una de las más grandes de Asia</title>
-            <link>https://www.xataka.com/ingenieria-y-megaconstrucciones/china-tiene-mayores-estaciones-ferrocarril-asia-siete-plantas-sala-espera-40-000-m2</link>
-            <description>Guanzhou Baiyun, la gigantesca nueva estación de tren china que se ha convertido en una de las más grandes de Asia</description>
-            <pubDate>Sat Jan  6 19:00:46 2024</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Murió el creador del lenguaje de programación Pascal</title>
-            <link>https://ubunlog.com/murio-el-creador-del-lenguaje-de-programacion-pascal/</link>
-            <description>Murió el creador del lenguaje de programación Pascal</description>
-            <pubDate>Sat Jan  6 18:43:23 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Estos cambios me han venido muy bien para gastar menos luz en casa</title>
-            <link>https://www.redeszone.net/noticias/power/cambios-gastar-menos-luz-casa/</link>
-            <description>Estos cambios me han venido muy bien para gastar menos luz en casa</description>
-            <pubDate>Sat Jan  6 18:06:24 2024</pubDate>
             </item></channel>
 </rss>
