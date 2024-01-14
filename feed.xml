@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: How to Operate a 500KW Transmitter</title>
+            <link>https://hackaday.com/2024/01/13/how-to-operate-a-500kw-transmitter/</link>
+            <description>How to Operate a 500KW Transmitter</description>
+            <pubDate>Sun Jan 14 06:00:07 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reverse Engineering Smart Meters, Now with More Fuming Nitric Acid</title>
+            <link>https://hackaday.com/2024/01/13/reverse-engineering-smart-meters-now-with-more-fuming-nitric-acid/</link>
+            <description>Reverse Engineering Smart Meters, Now with More Fuming Nitric Acid</description>
+            <pubDate>Sun Jan 14 03:00:20 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Simulate Running a Small Hardware Business with Hardware Hustle</title>
+            <link>https://hackaday.com/2024/01/13/simulate-running-a-small-hardware-business-with-hardware-hustle/</link>
+            <description>Simulate Running a Small Hardware Business with Hardware Hustle</description>
+            <pubDate>Sun Jan 14 00:00:28 2024</pubDate>
+            </item>
+            <item>
             <title>Desde Linux: Novedades sobre Distros del Linuxverso: Semana 02 del año 2024</title>
             <link>https://blog.desdelinux.net/linuxverso-semana-02-2024/</link>
             <description>Novedades sobre Distros del Linuxverso: Semana 02 del año 2024</description>
@@ -52,23 +70,5 @@
             <link>https://www.xataka.com/investigacion/que-madres-compartan-mes-cumpleanos-sus-hijos-algo-sorprendentemente-habitual</link>
             <description>Que las madres compartan el mes de cumpleaños con sus hijos es algo sorprendentemente habitual</description>
             <pubDate>Sat Jan 13 18:01:35 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esta plataforma de streaming podría aumentar sus precios pronto</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/plataforma-streaming-aumentar-precios-0124/</link>
-            <description>Esta plataforma de streaming podría aumentar sus precios pronto</description>
-            <pubDate>Sat Jan 13 18:00:38 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Skip the Radio with This Software-Defined Ultrasound Data Link</title>
-            <link>https://hackaday.com/2024/01/13/skip-the-radio-with-this-software-defined-ultrasound-data-link/</link>
-            <description>Skip the Radio with This Software-Defined Ultrasound Data Link</description>
-            <pubDate>Sat Jan 13 18:00:25 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Estos auriculares Sony con enorme batería están a precio de derribo en Amazon</title>
-            <link>https://www.adslzone.net/ofertas/amazon/auriculares-sony-wf-c500-0124/</link>
-            <description>Estos auriculares Sony con enorme batería están a precio de derribo en Amazon</description>
-            <pubDate>Sat Jan 13 17:02:28 2024</pubDate>
             </item></channel>
 </rss>
