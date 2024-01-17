@@ -6,9 +6,63 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>Xataka: Todo lo que tienen que pagar a la NASA los astronautas que viajan en un vuelo privado a la Estación Espacial Internacional</title>
+            <title>Blog – Hackaday: Check Out This PDP-11 Running Unix With A Teletype Terminal</title>
+            <link>https://hackaday.com/2024/01/16/check-out-this-pdp-11-running-unix-with-a-teletype-terminal/</link>
+            <description>Check Out This PDP-11 Running Unix With A Teletype Terminal</description>
+            <pubDate>Wed Jan 17 06:00:55 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Nunca hagas esto si hay hielo en tu parabrisas</title>
+            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/quitar-hielo-parabrisas/</link>
+            <description>Nunca hagas esto si hay hielo en tu parabrisas</description>
+            <pubDate>Wed Jan 17 06:00:51 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Citrix, VMware, and Atlassian Hit with Critical Flaws — Patch ASAP!</title>
+            <link>https://thehackernews.com/2024/01/citrix-vmware-and-atlassian-hit-with.html</link>
+            <description>Citrix, VMware, and Atlassian Hit with Critical Flaws — Patch ASAP!</description>
+            <pubDate>Wed Jan 17 04:14:00 2024</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Ataque de Clic Cero: Ataque Silencioso pero Mortal</title>
+            <link>https://esgeeks.com/que-es-ataque-clic-cero/</link>
+            <description>Ataque de Clic Cero: Ataque Silencioso pero Mortal</description>
+            <pubDate>Wed Jan 17 03:31:14 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Need a Refresher on RMS?</title>
+            <link>https://hackaday.com/2024/01/16/need-a-refresher-on-rms/</link>
+            <description>Need a Refresher on RMS?</description>
+            <pubDate>Wed Jan 17 03:00:18 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Zero-Day Alert: Update Chrome Now to Fix New Actively Exploited Vulnerability</title>
+            <link>https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html</link>
+            <description>Zero-Day Alert: Update Chrome Now to Fix New Actively Exploited Vulnerability</description>
+            <pubDate>Wed Jan 17 02:20:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Disponible PulseAudio 17 con mejoras en el soporte de Bluetooth</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/disponible-pulseaudio-17-con-mejoras-en-el-soporte-de-bluetooth/</link>
+            <description>Disponible PulseAudio 17 con mejoras en el soporte de Bluetooth</description>
+            <pubDate>Wed Jan 17 00:02:30 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reverse-Engineering A Russian Tornado-S Guidance Circuit Board</title>
+            <link>https://hackaday.com/2024/01/16/reverse-engineering-a-russian-tornado-s-guidance-circuit-board/</link>
+            <description>Reverse-Engineering A Russian Tornado-S Guidance Circuit Board</description>
+            <pubDate>Wed Jan 17 00:00:33 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: La falta de cobertura móvil es un problema para los tractores autónomos de John Deere: Starlink acaba de solucionarlo</title>
+            <link>https://www.xataka.com/transporte/falta-cobertura-movil-problema-para-tractores-autonomos-john-deere-starlink-acaba-solucionarlo</link>
+            <description>La falta de cobertura móvil es un problema para los tractores autónomos de John Deere: Starlink acaba de solucionarlo</description>
+            <pubDate>Tue Jan 16 23:42:05 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Esto es lo que pagarán a la NASA los astronautas del vuelo privado a la Estación Espacial Internacional</title>
             <link>https://www.xataka.com/espacio/todo-que-tienen-que-pagar-a-nasa-astronautas-que-viajan-vuelo-privado-a-estacion-espacial-internacional</link>
-            <description>Todo lo que tienen que pagar a la NASA los astronautas que viajan en un vuelo privado a la Estación Espacial Internacional</description>
+            <description>Esto es lo que pagarán a la NASA los astronautas del vuelo privado a la Estación Espacial Internacional</description>
             <pubDate>Tue Jan 16 22:56:49 2024</pubDate>
             </item>
             <item>
@@ -16,59 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/movistar-tarifa-fibra-movil-tv-descuento-0124/</link>
             <description>Movistar se une a la fiesta de poner fibra + TV + móvil con descuento</description>
             <pubDate>Tue Jan 16 21:03:32 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Alguien se hizo con 1,8 millones de euros en criptomonedas gracias al ‘cryptojacking’: acabó siendo arrestado por Europol</title>
-            <link>https://www.xataka.com/seguridad/alguien-se-hizo-1-8-millones-euros-criptomonedas-gracias-al-cryptojacking-acabo-siendo-arrestado-europol</link>
-            <description>Alguien se hizo con 1,8 millones de euros en criptomonedas gracias al ‘cryptojacking’: acabó siendo arrestado por Europol</description>
-            <pubDate>Tue Jan 16 21:00:36 2024</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Go Time 299: All about Kafka</title>
-            <link>https://changelog.com/gotime/299</link>
-            <description>Go Time 299: All about Kafka</description>
-            <pubDate>Tue Jan 16 21:00:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Kinetic Clock Is A Clean Modern Way To Tell Time</title>
-            <link>https://hackaday.com/2024/01/16/kinetic-clock-is-a-clean-modern-way-to-tell-time/</link>
-            <description>Kinetic Clock Is A Clean Modern Way To Tell Time</description>
-            <pubDate>Tue Jan 16 21:00:00 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El precio de los servicios de telefonía, al alza: suben por primera vez en cinco años</title>
-            <link>https://www.adslzone.net/noticias/fintech/crece-precio-servicios-telefonia-espana-0124/</link>
-            <description>El precio de los servicios de telefonía, al alza: suben por primera vez en cinco años</description>
-            <pubDate>Tue Jan 16 20:30:19 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Mediamarkt revienta el precio de este smartphone Samsung Galaxy con 5G y cámara de 50 megapíxeles</title>
-            <link>https://www.adslzone.net/ofertas/mix/smartphone-samsung-galaxy-s23-ultra-5g-0124/</link>
-            <description>Mediamarkt revienta el precio de este smartphone Samsung Galaxy con 5G y cámara de 50 megapíxeles</description>
-            <pubDate>Tue Jan 16 20:00:41 2024</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: WinesapOS: Una Distro GNU/Linux portable para jugar en cualquier lugar</title>
-            <link>https://blog.desdelinux.net/winesapos/</link>
-            <description>WinesapOS: Una Distro GNU/Linux portable para jugar en cualquier lugar</description>
-            <pubDate>Tue Jan 16 19:44:50 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Aparece por fin el 'CEO' de la criptoestafa millonaria de HyperVerse: no era más que un actor a sueldo</title>
-            <link>https://www.genbeta.com/actualidad/aparece-fin-ceo-criptoestafa-millonaria-hyperverse-no-era-que-actor-a-sueldo</link>
-            <description>Aparece por fin el 'CEO' de la criptoestafa millonaria de HyperVerse: no era más que un actor a sueldo</description>
-            <pubDate>Tue Jan 16 19:42:24 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: $50 10Gbps Mesh Network uses USB4</title>
-            <link>https://hackaday.com/2024/01/16/50-10gbps-mesh-network-uses-usb4/</link>
-            <description>$50 10Gbps Mesh Network uses USB4</description>
-            <pubDate>Tue Jan 16 19:30:35 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Ya hay empresas chinas destripando las gráficas más potentes de NVIDIA: las necesitan para sus centros de datos de IA</title>
-            <link>https://www.xataka.com/empresas-y-economia/hay-empresas-chinas-destripando-graficas-potentes-nvidia-necesitan-para-sus-centros-datos-ia</link>
-            <description>Ya hay empresas chinas destripando las gráficas más potentes de NVIDIA: las necesitan para sus centros de datos de IA</description>
-            <pubDate>Tue Jan 16 19:30:14 2024</pubDate>
             </item></channel>
 </rss>
