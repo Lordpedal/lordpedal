@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Learn Sailing Mechanics Without Leaving Dry Land</title>
+            <link>https://hackaday.com/2024/01/20/learn-sailing-mechanics-without-leaving-dry-land/</link>
+            <description>Learn Sailing Mechanics Without Leaving Dry Land</description>
+            <pubDate>Sun Jan 21 06:00:50 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: How A Steam Bug Once Deleted All Of Someone’s User Data</title>
+            <link>https://hackaday.com/2024/01/20/how-a-steam-bug-once-deleted-all-of-someones-user-data/</link>
+            <description>How A Steam Bug Once Deleted All Of Someone’s User Data</description>
+            <pubDate>Sun Jan 21 03:00:46 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Giant LEGO You Always Wanted To Play With</title>
+            <link>https://hackaday.com/2024/01/20/the-giant-lego-you-always-wanted-to-play-with/</link>
+            <description>The Giant LEGO You Always Wanted To Play With</description>
+            <pubDate>Sun Jan 21 00:00:00 2024</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Tu router de Movistar esconde una función para mejorar la conexión y jugar online sin cortes</title>
             <link>https://www.adslzone.net/noticias/operadores/router-movistar-modo-mejorar-conexion/</link>
             <description>Tu router de Movistar esconde una función para mejorar la conexión y jugar online sin cortes</description>
@@ -52,23 +70,5 @@
             <link>https://hackaday.com/2024/01/20/street-photography-with-radar/</link>
             <description>Street Photography, With RADAR!</description>
             <pubDate>Sat Jan 20 18:00:57 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hemos descubierto un “anillo cósmico” de miles de millones de años luz de diámetro. Y no sabemos cómo explicarlo</title>
-            <link>https://www.xataka.com/espacio/hemos-descubierto-anillo-cosmico-miles-millones-anos-luz-diametro-no-sabemos-como-explicarlo</link>
-            <description>Hemos descubierto un “anillo cósmico” de miles de millones de años luz de diámetro. Y no sabemos cómo explicarlo</description>
-            <pubDate>Sat Jan 20 18:00:56 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Haz este nuevo ajuste en Discord para garantizar que tu privacidad está a salvo</title>
-            <link>https://www.adslzone.net/noticias/internet/nuevo-ajuste-discord-garantizar-privacidad-0124/</link>
-            <description>Haz este nuevo ajuste en Discord para garantizar que tu privacidad está a salvo</description>
-            <pubDate>Sat Jan 20 18:00:05 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog Bitix: Compro un soporte de monitor para ganar espacio en la mesa</title>
-            <link>https://picodotdev.github.io/blog-bitix/2024/01/compro-un-soporte-de-monitor-para-ganar-espacio-en-la-mesa/</link>
-            <description>Compro un soporte de monitor para ganar espacio en la mesa</description>
-            <pubDate>Sat Jan 20 18:00:00 2024</pubDate>
             </item></channel>
 </rss>
