@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: FM Radio is Discriminating</title>
+            <link>https://hackaday.com/2024/01/21/fm-radio-is-discriminating/</link>
+            <description>FM Radio is Discriminating</description>
+            <pubDate>Mon Jan 22 06:00:20 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Esta popular función de Netflix está a punto de desparecer</title>
+            <link>https://www.adslzone.net/noticias/streaming-tv/popular-funcion-netflix-desparecer/</link>
+            <description>Esta popular función de Netflix está a punto de desparecer</description>
+            <pubDate>Mon Jan 22 06:00:20 2024</pubDate>
+            </item>
+            <item>
+            <title>el blog de lázaro: Wombag, un cliente de Wallabag para Emacs</title>
+            <link>https://elblogdelazaro.org/posts/2024-01-22-wombag-un-cliente-de-wallabag-para-emacs/</link>
+            <description>Wombag, un cliente de Wallabag para Emacs</description>
+            <pubDate>Mon Jan 22 05:30:00 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Apache ActiveMQ Flaw Exploited in New Godzilla Web Shell Attacks</title>
+            <link>https://thehackernews.com/2024/01/apache-activemq-flaw-exploited-in-new.html</link>
+            <description>Apache ActiveMQ Flaw Exploited in New Godzilla Web Shell Attacks</description>
+            <pubDate>Mon Jan 22 03:40:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 640k Was Never Enough For Anyone: How DOS Broke Free</title>
+            <link>https://hackaday.com/2024/01/21/640k-was-never-enough-for-anyone-how-dos-broke-free/</link>
+            <description>640k Was Never Enough For Anyone: How DOS Broke Free</description>
+            <pubDate>Mon Jan 22 03:00:50 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: 2023, un año que con mucho movimiento para el open source</title>
+            <link>https://blog.desdelinux.net/2023-un-ano-que-con-mucho-movimiento-para-el-open-source/</link>
+            <description>2023, un año que con mucho movimiento para el open source</description>
+            <pubDate>Mon Jan 22 02:34:39 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Meshtastic, un proyecto de red de comunicaciones descentralizada para zonas de difícil acceso</title>
+            <link>https://www.linuxadictos.com/meshtastic-un-proyecto-de-red-de-comunicaciones-descentralizada-para-zonas-de-dificil-acceso.html</link>
+            <description>Meshtastic, un proyecto de red de comunicaciones descentralizada para zonas de difícil acceso</description>
+            <pubDate>Mon Jan 22 01:26:06 2024</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: MySQL 8.3 ya fue liberado y estas son sus novedades</title>
+            <link>https://ubunlog.com/mysql-8-3-ya-fue-liberado-y-estas-son-sus-novedades/</link>
+            <description>MySQL 8.3 ya fue liberado y estas son sus novedades</description>
+            <pubDate>Mon Jan 22 00:10:43 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: January 21, 2024</title>
+            <link>https://hackaday.com/2024/01/21/hackaday-links-january-21-2024/</link>
+            <description>Hackaday Links: January 21, 2024</description>
+            <pubDate>Mon Jan 22 00:00:56 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Vcc, un compilador basado en Clang diseñado para generar código ejecutable en Vulkan</title>
+            <link>https://www.linuxadictos.com/vcc-un-compilador-basado-en-clang-disenado-para-generar-codigo-ejecutable-en-vulkan.html</link>
+            <description>Vcc, un compilador basado en Clang diseñado para generar código ejecutable en Vulkan</description>
+            <pubDate>Sun Jan 21 23:32:00 2024</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Sí, hay 5 casos en los que puedes instalarte tú mismo el router</title>
             <link>https://www.adslzone.net/noticias/redes/casos-instalar-tu-router/</link>
             <description>Sí, hay 5 casos en los que puedes instalarte tú mismo el router</description>
             <pubDate>Sun Jan 21 21:00:50 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Simulating Cellular Biology in the Browser</title>
-            <link>https://hackaday.com/2024/01/21/simulating-cellular-biology-in-the-browser/</link>
-            <description>Simulating Cellular Biology in the Browser</description>
-            <pubDate>Sun Jan 21 21:00:21 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Qué es y cómo configurar la “entrega Mi Día” de Amazon</title>
-            <link>https://www.adslzone.net/noticias/productos/que-es-como-configurar-entrega-mi-dia-amazon/</link>
-            <description>Qué es y cómo configurar la “entrega Mi Día” de Amazon</description>
-            <pubDate>Sun Jan 21 20:01:17 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hace 24 años los japoneses vivían en el futuro: conectaban el móvil a la PlayStation para navegar por Internet</title>
-            <link>https://www.xataka.com/videojuegos/hace-24-anos-japoneses-vivian-futuro-conectaban-movil-a-playstation-para-navegar-internet</link>
-            <description>Hace 24 años los japoneses vivían en el futuro: conectaban el móvil a la PlayStation para navegar por Internet</description>
-            <pubDate>Sun Jan 21 20:01:02 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los alucinantes barcos Bethesda, los nuevos buques médicos de la Marina de Estados Unidos</title>
-            <link>https://www.xataka.com/transporte/alucinantes-barcos-bethesda-nuevos-buques-medicos-marina-estados-unidos</link>
-            <description>Los alucinantes barcos Bethesda, los nuevos buques médicos de la Marina de Estados Unidos</description>
-            <pubDate>Sun Jan 21 19:01:03 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Si aceptas este email fraudulento, te conviertes en víctima de sextorsión: Así puedes evitarlo</title>
-            <link>https://www.adslzone.net/noticias/seguridad/email-fraudulento-victima-sextorsion-evitarlo/</link>
-            <description>Si aceptas este email fraudulento, te conviertes en víctima de sextorsión: Así puedes evitarlo</description>
-            <pubDate>Sun Jan 21 19:00:14 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: No te fíes, el modo Eco no siempre te ayuda a ahorrar energía</title>
-            <link>https://www.redeszone.net/noticias/power/modo-eco-cuando-no-ahorra/</link>
-            <description>No te fíes, el modo Eco no siempre te ayuda a ahorrar energía</description>
-            <pubDate>Sun Jan 21 18:04:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El nuevo gadget que quiere arrasar en 2024: estos son los mejores anillos inteligentes</title>
-            <link>https://www.xataka.com/wearables/nuevo-gadget-que-quiere-arrasar-2024-estos-mejores-anillos-inteligentes</link>
-            <description>El nuevo gadget que quiere arrasar en 2024: estos son los mejores anillos inteligentes</description>
-            <pubDate>Sun Jan 21 18:01:02 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Este era el código fuente del programador traidor de Parque Jurásico. 31 años después, sabemos para qué servía</title>
-            <link>https://www.genbeta.com/desarrollo/este-era-codigo-fuente-programador-traidor-parque-jurasico-31-anos-despues-sabemos-servia</link>
-            <description>Este era el código fuente del programador traidor de Parque Jurásico. 31 años después, sabemos para qué servía</description>
-            <pubDate>Sun Jan 21 18:01:02 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Creators Can Fight Back Against AI With Nightshade</title>
-            <link>https://hackaday.com/2024/01/21/creators-can-fight-back-against-ai-with-nightshade/</link>
-            <description>Creators Can Fight Back Against AI With Nightshade</description>
-            <pubDate>Sun Jan 21 18:00:45 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Este operador va a por Digi y O2 con su mejor oferta de fibra</title>
-            <link>https://www.adslzone.net/noticias/operadores/operador-estrena-mejor-oferta-fibra-0124/</link>
-            <description>Este operador va a por Digi y O2 con su mejor oferta de fibra</description>
-            <pubDate>Sun Jan 21 18:00:40 2024</pubDate>
             </item></channel>
 </rss>
