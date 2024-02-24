@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: MovieCart Plays Videos On The Atari 2600</title>
+            <link>https://hackaday.com/2024/02/23/moviecart-plays-videos-on-the-atari-2600/</link>
+            <description>MovieCart Plays Videos On The Atari 2600</description>
+            <pubDate>Sat Feb 24 06:00:29 2024</pubDate>
+            </item>
+            <item>
+            <title>geekland: Cómo configurar una IP estática en Raspberry Pi con nmcli</title>
+            <link>https://geekland.eu/como-configurar-una-ip-estatica-en-raspberry-pi-con-nmcli/</link>
+            <description>Cómo configurar una IP estática en Raspberry Pi con nmcli</description>
+            <pubDate>Sat Feb 24 05:39:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Mirror, Mirror, Electron Mirror…</title>
+            <link>https://hackaday.com/2024/02/23/mirror-mirror-electron-mirror/</link>
+            <description>Mirror, Mirror, Electron Mirror…</description>
+            <pubDate>Sat Feb 24 03:00:27 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: La nave privada que llegó a la Luna volcó durante el aterrizaje. Lo milagroso es que consiguiera aterrizar</title>
+            <link>https://www.xataka.com/espacio/nave-privada-que-llego-a-luna-volco-durante-aterrizaje-milagroso-que-consiguiera-aterrizar</link>
+            <description>La nave privada que llegó a la Luna volcó durante el aterrizaje. Lo milagroso es que consiguiera aterrizar</description>
+            <pubDate>Sat Feb 24 01:26:17 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Warp, nueva aplicación de terminal en Rust y potenciada con IA</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/warp-nueva-aplicacion-de-terminal-en-rust-y-potenciada-con-ia/</link>
+            <description>Warp, nueva aplicación de terminal en Rust y potenciada con IA</description>
+            <pubDate>Sat Feb 24 00:04:50 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reggaeton-Be-Gone Disconnects Obnoxious Bluetooth Speakers</title>
+            <link>https://hackaday.com/2024/02/23/reggaeton-be-gone-disconnects-obnoxious-bluetooth-speakers/</link>
+            <description>Reggaeton-Be-Gone Disconnects Obnoxious Bluetooth Speakers</description>
+            <pubDate>Sat Feb 24 00:00:05 2024</pubDate>
+            </item>
+            <item>
             <title>- Junco TIC: Sistemas de archivos: comparando alternativas en GNU/Linux</title>
             <link>https://juncotic.com/sistemas-de-archivos-comparando-alternativas-en-gnu-linux/</link>
             <description>Sistemas de archivos: comparando alternativas en GNU/Linux</description>
@@ -34,41 +70,5 @@
             <link>https://www.xataka.com/movilidad/china-tiene-malas-noticias-para-tesla-hibrido-enchufable-esta-comiendo-terreno-al-coche-electrico-zonas-rurales</link>
             <description>China tiene malas noticias para Tesla: el híbrido enchufable está comiendo terreno al coche eléctrico en las zonas rurales</description>
             <pubDate>Fri Feb 23 20:00:58 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon promueve un ahorro de 100 euros para este smartphone de Realme, con batería infinita y pantalla ultrafluida</title>
-            <link>https://www.adslzone.net/ofertas/amazon/smartphone-realme-9-pro-5g-0224/</link>
-            <description>Amazon promueve un ahorro de 100 euros para este smartphone de Realme, con batería infinita y pantalla ultrafluida</description>
-            <pubDate>Fri Feb 23 20:00:09 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: No te creas que Gmail está a punto de cerrar: es un bulo que se aprovecha de dos datos reales</title>
-            <link>https://www.genbeta.com/actualidad/no-te-creas-que-gmail-esta-a-punto-cerrar-bulo-que-se-aprovecha-dos-datos-reales</link>
-            <description>No te creas que Gmail está a punto de cerrar: es un bulo que se aprovecha de dos datos reales</description>
-            <pubDate>Fri Feb 23 19:49:04 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las armas antisatélite podrían provocar una gran crisis entre las principales potencias</title>
-            <link>https://www.adslzone.net/noticias/ciencia/armas-antisatelite-provocar-gran-crisis-potencias/</link>
-            <description>Las armas antisatélite podrían provocar una gran crisis entre las principales potencias</description>
-            <pubDate>Fri Feb 23 19:30:38 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Intuitive Machines’ Nova-C Makes It to the Lunar Surface in US Return After Half a Century</title>
-            <link>https://hackaday.com/2024/02/23/intuitive-machines-nova-c-makes-it-to-the-lunar-surface-in-us-return-after-half-a-century/</link>
-            <description>Intuitive Machines’ Nova-C Makes It to the Lunar Surface in US Return After Half a Century</description>
-            <pubDate>Fri Feb 23 19:30:15 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Primer tráiler con gameplay de ‘Age of Empires Mobile’: una nueva experiencia de juego que promete no olvidar su esencia</title>
-            <link>https://www.xataka.com/videojuegos/primer-trailer-gameplay-age-of-empires-mobile-nueva-experiencia-juego-que-promete-no-olvidar-su-esencia</link>
-            <description>Primer tráiler con gameplay de ‘Age of Empires Mobile’: una nueva experiencia de juego que promete no olvidar su esencia</description>
-            <pubDate>Fri Feb 23 19:29:34 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'Alas de hierro' es el fenómeno editorial del momento: caos en las librerías, fans desatados y especulación en Wallapop</title>
-            <link>https://www.xataka.com/literatura-comics-y-juegos/alas-hierro-fenomeno-editorial-momento-caos-librerias-fans-desatados-especulacion-wallapop</link>
-            <description>'Alas de hierro' es el fenómeno editorial del momento: caos en las librerías, fans desatados y especulación en Wallapop</description>
-            <pubDate>Fri Feb 23 19:00:55 2024</pubDate>
             </item></channel>
 </rss>
