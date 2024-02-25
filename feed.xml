@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Recreating the Pop Ball</title>
+            <link>https://hackaday.com/2024/02/24/recreating-the-pop-ball/</link>
+            <description>Recreating the Pop Ball</description>
+            <pubDate>Sun Feb 25 06:00:05 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Bit-Serial CPU: Ultra-Tiny VHDL-Based CPU With Forth Interpreter</title>
+            <link>https://hackaday.com/2024/02/24/bit-serial-cpu-ultra-tiny-vhdl-based-cpu-with-forth-interpreter/</link>
+            <description>Bit-Serial CPU: Ultra-Tiny VHDL-Based CPU With Forth Interpreter</description>
+            <pubDate>Sun Feb 25 03:00:19 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Tetris Goes Round and Round</title>
+            <link>https://hackaday.com/2024/02/24/tetris-goes-round-and-round/</link>
+            <description>Tetris Goes Round and Round</description>
+            <pubDate>Sun Feb 25 00:00:03 2024</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: Aprende Terminal de Linux desde cero, video 13,continuación de Filtros</title>
             <link>https://www.distritotux.cl/2024/02/aprende-terminal-de-linux-desde-cero_24.html</link>
             <description>Aprende Terminal de Linux desde cero, video 13,continuación de Filtros</description>
@@ -52,23 +70,5 @@
             <link>https://www.adslzone.net/noticias/internet/registrar-movil-efectuar-tramites-sms-seguridad-social/</link>
             <description>Cómo registrar tu móvil en la Seguridad Social para poder realizar tus trámites online</description>
             <pubDate>Sat Feb 24 19:00:30 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Esto va a pasar si tienes un repetidor Wi-Fi cerca de un patio</title>
-            <link>https://www.redeszone.net/noticias/wifi/problema-repetidor-wifi-cerca-patio/</link>
-            <description>Esto va a pasar si tienes un repetidor Wi-Fi cerca de un patio</description>
-            <pubDate>Sat Feb 24 18:07:42 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Unos investigadores creyeron que habían captado una misteriosa señal del espacio. Era solo un microondas</title>
-            <link>https://www.xataka.com/espacio/creyeron-que-habian-captado-misteriosa-senal-espacio-era-solo-microondas</link>
-            <description>Unos investigadores creyeron que habían captado una misteriosa señal del espacio. Era solo un microondas</description>
-            <pubDate>Sat Feb 24 18:01:10 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Más presión al IPTV pirata y las descargas: su presencia en los buscadores tiene los días contados</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/presion-iptv-pirata-descargas-presencia-buscadores-0224/</link>
-            <description>Más presión al IPTV pirata y las descargas: su presencia en los buscadores tiene los días contados</description>
-            <pubDate>Sat Feb 24 18:00:38 2024</pubDate>
             </item></channel>
 </rss>
