@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Mercedes-Benz retrocede en su plan de vender únicamente vehículos eléctricos para 2030</title>
+            <link>https://www.linuxparty.es/94-transportes/11958-mercedes-benz-retrocede-en-su-plan-de-vender-unicamente-vehiculos-electricos-para-2030.html</link>
+            <description>Mercedes-Benz retrocede en su plan de vender únicamente vehículos eléctricos para 2030</description>
+            <pubDate>Wed Feb 28 07:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>KDE Blog: ¿Estás preparado?</title>
+            <link>https://www.kdeblog.com/estas-preparado.html</link>
+            <description>¿Estás preparado?</description>
+            <pubDate>Wed Feb 28 06:54:55 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Wire Wrap Odyssey: a 7400-series Homebrew 8-bit Computer</title>
+            <link>https://hackaday.com/2024/02/27/wire-wrap-odyssey-a-7400-series-homebrew-8-bit-computer/</link>
+            <description>Wire Wrap Odyssey: a 7400-series Homebrew 8-bit Computer</description>
+            <pubDate>Wed Feb 28 06:00:59 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Cybersecurity Agencies Warn Ubiquiti EdgeRouter Users of APT28's MooBot Threat</title>
+            <link>https://thehackernews.com/2024/02/cybersecurity-agencies-warn-ubiquiti.html</link>
+            <description>Cybersecurity Agencies Warn Ubiquiti EdgeRouter Users of APT28's MooBot Threat</description>
+            <pubDate>Wed Feb 28 05:47:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Blast From the Past: Schematic Templates</title>
+            <link>https://hackaday.com/2024/02/27/blast-from-the-past-schematic-templates/</link>
+            <description>Blast From the Past: Schematic Templates</description>
+            <pubDate>Wed Feb 28 03:00:06 2024</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: SIM Swapping: Cómo Perder tu Teléfono sin Soltarlo</title>
+            <link>https://esgeeks.com/sim-swapping-que-es-como-protegerte/</link>
+            <description>SIM Swapping: Cómo Perder tu Teléfono sin Soltarlo</description>
+            <pubDate>Wed Feb 28 02:15:11 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: China quiere participar en la carrera del vídeo generativo: acaba de lanzar su primera serie de animación creada con IA</title>
+            <link>https://www.xataka.com/robotica-e-ia/china-quiere-participar-carrera-video-generativo-acaba-lanzar-su-primera-serie-animacion-creada-ia</link>
+            <description>China quiere participar en la carrera del vídeo generativo: acaba de lanzar su primera serie de animación creada con IA</description>
+            <pubDate>Wed Feb 28 00:39:28 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Tails 6.0: la distro proprivacidad da el salto a Debian 12 en su nueva versión mayor</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/tails-6-0-la-distro-proprivacidad-da-el-salto-a-debian-12-en-su-nueva-version-mayor/</link>
+            <description>Tails 6.0: la distro proprivacidad da el salto a Debian 12 en su nueva versión mayor</description>
+            <pubDate>Wed Feb 28 00:03:06 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: KiCad 8, nueva versión del software de automatización de diseño electrónico</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/kicad-8-nueva-version-del-software-de-automatizacion-de-diseno-electronico/</link>
+            <description>KiCad 8, nueva versión del software de automatización de diseño electrónico</description>
+            <pubDate>Wed Feb 28 00:03:01 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Wireless Telescope Guidance You Can Build On The Cheap</title>
+            <link>https://hackaday.com/2024/02/27/wireless-telescope-guidance-you-can-build-on-the-cheap/</link>
+            <description>Wireless Telescope Guidance You Can Build On The Cheap</description>
+            <pubDate>Wed Feb 28 00:00:34 2024</pubDate>
+            </item>
+            <item>
             <title>El Pingüino Tolkiano: WordPress: cómo NO compartir tu sitio con las IA</title>
             <link>https://elpinguinotolkiano.wordpress.com/2024/02/27/wordpress-como-no-compartir-tu-sitio-con-las-ia/</link>
             <description>WordPress: cómo NO compartir tu sitio con las IA</description>
             <pubDate>Tue Feb 27 22:29:44 2024</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Mi selección de aplicaciones del 2024. Undécima parte</title>
-            <link>https://ubunlog.com/mi-seleccion-de-aplicaciones-del-2024-undecima-parte/</link>
-            <description>Mi selección de aplicaciones del 2024. Undécima parte</description>
-            <pubDate>Tue Feb 27 22:24:21 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Microsoft ha invertido millones en la OpenAI de Europa. Y acaba de encontrarse con un desafío: el escrutinio de la UE</title>
-            <link>https://www.xataka.com/empresas-y-economia/microsoft-ha-invertido-millones-openai-europa-acaba-encontrarse-desafio-escrutinio-ue</link>
-            <description>Microsoft ha invertido millones en la OpenAI de Europa. Y acaba de encontrarse con un desafío: el escrutinio de la UE</description>
-            <pubDate>Tue Feb 27 21:31:32 2024</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Go Time 305: Creating art & visualizations with Go</title>
-            <link>https://changelog.com/gotime/305</link>
-            <description>Go Time 305: Creating art & visualizations with Go</description>
-            <pubDate>Tue Feb 27 21:10:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Una de las imágenes más famosas de 'Predator' está basada en un hecho científico, pero disparó el presupuesto al rodarla</title>
-            <link>https://www.xataka.com/cine-y-tv/imagenes-famosas-predator-esta-basada-hecho-cientifico-disparo-presupuesto-al-rodarla</link>
-            <description>Una de las imágenes más famosas de 'Predator' está basada en un hecho científico, pero disparó el presupuesto al rodarla</description>
-            <pubDate>Tue Feb 27 21:01:32 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Última oportunidad: así son las ofertas de Movistar para fibra, TV o deportes</title>
-            <link>https://www.adslzone.net/noticias/operadores/ofertas-movistar-fibra-movil-tv-0224/</link>
-            <description>Última oportunidad: así son las ofertas de Movistar para fibra, TV o deportes</description>
-            <pubDate>Tue Feb 27 21:01:14 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 3D-Printed Automated Development Tank For Classic Photo Films</title>
-            <link>https://hackaday.com/2024/02/27/3d-printed-automated-development-tank-for-classic-photo-films/</link>
-            <description>3D-Printed Automated Development Tank For Classic Photo Films</description>
-            <pubDate>Tue Feb 27 21:00:25 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Este portátil gaming de Lenovo por 400 euros menos te sorprenderá: tarjeta gráfica NVIDIA GeForce 3060 y 16 GB de RAM</title>
-            <link>https://www.adslzone.net/ofertas/amazon/ordenador-portatil-lenovo-ideapad-gaming-3-gen-6-0224/</link>
-            <description>Este portátil gaming de Lenovo por 400 euros menos te sorprenderá: tarjeta gráfica NVIDIA GeForce 3060 y 16 GB de RAM</description>
-            <pubDate>Tue Feb 27 20:00:38 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hace años supimos que la Tierra tiene más de una luna. Los científicos creen que es hora de ir a explorarlas</title>
-            <link>https://www.xataka.com/espacio/hace-anos-descubrimos-que-tierra-tiene-luna-cientificos-creen-que-hora-ir-a-explorarlas</link>
-            <description>Hace años supimos que la Tierra tiene más de una luna. Los científicos creen que es hora de ir a explorarlas</description>
-            <pubDate>Tue Feb 27 19:31:33 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Apple cancela su proyecto de coche eléctrico: el equipo será transferido a otra división de la compañía, según Bloomberg</title>
-            <link>https://www.xataka.com/movilidad/apple-cancela-su-proyecto-de-coche-electrico-el-equipo-sera-transferido-a-otra-division-de-la-compania-segun-bloomberg</link>
-            <description>Apple cancela su proyecto de coche eléctrico: el equipo será transferido a otra división de la compañía, según Bloomberg</description>
-            <pubDate>Tue Feb 27 19:29:40 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Underwater Sensor Takes Single Pair Ethernet for a Dip</title>
-            <link>https://hackaday.com/2024/02/27/underwater-sensor-takes-single-pair-ethernet-for-a-dip/</link>
-            <description>Underwater Sensor Takes Single Pair Ethernet for a Dip</description>
-            <pubDate>Tue Feb 27 19:15:00 2024</pubDate>
             </item></channel>
 </rss>
