@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: The Book You Need to Get Started With Linux Kernel Development</title>
+            <link>https://itsfoss.com/linux-kernel-programming-review/</link>
+            <description>The Book You Need to Get Started With Linux Kernel Development</description>
+            <pubDate>Mon Mar  4 06:30:26 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Todo sobre el Carnet Joven: ventajas y descuentos, requisitos y cómo pedirlo</title>
+            <link>https://www.adslzone.net/noticias/fintech/carnet-joven-ventajas-descuentos-requisitos/</link>
+            <description>Todo sobre el Carnet Joven: ventajas y descuentos, requisitos y cómo pedirlo</description>
+            <pubDate>Mon Mar  4 06:00:43 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Fail of the Week: The Little Remote-Controlled Snowblower That Couldn’t</title>
+            <link>https://hackaday.com/2024/03/03/fail-of-the-week-the-little-remote-controlled-snowblower-that-couldnt/</link>
+            <description>Fail of the Week: The Little Remote-Controlled Snowblower That Couldn’t</description>
+            <pubDate>Mon Mar  4 06:00:42 2024</pubDate>
+            </item>
+            <item>
+            <title>el blog de lázaro: Instalar el notificador de actualizaciones en Fedora Linux</title>
+            <link>https://elblogdelazaro.org/posts/2024-03-04-instalar-el-notificador-de-actualizaciones-en-fedora-linux/</link>
+            <description>Instalar el notificador de actualizaciones en Fedora Linux</description>
+            <pubDate>Mon Mar  4 05:30:00 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Phobos Ransomware Aggressively Targeting U.S. Critical Infrastructure</title>
+            <link>https://thehackernews.com/2024/03/phobos-ransomware-aggressively.html</link>
+            <description>Phobos Ransomware Aggressively Targeting U.S. Critical Infrastructure</description>
+            <pubDate>Mon Mar  4 05:24:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: iPhone 6S NVMe chip Tapped Using a Flexible PCB</title>
+            <link>https://hackaday.com/2024/03/03/iphone-6s-nvme-chip-tapped-using-a-flexible-pcb/</link>
+            <description>iPhone 6S NVMe chip Tapped Using a Flexible PCB</description>
+            <pubDate>Mon Mar  4 03:00:13 2024</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Juegos de guerra para Ubuntu</title>
+            <link>https://ubunlog.com/juegos-de-guerra-para-ubuntu/</link>
+            <description>Juegos de guerra para Ubuntu</description>
+            <pubDate>Mon Mar  4 00:08:32 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: March 3, 2024</title>
+            <link>https://hackaday.com/2024/03/03/hackaday-links-march-3-2024/</link>
+            <description>Hackaday Links: March 3, 2024</description>
+            <pubDate>Mon Mar  4 00:00:51 2024</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Este cable para tu TV es más útil de lo que piensas: puedes ver el móvil en la tele sin WiFi</title>
             <link>https://www.adslzone.net/noticias/streaming-tv/cable-ver-pantalla-movil-tv/</link>
             <description>Este cable para tu TV es más útil de lo que piensas: puedes ver el móvil en la tele sin WiFi</description>
@@ -22,53 +70,5 @@
             <link>https://www.xataka.com/transporte/que-fue-solarplanet-barco-solar-grande-jamas-construido-que-dio-vuelta-al-mundo-hace-decada</link>
             <description>Qué fue de PlanetSolar, el barco solar más grande jamás construido que dio la vuelta al mundo hace más de una década</description>
             <pubDate>Sun Mar  3 20:01:53 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Restablecer de fábrica el ordenador elimina todos los virus?</title>
-            <link>https://www.adslzone.net/noticias/seguridad/restablecer-fabrica-ordenador-elimina-virus/</link>
-            <description>¿Restablecer de fábrica el ordenador elimina todos los virus?</description>
-            <pubDate>Sun Mar  3 20:00:52 2024</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Obsidian es una alternativa a Notion que puedes usar localmente</title>
-            <link>https://ubunlog.com/obsidian-es-una-alternativa-a-notion-que-puedes-usar-localmente/</link>
-            <description>Obsidian es una alternativa a Notion que puedes usar localmente</description>
-            <pubDate>Sun Mar  3 19:12:55 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Estos son los únicos programas a los que confiaría mis contraseñas este 2024</title>
-            <link>https://www.adslzone.net/noticias/internet/unicos-programas-confiaria-contrasenas-2024/</link>
-            <description>Estos son los únicos programas a los que confiaría mis contraseñas este 2024</description>
-            <pubDate>Sun Mar  3 19:00:23 2024</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: Varia Download Manager Now Has Official Browser Extensions</title>
-            <link>https://www.omgubuntu.co.uk/2024/03/varia-download-manager-browser-extensions</link>
-            <description>Varia Download Manager Now Has Official Browser Extensions</description>
-            <pubDate>Sun Mar  3 18:52:49 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Ten esto en cuenta si vas a usar una webcam para Streaming</title>
-            <link>https://www.redeszone.net/noticias/redes/utilizar-webcam-streaming-evitar-problemas/</link>
-            <description>Ten esto en cuenta si vas a usar una webcam para Streaming</description>
-            <pubDate>Sun Mar  3 18:05:03 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hemos ganado una gran batalla contra la vigilancia policial: romper el cifrado de los mensajes va contra los derechos humanos</title>
-            <link>https://www.xataka.com/legislacion-y-derechos/hemos-ganado-gran-batalla-vigilancia-policial-romper-cifrado-mensajes-va-derechos-humanos</link>
-            <description>Hemos ganado una gran batalla contra la vigilancia policial: romper el cifrado de los mensajes va contra los derechos humanos</description>
-            <pubDate>Sun Mar  3 18:01:52 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: En 2024 la gran novedad que esperaba de Spotify era la alta fidelidad. En su lugar lo que ha presentado es un Oráculo musical</title>
-            <link>https://www.genbeta.com/actualidad/cuando-esperaba-que-alta-definicion-fuera-novedad-spotify-2024-servicio-musica-streaming-ofrece-oraculo</link>
-            <description>En 2024 la gran novedad que esperaba de Spotify era la alta fidelidad. En su lugar lo que ha presentado es un Oráculo musical</description>
-            <pubDate>Sun Mar  3 18:01:52 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: Nueve consejos a tener en cuenta si la conexión de fibra no te va a tope ni por cable</title>
-            <link>https://www.xatakahome.com/la-red-local/nueve-consejos-a-tener-cuenta-conexion-fibra-no-te-va-a-tope-cable</link>
-            <description>Nueve consejos a tener en cuenta si la conexión de fibra no te va a tope ni por cable</description>
-            <pubDate>Sun Mar  3 18:01:52 2024</pubDate>
             </item></channel>
 </rss>
