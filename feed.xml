@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: That’s a Lot of Building Systems</title>
+            <link>https://hackaday.com/2024/03/08/thats-a-lot-of-building-systems/</link>
+            <description>That’s a Lot of Building Systems</description>
+            <pubDate>Sat Mar  9 06:00:05 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Microsoft Confirms Russian Hackers Stole Source Code, Some Customer Secrets</title>
+            <link>https://thehackernews.com/2024/03/microsoft-confirms-russian-hackers.html</link>
+            <description>Microsoft Confirms Russian Hackers Stole Source Code, Some Customer Secrets</description>
+            <pubDate>Sat Mar  9 04:01:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 9 de marzo</title>
+            <link>https://www.xataka.com/movilidad/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-9-marzo</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 9 de marzo</description>
+            <pubDate>Sat Mar  9 04:00:43 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Inside America’s Last Morse Code Station</title>
+            <link>https://hackaday.com/2024/03/08/inside-americas-last-morse-code-station/</link>
+            <description>Inside America’s Last Morse Code Station</description>
+            <pubDate>Sat Mar  9 03:00:41 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: OpenAI anuncia cambios en el consejo de administración y la conclusión de la investigación sobre el despido de Sam Altman</title>
+            <link>https://www.xataka.com/empresas-y-economia/openai-anuncia-cambios-consejo-administracion-conclusion-investigacion-despido-sam-altman</link>
+            <description>OpenAI anuncia cambios en el consejo de administración y la conclusión de la investigación sobre el despido de Sam Altman</description>
+            <pubDate>Sat Mar  9 00:16:19 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: openSUSE Tumbleweed ofrece systemd-boot como cargador de arranque opcional</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/opensuse-tumbleweed-ofrece-systemd-boot-como-cargador-de-arranque-opcional/</link>
+            <description>openSUSE Tumbleweed ofrece systemd-boot como cargador de arranque opcional</description>
+            <pubDate>Sat Mar  9 00:03:14 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Pairing A New Remote To A Cheap RC Car</title>
+            <link>https://hackaday.com/2024/03/08/pairing-a-new-remote-to-a-cheap-rc-car/</link>
+            <description>Pairing A New Remote To A Cheap RC Car</description>
+            <pubDate>Sat Mar  9 00:00:03 2024</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: Explorando Sparky Linux: La Distribución Ligera con un Mundo de Opciones</title>
             <link>https://www.distritotux.cl/2024/03/explorando-sparky-linux-la-distribucion.html</link>
             <description>Explorando Sparky Linux: La Distribución Ligera con un Mundo de Opciones</description>
@@ -28,47 +70,5 @@
             <link>https://www.genbeta.com/seguridad/no-hay-que-presentar-denuncia-cada-vez-que-algun-desconocido-te-haga-bizum-error-hayas-leido-whatsapp</link>
             <description>No hay que presentar una denuncia cada vez que algún desconocido 'te haga un bizum' por error, aunque lo hayas leído en WhatsApp</description>
             <pubDate>Fri Mar  8 20:48:28 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: No hay problemas con la renovación de tu Netflix, es una trampa que te puede salir cara</title>
-            <link>https://www.adslzone.net/noticias/seguridad/estafa-problema-renovacion-netflix-0324/</link>
-            <description>No hay problemas con la renovación de tu Netflix, es una trampa que te puede salir cara</description>
-            <pubDate>Fri Mar  8 20:30:40 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Apple da marcha atrás y restaura la cuenta de desarrollador de Epic Games tras la intervención de la Comisión Europea</title>
-            <link>https://www.xataka.com/empresas-y-economia/apple-da-marcha-atras-restaura-cuenta-desarrollador-epic-games-intervencion-comision-europea</link>
-            <description>Apple da marcha atrás y restaura la cuenta de desarrollador de Epic Games tras la intervención de la Comisión Europea</description>
-            <pubDate>Fri Mar  8 20:03:00 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Haz que el día del Padre sea más especial regalando esta Smart TV 4K con IA incorporada</title>
-            <link>https://www.adslzone.net/ofertas/mix/pccomponentes-smart-tv-hisense-55a7kq-0324/</link>
-            <description>Haz que el día del Padre sea más especial regalando esta Smart TV 4K con IA incorporada</description>
-            <pubDate>Fri Mar  8 20:00:05 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Descubierto un planeta con océano, pero tiene un gravísimo problema</title>
-            <link>https://www.adslzone.net/noticias/ciencia/descubierto-planeta-oceano-gravisimo-problema/</link>
-            <description>Descubierto un planeta con océano, pero tiene un gravísimo problema</description>
-            <pubDate>Fri Mar  8 19:30:57 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 2024 Home Sweet Home Automation: Plantpal Is a Friend to You Both</title>
-            <link>https://hackaday.com/2024/03/08/2024-home-sweet-home-automation-plantpal-is-a-friend-to-you-both/</link>
-            <description>2024 Home Sweet Home Automation: Plantpal Is a Friend to You Both</description>
-            <pubDate>Fri Mar  8 19:30:02 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Las oposiciones más fáciles de aprobar en España siguiendo tres criterios: por temario, por plazas y por requisitos</title>
-            <link>https://www.xataka.com/empresas-y-economia/estas-oposiciones-faciles-aprobar-temarios-plazas-requisitos</link>
-            <description>Las oposiciones más fáciles de aprobar en España siguiendo tres criterios: por temario, por plazas y por requisitos</description>
-            <pubDate>Fri Mar  8 19:01:58 2024</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Qué le ocurre a tus riñones si comes mucha proteína todos los días</title>
-            <link>https://www.vitonica.com/proteinas/que-le-ocurre-a-tus-rinones-comes-mucha-proteina-todos-dias</link>
-            <description>Qué le ocurre a tus riñones si comes mucha proteína todos los días</description>
-            <pubDate>Fri Mar  8 19:01:58 2024</pubDate>
             </item></channel>
 </rss>
