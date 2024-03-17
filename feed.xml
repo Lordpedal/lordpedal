@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Desde Linux: Novedades sobre Distros del Linuxverso: Semana 11 del año 2024</title>
+            <link>https://blog.desdelinux.net/linuxverso-semana-11-2024/</link>
+            <description>Novedades sobre Distros del Linuxverso: Semana 11 del año 2024</description>
+            <pubDate>Sun Mar 17 05:00:33 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Arduino Turned Into Something Kinda Like A Pager</title>
+            <link>https://hackaday.com/2024/03/16/arduino-turned-into-something-kinda-like-a-pager/</link>
+            <description>Arduino Turned Into Something Kinda Like A Pager</description>
+            <pubDate>Sun Mar 17 05:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Radicle: An Open-Source, Peer-to-Peer, GitHub Alternative</title>
+            <link>https://hackaday.com/2024/03/16/radicle-an-open-source-peer-to-peer-github-alternative/</link>
+            <description>Radicle: An Open-Source, Peer-to-Peer, GitHub Alternative</description>
+            <pubDate>Sun Mar 17 02:00:18 2024</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Las 10 mejores distribuciones de Linux para principiantes que quieren abandonar Windows</title>
+            <link>https://www.distritotux.cl/2024/03/las-10-mejores-distribuciones-de-linux.html</link>
+            <description>Las 10 mejores distribuciones de Linux para principiantes que quieren abandonar Windows</description>
+            <pubDate>Sat Mar 16 23:29:15 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: NASA Engineers Poke Voyager 1 and Receive Memory Dump</title>
+            <link>https://hackaday.com/2024/03/16/nasa-engineers-poke-voyager-1-and-receive-memory-dump/</link>
+            <description>NASA Engineers Poke Voyager 1 and Receive Memory Dump</description>
+            <pubDate>Sat Mar 16 23:00:28 2024</pubDate>
+            </item>
+            <item>
             <title>El Pingüino Tolkiano: Navegar el universo con Gaia Sky</title>
             <link>https://elpinguinotolkiano.wordpress.com/2024/03/16/navegar-el-universo-con-gaia-sky/</link>
             <description>Navegar el universo con Gaia Sky</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/transporte/plasma-para-invisibilizar-a-sus-aviones-innovacion-que-china-busca-implementar-sus-cazas</link>
             <description>Plasma para "invisibilizar" a sus aviones: la innovación que China busca implementar en sus cazas</description>
             <pubDate>Sat Mar 16 19:00:42 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Mitos y verdades sobre la batería de tu móvil</title>
-            <link>https://www.adslzone.net/noticias/moviles/mitos-verdades-bateria-movil/</link>
-            <description>Mitos y verdades sobre la batería de tu móvil</description>
-            <pubDate>Sat Mar 16 19:00:26 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Seis hábitos simples que te ayudan a mejorar tu concentración para ser más productivo</title>
-            <link>https://www.xataka.com/medicina-y-salud/seis-habitos-simples-que-te-ayudan-a-mejorar-tu-concentracion-para-ser-productivo</link>
-            <description>Seis hábitos simples que te ayudan a mejorar tu concentración para ser más productivo</description>
-            <pubDate>Sat Mar 16 18:30:41 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Elige una VPN como un profesional con estos consejos imprescindibles</title>
-            <link>https://www.redeszone.net/noticias/redes/elegir-vpn-como-profesional/</link>
-            <description>Elige una VPN como un profesional con estos consejos imprescindibles</description>
-            <pubDate>Sat Mar 16 18:02:32 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Por este motivo no deberías ver el mejor estreno 4K de Disney+ de este mes</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/motivo-evitar-ver-mejor-estreno-4k-disney-plus-0324/</link>
-            <description>Por este motivo no deberías ver el mejor estreno 4K de Disney+ de este mes</description>
-            <pubDate>Sat Mar 16 18:00:55 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El alucinante mundo de los "fósiles vivos", especies que pasan miles de millones años sin mutaciones relevantes</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/alucinante-mundo-fosiles-vivos-especies-que-pasan-miles-millones-anos-mutaciones-relevantes</link>
-            <description>El alucinante mundo de los "fósiles vivos", especies que pasan miles de millones años sin mutaciones relevantes</description>
-            <pubDate>Sat Mar 16 18:00:43 2024</pubDate>
             </item></channel>
 </rss>
