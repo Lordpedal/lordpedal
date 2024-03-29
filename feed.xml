@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: PyPI Halts Sign-Ups Amid Surge of Malicious Package Uploads Targeting Developers</title>
+            <link>https://thehackernews.com/2024/03/pypi-halts-sign-ups-amid-surge-of.html</link>
+            <description>PyPI Halts Sign-Ups Amid Surge of Malicious Package Uploads Targeting Developers</description>
+            <pubDate>Fri Mar 29 05:37:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Intel 8088 and 8086 Processor’s Instruction Prefetch Circuitry</title>
+            <link>https://hackaday.com/2024/03/28/the-intel-8088-and-8086-processors-instruction-prefetch-circuitry/</link>
+            <description>The Intel 8088 and 8086 Processor’s Instruction Prefetch Circuitry</description>
+            <pubDate>Fri Mar 29 05:00:25 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Is Your Mental Model of Bash Pipelines Wrong?</title>
+            <link>https://hackaday.com/2024/03/28/is-your-mental-model-of-bash-pipelines-wrong/</link>
+            <description>Is Your Mental Model of Bash Pipelines Wrong?</description>
+            <pubDate>Fri Mar 29 02:00:46 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: 8BitDo’s New Mechanical Keyboard is their Geekiest Yet</title>
+            <link>https://www.omgubuntu.co.uk/2024/03/8bitdo-commodore-64-keyboard-is-geektastic</link>
+            <description>8BitDo’s New Mechanical Keyboard is their Geekiest Yet</description>
+            <pubDate>Fri Mar 29 01:08:10 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Blender 4.1 amplía el soporte para las GPU y mejora el rendimiento en Linux</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/blender-4-1-amplia-el-soporte-para-las-gpu-y-mejora-el-rendimiento-en-linux/</link>
+            <description>Blender 4.1 amplía el soporte para las GPU y mejora el rendimiento en Linux</description>
+            <pubDate>Fri Mar 29 00:01:54 2024</pubDate>
+            </item>
+            <item>
+            <title>Adrianistán: Ejecutar una máquina virtual RISC-V, MIPS, PowerPC, SPARC,... desde AMD64</title>
+            <link>https://blog.adrianistan.eu/ejecutar-maquina-virtual-mips-risc-v-powerpc-sparc</link>
+            <description>Ejecutar una máquina virtual RISC-V, MIPS, PowerPC, SPARC,... desde AMD64</description>
+            <pubDate>Thu Mar 28 23:48:26 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Saving a Clock Radio with an LM8562</title>
+            <link>https://hackaday.com/2024/03/28/saving-a-clock-radio-with-an-lm8562/</link>
+            <description>Saving a Clock Radio with an LM8562</description>
+            <pubDate>Thu Mar 28 23:00:07 2024</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Circle Wall Sign Pot #3DThursday #3DPrinting</title>
+            <link>https://blog.adafruit.com/2024/03/28/circle-wall-sign-pot-3dthursday-3dprinting/</link>
+            <description>Circle Wall Sign Pot #3DThursday #3DPrinting</description>
+            <pubDate>Thu Mar 28 23:00:01 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Ya fue liberada la Android 15 Developer Preview 2</title>
+            <link>https://blog.desdelinux.net/ya-fue-liberada-la-android-15-developer-preview-2/</link>
+            <description>Ya fue liberada la Android 15 Developer Preview 2</description>
+            <pubDate>Thu Mar 28 22:15:52 2024</pubDate>
+            </item>
+            <item>
             <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Knot practice tool #3DThursday #3DPrinting</title>
             <link>https://blog.adafruit.com/2024/03/28/knot-practice-tool-3dthursday-3dprinting/</link>
             <description>Knot practice tool #3DThursday #3DPrinting</description>
@@ -16,59 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/movistar-plus-futbol-barcelona-real-madrid-baloncesto-0324/</link>
             <description>Movistar Plus+ está al rojo vivo con fútbol y el Barcelona contra Real Madrid de baloncesto</description>
             <pubDate>Thu Mar 28 21:00:42 2024</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Universal bicycle helmet wall mount #3DThursday #3DPrinting</title>
-            <link>https://blog.adafruit.com/2024/03/28/universal-bicycle-helmet-wall-mount-3dthursday-3dprinting/</link>
-            <description>Universal bicycle helmet wall mount #3DThursday #3DPrinting</description>
-            <pubDate>Thu Mar 28 21:00:31 2024</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Debido al cambio de licencia de Redis se está discutiendo su eliminación en Fedora</title>
-            <link>https://www.linuxadictos.com/debido-al-cambio-de-licencia-de-redis-se-esta-discutiendo-su-eliminacion-en-fedora.html</link>
-            <description>Debido al cambio de licencia de Redis se está discutiendo su eliminación en Fedora</description>
-            <pubDate>Thu Mar 28 20:35:20 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Era una de las funciones más esperadas y Samsung la acaba de incluir en sus dispositivos</title>
-            <link>https://www.adslzone.net/noticias/internet/samsung-incluye-funcionalidad-informacion-bateria/</link>
-            <description>Era una de las funciones más esperadas y Samsung la acaba de incluir en sus dispositivos</description>
-            <pubDate>Thu Mar 28 20:30:40 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Exploring The Sega Saturn’s Wacky Architecture</title>
-            <link>https://hackaday.com/2024/03/28/exploring-the-sega-saturns-wacky-architecture/</link>
-            <description>Exploring The Sega Saturn’s Wacky Architecture</description>
-            <pubDate>Thu Mar 28 20:00:53 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Lo último de Xiaomi para el hogar es un interruptor inteligente e ignífugo</title>
-            <link>https://www.adslzone.net/noticias/internet/xiaomi-interruptor-inteligente-resistente-fuego/</link>
-            <description>Lo último de Xiaomi para el hogar es un interruptor inteligente e ignífugo</description>
-            <pubDate>Thu Mar 28 20:00:35 2024</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Fuse Puller – Blade Fuse Removal Tool #3DPrinting #3DThursday</title>
-            <link>https://blog.adafruit.com/2024/03/28/fuse-puller-blade-fuse-removal-tool-3dprinting-3dthursday/</link>
-            <description>Fuse Puller – Blade Fuse Removal Tool #3DPrinting #3DThursday</description>
-            <pubDate>Thu Mar 28 20:00:18 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los nuevos iPad Pro y iPad Air están muy cerca: llegarán en mayo con todas estas novedades, según Gurman</title>
-            <link>https://www.xataka.com/tablets/nuevos-ipad-pro-ipad-air-estan-muy-cerca-llegaran-mayo-todas-estas-novedades-gurman</link>
-            <description>Los nuevos iPad Pro y iPad Air están muy cerca: llegarán en mayo con todas estas novedades, según Gurman</description>
-            <pubDate>Thu Mar 28 19:32:11 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: AliExpress hace una rebaja loca en una consola Anbernic con más de 5000 juegos</title>
-            <link>https://www.adslzone.net/ofertas/mix/aliexpress-consola-anbernic-rg35xx-plus-0324/</link>
-            <description>AliExpress hace una rebaja loca en una consola Anbernic con más de 5000 juegos</description>
-            <pubDate>Thu Mar 28 19:30:04 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Retrogadgets: Butler in a Box</title>
-            <link>https://hackaday.com/2024/03/28/retrogadgets-butler-in-a-box/</link>
-            <description>Retrogadgets: Butler in a Box</description>
-            <pubDate>Thu Mar 28 19:08:29 2024</pubDate>
             </item></channel>
 </rss>
