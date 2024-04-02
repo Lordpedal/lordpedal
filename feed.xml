@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A Supercapacitor From Mushrooms</title>
+            <link>https://hackaday.com/2024/04/01/a-supercapacitor-from-mushrooms/</link>
+            <description>A Supercapacitor From Mushrooms</description>
+            <pubDate>Tue Apr  2 05:00:44 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Estos son los casos en los que deberías instalar un antivirus en tu móvil</title>
+            <link>https://www.adslzone.net/noticias/seguridad/casos-instalar-antivirus-movil/</link>
+            <description>Estos son los casos en los que deberías instalar un antivirus en tu móvil</description>
+            <pubDate>Tue Apr  2 05:00:13 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Massive Phishing Campaign Strikes Latin America: Venom RAT Targeting Multiple Sectors</title>
+            <link>https://thehackernews.com/2024/04/massive-phishing-campaign-strikes-latin.html</link>
+            <description>Massive Phishing Campaign Strikes Latin America: Venom RAT Targeting Multiple Sectors</description>
+            <pubDate>Tue Apr  2 04:54:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Why Is My 470uF Electrolytic Cap More Like 20uF?</title>
+            <link>https://hackaday.com/2024/04/01/why-is-my-470uf-electrolytic-cap-more-like-20uf/</link>
+            <description>Why Is My 470uF Electrolytic Cap More Like 20uF?</description>
+            <pubDate>Tue Apr  2 02:00:17 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Descubren una puerta trasera en XZ que afecta a SSH y systemd</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/descubren-una-puerta-trasera-en-xz-que-afecta-a-ssh-y-systemd/</link>
+            <description>Descubren una puerta trasera en XZ que afecta a SSH y systemd</description>
+            <pubDate>Tue Apr  2 00:05:48 2024</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Howl’s Moving Castle Humidifier</title>
+            <link>https://blog.adafruit.com/2024/04/01/howls-moving-castle-humidifier/</link>
+            <description>Howl’s Moving Castle Humidifier</description>
+            <pubDate>Tue Apr  2 00:00:38 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: La Armada de EEUU acelerara el desarrollo de armas de microondas para derribar misiles: están a la vuelta de la esquina</title>
+            <link>https://www.xataka.com/otros/armada-eeuu-acelerara-desarrollo-armas-microondas-para-derribar-misiles-estan-a-vuelta-esquina</link>
+            <description>La Armada de EEUU acelerara el desarrollo de armas de microondas para derribar misiles: están a la vuelta de la esquina</description>
+            <pubDate>Mon Apr  1 23:41:06 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Fire Up The 3D Printer and Build Yourself a Spiderbot</title>
+            <link>https://hackaday.com/2024/04/01/fire-up-the-3d-printer-and-build-yourself-a-spiderbot/</link>
+            <description>Fire Up The 3D Printer and Build Yourself a Spiderbot</description>
+            <pubDate>Mon Apr  1 23:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>- Junco TIC: HTTP – ¿Cómo funciona este protocolo?</title>
+            <link>https://juncotic.com/http-como-funciona-este-protocolo/</link>
+            <description>HTTP – ¿Cómo funciona este protocolo?</description>
+            <pubDate>Mon Apr  1 22:07:27 2024</pubDate>
+            </item>
+            <item>
             <title>EsGeeks: ¿Qué Ordenador Elegir para Programar y Aprender Hacking?</title>
             <link>https://esgeeks.com/que-ordenador-elegir-programar-hacking/</link>
             <description>¿Qué Ordenador Elegir para Programar y Aprender Hacking?</description>
@@ -16,59 +70,5 @@
             <link>http://www.linux-magazine.com/Online/News/Vulnerability-Discovered-in-xz-Libraries</link>
             <description>Vulnerability Discovered in xz Libraries</description>
             <pubDate>Mon Apr  1 21:09:50 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Más de 400.000 clientes no saben que se van a quedar sin Internet en tres semanas. Su ADSL será desconectado</title>
-            <link>https://www.adslzone.net/noticias/operadores/clientes-quedar-sin-internet-saben/</link>
-            <description>Más de 400.000 clientes no saben que se van a quedar sin Internet en tres semanas. Su ADSL será desconectado</description>
-            <pubDate>Mon Apr  1 20:00:10 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Pinkpad, A DIY Laptop You Must Print In Pink</title>
-            <link>https://hackaday.com/2024/04/01/pinkpad-a-diy-laptop-you-must-print-in-pink/</link>
-            <description>Pinkpad, A DIY Laptop You Must Print In Pink</description>
-            <pubDate>Mon Apr  1 20:00:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Changelog News 88: Who in the world is Jia Tan?</title>
-            <link>https://changelog.com/news/88</link>
-            <description>Changelog News 88: Who in the world is Jia Tan?</description>
-            <pubDate>Mon Apr  1 19:45:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: OpenAI ahora permite utilizar ChatGPT sin cuenta: así puedes usar esta función para mejorar la privacidad de tus chats</title>
-            <link>https://www.xataka.com/robotica-e-ia/openai-ahora-permite-utilizar-chatgpt-cuenta-asi-puedes-usar-esta-funcion-para-mejorar-privacidad-tus-chats</link>
-            <description>OpenAI ahora permite utilizar ChatGPT sin cuenta: así puedes usar esta función para mejorar la privacidad de tus chats</description>
-            <pubDate>Mon Apr  1 19:44:12 2024</pubDate>
-            </item>
-            <item>
-            <title>El Pingüino Tolkiano: LibreOffice Draw 24.8 alfa cero: trabajar con capas</title>
-            <link>https://elpinguinotolkiano.wordpress.com/2024/04/01/libreoffice-draw-24-8-alfa-cero-trabajar-con-capas/</link>
-            <description>LibreOffice Draw 24.8 alfa cero: trabajar con capas</description>
-            <pubDate>Mon Apr  1 19:43:39 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Estos son los dos canales que reinan en la televisión de pago en España</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/canales-reinan-television-pago-espana-0424/</link>
-            <description>Estos son los dos canales que reinan en la televisión de pago en España</description>
-            <pubDate>Mon Apr  1 19:30:49 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Se supone que la cuota de mercado de Windows 11 debe seguir creciendo. Acaba de suceder exactamente lo contrario</title>
-            <link>https://www.xataka.com/aplicaciones/se-supone-que-cuota-mercado-windows-11-debe-seguir-creciendo-acaba-suceder-exactamente-contrario</link>
-            <description>Se supone que la cuota de mercado de Windows 11 debe seguir creciendo. Acaba de suceder exactamente lo contrario</description>
-            <pubDate>Mon Apr  1 19:00:36 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: HBO Max ya está en Movistar Plus+ y estos son los nuevos contenidos que ya puedes ver</title>
-            <link>https://www.adslzone.net/noticias/operadores/hbo-max-movistar-plus-nuevos-contenidos/</link>
-            <description>HBO Max ya está en Movistar Plus+ y estos son los nuevos contenidos que ya puedes ver</description>
-            <pubDate>Mon Apr  1 19:00:10 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Práctica y cómoda, esta es posiblemente la "regleta" más elegante: y por lo que cuesta, querrás tenerla en el sofá</title>
-            <link>https://www.xataka.com/seleccion/practica-comoda-esta-posiblemente-regleta-elegante-que-cuesta-querras-tenerla-sofa</link>
-            <description>Práctica y cómoda, esta es posiblemente la "regleta" más elegante: y por lo que cuesta, querrás tenerla en el sofá</description>
-            <pubDate>Mon Apr  1 18:46:30 2024</pubDate>
             </item></channel>
 </rss>
