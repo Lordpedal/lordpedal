@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Inside a Hisense TV Repair Attempt</title>
+            <link>https://hackaday.com/2024/04/06/inside-a-hisense-tv-repair-attempt/</link>
+            <description>Inside a Hisense TV Repair Attempt</description>
+            <pubDate>Sun Apr  7 05:00:56 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Novedades sobre Distros del Linuxverso: Semana 14 del año 2024</title>
+            <link>https://blog.desdelinux.net/linuxverso-semana-14-2024/</link>
+            <description>Novedades sobre Distros del Linuxverso: Semana 14 del año 2024</description>
+            <pubDate>Sun Apr  7 04:00:12 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: How to Properly Patch Your Iowa-Class Battleship</title>
+            <link>https://hackaday.com/2024/04/06/how-to-properly-patch-your-iowa-class-battleship/</link>
+            <description>How to Properly Patch Your Iowa-Class Battleship</description>
+            <pubDate>Sun Apr  7 02:00:19 2024</pubDate>
+            </item>
+            <item>
+            <title>Changelog: Ship It! 98: Deploying projects vs products</title>
+            <link>https://changelog.com/shipit/98</link>
+            <description>Ship It! 98: Deploying projects vs products</description>
+            <pubDate>Sun Apr  7 00:45:00 2024</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Aprende Terminal de Linux desde cero, video 19,caracteres de escape</title>
+            <link>https://www.distritotux.cl/2024/04/aprende-terminal-de-linux-desde-cero.html</link>
+            <description>Aprende Terminal de Linux desde cero, video 19,caracteres de escape</description>
+            <pubDate>Sat Apr  6 23:59:38 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: DIY 6 GHZ Pulse Compression Radar</title>
+            <link>https://hackaday.com/2024/04/06/diy-6-ghz-pulse-compression-radar/</link>
+            <description>DIY 6 GHZ Pulse Compression Radar</description>
+            <pubDate>Sat Apr  6 23:00:16 2024</pubDate>
+            </item>
+            <item>
+            <title>56K: Sextorsión</title>
+            <link>https://56k.es/fanta/sextorsion/</link>
+            <description>Sextorsión</description>
+            <pubDate>Sat Apr  6 22:19:25 2024</pubDate>
+            </item>
+            <item>
             <title>Desde Linux: Proxmox añade un nuevo asistente de importación para migrar VM’s basadas en VMware ESXi</title>
             <link>https://blog.desdelinux.net/proxmox-anade-un-nuevo-asistente-de-importacion-para-migrar-vms-basadas-en-vmware-esxi/</link>
             <description>Proxmox añade un nuevo asistente de importación para migrar VM’s basadas en VMware ESXi</description>
@@ -28,47 +70,5 @@
             <link>https://www.adslzone.net/noticias/redes/ahorrar-factura-luz-apagar-router-cada-noche/</link>
             <description>Esto es lo que te puedes ahorrar en la factura si apagas el router cada noche</description>
             <pubDate>Sat Apr  6 20:02:31 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Kid’s Ride Gets Boosted Battery, ESP32 Control</title>
-            <link>https://hackaday.com/2024/04/06/kids-ride-gets-boosted-battery-esp32-control/</link>
-            <description>Kid’s Ride Gets Boosted Battery, ESP32 Control</description>
-            <pubDate>Sat Apr  6 20:00:55 2024</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Linux 6.9 ofrecerá un arranque mas rápido en sistemas grandes con gran cantidad de RAM</title>
-            <link>https://blog.desdelinux.net/linux-6-9-ofrecera-un-arranque-mas-rapido-en-sistemas-grandes-con-gran-cantidad-de-ram/</link>
-            <description>Linux 6.9 ofrecerá un arranque mas rápido en sistemas grandes con gran cantidad de RAM</description>
-            <pubDate>Sat Apr  6 19:24:12 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Mi Android Auto se ha quedado con la pantalla en negro sin motivo: así he podido solucionarlo</title>
-            <link>https://www.adslzone.net/noticias/internet/solucionar-error-android-auto-pantalla-negro/</link>
-            <description>Mi Android Auto se ha quedado con la pantalla en negro sin motivo: así he podido solucionarlo</description>
-            <pubDate>Sat Apr  6 19:00:14 2024</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: FFmpeg 7.0 «Dijkstra» llega con mejoras de soporte, ejecución paralela y mas</title>
-            <link>https://www.linuxadictos.com/ffmpeg-7-0-dijkstra-llega-con-mejoras-de-soporte-ejecucion-paralela-y-mas.html</link>
-            <description>FFmpeg 7.0 «Dijkstra» llega con mejoras de soporte, ejecución paralela y mas</description>
-            <pubDate>Sat Apr  6 18:43:36 2024</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: En systemd se plantea la idea de reducir las dependencias de libsystemd</title>
-            <link>https://www.linuxadictos.com/en-systemd-se-plantea-la-idea-de-reducir-las-dependencias-de-libsystemd.html</link>
-            <description>En systemd se plantea la idea de reducir las dependencias de libsystemd</description>
-            <pubDate>Sat Apr  6 18:23:06 2024</pubDate>
-            </item>
-            <item>
-            <title>DistritoTux: Diseño Sin Límites: Cómo la IA te Permite Crear Wallpapers Soñados</title>
-            <link>https://www.distritotux.cl/2024/04/diseno-sin-limites-como-la-ia-te.html</link>
-            <description>Diseño Sin Límites: Cómo la IA te Permite Crear Wallpapers Soñados</description>
-            <pubDate>Sat Apr  6 18:13:58 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los puertos de Singapur están como una gasolinera low cost en hora punta. Es la consecuencia de la crisis del Mar Rojo</title>
-            <link>https://www.xataka.com/energia/puertos-singapur-estan-como-gasolinera-low-cost-hora-punta-consecuencia-crisis-mar-rojo</link>
-            <description>Los puertos de Singapur están como una gasolinera low cost en hora punta. Es la consecuencia de la crisis del Mar Rojo</description>
-            <pubDate>Sat Apr  6 18:01:32 2024</pubDate>
             </item></channel>
 </rss>
