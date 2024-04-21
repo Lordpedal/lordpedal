@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Trolling IBM’s Quantum Processor Advantage With a Commodore 64</title>
+            <link>https://hackaday.com/2024/04/20/trolling-ibms-quantum-processor-advantage-with-a-commodore-64/</link>
+            <description>Trolling IBM’s Quantum Processor Advantage With a Commodore 64</description>
+            <pubDate>Sun Apr 21 05:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Novedades sobre Distros del Linuxverso: Semana 16 del año 2024</title>
+            <link>https://blog.desdelinux.net/linuxverso-semana-16-2024/</link>
+            <description>Novedades sobre Distros del Linuxverso: Semana 16 del año 2024</description>
+            <pubDate>Sun Apr 21 04:00:33 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: AM Radio Broadcast Uses Phasor To Let Eight Towers Spray One Big Signal</title>
+            <link>https://hackaday.com/2024/04/20/am-radio-broadcast-uses-phasor-to-let-eight-towers-spray-one-big-signal/</link>
+            <description>AM Radio Broadcast Uses Phasor To Let Eight Towers Spray One Big Signal</description>
+            <pubDate>Sun Apr 21 02:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: La comunidad de Gentoo considera prohibir las contribuciones generadas por IA</title>
+            <link>https://www.linuxadictos.com/la-comunidad-de-gentoo-considera-prohibir-las-contribuciones-generadas-por-ia.html</link>
+            <description>La comunidad de Gentoo considera prohibir las contribuciones generadas por IA</description>
+            <pubDate>Sun Apr 21 00:40:01 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Solar Panel Keeps Cheap Digital Calipers Powered Up</title>
+            <link>https://hackaday.com/2024/04/20/solar-panel-keeps-cheap-digital-calipers-powered-up/</link>
+            <description>Solar Panel Keeps Cheap Digital Calipers Powered Up</description>
+            <pubDate>Sat Apr 20 23:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: OS Zone celebra cinco años de éxito invalidando patentes dirigidas contra el software libre</title>
+            <link>https://www.linuxadictos.com/os-zone-celebra-cinco-anos-de-exito-invalidando-patentes-dirigidas-contra-el-software-libre.html</link>
+            <description>OS Zone celebra cinco años de éxito invalidando patentes dirigidas contra el software libre</description>
+            <pubDate>Sat Apr 20 22:02:29 2024</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Jpegli la nueva biblioteca open source de Google de codificación JPEG</title>
             <link>https://www.linuxadictos.com/jpegli-la-nueva-biblioteca-open-source-de-google-de-codificacion-jpeg.html</link>
             <description>Jpegli la nueva biblioteca open source de Google de codificación JPEG</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/noticias/internet/ubicacion-apps-citas-compartir/</link>
             <description>Por qué no deberías compartir tu ubicación en apps de citas</description>
             <pubDate>Sat Apr 20 19:00:47 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hay un lugar al que los barcos van a "morir": así es el enorme cementerio de cruceros en la costa de Turquía</title>
-            <link>https://www.xataka.com/transporte/hay-lugar-al-que-barcos-van-a-morir-asi-enorme-cementerio-cruceros-costa-turquia</link>
-            <description>Hay un lugar al que los barcos van a "morir": así es el enorme cementerio de cruceros en la costa de Turquía</description>
-            <pubDate>Sat Apr 20 18:01:26 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: 7 razones por las que Linux es mejor que Windows para un PC</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/razones-linux-mejor-windows-pc/</link>
-            <description>7 razones por las que Linux es mejor que Windows para un PC</description>
-            <pubDate>Sat Apr 20 18:00:10 2024</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Novedades de Konsole y Yakuake en KDE Gear 24.02</title>
-            <link>https://www.kdeblog.com/novedades-de-konsole-y-yakuake-en-kde-gear-24-02.html</link>
-            <description>Novedades de Konsole y Yakuake en KDE Gear 24.02</description>
-            <pubDate>Sat Apr 20 17:48:07 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Tienes más velocidad de Internet de subida que de bajada? Estos son los motivos</title>
-            <link>https://www.redeszone.net/noticias/redes/mas-velocidad-subida-bajada-motivo/</link>
-            <description>¿Tienes más velocidad de Internet de subida que de bajada? Estos son los motivos</description>
-            <pubDate>Sat Apr 20 17:03:02 2024</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Hoy es el Día de la Libertad del Hardware</title>
-            <link>https://ubunlog.com/hoy-es-el-dia-de-la-libertad-del-hardware/</link>
-            <description>Hoy es el Día de la Libertad del Hardware</description>
-            <pubDate>Sat Apr 20 17:02:34 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Empieza la única época del año en la que Estados Unidos vende Coca-Cola con azúcar: la pascua judía</title>
-            <link>https://www.xataka.com/magnet/empieza-unica-epoca-ano-que-estados-unidos-vende-coca-cola-azucar-pascua-judia</link>
-            <description>Empieza la única época del año en la que Estados Unidos vende Coca-Cola con azúcar: la pascua judía</description>
-            <pubDate>Sat Apr 20 17:01:25 2024</pubDate>
             </item></channel>
 </rss>
