@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Contempla la impresora 3D más grande del mundo</title>
+            <link>https://www.linuxparty.es/3-anuncios/12019-contempla-la-impresora-3d-mas-grande-del-mundo.html</link>
+            <description>Contempla la impresora 3D más grande del mundo</description>
+            <pubDate>Wed May  1 06:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Simplest Speaker Oscillator, Now Even Simpler</title>
+            <link>https://hackaday.com/2024/04/30/simplest-speaker-oscillator-now-even-simpler/</link>
+            <description>Simplest Speaker Oscillator, Now Even Simpler</description>
+            <pubDate>Wed May  1 05:00:26 2024</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Installing VS Code on Fedora</title>
+            <link>https://itsfoss.com/install-vs-code-fedora/</link>
+            <description>Installing VS Code on Fedora</description>
+            <pubDate>Wed May  1 04:25:35 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Making Beer Like It’s 1574, For Science And Heritage</title>
+            <link>https://hackaday.com/2024/04/30/making-beer-like-its-1574-for-science-and-heritage/</link>
+            <description>Making Beer Like It’s 1574, For Science And Heritage</description>
+            <pubDate>Wed May  1 02:00:58 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: systemd presenta run0, un «clon» de sudo para reemplazar a sudo</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/systemd-presenta-run0-un-clon-de-sudo-para-reemplazar-a-sudo/</link>
+            <description>systemd presenta run0, un «clon» de sudo para reemplazar a sudo</description>
+            <pubDate>Wed May  1 00:02:28 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Amarok 3.0: el gran reproductor de música de KDE resucita… ¿un poco tarde?</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/amarok-3-0-el-gran-reproductor-de-musica-de-kde-resucita-un-poco-tarde/</link>
+            <description>Amarok 3.0: el gran reproductor de música de KDE resucita… ¿un poco tarde?</description>
+            <pubDate>Wed May  1 00:02:26 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D-Printed Macro Pad Plate Is LEGO-Compatible</title>
+            <link>https://hackaday.com/2024/04/30/3d-printed-macro-pad-plate-is-lego-compatible/</link>
+            <description>3D-Printed Macro Pad Plate Is LEGO-Compatible</description>
+            <pubDate>Tue Apr 30 23:00:11 2024</pubDate>
+            </item>
+            <item>
             <title>Xataka: El fundador de Binance es condenado a cuatro meses de prisión: será la persona más rica en ir a la cárcel en EEUU</title>
             <link>https://www.xataka.com/criptomonedas/fundador-binance-condenado-a-cuatro-meses-prision-sera-persona-rica-ir-a-carcel-eeuu</link>
             <description>El fundador de Binance es condenado a cuatro meses de prisión: será la persona más rica en ir a la cárcel en EEUU</description>
@@ -28,47 +70,5 @@
             <link>https://changelog.com/practicalai/267</link>
             <description>Practical AI 267: Private, open source chat UIs</description>
             <pubDate>Tue Apr 30 20:45:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La "segunda luna" de la Tierra ha resultado ser un trozo de la verdadera Luna que salió disparado</title>
-            <link>https://www.xataka.com/espacio/segunda-luna-tierra-ha-resultado-ser-trozo-verdadera-luna-que-salio-disparado</link>
-            <description>La "segunda luna" de la Tierra ha resultado ser un trozo de la verdadera Luna que salió disparado</description>
-            <pubDate>Tue Apr 30 20:31:08 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Esta función de GPT-4 y otras IA similares existe aunque nadie la ha programado, y  es clave para que accedan a sus propios datos</title>
-            <link>https://www.genbeta.com/inteligencia-artificial/esta-funcion-gpt-4-otras-ia-similares-existe-nadie-ha-programado-clave-accedan-a-sus-propios-datos</link>
-            <description>Esta función de GPT-4 y otras IA similares existe aunque nadie la ha programado, y  es clave para que accedan a sus propios datos</description>
-            <pubDate>Tue Apr 30 20:13:21 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Vodafone TV se adelanta a mayo y estrena dos nuevos canales gratis</title>
-            <link>https://www.adslzone.net/noticias/operadores/canales-invitados-vodafone-tv-0524/</link>
-            <description>Vodafone TV se adelanta a mayo y estrena dos nuevos canales gratis</description>
-            <pubDate>Tue Apr 30 20:01:05 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: The Cheapest USB Blaster Ever, Thanks To CH552</title>
-            <link>https://hackaday.com/2024/04/30/the-cheapest-usb-blaster-ever-thanks-to-ch552/</link>
-            <description>The Cheapest USB Blaster Ever, Thanks To CH552</description>
-            <pubDate>Tue Apr 30 20:00:05 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los nuevos Beats Solo Buds cuestan menos de 90 euros, llegan con un novedoso estuche y prometen 18 horas de autonomía</title>
-            <link>https://www.xataka.com/audio/beats-solo-buds-caracteristicas-precio-ficha-tecnica</link>
-            <description>Los nuevos Beats Solo Buds cuestan menos de 90 euros, llegan con un novedoso estuche y prometen 18 horas de autonomía</description>
-            <pubDate>Tue Apr 30 19:30:34 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Viajar a Francia: cómo tener datos en el móvil sin cambiar de número</title>
-            <link>https://www.adslzone.net/esim/te-interesa/viajar-francia-datos-moviles-esim/</link>
-            <description>Viajar a Francia: cómo tener datos en el móvil sin cambiar de número</description>
-            <pubDate>Tue Apr 30 19:30:22 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El Tesla Model 3 Performance llega con sorpresa: las versiones de Estados Unidos entregan 50 CV más de potencia</title>
-            <link>https://www.xataka.com/movilidad/tesla-model-3-performance-llega-sorpresa-versiones-estados-unidos-entregan-50-cv-potencia</link>
-            <description>El Tesla Model 3 Performance llega con sorpresa: las versiones de Estados Unidos entregan 50 CV más de potencia</description>
-            <pubDate>Tue Apr 30 19:01:29 2024</pubDate>
             </item></channel>
 </rss>
