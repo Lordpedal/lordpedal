@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: RISC OS Gets An Update</title>
+            <link>https://hackaday.com/2024/05/04/risc-os-gets-an-update/</link>
+            <description>RISC OS Gets An Update</description>
+            <pubDate>Sun May  5 05:00:01 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: udev-hid-bpf, una utilidad para solucionar los problemas con los dispositivos de entrada</title>
+            <link>https://blog.desdelinux.net/udev-hid-bpf-una-utilidad-para-solucionar-los-problemas-con-los-dispositivos-de-entrada/</link>
+            <description>udev-hid-bpf, una utilidad para solucionar los problemas con los dispositivos de entrada</description>
+            <pubDate>Sun May  5 04:09:51 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: PV-IOMMU, un mecanismo de paravirtualización de IOMMU de Xen</title>
+            <link>https://blog.desdelinux.net/pv-iommu-un-mecanismo-de-paravirtualizacion-de-iommu-de-xen/</link>
+            <description>PV-IOMMU, un mecanismo de paravirtualización de IOMMU de Xen</description>
+            <pubDate>Sun May  5 02:10:01 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Giving Your KiCad PCB Repository Pretty Pictures</title>
+            <link>https://hackaday.com/2024/05/04/giving-your-kicad-pcb-repository-pretty-pictures/</link>
+            <description>Giving Your KiCad PCB Repository Pretty Pictures</description>
+            <pubDate>Sun May  5 02:00:58 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Ham Radio Paddles Cost Virtually Nothing</title>
+            <link>https://hackaday.com/2024/05/04/ham-radio-paddles-cost-virtually-nothing/</link>
+            <description>Ham Radio Paddles Cost Virtually Nothing</description>
+            <pubDate>Sat May  4 23:00:47 2024</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Las compilaciones reproducibles ya son un hecho en openSUSE Factory</title>
             <link>https://www.linuxadictos.com/las-compilaciones-reproducibles-ya-son-un-hecho-en-opensuse-factory.html</link>
             <description>Las compilaciones reproducibles ya son un hecho en openSUSE Factory</description>
@@ -40,35 +70,5 @@
             <link>https://56k.es/fanta/charla-con-rober-el-boss-del-fediverso-hispano/</link>
             <description>Charla con Rober, el Boss del Fediverso Hispano</description>
             <pubDate>Sat May  4 18:31:40 2024</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: XFCE muda sus canales de comunicación a Matrix</title>
-            <link>https://www.linuxadictos.com/xfce-muda-sus-canales-de-comunicacion-a-matrix.html</link>
-            <description>XFCE muda sus canales de comunicación a Matrix</description>
-            <pubDate>Sat May  4 18:20:48 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Construir un crucero es como montar un LEGO de 2.000 millones y dos años de trabajo</title>
-            <link>https://www.xataka.com/transporte/construir-crucero-como-montar-lego-2-000-millones-dos-anos-trabajo</link>
-            <description>Construir un crucero es como montar un LEGO de 2.000 millones y dos años de trabajo</description>
-            <pubDate>Sat May  4 18:01:47 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Trucos para que el Chromecast vaya más rápido</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/chromecast-rapido-trucos/</link>
-            <description>Trucos para que el Chromecast vaya más rápido</description>
-            <pubDate>Sat May  4 18:00:12 2024</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Décimo audio de Podcast Linux «Raspberry Pi y GNU/Linux» – Podcast Linux #10</title>
-            <link>https://www.kdeblog.com/decimo-audio-de-podcast-linux-raspberry-pi-y-gnu-linux-podcast-linux-10.html</link>
-            <description>Décimo audio de Podcast Linux «Raspberry Pi y GNU/Linux» – Podcast Linux #10</description>
-            <pubDate>Sat May  4 17:15:41 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Qué pasa si se rompe la antena de tu router</title>
-            <link>https://www.redeszone.net/noticias/redes/antena-router-rota-problema/</link>
-            <description>Qué pasa si se rompe la antena de tu router</description>
-            <pubDate>Sat May  4 17:01:53 2024</pubDate>
             </item></channel>
 </rss>
