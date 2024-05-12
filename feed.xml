@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: No Solder! Squeeze Your Parts to the PCB</title>
+            <link>https://hackaday.com/2024/05/11/no-solder-squeeze-your-parts-to-the-pcb/</link>
+            <description>No Solder! Squeeze Your Parts to the PCB</description>
+            <pubDate>Sun May 12 05:00:21 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Minimalistic Dillo Web Browser Is Back</title>
+            <link>https://hackaday.com/2024/05/11/the-minimalistic-dillo-web-browser-is-back/</link>
+            <description>The Minimalistic Dillo Web Browser Is Back</description>
+            <pubDate>Sun May 12 02:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: BlueBerry Is a Smartphone-Agnostic Keyboard Firmware</title>
+            <link>https://hackaday.com/2024/05/11/blueberry-is-a-smartphone-agnostic-keyboard-firmware/</link>
+            <description>BlueBerry Is a Smartphone-Agnostic Keyboard Firmware</description>
+            <pubDate>Sat May 11 23:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Ubuntu 24.04 LTS Runs Brilliantly on the Raspberry Pi 5</title>
+            <link>https://www.omgubuntu.co.uk/2024/05/ubuntu-24-04-raspberry-pi-5</link>
+            <description>Ubuntu 24.04 LTS Runs Brilliantly on the Raspberry Pi 5</description>
+            <pubDate>Sat May 11 22:20:00 2024</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: Transformación Épica: De Ubuntu 22.04 a un Escritorio de Ensueño, Increíblemente Hermoso</title>
             <link>https://www.distritotux.cl/2024/05/transformacion-epica-de-ubuntu-2204-un.html</link>
             <description>Transformación Épica: De Ubuntu 22.04 a un Escritorio de Ensueño, Increíblemente Hermoso</description>
@@ -46,29 +70,5 @@
             <link>https://www.genbeta.com/a-fondo/eurovision-2024-donde-puedes-seguir-gala-final-online-como-votar-tu-actuacion-favorita</link>
             <description>Eurovisión 2024: dónde puedes seguir la gala final online y cómo votar tu actuación favorita</description>
             <pubDate>Sat May 11 18:01:40 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Sherlock Linux: conoce el sistema operativo ideal para investigaciones en Internet</title>
-            <link>https://www.adslzone.net/noticias/seguridad/sherlock-linux-sistema-operativo-ideal/</link>
-            <description>Sherlock Linux: conoce el sistema operativo ideal para investigaciones en Internet</description>
-            <pubDate>Sat May 11 18:00:44 2024</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Akademy-es 2024 de València #esLibre edition en Mancomún Podcast #akademyes</title>
-            <link>https://www.kdeblog.com/akademy-es-2024-de-valencia-eslibre-edition-en-mancomun-podcast-akademyes.html</link>
-            <description>Akademy-es 2024 de València #esLibre edition en Mancomún Podcast #akademyes</description>
-            <pubDate>Sat May 11 17:34:38 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Desaparece el Wi-Fi de tu repetidor? Estos son los motivos y puedes evitarlo</title>
-            <link>https://www.redeszone.net/noticias/wifi/problemas-wifi-repetidor-evitar/</link>
-            <description>¿Desaparece el Wi-Fi de tu repetidor? Estos son los motivos y puedes evitarlo</description>
-            <pubDate>Sat May 11 17:05:26 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Las mariposas españolas tienen una gran ventaja sobre las británicas. La clave está en el calor</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/distintos-entornos-distintas-estrategias-para-protegerse-clima-curioso-caso-mariposas</link>
-            <description>Las mariposas españolas tienen una gran ventaja sobre las británicas. La clave está en el calor</description>
-            <pubDate>Sat May 11 17:01:38 2024</pubDate>
             </item></channel>
 </rss>
