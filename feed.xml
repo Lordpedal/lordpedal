@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: The Secret Behind the Motion of Microsoft’s Bendy Mouse</title>
+            <link>https://hackaday.com/2024/05/25/the-secret-behind-the-motion-of-microsofts-bendy-mouse/</link>
+            <description>The Secret Behind the Motion of Microsoft’s Bendy Mouse</description>
+            <pubDate>Sun May 26 05:00:31 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: One Man’s Trash is… a Rare $60,000 Historical Computer</title>
+            <link>https://hackaday.com/2024/05/25/one-mans-trash-is-a-rare-60000-historical-computer/</link>
+            <description>One Man’s Trash is… a Rare $60,000 Historical Computer</description>
+            <pubDate>Sun May 26 02:00:01 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Germany’s Solar Expansion and the Negative Effects of Electricity Overproduction</title>
+            <link>https://hackaday.com/2024/05/25/germanys-solar-expansion-and-the-negative-effects-of-electricity-overproduction/</link>
+            <description>Germany’s Solar Expansion and the Negative Effects of Electricity Overproduction</description>
+            <pubDate>Sat May 25 23:00:50 2024</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: ¿Tu Internet va lento? Señal para descubrir si alguien ha hackeado tu red WiFi</title>
             <link>https://www.adslzone.net/noticias/internet/internet-lento-descubrir-hackeado-red-wifi/</link>
             <description>¿Tu Internet va lento? Señal para descubrir si alguien ha hackeado tu red WiFi</description>
@@ -52,23 +70,5 @@
             <link>https://www.redeszone.net/noticias/seguridad/ciberataques-creados-inteligencia-artificial/</link>
             <description>Así es la nueva generación de ciberataques que está creando la IA y te pone las cosas difíciles</description>
             <pubDate>Sat May 25 17:04:41 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El misterio a medio resolver del “latido” de la Tierra: conocemos su frecuencia pero no su origen</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/misterio-a-medio-resolver-latido-tierra-conocemos-su-frecuencia-no-su-origen</link>
-            <description>El misterio a medio resolver del “latido” de la Tierra: conocemos su frecuencia pero no su origen</description>
-            <pubDate>Sat May 25 17:01:45 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: Tras ver lo que tiene el nuevo catálogo de Max, creo que la subida de precios tiene toda la lógica del mundo</title>
-            <link>https://www.xatakahome.com/servicios-de-smart-tv/ver-que-tiene-nuevo-catalogo-max-creo-que-subida-precios-tiene-toda-logica-mundo</link>
-            <description>Tras ver lo que tiene el nuevo catálogo de Max, creo que la subida de precios tiene toda la lógica del mundo</description>
-            <pubDate>Sat May 25 17:01:45 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Se anuncia el cierre inesperado de una de aplicación de mensajería legendaria</title>
-            <link>https://www.adslzone.net/noticias/internet/cierre-inesperado-aplicacion-mensajeria-legendaria-0524/</link>
-            <description>Se anuncia el cierre inesperado de una de aplicación de mensajería legendaria</description>
-            <pubDate>Sat May 25 17:00:54 2024</pubDate>
             </item></channel>
 </rss>
