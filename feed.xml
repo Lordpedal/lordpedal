@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: The Amiga We All Wanted In 1993</title>
+            <link>https://hackaday.com/2024/06/04/the-amiga-we-all-wanted-in-1993/</link>
+            <description>The Amiga We All Wanted In 1993</description>
+            <pubDate>Wed Jun  5 05:00:37 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Comparten en Telegram datos de 361 millones de cuentas robadas con malware</title>
+            <link>https://www.adslzone.net/noticias/internet/comparten-telegram-millones-cuentas/</link>
+            <description>Comparten en Telegram datos de 361 millones de cuentas robadas con malware</description>
+            <pubDate>Wed Jun  5 05:00:26 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux Adictos: Apache NetBeans 22 presenta soporte inicial para JDK 22, mejoras y mas</title>
+            <link>https://www.linuxadictos.com/netbeans-22.html</link>
+            <description>Apache NetBeans 22 presenta soporte inicial para JDK 22, mejoras y mas</description>
+            <pubDate>Wed Jun  5 02:00:37 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Ham Busts the Myth of Ground</title>
+            <link>https://hackaday.com/2024/06/04/ham-busts-the-myth-of-ground/</link>
+            <description>Ham Busts the Myth of Ground</description>
+            <pubDate>Wed Jun  5 02:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: FreeBSD 14.1 ya fue liberado y estas son sus novedades</title>
+            <link>https://blog.desdelinux.net/freebsd-14-1/</link>
+            <description>FreeBSD 14.1 ya fue liberado y estas son sus novedades</description>
+            <pubDate>Wed Jun  5 01:23:37 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Rusia sigue evadiendo las sanciones: el armamento descubierto en Ucrania incorpora chips estadounidenses esenciales</title>
+            <link>https://www.xataka.com/otros/rusia-sigue-evadiendo-sanciones-armamento-descubierto-ucrania-incorpora-chips-estadounidenses-esenciales</link>
+            <description>Rusia sigue evadiendo las sanciones: el armamento descubierto en Ucrania incorpora chips estadounidenses esenciales</description>
+            <pubDate>Wed Jun  5 01:18:39 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Ubuntu Core 24 potencia la inteligencia artificial y mejora el soporte para las GPU</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/ubuntu-core-24-potencia-la-inteligencia-artificial-y-mejora-el-soporte-para-las-gpu/</link>
+            <description>Ubuntu Core 24 potencia la inteligencia artificial y mejora el soporte para las GPU</description>
+            <pubDate>Wed Jun  5 00:02:16 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: VFD Tube Calculator Shows off Wide Array of Skills</title>
+            <link>https://hackaday.com/2024/06/04/vfd-tube-calculator-shows-off-wide-array-of-skills/</link>
+            <description>VFD Tube Calculator Shows off Wide Array of Skills</description>
+            <pubDate>Tue Jun  4 23:00:05 2024</pubDate>
+            </item>
+            <item>
             <title>Xataka: ‘Tales of the Shire’, el juego de El Señor de los Anillos que llegará a móviles de forma exclusiva con Netflix Games</title>
             <link>https://www.xataka.com/videojuegos/tales-of-the-shire-juego-senor-anillos-que-llegara-a-moviles-forma-exclusiva-netflix-games</link>
             <description>‘Tales of the Shire’, el juego de El Señor de los Anillos que llegará a móviles de forma exclusiva con Netflix Games</description>
@@ -22,53 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/canales-multi-cine-movistar-plus-0624/</link>
             <description>Estos son los 8 nuevos canales de Movistar Plus+ con más cine para junio</description>
             <pubDate>Tue Jun  4 20:01:41 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: “Nos disculpamos”: Toyota reconoce más irregularidades en pruebas de seguridad y suspende la producción de tres modelos</title>
-            <link>https://www.xataka.com/movilidad/nos-disculpamos-toyota-reconoce-irregularidades-pruebas-seguridad-suspende-produccion-tres-modelos</link>
-            <description>“Nos disculpamos”: Toyota reconoce más irregularidades en pruebas de seguridad y suspende la producción de tres modelos</description>
-            <pubDate>Tue Jun  4 20:01:23 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Utilizar la misma contraseña para todo es un mal hábito. Hasta la Policía Nacional te lo recuerda</title>
-            <link>https://www.genbeta.com/seguridad/utilizar-contrasena-para-todo-mal-habito-policia-nacional-te-recuerda</link>
-            <description>Utilizar la misma contraseña para todo es un mal hábito. Hasta la Policía Nacional te lo recuerda</description>
-            <pubDate>Tue Jun  4 19:51:23 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Somos tan vagos que España es uno de los países en los que es más fácil que nos pirateen el router</title>
-            <link>https://www.adslzone.net/noticias/redes/problema-espana-piratear-router/</link>
-            <description>Somos tan vagos que España es uno de los países en los que es más fácil que nos pirateen el router</description>
-            <pubDate>Tue Jun  4 19:30:38 2024</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: Raspberry Pi 5 Gets an Official $70 AI Add-On</title>
-            <link>https://www.omgubuntu.co.uk/2024/06/raspberry-pi-ai-kit-announced</link>
-            <description>Raspberry Pi 5 Gets an Official $70 AI Add-On</description>
-            <pubDate>Tue Jun  4 19:30:19 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Vodafone tiene el doble de gigas por 0 euros y dispositivos gratis para este verano</title>
-            <link>https://www.adslzone.net/noticias/operadores/vodafone-promocion-gigas-dispositivos-gratis-0624/</link>
-            <description>Vodafone tiene el doble de gigas por 0 euros y dispositivos gratis para este verano</description>
-            <pubDate>Tue Jun  4 19:15:05 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: AliExpress quiere que estrenes móvil en verano y hunde el precio del iPhone 15 Pro</title>
-            <link>https://www.adslzone.net/ofertas/mix/aliexpress-movil-apple-iphone-15-pro/</link>
-            <description>AliExpress quiere que estrenes móvil en verano y hunde el precio del iPhone 15 Pro</description>
-            <pubDate>Tue Jun  4 19:00:38 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: Si quieres ver "La Casa del Dragón" y vives en estos países, te tocará pagar más. Este es el aumento de precio en Max</title>
-            <link>https://www.xatakahome.com/servicios-de-smart-tv/quieres-ver-casa-dragon-vives-estos-paises-te-tocara-pagar-este-aumento-precio-max</link>
-            <description>Si quieres ver "La Casa del Dragón" y vives en estos países, te tocará pagar más. Este es el aumento de precio en Max</description>
-            <pubDate>Tue Jun  4 18:59:38 2024</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Practical AI 272: Rise of the AI PC & local LLMs</title>
-            <link>https://changelog.com/practicalai/272</link>
-            <description>Practical AI 272: Rise of the AI PC & local LLMs</description>
-            <pubDate>Tue Jun  4 18:45:00 2024</pubDate>
             </item></channel>
 </rss>
