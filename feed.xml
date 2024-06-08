@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: The End of BLHeli_32: Long Live AM32?</title>
+            <link>https://hackaday.com/2024/06/07/the-end-of-blheli_32-long-live-am32/</link>
+            <description>The End of BLHeli_32: Long Live AM32?</description>
+            <pubDate>Sat Jun  8 05:00:20 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Chrome OS 125 añade mas funciones de IA, mejoras y mas</title>
+            <link>https://blog.desdelinux.net/chrome-os-125-anade-mas-funciones-de-ia-mejoras-y-mas/</link>
+            <description>Chrome OS 125 añade mas funciones de IA, mejoras y mas</description>
+            <pubDate>Sat Jun  8 04:04:23 2024</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Adiós Limitaciones, Aprovecha Microsoft Office en tu Distribución Linux Favorita</title>
+            <link>https://www.distritotux.cl/2024/06/adios-limitaciones-aprovecha-microsoft.html</link>
+            <description>Adiós Limitaciones, Aprovecha Microsoft Office en tu Distribución Linux Favorita</description>
+            <pubDate>Sat Jun  8 03:05:45 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 8 de junio</title>
+            <link>https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-8-junio</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 8 de junio</description>
+            <pubDate>Sat Jun  8 03:01:40 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Make Your Code Slower With Multithreading</title>
+            <link>https://hackaday.com/2024/06/07/make-your-code-slower-with-multithreading/</link>
+            <description>Make Your Code Slower With Multithreading</description>
+            <pubDate>Sat Jun  8 02:00:53 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: CentOS Stream 10 pone la primera piedra para Red Hat Enterprise Linux 10</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/centos-stream-10-pone-la-primera-piedra-para-red-hat-enterprise-linux-10/</link>
+            <description>CentOS Stream 10 pone la primera piedra para Red Hat Enterprise Linux 10</description>
+            <pubDate>Sat Jun  8 00:07:58 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An MXM Take On The 3dfx Voodoo</title>
+            <link>https://hackaday.com/2024/06/07/an-mxm-take-on-the-3dfx-voodoo/</link>
+            <description>An MXM Take On The 3dfx Voodoo</description>
+            <pubDate>Fri Jun  7 23:00:14 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Estos son los 14 mejores juegos que se han presentado en el Summer Game Fest 2024</title>
+            <link>https://www.xataka.com/videojuegos/estos-12-mejores-juegos-que-se-han-presentado-summer-game-fest-2024</link>
+            <description>Estos son los 14 mejores juegos que se han presentado en el Summer Game Fest 2024</description>
+            <pubDate>Fri Jun  7 22:43:05 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Kali Linux 2024.2 llega solucionando el problema de 2038, añade nuevas utilidades y más</title>
+            <link>https://blog.desdelinux.net/kali-linux-2024-2-llega-solucionando-el-problema-de-2038-anade-nuevas-utilidades-y-mas/</link>
+            <description>Kali Linux 2024.2 llega solucionando el problema de 2038, añade nuevas utilidades y más</description>
+            <pubDate>Fri Jun  7 20:41:40 2024</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Reverse Engineering Keeps Early Ford EVs Rolling</title>
             <link>https://hackaday.com/2024/06/07/reverse-engineering-keeps-early-ford-evs-rolling/</link>
             <description>Reverse Engineering Keeps Early Ford EVs Rolling</description>
@@ -16,59 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/posibles-descensos-velocidad-digi-noches/</link>
             <description>¿Por qué la fibra de Digi va más lenta por las noches?</description>
             <pubDate>Fri Jun  7 20:00:06 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Abandonar el dinero en efectivo nos está saliendo caro. Así afecta a nuestros hábitos de compra, según un estudio científico</title>
-            <link>https://www.genbeta.com/actualidad/abandonar-dinero-efectivo-nos-esta-saliendo-caro-asi-afecta-a-nuestros-habitos-compra-estudio-cientifico</link>
-            <description>Abandonar el dinero en efectivo nos está saliendo caro. Así afecta a nuestros hábitos de compra, según un estudio científico</description>
-            <pubDate>Fri Jun  7 19:38:03 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: NVIDIA sigue dominando el mercado de las GPU de manera aplastante: AMD e Intel tienen pocos motivos para celebrar</title>
-            <link>https://www.xataka.com/empresas-y-economia/nvidia-sigue-dominando-mercado-gpu-manera-aplastante-amd-e-intel-tiene-pocos-motivos-para-celebrar</link>
-            <description>NVIDIA sigue dominando el mercado de las GPU de manera aplastante: AMD e Intel tienen pocos motivos para celebrar</description>
-            <pubDate>Fri Jun  7 19:34:01 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esta es la razón por la que las apps de streaming deberían emitir canales en directo</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/razon-apps-streaming-canales-directo/</link>
-            <description>Esta es la razón por la que las apps de streaming deberían emitir canales en directo</description>
-            <pubDate>Fri Jun  7 19:30:13 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Apple desploma el precio de la última versión de su smartwatch más económico</title>
-            <link>https://www.adslzone.net/ofertas/mix/tiendas-smartwatch-apple-watch-se-segunda-generacion/</link>
-            <description>Apple desploma el precio de la última versión de su smartwatch más económico</description>
-            <pubDate>Fri Jun  7 19:00:36 2024</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Ship It! 107: 3D printed infrastructure</title>
-            <link>https://changelog.com/shipit/107</link>
-            <description>Ship It! 107: 3D printed infrastructure</description>
-            <pubDate>Fri Jun  7 19:00:00 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Estas operadoras tienen tarifas de prepago sin consumo mínimo perfectas para los más pequeños este verano</title>
-            <link>https://www.adslzone.net/noticias/operadores/mejores-tarifas-prepago-sin-consumo-minimo/</link>
-            <description>Estas operadoras tienen tarifas de prepago sin consumo mínimo perfectas para los más pequeños este verano</description>
-            <pubDate>Fri Jun  7 18:30:32 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Elon Musk acertó en todas sus predicciones cuando abandonó la Starship de fibra de carbono para rehacerla en acero</title>
-            <link>https://www.xataka.com/espacio/elon-musk-acerto-todas-sus-predicciones-cuando-abandono-starship-fibra-carbono-para-rehacerla-acero</link>
-            <description>Elon Musk acertó en todas sus predicciones cuando abandonó la Starship de fibra de carbono para rehacerla en acero</description>
-            <pubDate>Fri Jun  7 18:30:03 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Netflix cambiará para siempre el diseño de su interfaz: así se verá próximamente</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/netflix-cambiara-diseno-interfaz/</link>
-            <description>Netflix cambiará para siempre el diseño de su interfaz: así se verá próximamente</description>
-            <pubDate>Fri Jun  7 18:00:57 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Las críticas a Recall han llevado a Microsoft a hacer tres importantes cambios: así funcionará la herramienta finalmente</title>
-            <link>https://www.xataka.com/seguridad/criticas-a-recall-han-llevado-a-microsoft-a-hacer-tres-importantes-cambios-asi-funcionara-herramienta-finalmente</link>
-            <description>Las críticas a Recall han llevado a Microsoft a hacer tres importantes cambios: así funcionará la herramienta finalmente</description>
-            <pubDate>Fri Jun  7 17:53:50 2024</pubDate>
             </item></channel>
 </rss>
