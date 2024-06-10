@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: Top 5 AI Browsers for Linux</title>
+            <link>https://itsfoss.com/ai-browsers/</link>
+            <description>Top 5 AI Browsers for Linux</description>
+            <pubDate>Mon Jun 10 05:44:27 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Fixing Issues With Knockoff Altera USB Blasters</title>
+            <link>https://hackaday.com/2024/06/09/fixing-issues-with-knockoff-altera-usb-blasters/</link>
+            <description>Fixing Issues With Knockoff Altera USB Blasters</description>
+            <pubDate>Mon Jun 10 05:00:48 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: La función de tu teléfono que te ayudará a ahorrar datos móviles</title>
+            <link>https://www.adslzone.net/noticias/moviles/telefono-ahorrar-datos-moviles-truco/</link>
+            <description>La función de tu teléfono que te ayudará a ahorrar datos móviles</description>
+            <pubDate>Mon Jun 10 05:00:01 2024</pubDate>
+            </item>
+            <item>
+            <title>El Blog de Lázaro: Envía notificaciones si hay cambios en el servidor DHCP Mikrotik</title>
+            <link>https://elblogdelazaro.org/posts/2024-06-10-envia-notificaciones-si-hay-cambio-dhcp-server/</link>
+            <description>Envía notificaciones si hay cambios en el servidor DHCP Mikrotik</description>
+            <pubDate>Mon Jun 10 04:30:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Top nuevas Distros GNU/Linux a ser reconocidas: 2024 – Parte 10</title>
+            <link>https://blog.desdelinux.net/top-nuevas-distros-gnu-linux-2024-parte-10/</link>
+            <description>Top nuevas Distros GNU/Linux a ser reconocidas: 2024 – Parte 10</description>
+            <pubDate>Mon Jun 10 04:00:43 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A LEGO Orrery</title>
+            <link>https://hackaday.com/2024/06/09/a-lego-orrery/</link>
+            <description>A LEGO Orrery</description>
+            <pubDate>Mon Jun 10 02:00:58 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: June 9, 2024</title>
+            <link>https://hackaday.com/2024/06/09/hackaday-links-june-9-2024/</link>
+            <description>Hackaday Links: June 9, 2024</description>
+            <pubDate>Sun Jun  9 23:00:28 2024</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: CVE-2024-1086: escalado de privilegios explotando Linux nf_tables</title>
+            <link>https://www.hackplayers.com/2024/06/cve-2024-1086-lpe-nftables.html</link>
+            <description>CVE-2024-1086: escalado de privilegios explotando Linux nf_tables</description>
+            <pubDate>Sun Jun  9 22:15:02 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Nitrux 3.5 “cx” llega con soporte para control de XBOX, actualizaciones y mas</title>
+            <link>https://blog.desdelinux.net/nitrux-3-5-cx/</link>
+            <description>Nitrux 3.5 “cx” llega con soporte para control de XBOX, actualizaciones y mas</description>
+            <pubDate>Sun Jun  9 21:35:53 2024</pubDate>
+            </item>
+            <item>
             <title>OMG! Ubuntu: HandBrake 1.8 Released with GTK4 UI, FFV1 Encoder + More</title>
             <link>https://www.omgubuntu.co.uk/2024/06/handbrake-completes-linux-gtk4-port</link>
             <description>HandBrake 1.8 Released with GTK4 UI, FFV1 Encoder + More</description>
@@ -16,59 +70,5 @@
             <link>https://hackaday.com/2024/06/09/making-intel-mad-retrocomputing-edition/</link>
             <description>Making Intel Mad, Retrocomputing Edition</description>
             <pubDate>Sun Jun  9 20:00:33 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La TDT en Android Auto es posible gracias a esta app</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/tdt-android-auto-app/</link>
-            <description>La TDT en Android Auto es posible gracias a esta app</description>
-            <pubDate>Sun Jun  9 20:00:06 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Todos los juegos presentados durante el Xbox Showcase 2024 y los 14 mejores anuncios</title>
-            <link>https://www.xataka.com/videojuegos/todos-juegos-presentados-durante-xbox-showcase-2024-14-mejores-anuncios</link>
-            <description>Todos los juegos presentados durante el Xbox Showcase 2024 y los 14 mejores anuncios</description>
-            <pubDate>Sun Jun  9 19:42:22 2024</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: NixOS 24.05 “Uakari” ya fue liberado y estas son sus novedades</title>
-            <link>https://blog.desdelinux.net/nixos-24-05-uakari-ya-fue-liberado-y-estas-son-sus-novedades/</link>
-            <description>NixOS 24.05 “Uakari” ya fue liberado y estas son sus novedades</description>
-            <pubDate>Sun Jun  9 19:09:29 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Elecciones al Parlamento Europeo: así puedes seguir los resultados y el número de eurodiputados de cada partido</title>
-            <link>https://www.genbeta.com/a-fondo/elecciones-al-parlamento-europeo-asi-puedes-seguir-resultados-numero-eurodiputados-cada-partido</link>
-            <description>Elecciones al Parlamento Europeo: así puedes seguir los resultados y el número de eurodiputados de cada partido</description>
-            <pubDate>Sun Jun  9 19:00:37 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La fascinante historia del diamante más grande del mundo: un viaje secreto, escoltas y el monumental desafío de dividirlo</title>
-            <link>https://www.xataka.com/otros/fascinante-historia-diamante-grande-mundo-viaje-secreto-escoltas-desafio-monumental-dividirlo</link>
-            <description>La fascinante historia del diamante más grande del mundo: un viaje secreto, escoltas y el monumental desafío de dividirlo</description>
-            <pubDate>Sun Jun  9 19:00:36 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Trucos para ahorrar datos móviles cuando estás de viaje</title>
-            <link>https://www.adslzone.net/noticias/operadores/ahorrar-datos-moviles-viaje/</link>
-            <description>Trucos para ahorrar datos móviles cuando estás de viaje</description>
-            <pubDate>Sun Jun  9 19:00:10 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Xbox se ha guardado un 'One more thing' para su gran evento de 2024: una precuela de 'Gears of War'</title>
-            <link>https://www.xataka.com/videojuegos/xbox-se-ha-guardado-one-more-thing-para-su-gran-evento-2024-precuela-gears-of-war</link>
-            <description>Xbox se ha guardado un 'One more thing' para su gran evento de 2024: una precuela de 'Gears of War'</description>
-            <pubDate>Sun Jun  9 18:45:08 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Microsoft anuncia tres nuevas Xbox Series para 2024. Una de ellas la rumoreada Xbox Series X All Digital</title>
-            <link>https://www.xataka.com/videojuegos/microsoft-anuncia-tres-nuevas-xbox-series-para-2024-ellas-rumoreada-xbox-series-x-all-digital</link>
-            <description>Microsoft anuncia tres nuevas Xbox Series para 2024. Una de ellas la rumoreada Xbox Series X All Digital</description>
-            <pubDate>Sun Jun  9 18:33:10 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 'Indiana Jones y el Gran Círculo' tiene nuevo tráiler plagado de referencias a las películas y con un tremendo apartado visual</title>
-            <link>https://www.xataka.com/videojuegos/indiana-jones-gran-circulo-tiene-nuevo-trailer-plagado-referencias-a-peliculas-tremendo-apartado-visual</link>
-            <description>'Indiana Jones y el Gran Círculo' tiene nuevo tráiler plagado de referencias a las películas y con un tremendo apartado visual</description>
-            <pubDate>Sun Jun  9 18:15:58 2024</pubDate>
             </item></channel>
 </rss>
