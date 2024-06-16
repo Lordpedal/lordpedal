@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Uncovering Secrets Of Logitech M185’s Dongle</title>
+            <link>https://hackaday.com/2024/06/15/uncovering-secrets-of-logitech-m185s-dongle/</link>
+            <description>Uncovering Secrets Of Logitech M185’s Dongle</description>
+            <pubDate>Sun Jun 16 05:00:43 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: U.K. Hacker Linked to Notorious Scattered Spider Group Arrested in Spain</title>
+            <link>https://thehackernews.com/2024/06/uk-hacker-linked-to-notorious-scattered.html</link>
+            <description>U.K. Hacker Linked to Notorious Scattered Spider Group Arrested in Spain</description>
+            <pubDate>Sun Jun 16 04:31:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Educational Breadboard Synth Module</title>
+            <link>https://hackaday.com/2024/06/15/educational-breadboard-synth-module/</link>
+            <description>Educational Breadboard Synth Module</description>
+            <pubDate>Sun Jun 16 02:00:16 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: systemd 256 ya fue liberado y llega con run0</title>
+            <link>https://blog.desdelinux.net/systemd-256-ya-fue-liberado-y-llega-con-run0/</link>
+            <description>systemd 256 ya fue liberado y llega con run0</description>
+            <pubDate>Sun Jun 16 00:47:38 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: When Your Rope is Your Life</title>
+            <link>https://hackaday.com/2024/06/15/when-your-rope-is-your-life/</link>
+            <description>When Your Rope is Your Life</description>
+            <pubDate>Sat Jun 15 23:00:18 2024</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: O2 Cloud, Digi Storage, Movistar Cloud… ¿Qué operadora tiene el mejor almacenamiento en la nube?</title>
             <link>https://www.adslzone.net/noticias/operadores/cloud-storage-operadora-almacenamiento/</link>
             <description>O2 Cloud, Digi Storage, Movistar Cloud… ¿Qué operadora tiene el mejor almacenamiento en la nube?</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/streaming-tv/plataformas-streaming-ofrecen-prueba/</link>
             <description>Estas son las plataformas de streaming que ofrecen prueba gratuita para ver sin pagar nada</description>
             <pubDate>Sat Jun 15 18:00:16 2024</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Decimoprimer audio de Podcast Linux «Linux Connexion con Gabriel Viso» – Podcast Linux #11</title>
-            <link>https://www.kdeblog.com/decimoprimer-audio-de-podcast-linux-linux-connexion-con-gabriel-viso-podcast-linux-11.html</link>
-            <description>Decimoprimer audio de Podcast Linux «Linux Connexion con Gabriel Viso» – Podcast Linux #11</description>
-            <pubDate>Sat Jun 15 17:35:58 2024</pubDate>
-            </item>
-            <item>
-            <title>BricoGeek.com Blog: Automatiza tu casa con Raspbery Pi tocando la ocarina de Legend of Zelda</title>
-            <link>http://blog.bricogeek.com/noticias/raspberry-pi/automatiza-tu-casa-con-raspbery-pi-tocando-la-ocarina-de-legend-of-zelda/?utm_source=blogfeed&utm_medium=atom10&utm_term=raspberry-pi&utm_content=automatiza-tu-casa-con-raspbery-pi-tocando-la-ocarina-de-legend-of-zelda&utm_campaign=blog</link>
-            <description>Automatiza tu casa con Raspbery Pi tocando la ocarina de Legend of Zelda</description>
-            <pubDate>Sat Jun 15 17:33:00 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Cada cuánto tiempo hacer copias de seguridad? Esto debes saber</title>
-            <link>https://www.redeszone.net/noticias/seguridad/cuando-hacer-copias-seguridad/</link>
-            <description>¿Cada cuánto tiempo hacer copias de seguridad? Esto debes saber</description>
-            <pubDate>Sat Jun 15 17:04:03 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: YouTube prueba un sistema para mejorar los chats de los directos y otras novedades</title>
-            <link>https://www.adslzone.net/noticias/internet/youtube-sistema-mejorar-chats-novedades-0624/</link>
-            <description>YouTube prueba un sistema para mejorar los chats de los directos y otras novedades</description>
-            <pubDate>Sat Jun 15 17:00:56 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El TDAH supone un problema para millones de personas. Quizás para nuestros antepasados fuera una ventaja</title>
-            <link>https://www.xataka.com/medicina-y-salud/tdah-supone-problema-para-millones-personas-quizas-para-nuestros-antepasados-fuera-ventaja</link>
-            <description>El TDAH supone un problema para millones de personas. Quizás para nuestros antepasados fuera una ventaja</description>
-            <pubDate>Sat Jun 15 17:00:43 2024</pubDate>
             </item></channel>
 </rss>
