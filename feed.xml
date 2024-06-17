@@ -6,9 +6,63 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>OMG! Ubuntu: Super Charge Window Snapping on Ubuntu with This Extension</title>
+            <title>Noticias de Linux y tecnología - LinuxParty: El App Center de Ubuntu ahora finalmente admite la instalación de paquetes DEB locales</title>
+            <link>https://www.linuxparty.es/88-ubuntu/12070-el-app-center-de-ubuntu-ahora-finalmente-admite-la-instalaci%C3%B3n-de-paquetes-deb-locales.html</link>
+            <description>El App Center de Ubuntu ahora finalmente admite la instalación de paquetes DEB locales</description>
+            <pubDate>Mon Jun 17 06:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: NiceRAT Malware Targets South Korean Users via Cracked Software</title>
+            <link>https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html</link>
+            <description>NiceRAT Malware Targets South Korean Users via Cracked Software</description>
+            <pubDate>Mon Jun 17 05:11:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D Printing a Bottle Labeling Assembly Line</title>
+            <link>https://hackaday.com/2024/06/16/3d-printing-a-bottle-labeling-assembly-line/</link>
+            <description>3D Printing a Bottle Labeling Assembly Line</description>
+            <pubDate>Mon Jun 17 05:00:51 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Cómo puedo programar una transferencia en Revolut y en N26</title>
+            <link>https://www.adslzone.net/noticias/fintech/programar-transferencias-neobancos-n26-revolut/</link>
+            <description>Cómo puedo programar una transferencia en Revolut y en N26</description>
+            <pubDate>Mon Jun 17 05:00:46 2024</pubDate>
+            </item>
+            <item>
+            <title>El Blog de Lázaro: Timeline de Mastodon en tu sitio web</title>
+            <link>https://elblogdelazaro.org/posts/2024-06-17-timeline-de-mastodon-en-tu-sitio-web/</link>
+            <description>Timeline de Mastodon en tu sitio web</description>
+            <pubDate>Mon Jun 17 04:30:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: SIPing a Vintage Phone</title>
+            <link>https://hackaday.com/2024/06/16/siping-a-vintage-phone/</link>
+            <description>SIPing a Vintage Phone</description>
+            <pubDate>Mon Jun 17 02:00:56 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Cinnamon 6.2 Desktop Goes Stable Ahead of Linux Mint 22 Release</title>
+            <link>https://www.omgubuntu.co.uk/2024/06/cinnamon-6-2-desktop-whats-new</link>
+            <description>Cinnamon 6.2 Desktop Goes Stable Ahead of Linux Mint 22 Release</description>
+            <pubDate>Mon Jun 17 00:30:00 2024</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Aprende Terminal de Linux desde cero, video 29, Procesos, comando top</title>
+            <link>https://www.distritotux.cl/2024/06/aprende-terminal-de-linux-desde-cero_16.html</link>
+            <description>Aprende Terminal de Linux desde cero, video 29, Procesos, comando top</description>
+            <pubDate>Sun Jun 16 23:11:32 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: June 16, 2024</title>
+            <link>https://hackaday.com/2024/06/16/hackaday-links-june-16-2024/</link>
+            <description>Hackaday Links: June 16, 2024</description>
+            <pubDate>Sun Jun 16 23:00:31 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Tiling Shell Brings Advanced Window Snapping to Ubuntu</title>
             <link>https://www.omgubuntu.co.uk/2024/06/tiling-shell-gnome-extension-in-ubuntu</link>
-            <description>Super Charge Window Snapping on Ubuntu with This Extension</description>
+            <description>Tiling Shell Brings Advanced Window Snapping to Ubuntu</description>
             <pubDate>Sun Jun 16 20:50:07 2024</pubDate>
             </item>
             <item>
@@ -16,59 +70,5 @@
             <link>https://hackaday.com/2024/06/16/new-part-day-a-hackable-smart-ring/</link>
             <description>New Part Day: A Hackable Smart Ring</description>
             <pubDate>Sun Jun 16 20:00:38 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo evitar que el router se sobrecaliente</title>
-            <link>https://www.adslzone.net/noticias/internet/router-evitar-sobrecalentamiento/</link>
-            <description>Cómo evitar que el router se sobrecaliente</description>
-            <pubDate>Sun Jun 16 20:00:32 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo pausar tu cuenta de Netflix sin cancelar tu cuenta</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/como-pausar-cuenta-netlix-temporalmente/</link>
-            <description>Cómo pausar tu cuenta de Netflix sin cancelar tu cuenta</description>
-            <pubDate>Sun Jun 16 19:00:48 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Qué fue de Tom Anderson, el visionario de las redes sociales que fundó My Space antes que Facebook y Twitter</title>
-            <link>https://www.xataka.com/empresas-y-economia/que-fue-tom-anderson-visionario-redes-sociales-que-fundo-my-space-facebook-twitter</link>
-            <description>Qué fue de Tom Anderson, el visionario de las redes sociales que fundó My Space antes que Facebook y Twitter</description>
-            <pubDate>Sun Jun 16 19:00:41 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo saber el número de teléfono de una tarjeta SIM</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/como-saber-numero-telefono-sim/</link>
-            <description>Cómo saber el número de teléfono de una tarjeta SIM</description>
-            <pubDate>Sun Jun 16 18:00:47 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Estamos buscando las "pirámides ocultas" de México. Los rayos cósmicos serán vitales en esta aventura</title>
-            <link>https://www.xataka.com/investigacion/estamos-buscando-piramides-ocultas-mexico-rayos-cosmicos-seran-vitales-esta-aventura</link>
-            <description>Estamos buscando las "pirámides ocultas" de México. Los rayos cósmicos serán vitales en esta aventura</description>
-            <pubDate>Sun Jun 16 18:00:42 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: En estos casos, el consumo fantasma es necesario y no deberías evitarlo</title>
-            <link>https://www.redeszone.net/noticias/power/casos-consumo-fantasma-necesario/</link>
-            <description>En estos casos, el consumo fantasma es necesario y no deberías evitarlo</description>
-            <pubDate>Sun Jun 16 17:03:43 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Si insultas a tu jefe en tu grupo de WhatsApp y acaba enterándose, no es motivo de despido</title>
-            <link>https://www.xataka.com/legislacion-y-derechos/insultas-a-tu-jefe-tu-grupo-whatsapp-acaba-enterandose-no-motivo-despido</link>
-            <description>Si insultas a tu jefe en tu grupo de WhatsApp y acaba enterándose, no es motivo de despido</description>
-            <pubDate>Sun Jun 16 17:00:42 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Esta web hace justo lo que siempre he querido: dibujo un iceberg y me dice qué parte flota</title>
-            <link>https://www.genbeta.com/web/esta-web-hace-justo-que-siempre-he-querido-dibujo-iceberg-me-dice-que-parte-flota</link>
-            <description>Esta web hace justo lo que siempre he querido: dibujo un iceberg y me dice qué parte flota</description>
-            <pubDate>Sun Jun 16 17:00:42 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: RC Batwing Actually Flies</title>
-            <link>https://hackaday.com/2024/06/16/rc-batwing-actually-flies/</link>
-            <description>RC Batwing Actually Flies</description>
-            <pubDate>Sun Jun 16 17:00:38 2024</pubDate>
             </item></channel>
 </rss>
