@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Clearly 3D Printing</title>
+            <link>https://hackaday.com/2024/06/22/clearly-3d-printing/</link>
+            <description>Clearly 3D Printing</description>
+            <pubDate>Sun Jun 23 05:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: In Future, Printer Documents You</title>
+            <link>https://hackaday.com/2024/06/22/in-future-printer-documents-you/</link>
+            <description>In Future, Printer Documents You</description>
+            <pubDate>Sun Jun 23 02:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An Arduino Nano Clone in a DIP-Sized Footprint</title>
+            <link>https://hackaday.com/2024/06/22/an-arduino-nano-clone-in-a-dip-sized-footprint/</link>
+            <description>An Arduino Nano Clone in a DIP-Sized Footprint</description>
+            <pubDate>Sat Jun 22 23:00:00 2024</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Así de fácil es que tu Chromecast con Google TV vaya rápido en todo momento</title>
             <link>https://www.adslzone.net/noticias/streaming-tv/trucos-mejorar-rendimiento-chromecast-google-tv/</link>
             <description>Así de fácil es que tu Chromecast con Google TV vaya rápido en todo momento</description>
@@ -52,23 +70,5 @@
             <link>https://www.redeszone.net/noticias/power/cambios-ahorrar-luz-casa-comprobar/</link>
             <description>Si haces cambios para ahorrar luz en casa, estos trucos te ayudarán a saber si funcionan</description>
             <pubDate>Sat Jun 22 17:04:27 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hace 4.000 años el Sáhara todavía no era un desierto. Las nuevas pruebas las hemos encontrado en una cueva de Sudán</title>
-            <link>https://www.xataka.com/investigacion/este-arte-rupestre-descubierto-revela-que-sahara-era-lugar-radicalmente-diferente-hace-4-000-anos</link>
-            <description>Hace 4.000 años el Sáhara todavía no era un desierto. Las nuevas pruebas las hemos encontrado en una cueva de Sudán</description>
-            <pubDate>Sat Jun 22 17:01:26 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 2024 Business Card Challenge: NoiseCard Judges the Sound Around You</title>
-            <link>https://hackaday.com/2024/06/22/2024-business-card-challenge-noisecard-judges-the-sound-around-you/</link>
-            <description>2024 Business Card Challenge: NoiseCard Judges the Sound Around You</description>
-            <pubDate>Sat Jun 22 17:00:49 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Movistar Plus+ da inicio al verano con más deporte de la historia</title>
-            <link>https://www.adslzone.net/noticias/operadores/movistar-plus-verano-deporte-historia-0624/</link>
-            <description>Movistar Plus+ da inicio al verano con más deporte de la historia</description>
-            <pubDate>Sat Jun 22 17:00:30 2024</pubDate>
             </item></channel>
 </rss>
