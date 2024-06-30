@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Try Out MCUs With This Jumperable TSSOP20 Adapter</title>
+            <link>https://hackaday.com/2024/06/29/try-out-mcus-with-this-jumperable-tssop20-adapter/</link>
+            <description>Try Out MCUs With This Jumperable TSSOP20 Adapter</description>
+            <pubDate>Sun Jun 30 05:00:51 2024</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Lanzamientos de junio 2024: Linux Lite, FreeBSD, Parrot y más</title>
+            <link>https://ubunlog.com/lanzamientos-junio-2024/</link>
+            <description>Lanzamientos de junio 2024: Linux Lite, FreeBSD, Parrot y más</description>
+            <pubDate>Sun Jun 30 04:00:22 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Junio 2024: Lo bueno, malo e interesante del Linuxverso</title>
+            <link>https://blog.desdelinux.net/junio-2024-bueno-malo-interesante-linuxverso/</link>
+            <description>Junio 2024: Lo bueno, malo e interesante del Linuxverso</description>
+            <pubDate>Sun Jun 30 04:00:14 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Apple May Use Electrical Debonding For Battery Replacement</title>
+            <link>https://hackaday.com/2024/06/29/apple-may-use-electrical-debonding-for-battery-replacement/</link>
+            <description>Apple May Use Electrical Debonding For Battery Replacement</description>
+            <pubDate>Sun Jun 30 02:00:27 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Go Forth With This Portable Programmer</title>
+            <link>https://hackaday.com/2024/06/29/go-forth-with-this-portable-programmer/</link>
+            <description>Go Forth With This Portable Programmer</description>
+            <pubDate>Sat Jun 29 23:00:01 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog Bitix: Eliminar todo el historial de la red social X</title>
+            <link>https://picodotdev.github.io/blog-bitix/2024/06/eliminar-todo-el-historial-de-la-red-social-x/</link>
+            <description>Eliminar todo el historial de la red social X</description>
+            <pubDate>Sat Jun 29 23:00:00 2024</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Building a Hydraulic System With 3D Printed SLA Resin Parts</title>
             <link>https://hackaday.com/2024/06/29/building-a-hydraulic-system-with-3d-printed-sla-resin-parts/</link>
             <description>Building a Hydraulic System With 3D Printed SLA Resin Parts</description>
@@ -34,41 +70,5 @@
             <link>https://www.xataka.com/transporte/lo-que-habran-visto-las-cubiertas-de-este-megayate-kingdom-5-kr-el-yate-de-traficantes-de-armas-de-trump-y-del-jeque-al-waleed</link>
             <description>Lo que habrán visto las cubiertas de este megayate. Kingdom 5-KR: el yate de traficantes de armas, de Trump y del jeque Al-Waleed</description>
             <pubDate>Sat Jun 29 18:00:59 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La mayoría de españoles prefiere que su operador móvil tenga tienda física a la que poder ir a quejarse</title>
-            <link>https://www.adslzone.net/noticias/operadores/mayoria-espanoles-operador-tienda-fisica/</link>
-            <description>La mayoría de españoles prefiere que su operador móvil tenga tienda física a la que poder ir a quejarse</description>
-            <pubDate>Sat Jun 29 18:00:41 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Trucos para hacer tu navegador más privado y evitar problemas</title>
-            <link>https://www.redeszone.net/noticias/seguridad/trucos-navegador-privado/</link>
-            <description>Trucos para hacer tu navegador más privado y evitar problemas</description>
-            <pubDate>Sat Jun 29 17:04:37 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Estamos buscando el origen de más de 5.200 cráteres hallados frente a la costa de California. Podría estar en la gravedad</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/estamos-buscando-origen-5-200-crateres-hallados-frente-a-costa-california-podria-estar-gravedad</link>
-            <description>Estamos buscando el origen de más de 5.200 cráteres hallados frente a la costa de California. Podría estar en la gravedad</description>
-            <pubDate>Sat Jun 29 17:01:01 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: El juego que está arrasando en internet va de marcar casillas en una web sin ton ni son. Es tan sencillo como adictivo</title>
-            <link>https://www.genbeta.com/actualidad/juego-que-esta-arrasando-internet-va-marcar-casillas-web-ton-sencillo-como-adictivo</link>
-            <description>El juego que está arrasando en internet va de marcar casillas en una web sin ton ni son. Es tan sencillo como adictivo</description>
-            <pubDate>Sat Jun 29 17:01:01 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Solar Energy Plant Creates Fuel</title>
-            <link>https://hackaday.com/2024/06/29/solar-energy-plant-creates-fuel/</link>
-            <description>Solar Energy Plant Creates Fuel</description>
-            <pubDate>Sat Jun 29 17:00:20 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Movistar Plus+ sorprende adelantándose y anunciando estrenos de agosto</title>
-            <link>https://www.adslzone.net/noticias/operadores/movistar-plus-adelanto-estrenos-agosto-0624/</link>
-            <description>Movistar Plus+ sorprende adelantándose y anunciando estrenos de agosto</description>
-            <pubDate>Sat Jun 29 17:00:19 2024</pubDate>
             </item></channel>
 </rss>
