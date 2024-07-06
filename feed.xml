@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Building an IR Thermometer That Fits on Your Keychain</title>
+            <link>https://hackaday.com/2024/07/05/building-an-ir-thermometer-that-fits-on-your-keychain/</link>
+            <description>Building an IR Thermometer That Fits on Your Keychain</description>
+            <pubDate>Sat Jul  6 05:00:48 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 6 de julio</title>
+            <link>https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-6-julio</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 6 de julio</description>
+            <pubDate>Sat Jul  6 03:01:38 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Dad? Where Did Printed Circuit Boards Come From?</title>
+            <link>https://hackaday.com/2024/07/05/dad-where-did-printed-circuit-boards-come-from/</link>
+            <description>Dad? Where Did Printed Circuit Boards Come From?</description>
+            <pubDate>Sat Jul  6 02:00:25 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: ¿Tiene Google la intención de descontinuar ChromeOS Flex?</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/tiene-google-la-intencion-de-descontinuar-chromeos-flex/</link>
+            <description>¿Tiene Google la intención de descontinuar ChromeOS Flex?</description>
+            <pubDate>Sat Jul  6 00:03:38 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Thermite Process Iron Foundry</title>
+            <link>https://hackaday.com/2024/07/05/the-thermite-process-iron-foundry/</link>
+            <description>The Thermite Process Iron Foundry</description>
+            <pubDate>Fri Jul  5 23:00:26 2024</pubDate>
+            </item>
+            <item>
             <title>Xataka: EEUU quería mejorar su capacidad de espionaje. Acaba de hacerlo al desplegar sus nuevos (y avanzados) drones ULTRA</title>
             <link>https://www.xataka.com/drones/eeuu-queria-mejorar-su-capacidad-espionaje-acaba-hacerlo-al-desplegar-sus-nuevos-avanzados-drones-ultra</link>
             <description>EEUU quería mejorar su capacidad de espionaje. Acaba de hacerlo al desplegar sus nuevos (y avanzados) drones ULTRA</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/ofertas/amazon/televisor-samsung-tv-crystal-85du710-uhd-2024/</link>
             <description>Samsung se adelanta al Prime Day de Amazon con una de sus últimas Smart TV al 40% de descuento</description>
             <pubDate>Fri Jul  5 19:00:30 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Nadie lo utiliza, pero este ajuste de tu tarjeta de crédito es imprescindible para viajar sin riesgos este verano</title>
-            <link>https://www.adslzone.net/noticias/fintech/ajustes-tarjeta-credito-viajar-extranjero-sin-limites/</link>
-            <description>Nadie lo utiliza, pero este ajuste de tu tarjeta de crédito es imprescindible para viajar sin riesgos este verano</description>
-            <pubDate>Fri Jul  5 18:30:46 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Hacking a Quansheng Handheld To Transmit Digital Modes</title>
-            <link>https://hackaday.com/2024/07/05/hacking-a-quansheng-handheld-to-transmit-digital-modes/</link>
-            <description>Hacking a Quansheng Handheld To Transmit Digital Modes</description>
-            <pubDate>Fri Jul  5 18:30:27 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Si nunca has visto la Vía Láctea con tus propios ojos, en verano tienes una gran oportunidad</title>
-            <link>https://www.xataka.com/espacio/este-verano-podremos-ver-via-lactea-a-simple-vista-estos-dias-propicios-para-hacerlo</link>
-            <description>Si nunca has visto la Vía Láctea con tus propios ojos, en verano tienes una gran oportunidad</description>
-            <pubDate>Fri Jul  5 18:01:28 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Ya tienes disponible el nuevo juego gratuito de Epic Games que disfrutarás para siempre</title>
-            <link>https://www.adslzone.net/noticias/videojuegos/disponible-juego-gratuito-epic-games/</link>
-            <description>Ya tienes disponible el nuevo juego gratuito de Epic Games que disfrutarás para siempre</description>
-            <pubDate>Fri Jul  5 18:00:25 2024</pubDate>
-            </item>
-            <item>
-            <title>Luis Llamas: Qué son y cómo usar los interface en C#</title>
-            <link>https://www.luisllamas.es/csharp-interfaces/</link>
-            <description>Qué son y cómo usar los interface en C#</description>
-            <pubDate>Fri Jul  5 17:59:02 2024</pubDate>
             </item></channel>
 </rss>
