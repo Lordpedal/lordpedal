@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: PeLEDs: Using Perovskites to Create LEDs Which Also Sense Light</title>
+            <link>https://hackaday.com/2024/07/07/peleds-using-perovskites-to-create-leds-which-also-sense-light/</link>
+            <description>PeLEDs: Using Perovskites to Create LEDs Which Also Sense Light</description>
+            <pubDate>Mon Jul  8 05:00:23 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Llevas haciéndolo mal toda la vida: esta cotidiana maniobra en carretera puede costarte 500 euros</title>
+            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/sancion-circular-moto-sentido-contrario/</link>
+            <description>Llevas haciéndolo mal toda la vida: esta cotidiana maniobra en carretera puede costarte 500 euros</description>
+            <pubDate>Mon Jul  8 05:00:12 2024</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Linux Mint 22 “Wilma” – BETA Release</title>
+            <link>https://www.cambiatealinux.com/linux-mint-22-wilma-beta-release</link>
+            <description>Linux Mint 22 “Wilma” – BETA Release</description>
+            <pubDate>Mon Jul  8 04:39:45 2024</pubDate>
+            </item>
+            <item>
+            <title>El Blog de Lázaro: Pika Backup, copias de seguridad con borg desde Gnome</title>
+            <link>https://elblogdelazaro.org/posts/2024-07-08-pika-copias-de-seguridad-con-borg-desde-gnome/</link>
+            <description>Pika Backup, copias de seguridad con borg desde Gnome</description>
+            <pubDate>Mon Jul  8 04:30:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Korean Multifunction Counter Teardown</title>
+            <link>https://hackaday.com/2024/07/07/korean-multifunction-counter-teardown/</link>
+            <description>Korean Multifunction Counter Teardown</description>
+            <pubDate>Mon Jul  8 02:00:42 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: July 7, 2024</title>
+            <link>https://hackaday.com/2024/07/07/hackaday-links-july-7-2024/</link>
+            <description>Hackaday Links: July 7, 2024</description>
+            <pubDate>Sun Jul  7 23:00:22 2024</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: File Tunnel: comunica dos hosts a través de un fichero compartido</title>
+            <link>https://www.hackplayers.com/2024/07/file-tunnel-shared-folder.html</link>
+            <description>File Tunnel: comunica dos hosts a través de un fichero compartido</description>
+            <pubDate>Sun Jul  7 22:45:47 2024</pubDate>
+            </item>
+            <item>
             <title>NKSistemas: OpenSSH 9.8: Mejoras, Vulnerabilidades Corregidas y el Fin de DSA</title>
             <link>https://nksistemas.com/openssh-9-8-mejoras-vulnerabilidades-corregidas-y-el-fin-de-dsa/</link>
             <description>OpenSSH 9.8: Mejoras, Vulnerabilidades Corregidas y el Fin de DSA</description>
@@ -28,47 +70,5 @@
             <link>https://hackaday.com/2024/07/07/new-battery-has-no-anode/</link>
             <description>New Battery Has no Anode</description>
             <pubDate>Sun Jul  7 20:00:46 2024</pubDate>
-            </item>
-            <item>
-            <title>hackplayers: CVE-2023-51119: fallo en el control de autorización en routers D-Link DIR-605L</title>
-            <link>https://www.hackplayers.com/2024/07/CVE-2023-51119-D-Link-DIR-605L-router.html</link>
-            <description>CVE-2023-51119: fallo en el control de autorización en routers D-Link DIR-605L</description>
-            <pubDate>Sun Jul  7 19:03:47 2024</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Novedades Semana 26 en el Linuxverso: EasyOS 6.0.2, Debian 11.10 y 12.6</title>
-            <link>https://blog.desdelinux.net/linuxverso-semana-26-2024/</link>
-            <description>Novedades Semana 26 en el Linuxverso: EasyOS 6.0.2, Debian 11.10 y 12.6</description>
-            <pubDate>Sun Jul  7 19:03:36 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así he configurado Google Maps para que detecte todos los radares de la DGT</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/google-maps-radares-dgt/</link>
-            <description>Así he configurado Google Maps para que detecte todos los radares de la DGT</description>
-            <pubDate>Sun Jul  7 19:00:50 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Gyro Monorail: un prodigio de la ingeniería ferroviaria que se movía por una única vía y nunca perdía el equilibrio</title>
-            <link>https://www.xataka.com/transporte/gyro-monorail-prodigio-ingenieria-ferroviaria-que-solo-necesitaba-via-se-mantenia-equilibrio-siempre</link>
-            <description>Gyro Monorail: un prodigio de la ingeniería ferroviaria que se movía por una única vía y nunca perdía el equilibrio</description>
-            <pubDate>Sun Jul  7 19:00:45 2024</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Liberados los controladores NVIDIA 555.58, conoce sus novedades y cómo instalarlos en Ubuntu</title>
-            <link>https://ubunlog.com/liberados-los-controladores-nvidia-555-58-conoce-sus-novedades-y-como-instalarlos-en-ubuntu/</link>
-            <description>Liberados los controladores NVIDIA 555.58, conoce sus novedades y cómo instalarlos en Ubuntu</description>
-            <pubDate>Sun Jul  7 18:24:58 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El galeón español San José fue hundido transportando 20.000 millones. México y Colombia van a sacar a la luz ese tesoro</title>
-            <link>https://www.xataka.com/magnet/galeon-espanol-san-jose-fue-hundido-transportando-20-000-millones-mexico-colombia-van-a-sacar-a-luz-ese-tesoro</link>
-            <description>El galeón español San José fue hundido transportando 20.000 millones. México y Colombia van a sacar a la luz ese tesoro</description>
-            <pubDate>Sun Jul  7 18:01:02 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Soy de O2 y voy a viajar fuera de España este verano, estos son los países que entran dentro del roaming de mi tarifa</title>
-            <link>https://www.adslzone.net/noticias/operadores/o2-viajar-roaming-paises-extranjero/</link>
-            <description>Soy de O2 y voy a viajar fuera de España este verano, estos son los países que entran dentro del roaming de mi tarifa</description>
-            <pubDate>Sun Jul  7 18:00:58 2024</pubDate>
             </item></channel>
 </rss>
