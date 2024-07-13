@@ -6,10 +6,40 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A Teeny 3D-Printed Printing Press, Thanks Gutenberg</title>
+            <link>https://hackaday.com/2024/07/12/a-teeny-3d-printed-printing-press-thanks-gutenberg/</link>
+            <description>A Teeny 3D-Printed Printing Press, Thanks Gutenberg</description>
+            <pubDate>Sat Jul 13 05:00:16 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Surgery — Not Just For Humans Anymore</title>
+            <link>https://hackaday.com/2024/07/12/surgery-not-just-for-humans-anymore/</link>
+            <description>Surgery — Not Just For Humans Anymore</description>
+            <pubDate>Sat Jul 13 02:00:47 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Ubuntu pierde posiciones en la encuesta de Steam por su competencia interna</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/ubuntu-pierde-posiciones-en-la-encuesta-de-steam-por-su-competencia-interna/</link>
+            <description>Ubuntu pierde posiciones en la encuesta de Steam por su competencia interna</description>
+            <pubDate>Sat Jul 13 00:03:29 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Tiny Transceiver Gets It Done with One Transistor</title>
+            <link>https://hackaday.com/2024/07/12/tiny-transceiver-gets-it-done-with-one-transistor/</link>
+            <description>Tiny Transceiver Gets It Done with One Transistor</description>
+            <pubDate>Fri Jul 12 23:00:03 2024</pubDate>
+            </item>
+            <item>
             <title>Xataka: Después de más de 300 lanzamientos, el Falcon 9 se queda en tierra: la culpa la tiene una anomalía de su última misión</title>
             <link>https://www.xataka.com/espacio/despues-300-lanzamientos-falcon-9-se-queda-tierra-culpa-tiene-anomalia-su-ultima-mision</link>
             <description>Después de más de 300 lanzamientos, el Falcon 9 se queda en tierra: la culpa la tiene una anomalía de su última misión</description>
             <pubDate>Fri Jul 12 21:16:23 2024</pubDate>
+            </item>
+            <item>
+            <title>Changelog: Changelog & Friends 52: Last DevRel standing</title>
+            <link>https://changelog.com/friends/52</link>
+            <description>Changelog & Friends 52: Last DevRel standing</description>
+            <pubDate>Fri Jul 12 21:00:00 2024</pubDate>
             </item>
             <item>
             <title>ADSLZone: Tras muchos años utilizando el desco de Movistar, estos son mis imprescindibles para mejorar la calidad de la imagen y del sonido</title>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/magnet/se-han-gastado-600-millones-llevan-siete-meses-fiesta-interminable-boda-heredero-hombre-rico-india</link>
             <description>Se han gastado 600 millones y llevan siete meses de fiesta: la interminable boda del heredero del hombre más rico de India</description>
             <pubDate>Fri Jul 12 19:11:28 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El todoterreno Xiaomi Poco M6 Pro cae de precio en Amazon y alcanza su mínimo histórico</title>
-            <link>https://www.adslzone.net/ofertas/amazon/smartphone-xiaomi-poco-m6-pro-8-256-0724/</link>
-            <description>El todoterreno Xiaomi Poco M6 Pro cae de precio en Amazon y alcanza su mínimo histórico</description>
-            <pubDate>Fri Jul 12 19:00:39 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Estas son todas las formas de ver gratis el España – Inglaterra: TDT a 4K y streaming</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/ver-gratis-espana-inglaterra-tdt-4k-streaming/</link>
-            <description>Estas son todas las formas de ver gratis el España – Inglaterra: TDT a 4K y streaming</description>
-            <pubDate>Fri Jul 12 18:30:22 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Iron Man Arc Reactor Clock Is A Stylish Piece</title>
-            <link>https://hackaday.com/2024/07/12/iron-man-arc-reactor-clock-is-a-stylish-piece/</link>
-            <description>Iron Man Arc Reactor Clock Is A Stylish Piece</description>
-            <pubDate>Fri Jul 12 18:30:04 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La Comisión Europea carga contra X: señala incumplimientos de la Ley de Servicios Digitales y amenaza con sanciones</title>
-            <link>https://www.xataka.com/legislacion-y-derechos/comision-europea-carga-x-senala-incumplimientos-ley-servicios-digitales-amenaza-sanciones</link>
-            <description>La Comisión Europea carga contra X: señala incumplimientos de la Ley de Servicios Digitales y amenaza con sanciones</description>
-            <pubDate>Fri Jul 12 18:16:38 2024</pubDate>
-            </item>
-            <item>
-            <title>Luis Llamas: Qué es y cómo usar el operador ternario en Javascript</title>
-            <link>https://www.luisllamas.es/javascript-condicional-ternario/</link>
-            <description>Qué es y cómo usar el operador ternario en Javascript</description>
-            <pubDate>Fri Jul 12 18:07:54 2024</pubDate>
             </item></channel>
 </rss>
