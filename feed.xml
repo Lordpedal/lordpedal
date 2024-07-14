@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Print Wave Metal Casting</title>
+            <link>https://hackaday.com/2024/07/13/print-wave-metal-casting/</link>
+            <description>Print Wave Metal Casting</description>
+            <pubDate>Sun Jul 14 05:00:28 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: C++ Design Patterns for Low-Latency Applications</title>
+            <link>https://hackaday.com/2024/07/13/c-design-patterns-for-low-latency-applications/</link>
+            <description>C++ Design Patterns for Low-Latency Applications</description>
+            <pubDate>Sun Jul 14 02:00:53 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Axial 3D Printer Aces Test Aboard Virgin Spaceplane</title>
+            <link>https://hackaday.com/2024/07/13/axial-3d-printer-aces-test-aboard-virgin-spaceplane/</link>
+            <description>Axial 3D Printer Aces Test Aboard Virgin Spaceplane</description>
+            <pubDate>Sat Jul 13 23:00:36 2024</pubDate>
+            </item>
+            <item>
             <title>Indie Libre: Ubii App:  tarjeta de débito MasterCard nacida en Venezuela</title>
             <link>https://indielibre.com/2024/07/13/ubii-app-tarjeta-de-debito-mastercard-nacida-en-venezuela/</link>
             <description>Ubii App:  tarjeta de débito MasterCard nacida en Venezuela</description>
@@ -52,23 +70,5 @@
             <link>https://www.linuxparty.es/79-tecnologia/12096-un-traje-espacial-inspirado-en-las-dunas-recicla-la-orina-y-la-convierte-en-agua-potable.html</link>
             <description>Un traje espacial inspirado en las dunas recicla la orina y la convierte en agua potable</description>
             <pubDate>Sat Jul 13 17:27:38 2024</pubDate>
-            </item>
-            <item>
-            <title>DistritoTux: FunOS, La Distro Ligera con Aplicaciones Básicas y Sin Snap</title>
-            <link>https://www.distritotux.cl/2024/07/funos-la-distro-ligera-con-aplicaciones.html</link>
-            <description>FunOS, La Distro Ligera con Aplicaciones Básicas y Sin Snap</description>
-            <pubDate>Sat Jul 13 17:23:55 2024</pubDate>
-            </item>
-            <item>
-            <title>Noticias de Linux y tecnología - LinuxParty: Mozilla Thunderbird 128 ESR ya está disponible para descargar, estas son las novedades</title>
-            <link>https://www.linuxparty.es/46-mozilla/12095-mozilla-thunderbird-128-esr-ya-est%C3%A1-disponible-para-descargar%2C-estas-son-las-novedades.html</link>
-            <description>Mozilla Thunderbird 128 ESR ya está disponible para descargar, estas son las novedades</description>
-            <pubDate>Sat Jul 13 17:21:38 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Por esto es importante que uses VPN en el router para que se conecten todos tus dispositivos</title>
-            <link>https://www.redeszone.net/noticias/redes/importante-router-vpn-dispositivos/</link>
-            <description>Por esto es importante que uses VPN en el router para que se conecten todos tus dispositivos</description>
-            <pubDate>Sat Jul 13 17:06:01 2024</pubDate>
             </item></channel>
 </rss>
