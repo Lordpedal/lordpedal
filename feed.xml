@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: Critical Apache HugeGraph Vulnerability Under Attack - Patch ASAP</title>
+            <link>https://thehackernews.com/2024/07/critical-apache-hugegraph-vulnerability.html</link>
+            <description>Critical Apache HugeGraph Vulnerability Under Attack - Patch ASAP</description>
+            <pubDate>Wed Jul 17 05:25:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Seiko Had A Smartwatch In 1984</title>
+            <link>https://hackaday.com/2024/07/16/seiko-had-a-smartwatch-in-1984/</link>
+            <description>Seiko Had A Smartwatch In 1984</description>
+            <pubDate>Wed Jul 17 05:00:37 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Esta cámara de seguridad para interior no cuesta ni 20 euros y tiene casi 3.000 valoraciones; ¿a qué esperas para comprarla este Prime Day?</title>
+            <link>https://www.adslzone.net/ofertas/amazon/camara-seguridad-interiores-blink-mini-0724/</link>
+            <description>Esta cámara de seguridad para interior no cuesta ni 20 euros y tiene casi 3.000 valoraciones; ¿a qué esperas para comprarla este Prime Day?</description>
+            <pubDate>Wed Jul 17 05:00:27 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Audacity 3.6 Add Master Effects, New Compressor & Limiter + More</title>
+            <link>https://www.omgubuntu.co.uk/2024/07/audacity-3-6-released-with-master-effects</link>
+            <description>Audacity 3.6 Add Master Effects, New Compressor & Limiter + More</description>
+            <pubDate>Wed Jul 17 02:23:21 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Remembering Seymour Cray</title>
+            <link>https://hackaday.com/2024/07/16/remembering-seymour-cray/</link>
+            <description>Remembering Seymour Cray</description>
+            <pubDate>Wed Jul 17 02:00:50 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: Blender 4.2 LTS introduce mejoras en la composición, la iluminación y el uso de la GPU</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/blender-4-2-lts-introduce-mejoras-en-la-composicion-la-iluminacion-y-el-uso-de-la-gpu/</link>
+            <description>Blender 4.2 LTS introduce mejoras en la composición, la iluminación y el uso de la GPU</description>
+            <pubDate>Wed Jul 17 00:00:33 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: La prohibición de Kaspersky en EEUU ya tiene su primera víctima: todos sus empleados en el país serán despedidos</title>
+            <link>https://www.xataka.com/seguridad/prohibicion-kaspersky-eeuu-tiene-su-primera-victima-todos-sus-empleados-pais-seran-despedidos</link>
+            <description>La prohibición de Kaspersky en EEUU ya tiene su primera víctima: todos sus empleados en el país serán despedidos</description>
+            <pubDate>Tue Jul 16 23:02:53 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: DME with a Twist of LimeSDR</title>
+            <link>https://hackaday.com/2024/07/16/dme-with-a-twist-of-limesdr/</link>
+            <description>DME with a Twist of LimeSDR</description>
+            <pubDate>Tue Jul 16 23:00:59 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Blender 4.2 LTS Brings New Render Engine, GPU Compositor + More</title>
+            <link>https://www.omgubuntu.co.uk/2024/07/blender-4-2-release-new-features</link>
+            <description>Blender 4.2 LTS Brings New Render Engine, GPU Compositor + More</description>
+            <pubDate>Tue Jul 16 22:39:00 2024</pubDate>
+            </item>
+            <item>
             <title>Noticias de Linux y tecnología - LinuxParty: Plutón no regresará, pero los astrónomos quieren redefinir los planetas nuevamente</title>
             <link>https://www.linuxparty.es/19-espacio/12098-plut%C3%B3n-no-regresar%C3%A1%2C-pero-los-astr%C3%B3nomos-quieren-redefinir-los-planetas-nuevamente.html</link>
             <description>Plutón no regresará, pero los astrónomos quieren redefinir los planetas nuevamente</description>
@@ -16,59 +70,5 @@
             <link>https://www.linuxparty.es/85-energia/12097-three-mile-island-considera-reiniciar-la-energ%C3%ADa-nuclear.html</link>
             <description>Three Mile Island considera reiniciar la energía nuclear</description>
             <pubDate>Tue Jul 16 21:06:46 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Acaba el primer día del Prime Day 2024 de Amazon y estas son las 10 ofertas más vendidas</title>
-            <link>https://www.adslzone.net/ofertas/amazon/ofertas-mas-vendidas-prime-day-0724/</link>
-            <description>Acaba el primer día del Prime Day 2024 de Amazon y estas son las 10 ofertas más vendidas</description>
-            <pubDate>Tue Jul 16 21:00:40 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La CMA fue una pesadilla para Microsoft en la compra de Activision. El regulador británico vuelve a escena, ahora por la IA</title>
-            <link>https://www.xataka.com/robotica-e-ia/cma-fue-pesadilla-para-microsoft-compra-activision-regulador-britanico-vuelve-a-escena-ahora-ia</link>
-            <description>La CMA fue una pesadilla para Microsoft en la compra de Activision. El regulador británico vuelve a escena, ahora por la IA</description>
-            <pubDate>Tue Jul 16 20:30:30 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Playing Rock, Paper Scissors With A Time of Flight Sensor</title>
-            <link>https://hackaday.com/2024/07/16/playing-rock-paper-scissors-with-a-time-of-flight-sensor/</link>
-            <description>Playing Rock, Paper Scissors With A Time of Flight Sensor</description>
-            <pubDate>Tue Jul 16 20:00:25 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esta no la vimos venir: cinco ayuntamientos prohíben instalar fibra óptica en espacios públicos</title>
-            <link>https://www.adslzone.net/noticias/operadores/ayuntamientos-prohiben-instalar-fibra-optica-espacios-publicos/</link>
-            <description>Esta no la vimos venir: cinco ayuntamientos prohíben instalar fibra óptica en espacios públicos</description>
-            <pubDate>Tue Jul 16 20:00:16 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El ‘MacBook’ de Samsung, con 16GB de RAM y diseño convertible, está tirado de precio si tienes Amazon Prime</title>
-            <link>https://www.adslzone.net/ofertas/amazon/portatil-samsung-galaxybook3360-0724/</link>
-            <description>El ‘MacBook’ de Samsung, con 16GB de RAM y diseño convertible, está tirado de precio si tienes Amazon Prime</description>
-            <pubDate>Tue Jul 16 19:45:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Apple utilizó datos de YouTube para entrenar su IA, según Proof News. Es un desafío para los términos del servicio</title>
-            <link>https://www.xataka.com/robotica-e-ia/apple-utilizo-datos-youtube-para-entrenar-su-ia-proof-news-desafio-para-terminos-servicio</link>
-            <description>Apple utilizó datos de YouTube para entrenar su IA, según Proof News. Es un desafío para los términos del servicio</description>
-            <pubDate>Tue Jul 16 19:30:58 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Llevaba tiempo buscando un ratón gaming para jugar: este Logitech es perfecto para mis sesiones de juego</title>
-            <link>https://www.adslzone.net/ofertas/amazon/raton-logitech-g305-lightspeed-0724/</link>
-            <description>Llevaba tiempo buscando un ratón gaming para jugar: este Logitech es perfecto para mis sesiones de juego</description>
-            <pubDate>Tue Jul 16 19:30:06 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Este disco duro portátil de SanDisk de 4 TB es perfecto para todo lo que necesitas, ¡y hoy cuesta 80 euros menos!</title>
-            <link>https://www.adslzone.net/ofertas/amazon/disco-duro-sandisk-extreme-pro-4tb-0724/</link>
-            <description>Este disco duro portátil de SanDisk de 4 TB es perfecto para todo lo que necesitas, ¡y hoy cuesta 80 euros menos!</description>
-            <pubDate>Tue Jul 16 19:15:51 2024</pubDate>
-            </item>
-            <item>
-            <title>El Pingüino Tolkiano: Ya estoy (con un poco de sufrimiento) en Leap 15.6</title>
-            <link>https://elpinguinotolkiano.wordpress.com/2024/07/16/ya-estoy-con-un-poco-de-sufrimiento-en-leap-15-6/</link>
-            <description>Ya estoy (con un poco de sufrimiento) en Leap 15.6</description>
-            <pubDate>Tue Jul 16 19:13:22 2024</pubDate>
             </item></channel>
 </rss>
