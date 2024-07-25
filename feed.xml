@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: Critical Docker Engine Flaw Allows Attackers to Bypass Authorization Plugins</title>
+            <link>https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html</link>
+            <description>Critical Docker Engine Flaw Allows Attackers to Bypass Authorization Plugins</description>
+            <pubDate>Thu Jul 25 05:47:00 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: New Chrome Feature Scans Password-Protected Files for Malicious Content</title>
+            <link>https://thehackernews.com/2024/07/new-chrome-feature-scans-password.html</link>
+            <description>New Chrome Feature Scans Password-Protected Files for Malicious Content</description>
+            <pubDate>Thu Jul 25 05:21:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hacking an IoT Camera Reveals Hard-Coded Root Password</title>
+            <link>https://hackaday.com/2024/07/24/hacking-an-iot-camera-reveals-hard-coded-root-password/</link>
+            <description>Hacking an IoT Camera Reveals Hard-Coded Root Password</description>
+            <pubDate>Thu Jul 25 05:00:59 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: AMD lanza un programa gratis para Windows que los amantes del gaming deberían instalar</title>
+            <link>https://www.adslzone.net/noticias/videojuegos/amd-programa-gratis-windows-gaming-0724/</link>
+            <description>AMD lanza un programa gratis para Windows que los amantes del gaming deberían instalar</description>
+            <pubDate>Thu Jul 25 05:00:41 2024</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Barrel Planter Orangizer #3DThursday #3DPrinting</title>
+            <link>https://blog.adafruit.com/2024/07/25/barrel-planter-orangizer-3dthursday-3dprinting/</link>
+            <description>Barrel Planter Orangizer #3DThursday #3DPrinting</description>
+            <pubDate>Thu Jul 25 05:00:01 2024</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: FOSS Weekly #24.30: Mint 22 Features, Ultramarine Linux, CrowdStrike on Linux and More</title>
+            <link>https://itsfoss.com/newsletter/foss-weekly-24-30/</link>
+            <description>FOSS Weekly #24.30: Mint 22 Features, Ultramarine Linux, CrowdStrike on Linux and More</description>
+            <pubDate>Thu Jul 25 04:38:58 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Manually Computing Logarithms to Grok Calculators</title>
+            <link>https://hackaday.com/2024/07/24/manually-computing-logarithms-to-grok-calculators/</link>
+            <description>Manually Computing Logarithms to Grok Calculators</description>
+            <pubDate>Thu Jul 25 02:00:12 2024</pubDate>
+            </item>
+            <item>
+            <title>Linux en español: DevToys, una «navaja suiza» con muchas herramientas para los desarrolladores</title>
+            <link>https://www.xn--linuxenespaol-skb.com/noticias/devtoys-una-navaja-suiza-con-muchas-herramientas-para-los-desarrolladores/</link>
+            <description>DevToys, una «navaja suiza» con muchas herramientas para los desarrolladores</description>
+            <pubDate>Thu Jul 25 00:04:11 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Suiza lleva años coqueteando con el Open Source: finalmente obligará a todos los organismos a hacer un cambio definitivo</title>
+            <link>https://www.xataka.com/aplicaciones/suiza-lleva-anos-coqueteando-open-source-finalmente-obligara-a-todos-organismos-a-hacer-cambio-definitivo</link>
+            <description>Suiza lleva años coqueteando con el Open Source: finalmente obligará a todos los organismos a hacer un cambio definitivo</description>
+            <pubDate>Wed Jul 24 23:44:52 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Lenticular Clock Spells Out The Hours</title>
+            <link>https://hackaday.com/2024/07/24/a-lenticular-clock-spells-out-the-hours/</link>
+            <description>A Lenticular Clock Spells Out The Hours</description>
+            <pubDate>Wed Jul 24 23:00:24 2024</pubDate>
+            </item>
+            <item>
             <title>Linux Magazine News (path: lmi_news): NVIDIA Released Driver for Upcoming NVIDIA 560 GPU for Linux</title>
             <link>http://www.linux-magazine.com/Online/News/NVIDIA-Released-Driver-for-Upcoming-NVIDIA-560-GPU-for-Linux</link>
             <description>NVIDIA Released Driver for Upcoming NVIDIA 560 GPU for Linux</description>
             <pubDate>Wed Jul 24 21:39:36 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Siete estupendos usos que puedes darle a Meta AI en WhatsApp (y por qué este asistente se diferencia de cualquier otro)</title>
-            <link>https://www.xataka.com/aplicaciones/siete-estupendos-usos-que-puedes-darle-a-meta-ai-whatsapp-que-este-asistente-se-diferencia-cualquier-otro</link>
-            <description>Siete estupendos usos que puedes darle a Meta AI en WhatsApp (y por qué este asistente se diferencia de cualquier otro)</description>
-            <pubDate>Wed Jul 24 20:30:30 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Quiero instalar Fibra Smart de Digi, pero no hay cobertura: ¿Cómo saber cuándo llegará a mi hogar?</title>
-            <link>https://www.adslzone.net/noticias/operadores/fibra-smart-digi-cobertura-hogar/</link>
-            <description>Quiero instalar Fibra Smart de Digi, pero no hay cobertura: ¿Cómo saber cuándo llegará a mi hogar?</description>
-            <pubDate>Wed Jul 24 20:00:53 2024</pubDate>
-            </item>
-            <item>
-            <title>56K: Theme Hospital en Linux con tus propios hacks</title>
-            <link>https://56k.es/fanta/corsixth-alterar-el-juego-con-lua-scripts/</link>
-            <description>Theme Hospital en Linux con tus propios hacks</description>
-            <pubDate>Wed Jul 24 20:00:17 2024</pubDate>
-            </item>
-            <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: How Can You Tell How Loud a Mechanical Keyboard Will Be Before You Buy It?</title>
-            <link>https://blog.adafruit.com/2024/07/24/how-can-you-tell-how-loud-a-mechanical-keyboard-will-be-before-you-buy-it/</link>
-            <description>How Can You Tell How Loud a Mechanical Keyboard Will Be Before You Buy It?</description>
-            <pubDate>Wed Jul 24 20:00:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Puzzle for the Visually Impaired, or Blindfolded</title>
-            <link>https://hackaday.com/2024/07/24/a-puzzle-for-the-visually-impaired-or-blindfolded/</link>
-            <description>A Puzzle for the Visually Impaired, or Blindfolded</description>
-            <pubDate>Wed Jul 24 20:00:00 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cuidado si has pedido el paro recientemente: el SEPE alerta de una estafa masiva</title>
-            <link>https://www.adslzone.net/noticias/internet/sepe-alerta-estafa-personas-pedido-prestaciones/</link>
-            <description>Cuidado si has pedido el paro recientemente: el SEPE alerta de una estafa masiva</description>
-            <pubDate>Wed Jul 24 19:30:18 2024</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Lanzamiento de BIND 9.20: Promete un Rendimiento DNS Mejorado</title>
-            <link>https://nksistemas.com/lanzamiento-de-bind-9-20-promete-un-rendimiento-dns-mejorado/</link>
-            <description>Lanzamiento de BIND 9.20: Promete un Rendimiento DNS Mejorado</description>
-            <pubDate>Wed Jul 24 19:21:51 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Puede leer 12.000 copias de 'El Quijote' en un segundo: León pone en marcha el segundo mayor superordenador de España</title>
-            <link>https://www.genbeta.com/actualidad/puede-leer-12-000-copias-quijote-segundo-leon-pone-marcha-segundo-mayor-superordenador-espana</link>
-            <description>Puede leer 12.000 copias de 'El Quijote' en un segundo: León pone en marcha el segundo mayor superordenador de España</description>
-            <pubDate>Wed Jul 24 19:19:58 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon liquida a sus competidores y revienta el precio de la Smart Band de Xiaomi perfecta para este verano</title>
-            <link>https://www.adslzone.net/ofertas/amazon/smartband-xiaomi-smart-band-8-0724/</link>
-            <description>Amazon liquida a sus competidores y revienta el precio de la Smart Band de Xiaomi perfecta para este verano</description>
-            <pubDate>Wed Jul 24 19:00:01 2024</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Hyperventilating over the Gartner AI Hype Cycle</title>
-            <link>https://changelog.com/practicalai/279</link>
-            <description>Hyperventilating over the Gartner AI Hype Cycle</description>
-            <pubDate>Wed Jul 24 19:00:00 2024</pubDate>
             </item></channel>
 </rss>
