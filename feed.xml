@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>Noticias de Linux y tecnología - LinuxParty: El controlador de gráficos NVIDIA 560 Linux adoptará completamente módulos de kernel de GPU de código abierto</title>
-            <link>https://www.linuxparty.es/75-hardware/12115-el-controlador-de-gr%C3%A1ficos-nvidia-560-linux-adoptar%C3%A1-completamente-m%C3%B3dulos-de-kernel-de-gpu-de-c%C3%B3digo-abierto.html</link>
-            <description>El controlador de gráficos NVIDIA 560 Linux adoptará completamente módulos de kernel de GPU de código abierto</description>
-            <pubDate>Fri Jul 26 06:00:00 2024</pubDate>
+            <title>Luis Llamas: Variables en TypeScript</title>
+            <link>https://www.luisllamas.es/typescript-variables/</link>
+            <description>Variables en TypeScript</description>
+            <pubDate>Fri Jul 26 15:40:31 2024</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Car Becomes a Massive Bubble Machine</title>
-            <link>https://hackaday.com/2024/07/25/car-becomes-a-massive-bubble-machine/</link>
-            <description>Car Becomes a Massive Bubble Machine</description>
-            <pubDate>Fri Jul 26 05:00:14 2024</pubDate>
+            <title>Luis Llamas: Tipos de datos personalizados en TypeScript</title>
+            <link>https://www.luisllamas.es/typescript-tipos-de-datos-personalizados/</link>
+            <description>Tipos de datos personalizados en TypeScript</description>
+            <pubDate>Fri Jul 26 15:25:03 2024</pubDate>
             </item>
             <item>
-            <title>It's FOSS: Linux Mint 22 Review: Subtle And Impactful Upgrade</title>
-            <link>https://itsfoss.com/linux-mint-22/</link>
-            <description>Linux Mint 22 Review: Subtle And Impactful Upgrade</description>
-            <pubDate>Fri Jul 26 04:28:48 2024</pubDate>
+            <title>Luis Llamas: Tipos de datos básicos en TypeScript</title>
+            <link>https://www.luisllamas.es/typescript-tipos-de-datos-basicos/</link>
+            <description>Tipos de datos básicos en TypeScript</description>
+            <pubDate>Fri Jul 26 15:24:35 2024</pubDate>
             </item>
             <item>
-            <title>The Hacker News: Critical Flaw in Telerik Report Server Poses Remote Code Execution Risk</title>
-            <link>https://thehackernews.com/2024/07/critical-flaw-in-telerik-report-server.html</link>
-            <description>Critical Flaw in Telerik Report Server Poses Remote Code Execution Risk</description>
-            <pubDate>Fri Jul 26 04:10:00 2024</pubDate>
+            <title>Luis Llamas: Uso de Intersecciones en TypeScript</title>
+            <link>https://www.luisllamas.es/typescript-intersecciones/</link>
+            <description>Uso de Intersecciones en TypeScript</description>
+            <pubDate>Fri Jul 26 14:50:04 2024</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: A Robot Face with Human Skin</title>
-            <link>https://hackaday.com/2024/07/25/a-robot-face-with-human-skin/</link>
-            <description>A Robot Face with Human Skin</description>
-            <pubDate>Fri Jul 26 02:00:25 2024</pubDate>
+            <title>Luis Llamas: Uso de Uniones en TypeScript</title>
+            <link>https://www.luisllamas.es/typescript-uniones/</link>
+            <description>Uso de Uniones en TypeScript</description>
+            <pubDate>Fri Jul 26 14:49:51 2024</pubDate>
             </item>
             <item>
-            <title>Shell Script UNIX-LINUX-WINDOWS: LINUX – Matriz asociativa en BASH con ejemplos.</title>
-            <link>https://www.reiser.cl/2024/07/25/linux-matriz-asociativa-en-bash-con-ejemplos/</link>
-            <description>LINUX – Matriz asociativa en BASH con ejemplos.</description>
-            <pubDate>Fri Jul 26 00:46:49 2024</pubDate>
+            <title>Xataka: SearchGPT plantea la mayor amenaza de la historia para Google. Pero para serlo de verdad necesita un milagro: no meter la pata</title>
+            <link>https://www.xataka.com/robotica-e-ia/searchgpt-plantea-mayor-amenaza-historia-para-google-para-serlo-verdad-necesita-milagro-no-meter-pata</link>
+            <description>SearchGPT plantea la mayor amenaza de la historia para Google. Pero para serlo de verdad necesita un milagro: no meter la pata</description>
+            <pubDate>Fri Jul 26 13:31:54 2024</pubDate>
             </item>
             <item>
-            <title>Linux en español: La gestión de la publicidad en Firefox 128 genera dudas</title>
-            <link>https://www.xn--linuxenespaol-skb.com/noticias/la-gestion-de-la-publicidad-en-firefox-128-genera-dudas/</link>
-            <description>La gestión de la publicidad en Firefox 128 genera dudas</description>
-            <pubDate>Fri Jul 26 00:04:43 2024</pubDate>
+            <title>OMG! Ubuntu: VirtualBox 7.1 Beta: UI Changes, Wayland Clipboard Sharing, New Logo</title>
+            <link>https://www.omgubuntu.co.uk/2024/07/virtualbox-7-1-new-ui-wayland-clipboard-apple-silicon-support</link>
+            <description>VirtualBox 7.1 Beta: UI Changes, Wayland Clipboard Sharing, New Logo</description>
+            <pubDate>Fri Jul 26 13:25:50 2024</pubDate>
             </item>
             <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Guitar Neck Rest #3DThursday #3DPrinting</title>
-            <link>https://blog.adafruit.com/2024/07/25/guitar-neck-rest-3dthursday-3dprinting/</link>
-            <description>Guitar Neck Rest #3DThursday #3DPrinting</description>
-            <pubDate>Fri Jul 26 00:00:20 2024</pubDate>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Swirly Hardware Mounting Panels #3DThursday #3DPrinting</title>
+            <link>https://blog.adafruit.com/2024/07/26/swirly-hardware-mounting-panels-3dthursday-3dprinting/</link>
+            <description>Swirly Hardware Mounting Panels #3DThursday #3DPrinting</description>
+            <pubDate>Fri Jul 26 13:21:03 2024</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Cutting An IoT Fan Free Of The Cloud</title>
-            <link>https://hackaday.com/2024/07/25/cutting-an-iot-fan-free-of-the-cloud/</link>
-            <description>Cutting An IoT Fan Free Of The Cloud</description>
-            <pubDate>Thu Jul 25 23:00:26 2024</pubDate>
+            <title>The Hacker News: This AI-Powered Cybercrime Service Bundles Phishing Kits with Malicious Android Apps</title>
+            <link>https://thehackernews.com/2024/07/spanish-hackers-bundle-phishing-kits.html</link>
+            <description>This AI-Powered Cybercrime Service Bundles Phishing Kits with Malicious Android Apps</description>
+            <pubDate>Fri Jul 26 13:17:00 2024</pubDate>
             </item>
             <item>
-            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: CR2032 Battery Container #3DThursday #3DPrinting</title>
-            <link>https://blog.adafruit.com/2024/07/25/cr2032-battery-container-3dthursday-3dprinting/</link>
-            <description>CR2032 Battery Container #3DThursday #3DPrinting</description>
-            <pubDate>Thu Jul 25 23:00:00 2024</pubDate>
+            <title>Xataka: Cinco auriculares inalámbricos ideales para viajar este verano</title>
+            <link>https://www.xataka.com/seleccion/cinco-auriculares-inalambricos-ideales-para-viajar-este-verano</link>
+            <description>Cinco auriculares inalámbricos ideales para viajar este verano</description>
+            <pubDate>Fri Jul 26 13:15:54 2024</pubDate>
             </item>
             <item>
-            <title>Xataka: El rover Perseverance ha encontrado la roca que lleva años buscando en Marte: tiene marcas de posible vida microbiana</title>
-            <link>https://www.xataka.com/espacio/rover-perseverance-ha-encontrado-roca-que-lleva-anos-buscando-marte-marcas-posible-vida-microbiana</link>
-            <description>El rover Perseverance ha encontrado la roca que lleva años buscando en Marte: tiene marcas de posible vida microbiana</description>
-            <pubDate>Thu Jul 25 22:37:02 2024</pubDate>
+            <title>NKSistemas: 8 Métodos para Instalar el Software Más Reciente en Debian Linux</title>
+            <link>https://nksistemas.com/8-metodos-para-instalar-el-software-mas-reciente-en-debian-linux/</link>
+            <description>8 Métodos para Instalar el Software Más Reciente en Debian Linux</description>
+            <pubDate>Fri Jul 26 13:07:50 2024</pubDate>
             </item></channel>
 </rss>
