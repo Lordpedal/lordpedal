@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Print Your Own Magnetic Connector</title>
+            <link>https://hackaday.com/2024/07/27/print-your-own-magnetic-connector/</link>
+            <description>Print Your Own Magnetic Connector</description>
+            <pubDate>Sun Jul 28 05:00:30 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The BAPPR Keeps Your Addressable LED System Cool</title>
+            <link>https://hackaday.com/2024/07/27/the-bappr-keeps-your-addressable-led-system-cool/</link>
+            <description>The BAPPR Keeps Your Addressable LED System Cool</description>
+            <pubDate>Sun Jul 28 02:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: MIDI Controller in a Cubic Inch</title>
+            <link>https://hackaday.com/2024/07/27/midi-controller-in-a-cubic-inch/</link>
+            <description>MIDI Controller in a Cubic Inch</description>
+            <pubDate>Sat Jul 27 23:00:00 2024</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: La nube de Movistar no es la mejor del mercado, pero tiene dos motivos que la hacen única: es gratis e ilimitada</title>
             <link>https://www.adslzone.net/noticias/operadores/movistar-cloud-gratis-almacenamiento-ilimitado/</link>
             <description>La nube de Movistar no es la mejor del mercado, pero tiene dos motivos que la hacen única: es gratis e ilimitada</description>
@@ -52,23 +70,5 @@
             <link>https://www.redeszone.net/noticias/hogar/domotizar-persianas-verano-buena-idea/</link>
             <description>Por qué domotizar tus persianas para este verano es una gran decisión</description>
             <pubDate>Sat Jul 27 17:06:05 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: De Italia al Reino Unido, ¿qué países consumen más ultraprocesados en Europa?</title>
-            <link>https://www.xataka.com/medicina-y-salud/italia-al-reino-unido-que-paises-consumen-ultraprocesados-europa</link>
-            <description>De Italia al Reino Unido, ¿qué países consumen más ultraprocesados en Europa?</description>
-            <pubDate>Sat Jul 27 17:01:57 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Locura coreana en Netflix al anunciarse nuevos estrenos mensuales desde agosto hasta 2025</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/netflix-nuevos-estrenos-coreanos-mensuales-0724/</link>
-            <description>Locura coreana en Netflix al anunciarse nuevos estrenos mensuales desde agosto hasta 2025</description>
-            <pubDate>Sat Jul 27 17:00:52 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A History of Internet Outages</title>
-            <link>https://hackaday.com/2024/07/27/a-history-of-internet-outages/</link>
-            <description>A History of Internet Outages</description>
-            <pubDate>Sat Jul 27 17:00:48 2024</pubDate>
             </item></channel>
 </rss>
