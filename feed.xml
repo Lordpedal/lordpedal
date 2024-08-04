@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Bringing The UMPCs Back With A Pi Zero</title>
+            <link>https://hackaday.com/2024/08/03/bringing-the-umpcs-back-with-a-pi-zero/</link>
+            <description>Bringing The UMPCs Back With A Pi Zero</description>
+            <pubDate>Sun Aug  4 05:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Pixel Art and the Myth of The CRT Effect</title>
+            <link>https://hackaday.com/2024/08/03/pixel-art-and-the-myth-of-the-crt-effect/</link>
+            <description>Pixel Art and the Myth of The CRT Effect</description>
+            <pubDate>Sun Aug  4 02:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Puter: ¡El Sistema Operativo de Internet! Gratis, de Código Abierto y Autohospedable</title>
+            <link>https://esgeeks.com/puter-so-internet-gratis-opensource/</link>
+            <description>Puter: ¡El Sistema Operativo de Internet! Gratis, de Código Abierto y Autohospedable</description>
+            <pubDate>Sun Aug  4 00:15:44 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Need A USB Sniffer? Use Your Pico!</title>
+            <link>https://hackaday.com/2024/08/03/need-a-usb-sniffer-use-your-pico/</link>
+            <description>Need A USB Sniffer? Use Your Pico!</description>
+            <pubDate>Sat Aug  3 23:00:00 2024</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: Bazzite, La Revolución de los Juegos en Linux</title>
             <link>https://www.distritotux.cl/2024/08/bazzite-la-revolucion-de-los-juegos-en.html</link>
             <description>Bazzite, La Revolución de los Juegos en Linux</description>
@@ -46,29 +70,5 @@
             <link>https://www.genbeta.com/a-fondo/aceite-a-programacion-pueblo-jaen-centro-desarrolladores-asi-iniciativa-que-quiere-llevarse-espana</link>
             <description>Del aceite a la programación: un pueblo de Jaén es un centro de desarrolladores. Así es la iniciativa que quiere llevarse por España</description>
             <pubDate>Sat Aug  3 17:12:27 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Así puedes configurar una VPN en el Amazon Fire TV y proteger tu privacidad</title>
-            <link>https://www.redeszone.net/noticias/seguridad/configurar-vpn-amazon-fire-tv/</link>
-            <description>Así puedes configurar una VPN en el Amazon Fire TV y proteger tu privacidad</description>
-            <pubDate>Sat Aug  3 17:06:05 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Es hora de desterrar el mito de beber "ocho vasos agua al día", pero tenemos un problema para hacerlo</title>
-            <link>https://www.xataka.com/medicina-y-salud/hora-desterrar-mito-ocho-vasos-agua-al-dia-tenemos-problema-para-hacerlo</link>
-            <description>Es hora de desterrar el mito de beber "ocho vasos agua al día", pero tenemos un problema para hacerlo</description>
-            <pubDate>Sat Aug  3 17:01:32 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Starlink podría lanzar un plan familiar para ahorrar en su Internet por satélite</title>
-            <link>https://www.adslzone.net/noticias/redes/starlink-plan-familiar-ahorrar-internet-satelite-0824/</link>
-            <description>Starlink podría lanzar un plan familiar para ahorrar en su Internet por satélite</description>
-            <pubDate>Sat Aug  3 17:00:42 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Homebrew Relay Computer Features Motorized Clock</title>
-            <link>https://hackaday.com/2024/08/03/homebrew-relay-computer-features-motorized-clock/</link>
-            <description>Homebrew Relay Computer Features Motorized Clock</description>
-            <pubDate>Sat Aug  3 17:00:00 2024</pubDate>
             </item></channel>
 </rss>
