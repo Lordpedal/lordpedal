@@ -6,9 +6,45 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>OMG! Ubuntu: Sync Your Gravatar to User Account in Ubuntu 24.04 LTS</title>
+            <title>The Hacker News: Researchers Uncover New Infrastructure Tied to FIN7 Cybercrime Group</title>
+            <link>https://thehackernews.com/2024/08/researchers-uncover-new-infrastructure.html</link>
+            <description>Researchers Uncover New Infrastructure Tied to FIN7 Cybercrime Group</description>
+            <pubDate>Mon Aug 19 05:43:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Machining Copper from Algaecide</title>
+            <link>https://hackaday.com/2024/08/18/machining-copper-from-algaecide/</link>
+            <description>Machining Copper from Algaecide</description>
+            <pubDate>Mon Aug 19 05:00:49 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: ¿Cómo cambian las condiciones laborales cuando llega una ola de calor?</title>
+            <link>https://www.adslzone.net/noticias/fintech/condiciones-laborales-olas-de-calor/</link>
+            <description>¿Cómo cambian las condiciones laborales cuando llega una ola de calor?</description>
+            <pubDate>Mon Aug 19 05:00:39 2024</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Exploits, Vulnerabilidades y Payloads: Introducción Práctica</title>
+            <link>https://esgeeks.com/exploits-vulnerabilidades-payloads-introduccion-practica/</link>
+            <description>Exploits, Vulnerabilidades y Payloads: Introducción Práctica</description>
+            <pubDate>Mon Aug 19 02:43:43 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Quantum Sensor Uses Synthetic Diamond</title>
+            <link>https://hackaday.com/2024/08/18/quantum-sensor-uses-synthetic-diamond/</link>
+            <description>Quantum Sensor Uses Synthetic Diamond</description>
+            <pubDate>Mon Aug 19 02:00:02 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: August 18, 2024</title>
+            <link>https://hackaday.com/2024/08/18/hackaday-links-august-18-2024/</link>
+            <description>Hackaday Links: August 18, 2024</description>
+            <pubDate>Sun Aug 18 23:00:38 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Sync Your Gravatar to Your User Account in Ubuntu 24.04</title>
             <link>https://www.omgubuntu.co.uk/2024/08/sync-gravatar-gnome-shell-user-account</link>
-            <description>Sync Your Gravatar to User Account in Ubuntu 24.04 LTS</description>
+            <description>Sync Your Gravatar to Your User Account in Ubuntu 24.04</description>
             <pubDate>Sun Aug 18 21:46:30 2024</pubDate>
             </item>
             <item>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/noticias/tecnologia/programas-diseno-productividad-codigo-abierto/</link>
             <description>6 programas de diseño y productividad de código abierto para que no tengas que pagar por buenas herramientas</description>
             <pubDate>Sun Aug 18 19:00:48 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El "tesoro más rico de América" no es una pirámide, sino la imponente colección de una princesa mixteca de hace 800 años</title>
-            <link>https://www.xataka.com/magnet/tesoro-rico-america-no-piramide-sino-imponente-coleccion-princesa-mixteca-hace-800-anos</link>
-            <description>El "tesoro más rico de América" no es una pirámide, sino la imponente colección de una princesa mixteca de hace 800 años</description>
-            <pubDate>Sun Aug 18 18:01:57 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Teletrabajar desde un coche o caravana es posible, siempre que tengas el aparato indicado para Internet en carretera</title>
-            <link>https://www.adslzone.net/noticias/internet/teletrabajar-coche-caravana-posible/</link>
-            <description>Teletrabajar desde un coche o caravana es posible, siempre que tengas el aparato indicado para Internet en carretera</description>
-            <pubDate>Sun Aug 18 18:00:09 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Así de fácil puedes deshabilitar el modo incógnito de Chrome</title>
-            <link>https://www.redeszone.net/noticias/seguridad/como-deshabilitar-modo-incognito-chrome/</link>
-            <description>Así de fácil puedes deshabilitar el modo incógnito de Chrome</description>
-            <pubDate>Sun Aug 18 17:06:48 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Estos son los animales más temibles del mundo. No, los humanos no son los primeros</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/estos-animales-temibles-mundo-no-humanos-no-primeros</link>
-            <description>Estos son los animales más temibles del mundo. No, los humanos no son los primeros</description>
-            <pubDate>Sun Aug 18 17:01:58 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: TDTChannels lanza una nueva herramienta que te resultará imprescindible</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/tdtchannels-nueva-herramienta-imprescindible-0824/</link>
-            <description>TDTChannels lanza una nueva herramienta que te resultará imprescindible</description>
-            <pubDate>Sun Aug 18 17:00:05 2024</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: Mozilla’s New Logo Brings Back the Dinosaur Mascot (Kinda)</title>
-            <link>https://www.omgubuntu.co.uk/2024/08/mozilla-new-logo</link>
-            <description>Mozilla’s New Logo Brings Back the Dinosaur Mascot (Kinda)</description>
-            <pubDate>Sun Aug 18 16:26:57 2024</pubDate>
             </item></channel>
 </rss>
