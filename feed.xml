@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: How Hot is That Soldering Iron?</title>
+            <link>https://hackaday.com/2024/09/07/how-hot-is-that-soldering-iron/</link>
+            <description>How Hot is That Soldering Iron?</description>
+            <pubDate>Sun Sep  8 05:00:14 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Building a DIY MSX Mega Cartridge</title>
+            <link>https://hackaday.com/2024/09/07/building-a-diy-msx-mega-cartridge/</link>
+            <description>Building a DIY MSX Mega Cartridge</description>
+            <pubDate>Sun Sep  8 02:00:17 2024</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Guía de Análisis de Correo Electrónico (Encabezados) y Detección de Spam</title>
+            <link>https://esgeeks.com/analisis-correo-electronico/</link>
+            <description>Guía de Análisis de Correo Electrónico (Encabezados) y Detección de Spam</description>
+            <pubDate>Sun Sep  8 01:08:06 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Rendering Skin Transparent Using the Food Dye Tartrazine</title>
+            <link>https://hackaday.com/2024/09/07/rendering-skin-transparent-using-the-food-dye-tartrazine/</link>
+            <description>Rendering Skin Transparent Using the Food Dye Tartrazine</description>
+            <pubDate>Sat Sep  7 23:00:32 2024</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: La Mejor Alternativa si Quieres Abandonar Windows 11</title>
             <link>https://www.distritotux.cl/2024/09/la-mejor-alternativa-si-quieres.html</link>
             <description>La Mejor Alternativa si Quieres Abandonar Windows 11</description>
@@ -46,29 +70,5 @@
             <link>https://www.adslzone.net/noticias/internet/vpn-detectar-torrents-descargo/</link>
             <description>Si uso VPN, ¿pueden detectar qué torrents descargo?</description>
             <pubDate>Sat Sep  7 18:00:22 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Así convertí mi casa en inteligente con un presupuesto muy limitado</title>
-            <link>https://www.redeszone.net/noticias/hogar/casa-inteligente-presupuesto-limitado/</link>
-            <description>Así convertí mi casa en inteligente con un presupuesto muy limitado</description>
-            <pubDate>Sat Sep  7 17:04:29 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hace seis años, el Reino Unido introdujo un impuesto a las bebidas azucaradas. Fue una gran idea</title>
-            <link>https://www.xataka.com/medicina-y-salud/hace-seis-anos-reino-unido-introdujo-impuesto-a-bebidas-azucaradas-fue-gran-idea</link>
-            <description>Hace seis años, el Reino Unido introdujo un impuesto a las bebidas azucaradas. Fue una gran idea</description>
-            <pubDate>Sat Sep  7 17:01:58 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Prime Video tiene un problema gordo con una de sus series más esperadas</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/prime-video-problema-serie-esperada-0924/</link>
-            <description>Prime Video tiene un problema gordo con una de sus series más esperadas</description>
-            <pubDate>Sat Sep  7 17:00:47 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Should You Run Servo Horns Or Direct Couplings In Your RC Planes?</title>
-            <link>https://hackaday.com/2024/09/07/should-you-run-servo-horns-or-direct-couplings-in-your-rc-planes/</link>
-            <description>Should You Run Servo Horns Or Direct Couplings In Your RC Planes?</description>
-            <pubDate>Sat Sep  7 17:00:42 2024</pubDate>
             </item></channel>
 </rss>
