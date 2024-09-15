@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Cast21 Brings Healing Into 2024</title>
+            <link>https://hackaday.com/2024/09/14/cast21-brings-healing-into-2024/</link>
+            <description>Cast21 Brings Healing Into 2024</description>
+            <pubDate>Sun Sep 15 05:00:35 2024</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Installing Docker on Raspberry Pi OS</title>
+            <link>https://itsfoss.com/raspberry-pi-install-docker/</link>
+            <description>Installing Docker on Raspberry Pi OS</description>
+            <pubDate>Sun Sep 15 03:31:25 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Taking Back The Internet With The Tildeverse</title>
+            <link>https://hackaday.com/2024/09/14/taking-back-the-internet-with-the-tildeverse/</link>
+            <description>Taking Back The Internet With The Tildeverse</description>
+            <pubDate>Sun Sep 15 02:00:38 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An Earth-Bound Homage to a Martian Biochemistry Experiment</title>
+            <link>https://hackaday.com/2024/09/14/an-earth-bound-homage-to-a-martian-biochemistry-experiment/</link>
+            <description>An Earth-Bound Homage to a Martian Biochemistry Experiment</description>
+            <pubDate>Sat Sep 14 23:00:27 2024</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Quiero darme de baja en Digi: cómo saber si tengo compromiso de permanencia</title>
             <link>https://www.adslzone.net/noticias/operadores/darme-baja-digi-compromiso-permanencia/</link>
             <description>Quiero darme de baja en Digi: cómo saber si tengo compromiso de permanencia</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/medicina-y-salud/magnesio-nutriente-vital-para-nuestro-cuerpo-exceso-tambien-puede-darnos-problemas</link>
             <description>El magnesio es un nutriente vital para nuestro cuerpo. En exceso, también puede darnos problemas</description>
             <pubDate>Sat Sep 14 17:01:22 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Pong in a Petri Dish: Teasing Out How Brains Work</title>
-            <link>https://hackaday.com/2024/09/14/pong-in-a-petri-dish-teasing-out-how-brains-work/</link>
-            <description>Pong in a Petri Dish: Teasing Out How Brains Work</description>
-            <pubDate>Sat Sep 14 17:00:49 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Un canal de la TDT estrenará una serie de Max y anuncia la celebración de un especial dedicado a Batman</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/canal-tdt-serie-max-celebracion-especial-batman/</link>
-            <description>Un canal de la TDT estrenará una serie de Max y anuncia la celebración de un especial dedicado a Batman</description>
-            <pubDate>Sat Sep 14 17:00:07 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Pablo Escobar llenó accidentalmente Colombia de hipopótamos. Ahora el país tiene un plan para exterminarlos</title>
-            <link>https://www.xataka.com/magnet/colombia-ha-dado-luz-verde-se-busca-ultimo-gran-legado-pablo-escobar-introducido-pais-para-sacrificarlo</link>
-            <description>Pablo Escobar llenó accidentalmente Colombia de hipopótamos. Ahora el país tiene un plan para exterminarlos</description>
-            <pubDate>Sat Sep 14 16:31:21 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China tiene un arma para burlar los aranceles y proteger los secretos de sus coches eléctricos: kits de quita y pon</title>
-            <link>https://www.xataka.com/movilidad/china-tiene-arma-para-burlar-aranceles-proteger-secretos-sus-coches-electricos-kits-quita-pon</link>
-            <description>China tiene un arma para burlar los aranceles y proteger los secretos de sus coches eléctricos: kits de quita y pon</description>
-            <pubDate>Sat Sep 14 16:01:22 2024</pubDate>
             </item></channel>
 </rss>
