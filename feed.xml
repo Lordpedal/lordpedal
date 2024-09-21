@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Get Your Lisp On With The Dune Shell</title>
+            <link>https://hackaday.com/2024/09/20/get-your-lisp-on-with-the-dune-shell/</link>
+            <description>Get Your Lisp On With The Dune Shell</description>
+            <pubDate>Sat Sep 21 05:00:22 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: See Real-Time Power Consumption in Ubuntu’s Top Panel</title>
+            <link>https://www.omgubuntu.co.uk/2024/09/gnome-shell-power-monitor-extension</link>
+            <description>See Real-Time Power Consumption in Ubuntu’s Top Panel</description>
+            <pubDate>Sat Sep 21 03:21:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 21 de septiembre</title>
+            <link>https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-21-septiembre</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 21 de septiembre</description>
+            <pubDate>Sat Sep 21 03:00:44 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Amateur Astronomer Images Spy Satellite</title>
+            <link>https://hackaday.com/2024/09/20/amateur-astronomer-images-spy-satellite/</link>
+            <description>Amateur Astronomer Images Spy Satellite</description>
+            <pubDate>Sat Sep 21 02:00:42 2024</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Huayra Linux, Todo lo que Necesitas Saber sobre Esta Distribución</title>
+            <link>https://www.distritotux.cl/2024/09/huayra-linux-todo-lo-que-necesitas.html</link>
+            <description>Huayra Linux, Todo lo que Necesitas Saber sobre Esta Distribución</description>
+            <pubDate>Sat Sep 21 00:41:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Mechanical Logic Gates With Amplification</title>
+            <link>https://hackaday.com/2024/09/20/mechanical-logic-gates-with-amplification/</link>
+            <description>Mechanical Logic Gates With Amplification</description>
+            <pubDate>Fri Sep 20 23:00:49 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Reino Unido ya presume el “tanque de batalla más avanzado y capaz de la OTAN”: así es el Challenger 3</title>
+            <link>https://www.xataka.com/otros/reino-unido-presume-tanque-batalla-avanzado-capaz-otan-asi-challenger-3</link>
+            <description>Reino Unido ya presume el “tanque de batalla más avanzado y capaz de la OTAN”: así es el Challenger 3</description>
+            <pubDate>Fri Sep 20 23:00:33 2024</pubDate>
+            </item>
+            <item>
             <title>Xataka: En un movimiento histórico, Qualcomm se ha acercado a Intel para una posible adquisición, según Wall Street Journal</title>
             <link>https://www.xataka.com/empresas-y-economia/movimiento-historico-qualcomm-se-ha-acercado-a-intel-para-posible-adquisicion-wall-street-journal</link>
             <description>En un movimiento histórico, Qualcomm se ha acercado a Intel para una posible adquisición, según Wall Street Journal</description>
@@ -28,47 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/tarifa-fibra-movil-o2-television-ver-futbol/</link>
             <description>Con la tarifa de fibra y móvil de O2 más televisión puedo ver el mejor fútbol: ahora sé que hice bien en contratarla</description>
             <pubDate>Fri Sep 20 20:00:52 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Raspberry Pi RP2350-E9 Erratum Redefined as Input Mode Leakage Current</title>
-            <link>https://hackaday.com/2024/09/20/raspberry-pi-rp2350-e9-erratum-redefined-as-input-mode-leakage-current/</link>
-            <description>Raspberry Pi RP2350-E9 Erratum Redefined as Input Mode Leakage Current</description>
-            <pubDate>Fri Sep 20 20:00:43 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Microsoft reabrirá una central nuclear que lleva cerrada desde 2019. La necesita para su inteligencia artificial</title>
-            <link>https://www.xataka.com/energia/microsoft-reabrira-central-nuclear-que-lleva-cerrada-2019-quiere-para-alimentar-su-inteligencia-artificial</link>
-            <description>Microsoft reabrirá una central nuclear que lleva cerrada desde 2019. La necesita para su inteligencia artificial</description>
-            <pubDate>Fri Sep 20 19:30:15 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El B-21 Raider acaba de completar con éxito una prueba clave: EEUU está un paso más cerca de fortalecer su triada nuclear</title>
-            <link>https://www.xataka.com/otros/b-21-raider-acaba-completar-exito-prueba-clave-eeuu-esta-paso-cerca-fortalecer-su-triada-nuclear</link>
-            <description>El B-21 Raider acaba de completar con éxito una prueba clave: EEUU está un paso más cerca de fortalecer su triada nuclear</description>
-            <pubDate>Fri Sep 20 19:08:31 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: MediaMarkt convierte esta Smart TV 4K de Samsung en una compra más deseada con una bajada de precio brutal</title>
-            <link>https://www.adslzone.net/ofertas/mix/mediamarkt-smart-tv-samsung-tq65qn90datxxc-0924/</link>
-            <description>MediaMarkt convierte esta Smart TV 4K de Samsung en una compra más deseada con una bajada de precio brutal</description>
-            <pubDate>Fri Sep 20 19:00:53 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Le preguntaron al mejor ajedrecista del mundo cuánto alcohol tendría que beber para perder una partida. Hemos hecho números</title>
-            <link>https://www.xataka.com/medicina-y-salud/le-preguntaron-al-mejor-ajedrecista-mundo-cuanto-alcohol-tendria-que-beber-para-perder-partida-hemos-hecho-numeros</link>
-            <description>Le preguntaron al mejor ajedrecista del mundo cuánto alcohol tendría que beber para perder una partida. Hemos hecho números</description>
-            <pubDate>Fri Sep 20 18:30:51 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Desde hoy puedes jugar gratis durante 4 días a uno de los mejores juegos del pasado año</title>
-            <link>https://www.adslzone.net/noticias/videojuegos/jugar-gratis-4-dias-mejores-juegos-0924/</link>
-            <description>Desde hoy puedes jugar gratis durante 4 días a uno de los mejores juegos del pasado año</description>
-            <pubDate>Fri Sep 20 18:30:42 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Fixing an Elgato HD60 S HDMI Capture Device</title>
-            <link>https://hackaday.com/2024/09/20/fixing-an-elgato-hd60-s-hdmi-capture-device/</link>
-            <description>Fixing an Elgato HD60 S HDMI Capture Device</description>
-            <pubDate>Fri Sep 20 18:30:41 2024</pubDate>
             </item></channel>
 </rss>
