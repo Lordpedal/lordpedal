@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: FreeCAD is Near 1.0</title>
+            <link>https://hackaday.com/2024/09/21/freecad-is-near-1-0/</link>
+            <description>FreeCAD is Near 1.0</description>
+            <pubDate>Sun Sep 22 05:00:15 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Surprising Effects of Fast Food Kiosks</title>
+            <link>https://hackaday.com/2024/09/21/the-surprising-effects-of-fast-food-kiosks/</link>
+            <description>The Surprising Effects of Fast Food Kiosks</description>
+            <pubDate>Sun Sep 22 02:00:17 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: When Raw Network Sockets Aren’t Raw: Raw Sockets in MacOS and Linux</title>
+            <link>https://hackaday.com/2024/09/21/when-raw-network-sockets-arent-raw-raw-sockets-in-macos-and-linux/</link>
+            <description>When Raw Network Sockets Aren’t Raw: Raw Sockets in MacOS and Linux</description>
+            <pubDate>Sat Sep 21 23:00:07 2024</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Por qué es mala idea apagar el router cuando te vas de casa o cada noche</title>
             <link>https://www.adslzone.net/noticias/redes/mala-idea-apagar-router-fuera-casa-noche/</link>
             <description>Por qué es mala idea apagar el router cuando te vas de casa o cada noche</description>
@@ -52,23 +70,5 @@
             <link>https://www.xataka.com/medicina-y-salud/cada-vez-gente-utiliza-suplementos-magnesio-para-dormir-mejor-ciencia-tiene-dudas</link>
             <description>Cada vez más gente utiliza los suplementos de magnesio para dormir mejor. La ciencia tiene dudas</description>
             <pubDate>Sat Sep 21 17:00:45 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: TDTChannels lanza una actualización con cinco nuevos canales gratis</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/tdtchannels-actualizacion-cinco-nuevos-canales-gratis-0924/</link>
-            <description>TDTChannels lanza una actualización con cinco nuevos canales gratis</description>
-            <pubDate>Sat Sep 21 17:00:09 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Jumperless Breadboard V5 Readies For Launch</title>
-            <link>https://hackaday.com/2024/09/21/jumperless-breadboard-v5-readies-for-launch/</link>
-            <description>Jumperless Breadboard V5 Readies For Launch</description>
-            <pubDate>Sat Sep 21 17:00:02 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Uno de los mejores equipos forenses de España esconde el secreto del origen de Colón. Cada vez falta menos para que lo revelen</title>
-            <link>https://www.xataka.com/investigacion/uno-mejores-equipos-forenses-espana-esconde-secreto-origen-colon-cada-vez-falta-revelen</link>
-            <description>Uno de los mejores equipos forenses de España esconde el secreto del origen de Colón. Cada vez falta menos para que lo revelen</description>
-            <pubDate>Sat Sep 21 16:30:46 2024</pubDate>
             </item></channel>
 </rss>
