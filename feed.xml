@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: An ESP32 Delivers Perfect Slot Car Control</title>
+            <link>https://hackaday.com/2024/09/28/an-esp32-delivers-perfect-slot-car-control/</link>
+            <description>An ESP32 Delivers Perfect Slot Car Control</description>
+            <pubDate>Sun Sep 29 05:00:07 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Last Sun Sparc Workstation</title>
+            <link>https://hackaday.com/2024/09/28/the-last-sun-sparc-workstation/</link>
+            <description>The Last Sun Sparc Workstation</description>
+            <pubDate>Sun Sep 29 02:00:47 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Dog Poop Drone Cleans Up the Yard So You Don’t Have To</title>
+            <link>https://hackaday.com/2024/09/28/dog-poop-drone-cleans-up-the-yard-so-you-dont-have-to/</link>
+            <description>Dog Poop Drone Cleans Up the Yard So You Don’t Have To</description>
+            <pubDate>Sat Sep 28 23:00:22 2024</pubDate>
+            </item>
+            <item>
             <title>Blackhold: Montar RAID de un NAS con Linux</title>
             <link>https://blackhold.nusepas.com/2024/09/28/montar-raid-de-un-nas-con-linux/</link>
             <description>Montar RAID de un NAS con Linux</description>
@@ -52,23 +70,5 @@
             <link>https://www.redeszone.net/noticias/seguridad/mayores-robos-datos-historia/</link>
             <description>A los «gigantes» también les hackean, estos han sido los mayores robos de datos de la historia</description>
             <pubDate>Sat Sep 28 17:03:54 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El volcán más extraño que conocemos está en Tanzania: lleva en erupción desde 2017 y su lava es negra</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/volcan-extrano-que-conocemos-esta-tanzania-lleva-erupcion-2017-su-lava-negra</link>
-            <description>El volcán más extraño que conocemos está en Tanzania: lleva en erupción desde 2017 y su lava es negra</description>
-            <pubDate>Sat Sep 28 17:03:43 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Me he suscrito a SkyShowtime y esto es todo lo que he visto en mi primer mes</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/suscrito-skyshowtime-todo-visto-primer-mes/</link>
-            <description>Me he suscrito a SkyShowtime y esto es todo lo que he visto en mi primer mes</description>
-            <pubDate>Sat Sep 28 17:00:52 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: VR Headset With Custom Face Fitting Gets Even More Custom</title>
-            <link>https://hackaday.com/2024/09/28/vr-headset-with-custom-face-fitting-gets-even-more-custom/</link>
-            <description>VR Headset With Custom Face Fitting Gets Even More Custom</description>
-            <pubDate>Sat Sep 28 17:00:00 2024</pubDate>
             </item></channel>
 </rss>
