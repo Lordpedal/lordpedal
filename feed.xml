@@ -6,69 +6,69 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>Xataka: Hay tantos australianos con paneles solares en sus tejados que la red eléctrica ha estado a punto del abismo</title>
+            <title>Noticias de Linux y tecnología - LinuxParty: El agujero más cercano al centro de la tierra. Voronya</title>
+            <link>https://www.linuxparty.es/8-ciencia/12193-el-agujero-m%C3%A1s-cercano-al-centro-de-la-tierra-voronya.html</link>
+            <description>El agujero más cercano al centro de la tierra. Voronya</description>
+            <pubDate>Tue Oct  1 06:00:06 2024</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Como instalar el subsistema de windows para linux</title>
+            <link>https://www.cambiatealinux.com/como-instalar-el-subsistema-de-windows-para-linux</link>
+            <description>Como instalar el subsistema de windows para linux</description>
+            <pubDate>Tue Oct  1 05:19:27 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: New Cryptojacking Attack Targets Docker API to Create Malicious Swarm Botnet</title>
+            <link>https://thehackernews.com/2024/10/new-cryptojacking-attack-targets-docker.html</link>
+            <description>New Cryptojacking Attack Targets Docker API to Create Malicious Swarm Botnet</description>
+            <pubDate>Tue Oct  1 05:12:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Ceefax: The Original News on Demand</title>
+            <link>https://hackaday.com/2024/09/30/ceefax-the-original-news-on-demand/</link>
+            <description>Ceefax: The Original News on Demand</description>
+            <pubDate>Tue Oct  1 05:00:36 2024</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Easily Check NVMe SSD Temperature in Linux</title>
+            <link>https://itsfoss.com/ssd-temperature-linux/</link>
+            <description>Easily Check NVMe SSD Temperature in Linux</description>
+            <pubDate>Tue Oct  1 03:55:48 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: U.K. Hacker Charged in $3.75 Million Insider Trading Scheme Using Hacked Executive Emails</title>
+            <link>https://thehackernews.com/2024/10/uk-hacker-charged-in-375-million.html</link>
+            <description>U.K. Hacker Charged in $3.75 Million Insider Trading Scheme Using Hacked Executive Emails</description>
+            <pubDate>Tue Oct  1 02:02:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Building a 3D Printed Scanning Tunneling Microscope</title>
+            <link>https://hackaday.com/2024/09/30/building-a-3d-printed-scanning-tunneling-microscope/</link>
+            <description>Building a 3D Printed Scanning Tunneling Microscope</description>
+            <pubDate>Mon Sep 30 23:00:35 2024</pubDate>
+            </item>
+            <item>
+            <title>NKSistemas: GParted Live 1.6.0-10: Mejoras en la Estabilidad y Funciones Actualizadas</title>
+            <link>https://nksistemas.com/gparted-live-1-6-0-10-mejoras-en-la-estabilidad-y-funciones-actualizadas/</link>
+            <description>GParted Live 1.6.0-10: Mejoras en la Estabilidad y Funciones Actualizadas</description>
+            <pubDate>Mon Sep 30 22:41:57 2024</pubDate>
+            </item>
+            <item>
+            <title>Victorhck in the free world: Es hora de recuperar Internet</title>
+            <link>https://victorhckinthefreeworld.com/2024/10/01/es-hora-de-recuperar-internet/</link>
+            <description>Es hora de recuperar Internet</description>
+            <pubDate>Mon Sep 30 22:34:00 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Raspberry Pi’s New $70 AI Camera Works With All Pi Models</title>
+            <link>https://www.omgubuntu.co.uk/2024/09/raspberry-pi-ai-camera-goes-on-sale</link>
+            <description>Raspberry Pi’s New $70 AI Camera Works With All Pi Models</description>
+            <pubDate>Mon Sep 30 22:13:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hay tantos australianos con paneles solares en sus tejados que la red eléctrica ha estado a un paso del abismo</title>
             <link>https://www.xataka.com/energia/hay-australianos-paneles-solares-sus-tejados-que-red-electrica-ha-estado-a-punto-abismo</link>
-            <description>Hay tantos australianos con paneles solares en sus tejados que la red eléctrica ha estado a punto del abismo</description>
+            <description>Hay tantos australianos con paneles solares en sus tejados que la red eléctrica ha estado a un paso del abismo</description>
             <pubDate>Mon Sep 30 21:59:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Doing 1080p Video, Sort Of, On the STM32 Microcontroller</title>
-            <link>https://hackaday.com/2024/09/30/doing-1080p-video-sort-of-on-the-stm32-microcontroller/</link>
-            <description>Doing 1080p Video, Sort Of, On the STM32 Microcontroller</description>
-            <pubDate>Mon Sep 30 20:00:29 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las empresas de telecomunicaciones no convencen y concentran el 15% de las reclamaciones de los consumidores</title>
-            <link>https://www.adslzone.net/noticias/operadores/sector-telecomunicaciones-concentra-reclamaciones/</link>
-            <description>Las empresas de telecomunicaciones no convencen y concentran el 15% de las reclamaciones de los consumidores</description>
-            <pubDate>Mon Sep 30 20:00:10 2024</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Display custom maps on your website for free</title>
-            <link>https://changelog.com/news/114</link>
-            <description>Display custom maps on your website for free</description>
-            <pubDate>Mon Sep 30 19:45:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: "Pues sí han tardado en elegir candidatos". Un octogenario recibe esta llamada de un intento de timo: su reacción tiene mucho sentido</title>
-            <link>https://www.genbeta.com/seguridad/pues-han-tardado-elegir-candidatos-octogenario-recibe-esta-llamada-intento-timo-su-reaccion-tiene-mucho-sentido</link>
-            <description>"Pues sí han tardado en elegir candidatos". Un octogenario recibe esta llamada de un intento de timo: su reacción tiene mucho sentido</description>
-            <pubDate>Mon Sep 30 19:43:28 2024</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Java SE 23 presenta mejoras de rendimiento, en compilador y ocho funciones de vista previa</title>
-            <link>https://blog.desdelinux.net/java-se-23-presenta-mejoras-de-rendimiento-en-compilador-y-ocho-funciones-de-vista-previa/</link>
-            <description>Java SE 23 presenta mejoras de rendimiento, en compilador y ocho funciones de vista previa</description>
-            <pubDate>Mon Sep 30 19:37:16 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Shenzhen organizó un espectáculo con más de 10.000 drones. Ha sido tan asombroso que ha batido dos récords Guinness</title>
-            <link>https://www.xataka.com/drones/shenzhen-organizo-espectaculo-10-000-drones-ha-sido-asombroso-que-ha-batido-dos-records-guinness</link>
-            <description>Shenzhen organizó un espectáculo con más de 10.000 drones. Ha sido tan asombroso que ha batido dos récords Guinness</description>
-            <pubDate>Mon Sep 30 19:34:33 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Ámsterdam tiene el récord Guinness más insospechado (y lógico): es la ciudad que más bicicletas pesca en el mundo</title>
-            <link>https://www.xataka.com/movilidad/amsterdam-tiene-record-guinness-insospechado-logico-ciudad-que-bicicletas-pesca-mundo</link>
-            <description>Ámsterdam tiene el récord Guinness más insospechado (y lógico): es la ciudad que más bicicletas pesca en el mundo</description>
-            <pubDate>Mon Sep 30 19:00:51 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon desata la locura rebajando más de 500 euros uno de los robots aspiradores más vendidos</title>
-            <link>https://www.adslzone.net/ofertas/amazon/robot-aspirador-irobot-roomba-j7-plus-0924/</link>
-            <description>Amazon desata la locura rebajando más de 500 euros uno de los robots aspiradores más vendidos</description>
-            <pubDate>Mon Sep 30 19:00:43 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: 45 metros de altura y un espejo de 400 metros cuadrados: así es el futuro del observatorio del Roque de los Muchachos</title>
-            <link>https://www.xataka.com/espacio/45-metros-altura-espejo-400-metros-cuadrados-asi-futuro-observatorio-roque-muchachos</link>
-            <description>45 metros de altura y un espejo de 400 metros cuadrados: así es el futuro del observatorio del Roque de los Muchachos</description>
-            <pubDate>Mon Sep 30 18:46:48 2024</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: Linux Mint Gives First Look at New Cinnamon Theme</title>
-            <link>https://www.omgubuntu.co.uk/2024/09/linux-mint-new-cinnamon-theme-first-look</link>
-            <description>Linux Mint Gives First Look at New Cinnamon Theme</description>
-            <pubDate>Mon Sep 30 18:31:45 2024</pubDate>
             </item></channel>
 </rss>
