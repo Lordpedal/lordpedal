@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Ideal Diodes and How to Build Them</title>
+            <link>https://hackaday.com/2024/10/19/ideal-diodes-and-how-to-build-them/</link>
+            <description>Ideal Diodes and How to Build Them</description>
+            <pubDate>Sun Oct 20 05:00:27 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Fundamentals of FMCW Radar Help You Understand Your Car’s Point of View</title>
+            <link>https://hackaday.com/2024/10/19/fundamentals-of-fmcw-helps-you-understand-your-cars-point-of-view/</link>
+            <description>Fundamentals of FMCW Radar Help You Understand Your Car’s Point of View</description>
+            <pubDate>Sun Oct 20 02:00:36 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Inside the RLL Hard Drive Protocol</title>
+            <link>https://hackaday.com/2024/10/19/inside-the-rll-hard-drive-protocol/</link>
+            <description>Inside the RLL Hard Drive Protocol</description>
+            <pubDate>Sat Oct 19 23:00:34 2024</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Make Your Own Remy the Rat This Halloween</title>
             <link>https://hackaday.com/2024/10/19/make-your-own-remy-the-rat-this-halloween/</link>
             <description>Make Your Own Remy the Rat This Halloween</description>
@@ -52,23 +70,5 @@
             <link>https://ubunlog.com/lastoslinux/</link>
             <description>LastOSLinux: Una propuesta de Distro base Mint al estilo Windows</description>
             <pubDate>Sat Oct 19 17:58:42 2024</pubDate>
-            </item>
-            <item>
-            <title>Make: DIY Projects and Ideas for Makers: Live Updates: Saturday at Maker Faire Brings Big Crowds and Companion Bots</title>
-            <link>https://makezine.com/article/maker-news/maker-faire/live-updates-friday-at-maker-faire-brings-big-crowds-and-companion-bots/</link>
-            <description>Live Updates: Saturday at Maker Faire Brings Big Crowds and Companion Bots</description>
-            <pubDate>Sat Oct 19 17:56:32 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Usas Google Home para la domótica en tu casa? Aprende a crear rutinas avanzadas fácilmente</title>
-            <link>https://www.redeszone.net/noticias/hogar/rutinas-google-home-movil-script-navegador/</link>
-            <description>¿Usas Google Home para la domótica en tu casa? Aprende a crear rutinas avanzadas fácilmente</description>
-            <pubDate>Sat Oct 19 17:04:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Nuestra obsesión por el cuidado de la piel siempre ha sido una fuente de negocio. Uno cada vez mayor</title>
-            <link>https://www.xataka.com/empresas-y-economia/nuestra-obsesion-cuidado-piel-siempre-ha-sido-fuente-negocio-uno-cada-vez-mayor</link>
-            <description>Nuestra obsesión por el cuidado de la piel siempre ha sido una fuente de negocio. Uno cada vez mayor</description>
-            <pubDate>Sat Oct 19 17:01:19 2024</pubDate>
             </item></channel>
 </rss>
