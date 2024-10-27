@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Clockwork Rover For Venus</title>
+            <link>https://hackaday.com/2024/10/26/clockwork-rover-for-venus/</link>
+            <description>Clockwork Rover For Venus</description>
+            <pubDate>Sun Oct 27 05:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Geochron: Another Time, Another Timeless Tale</title>
+            <link>https://hackaday.com/2024/10/26/geochron-another-time-another-timeless-tale/</link>
+            <description>Geochron: Another Time, Another Timeless Tale</description>
+            <pubDate>Sun Oct 27 02:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: ¿Un Linux Ligero? Prueba DebLight OS, LMDE con Escritorio LXDE</title>
+            <link>https://www.distritotux.cl/2024/10/un-linux-ligero-prueba-deblight-os-lmde.html</link>
+            <description>¿Un Linux Ligero? Prueba DebLight OS, LMDE con Escritorio LXDE</description>
+            <pubDate>Sat Oct 26 23:32:36 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Glacial IPv6 Transition: Raising Questions on Necessity and NAT-Based Solutions</title>
+            <link>https://hackaday.com/2024/10/26/the-glacial-ipv6-transition-raising-questions-on-necessity-and-nat-based-solutions/</link>
+            <description>The Glacial IPv6 Transition: Raising Questions on Necessity and NAT-Based Solutions</description>
+            <pubDate>Sat Oct 26 23:00:00 2024</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Soy cliente de Lowi y he recibido una factura de Vodafone: ¿Es un error?</title>
             <link>https://www.adslzone.net/noticias/operadores/cliente-lowi-factura-vodafone-error/</link>
             <description>Soy cliente de Lowi y he recibido una factura de Vodafone: ¿Es un error?</description>
@@ -46,29 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/subira-el-precio-netflix-pepephone/</link>
             <description>Llevo un tiempo utilizando Netflix con Pepephone, ¿también voy a pagar más por Netflix a partir de ahora?</description>
             <pubDate>Sat Oct 26 18:00:15 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Fibra óptica o cableado Ethernet tradicional? Esta es la mejor opción para tu casa</title>
-            <link>https://www.redeszone.net/noticias/redes/fibra-optica-vs-cableado-tradicional-mejor-opcion-casa/</link>
-            <description>¿Fibra óptica o cableado Ethernet tradicional? Esta es la mejor opción para tu casa</description>
-            <pubDate>Sat Oct 26 17:04:29 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A New Chinese Radio Breaks Cover, is it Worth it?</title>
-            <link>https://hackaday.com/2024/10/26/a-new-chinese-radio-breaks-cover-is-it-worth-it/</link>
-            <description>A New Chinese Radio Breaks Cover, is it Worth it?</description>
-            <pubDate>Sat Oct 26 17:00:13 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La TDT va a tener peliculones de animación para Halloween en uno de sus canales</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/tdt-peliculones-animacion-halloween-canales-1024/</link>
-            <description>La TDT va a tener peliculones de animación para Halloween en uno de sus canales</description>
-            <pubDate>Sat Oct 26 17:00:08 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los suplementos de colágeno quieren ayudarnos en mucho más que el cuidado de la piel. La ciencia no lo tiene tan claro</title>
-            <link>https://www.xataka.com/medicina-y-salud/suplementos-colageno-quieren-ayudarnos-mucho-que-cuidado-piel-ciencia-no-tiene-claro</link>
-            <description>Los suplementos de colágeno quieren ayudarnos en mucho más que el cuidado de la piel. La ciencia no lo tiene tan claro</description>
-            <pubDate>Sat Oct 26 17:00:02 2024</pubDate>
             </item></channel>
 </rss>
