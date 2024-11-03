@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Transforming Pawn Changes the Game</title>
+            <link>https://hackaday.com/2024/11/02/transforming-pawn-changes-the-game/</link>
+            <description>Transforming Pawn Changes the Game</description>
+            <pubDate>Sun Nov  3 06:00:47 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Measuring Temperature Without a Thermometer</title>
+            <link>https://hackaday.com/2024/11/02/measuring-temperature-without-a-thermometer/</link>
+            <description>Measuring Temperature Without a Thermometer</description>
+            <pubDate>Sun Nov  3 02:00:01 2024</pubDate>
+            </item>
+            <item>
+            <title>El Pingüino Tolkiano: Los héroes no existen</title>
+            <link>https://elpinguinotolkiano.wordpress.com/2024/11/03/los-heroes-no-existen/</link>
+            <description>Los héroes no existen</description>
+            <pubDate>Sat Nov  2 23:36:32 2024</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Cómo Ocultar Actualizaciones Usando PowerShell en Windows</title>
+            <link>https://esgeeks.com/ocultar-actualizaciones-windows-powershell/</link>
+            <description>Cómo Ocultar Actualizaciones Usando PowerShell en Windows</description>
+            <pubDate>Sat Nov  2 23:03:17 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Phantom PSP: Crafting The Handheld Sony Never Sold</title>
+            <link>https://hackaday.com/2024/11/02/the-phantom-psp-crafting-the-handheld-sony-never-sold/</link>
+            <description>The Phantom PSP: Crafting The Handheld Sony Never Sold</description>
+            <pubDate>Sat Nov  2 23:00:20 2024</pubDate>
+            </item>
+            <item>
             <title>Ubunlog: Ubuntu Snap Store 09: Julia, Charmed OpenSearch y OpenTofu</title>
             <link>https://ubunlog.com/ubuntu-snap-store-09-apps-snapcraft/</link>
             <description>Ubuntu Snap Store 09: Julia, Charmed OpenSearch y OpenTofu</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/tecnologia/motivos-usar-ordenador-personal/</link>
             <description>Varios motivos por los que no deberías usar tu ordenador personal para trabajar</description>
             <pubDate>Sat Nov  2 19:00:40 2024</pubDate>
-            </item>
-            <item>
-            <title>Victorhck in the free world: #openSUSE Tumbleweed revisión de la semana 44 de 2024</title>
-            <link>https://victorhckinthefreeworld.com/2024/11/02/opensuse-tumbleweed-revision-de-la-semana-44-de-2024/</link>
-            <description>#openSUSE Tumbleweed revisión de la semana 44 de 2024</description>
-            <pubDate>Sat Nov  2 18:53:59 2024</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: Cómo Mejorar la Privacidad y Seguridad de tu PC con Linux</title>
-            <link>https://esgeeks.com/mejorar-privacidad-seguridad-linux/</link>
-            <description>Cómo Mejorar la Privacidad y Seguridad de tu PC con Linux</description>
-            <pubDate>Sat Nov  2 18:43:46 2024</pubDate>
-            </item>
-            <item>
-            <title>Hardware libre: Todo sobre el VL53L0X: Sensor de distancia láser de alta precisión</title>
-            <link>https://www.hwlibre.com/todo-sobre-el-vl53l0x-sensor-de-distancia-laser-de-alta-precision/</link>
-            <description>Todo sobre el VL53L0X: Sensor de distancia láser de alta precisión</description>
-            <pubDate>Sat Nov  2 18:26:54 2024</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Noviembre 2024: Acontecer informativo del mes sobre el Linuxverso</title>
-            <link>https://blog.desdelinux.net/noviembre-2024-linuxverso/</link>
-            <description>Noviembre 2024: Acontecer informativo del mes sobre el Linuxverso</description>
-            <pubDate>Sat Nov  2 18:19:48 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Por qué combinar fibra óptica plástica y un repetidor Wi-Fi es lo mejor para tener Internet en toda tu casa</title>
-            <link>https://www.redeszone.net/noticias/redes/combinar-fibra-optica-plastica-repetidor/</link>
-            <description>Por qué combinar fibra óptica plástica y un repetidor Wi-Fi es lo mejor para tener Internet en toda tu casa</description>
-            <pubDate>Sat Nov  2 18:06:27 2024</pubDate>
             </item></channel>
 </rss>
