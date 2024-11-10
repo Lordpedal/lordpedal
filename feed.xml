@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Inside an Arcade Joystick</title>
+            <link>https://hackaday.com/2024/11/09/inside-an-arcade-joystick/</link>
+            <description>Inside an Arcade Joystick</description>
+            <pubDate>Sun Nov 10 06:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Brick Layers: the Promise of Stronger 3D Prints and Why We Cannot Have Nice Things</title>
+            <link>https://hackaday.com/2024/11/09/brick-layers-the-promise-of-stronger-3d-prints-and-why-we-cannot-have-nice-things/</link>
+            <description>Brick Layers: the Promise of Stronger 3D Prints and Why We Cannot Have Nice Things</description>
+            <pubDate>Sun Nov 10 03:00:21 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Here’s Code for that AI-Generated Minecraft Clone</title>
+            <link>https://hackaday.com/2024/11/09/heres-code-for-that-ai-generated-minecraft-clone/</link>
+            <description>Here’s Code for that AI-Generated Minecraft Clone</description>
+            <pubDate>Sun Nov 10 00:00:21 2024</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Tips de Seguridad Informática: ¡No uses Cracks, paga tus Licencias! ¡Y otros más!</title>
+            <link>https://ubunlog.com/tips-seguridad-informatica-menos-cracks-mas-linux/</link>
+            <description>Tips de Seguridad Informática: ¡No uses Cracks, paga tus Licencias! ¡Y otros más!</description>
+            <pubDate>Sat Nov  9 23:37:18 2024</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: Los Cuatro Motivos por los que me Niego a Instalar Linux en mi PC, Video Reacción</title>
             <link>https://www.distritotux.cl/2024/11/los-cuatro-motivos-por-los-que-me-niego.html</link>
             <description>Los Cuatro Motivos por los que me Niego a Instalar Linux en mi PC, Video Reacción</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/magnet/viajar-a-mexico-salir-casa-preservar-cultura-tiene-precio-titanico-trabajo-digitalizacion</link>
             <description>Viajar a México sin salir de casa y preservar la cultura tiene un precio: un titánico trabajo de digitalización</description>
             <pubDate>Sat Nov  9 19:00:41 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: En qué momentos te puede venir bien poner la pantalla de tu PC en blanco y negro</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/pantalla-pc-blanco-negro/</link>
-            <description>En qué momentos te puede venir bien poner la pantalla de tu PC en blanco y negro</description>
-            <pubDate>Sat Nov  9 19:00:14 2024</pubDate>
-            </item>
-            <item>
-            <title>Hardware libre: Cómo usar el NRF24L01 con Arduino para comunicación inalámbrica</title>
-            <link>https://www.hwlibre.com/como-usar-el-nrf24l01-con-arduino-para-comunicacion-inalambrica/</link>
-            <description>Cómo usar el NRF24L01 con Arduino para comunicación inalámbrica</description>
-            <pubDate>Sat Nov  9 18:50:58 2024</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Octava actualización de KDE Frameworks 6</title>
-            <link>https://www.kdeblog.com/octava-actualizacion-de-kde-frameworks-6.html</link>
-            <description>Octava actualización de KDE Frameworks 6</description>
-            <pubDate>Sat Nov  9 18:46:47 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: 4 ajustes que debes realizar en cualquier red Wi-Fi profesional</title>
-            <link>https://www.redeszone.net/noticias/wifi/ajustes-red-wi-fi-profesional/</link>
-            <description>4 ajustes que debes realizar en cualquier red Wi-Fi profesional</description>
-            <pubDate>Sat Nov  9 18:03:22 2024</pubDate>
             </item></channel>
 </rss>
