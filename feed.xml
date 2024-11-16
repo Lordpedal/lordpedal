@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: It’s a Soldering Iron! It’s A Multimeter! Relax! It’s Both!</title>
+            <link>https://hackaday.com/2024/11/15/its-a-soldering-iron-its-a-multimeter-relax-its-both/</link>
+            <description>It’s a Soldering Iron! It’s A Multimeter! Relax! It’s Both!</description>
+            <pubDate>Sat Nov 16 06:00:17 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 16 de noviembre</title>
+            <link>https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-16-noviembre</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 16 de noviembre</description>
+            <pubDate>Sat Nov 16 04:01:54 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: BASIC Co-Inventor Thomas Kurtz Has Passed Away</title>
+            <link>https://hackaday.com/2024/11/15/basic-co-inventor-thomas-kurtz-has-passed-away/</link>
+            <description>BASIC Co-Inventor Thomas Kurtz Has Passed Away</description>
+            <pubDate>Sat Nov 16 03:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: RISC-V Pushes 400 Million Forth Words Per Second</title>
+            <link>https://hackaday.com/2024/11/15/risc-v-pushes-400-million-forth-words-per-second/</link>
+            <description>RISC-V Pushes 400 Million Forth Words Per Second</description>
+            <pubDate>Sat Nov 16 00:00:03 2024</pubDate>
+            </item>
+            <item>
             <title>Xataka: Microsoft va en serio con Windows 11 ARM, tanto que acaba de saldar una cuenta pendiente: la imagen ISO del sistema</title>
             <link>https://www.xataka.com/aplicaciones/microsoft-va-serio-windows-11-arm-que-acaba-saldar-cuenta-pendiente-imagen-iso-sistema</link>
             <description>Microsoft va en serio con Windows 11 ARM, tanto que acaba de saldar una cuenta pendiente: la imagen ISO del sistema</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/energia/regiones-soleadas-mundo-parecian-ideales-para-instalar-paneles-solares-estabamos-equivocados</link>
             <description>Las regiones más soleadas del mundo parecían ideales para instalar paneles solares. Estábamos equivocados</description>
             <pubDate>Fri Nov 15 20:01:53 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Últimas horas para comprar el POCO C65 con 8 GB de RAM por menos de 100 euros en Miravia</title>
-            <link>https://www.adslzone.net/ofertas/mix/miravia-smartphone-poco-c65-1124/</link>
-            <description>Últimas horas para comprar el POCO C65 con 8 GB de RAM por menos de 100 euros en Miravia</description>
-            <pubDate>Fri Nov 15 20:00:12 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Elon Musk lleva su batalla legal contra OpenAI y Microsoft a otro nivel: acusa a ambas de tratar de eliminar competencia</title>
-            <link>https://www.xataka.com/robotica-e-ia/elon-musk-lleva-su-batalla-legal-openai-microsoft-a-otro-nivel-acusa-a-ambas-tratar-eliminar-competencia</link>
-            <description>Elon Musk lleva su batalla legal contra OpenAI y Microsoft a otro nivel: acusa a ambas de tratar de eliminar competencia</description>
-            <pubDate>Fri Nov 15 19:31:53 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Un nuevo uso para las eSIM: las operadoras podrían usarlas para ofrecer pruebas gratuitas de sus tarifas</title>
-            <link>https://www.adslzone.net/esim/te-interesa/nuevo-uso-esim-operadoras/</link>
-            <description>Un nuevo uso para las eSIM: las operadoras podrían usarlas para ofrecer pruebas gratuitas de sus tarifas</description>
-            <pubDate>Fri Nov 15 19:30:53 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Por qué tu seguridad aumenta si usas un timbre inteligente en casa</title>
-            <link>https://www.redeszone.net/noticias/hogar/aumento-seguridad-timbre-inteligente/</link>
-            <description>Por qué tu seguridad aumenta si usas un timbre inteligente en casa</description>
-            <pubDate>Fri Nov 15 19:05:57 2024</pubDate>
             </item></channel>
 </rss>
