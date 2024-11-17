@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Register Renaming: The Art of Parallel Processing</title>
+            <link>https://hackaday.com/2024/11/16/register-renaming-the-art-of-parallel-processing/</link>
+            <description>Register Renaming: The Art of Parallel Processing</description>
+            <pubDate>Sun Nov 17 06:00:11 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Novedades Semana 46 en el Linuxverso: CachyOS 241110, RELIANOID 7.5 y RHEL 9.5</title>
+            <link>https://blog.desdelinux.net/linuxverso-semana-46-2024/</link>
+            <description>Novedades Semana 46 en el Linuxverso: CachyOS 241110, RELIANOID 7.5 y RHEL 9.5</description>
+            <pubDate>Sun Nov 17 05:00:41 2024</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: This Simple Change Improved the Performance of My Homelab Running on Raspberry Pi</title>
+            <link>https://itsfoss.com/pi-swap-increase/</link>
+            <description>This Simple Change Improved the Performance of My Homelab Running on Raspberry Pi</description>
+            <pubDate>Sun Nov 17 04:04:30 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Open Source Universal ROM Programmer Grows Up</title>
+            <link>https://hackaday.com/2024/11/16/open-source-universal-rom-programmer-grows-up/</link>
+            <description>Open Source Universal ROM Programmer Grows Up</description>
+            <pubDate>Sun Nov 17 03:00:50 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Ethernet From First Principles</title>
+            <link>https://hackaday.com/2024/11/16/ethernet-from-first-principles/</link>
+            <description>Ethernet From First Principles</description>
+            <pubDate>Sun Nov 17 00:00:46 2024</pubDate>
+            </item>
+            <item>
             <title>hackplayers: Voidmaw, una nueva técnica de evasión de escáneres de memoria</title>
             <link>https://www.hackplayers.com/2024/11/voidmaw-evasion-escaner-memoria.html</link>
             <description>Voidmaw, una nueva técnica de evasión de escáneres de memoria</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/tecnologia/cambiar-cuota-suscripcion-amazon-prime/</link>
             <description>Cómo cambiar la cuota de suscripción en Amazon Prime</description>
             <pubDate>Sat Nov 16 19:00:21 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Te pueden banear de Facebook por usar una VPN?</title>
-            <link>https://www.redeszone.net/noticias/seguridad/banear-facebook-usar-vpn/</link>
-            <description>¿Te pueden banear de Facebook por usar una VPN?</description>
-            <pubDate>Sat Nov 16 18:09:45 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El nuevo sustituto de la carne no está hecho de plantas ni en un laboratorio, sino a partir de una desconocida criatura marina</title>
-            <link>https://www.xataka.com/investigacion/nuevo-sustituto-carne-no-esta-hecho-plantas-laboratorio-sino-a-partir-desconocida-criatura-marina</link>
-            <description>El nuevo sustituto de la carne no está hecho de plantas ni en un laboratorio, sino a partir de una desconocida criatura marina</description>
-            <pubDate>Sat Nov 16 18:01:55 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El último gran éxito de Disney+ se verá primero en la TDT y luego llegará a streaming</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/exito-disney-plus-primero-tdt-luego-streaming-1124/</link>
-            <description>El último gran éxito de Disney+ se verá primero en la TDT y luego llegará a streaming</description>
-            <pubDate>Sat Nov 16 18:00:48 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Playing Chess Against LLMs and the Mystery of Instruct Models</title>
-            <link>https://hackaday.com/2024/11/16/playing-chess-against-llms-and-the-mystery-of-instruct-models/</link>
-            <description>Playing Chess Against LLMs and the Mystery of Instruct Models</description>
-            <pubDate>Sat Nov 16 18:00:34 2024</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Quinta actualización de digiKam 8, ahora con etiquetas de colores</title>
-            <link>https://www.kdeblog.com/quinta-actualizacion-de-digikam-8-ahora-con-etiquetas-de-colores.html</link>
-            <description>Quinta actualización de digiKam 8, ahora con etiquetas de colores</description>
-            <pubDate>Sat Nov 16 17:48:20 2024</pubDate>
             </item></channel>
 </rss>
