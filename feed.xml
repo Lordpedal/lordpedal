@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: $40 Ham Antenna Works Six Bands</title>
+            <link>https://hackaday.com/2024/11/23/40-ham-antenna-works-six-bands/</link>
+            <description>$40 Ham Antenna Works Six Bands</description>
+            <pubDate>Sun Nov 24 06:00:02 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: RFID From First Principles and Saving a Cat</title>
+            <link>https://hackaday.com/2024/11/23/rfid-from-first-principles-and-saving-a-cat/</link>
+            <description>RFID From First Principles and Saving a Cat</description>
+            <pubDate>Sun Nov 24 03:00:55 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Forget Pixel Art: Try Subpixels</title>
+            <link>https://hackaday.com/2024/11/23/forget-pixel-art-try-subpixels/</link>
+            <description>Forget Pixel Art: Try Subpixels</description>
+            <pubDate>Sun Nov 24 00:00:34 2024</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Close Shave for an Old Oscilloscope Saved with a Sticky Note</title>
             <link>https://hackaday.com/2024/11/23/close-shave-for-an-old-oscilloscope-saved-with-a-sticky-note/</link>
             <description>Close Shave for an Old Oscilloscope Saved with a Sticky Note</description>
@@ -52,23 +70,5 @@
             <link>https://www.xataka.com/medicina-y-salud/lechuga-marina-no-solo-para-ensaladas-acabamos-descubrir-nuevo-metodo-para-extraer-sus-nutrientes</link>
             <description>La "lechuga marina" no es solo para ensaladas. Acabamos de descubrir un nuevo método para extraer sus proteínas</description>
             <pubDate>Sat Nov 23 18:01:19 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: 3D Printed Boat Uses Tank Tracks For Amphibious Propulsion</title>
-            <link>https://hackaday.com/2024/11/23/3d-printed-boat-uses-tank-tracks-for-amphibious-propulsion/</link>
-            <description>3D Printed Boat Uses Tank Tracks For Amphibious Propulsion</description>
-            <pubDate>Sat Nov 23 18:00:54 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Un servicio de streaming cierra en enero de 2025 y su contenido llegará a Netflix</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/servicio-streaming-cierra-contenido-llegara-netflix-1124/</link>
-            <description>Un servicio de streaming cierra en enero de 2025 y su contenido llegará a Netflix</description>
-            <pubDate>Sat Nov 23 18:00:27 2024</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: PING: SUSE Linux Micro, Archinstall, Mesa, Wine, Blender, digiKam, Majora’s Mask…</title>
-            <link>https://www.muylinux.com/2024/11/23/ping-316/</link>
-            <description>PING: SUSE Linux Micro, Archinstall, Mesa, Wine, Blender, digiKam, Majora’s Mask…</description>
-            <pubDate>Sat Nov 23 17:44:23 2024</pubDate>
             </item></channel>
 </rss>
