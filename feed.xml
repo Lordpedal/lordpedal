@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Cómo usar una VPN en Linux y por qué deberías hacerlo</title>
+            <link>https://www.linuxparty.es/29-internet/12276-c%C3%B3mo-usar-una-vpn-en-linux-y-por-qu%C3%A9-deber%C3%ADas-hacerlo.html</link>
+            <description>Cómo usar una VPN en Linux y por qué deberías hacerlo</description>
+            <pubDate>Mon Nov 25 07:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Otro error de Windows 11 provoca sustos terribles entre los usuarios que juegan en el PC</title>
+            <link>https://www.adslzone.net/noticias/windows/error-windows-11-provoca-sustos-terribles-usuarios-1124/</link>
+            <description>Otro error de Windows 11 provoca sustos terribles entre los usuarios que juegan en el PC</description>
+            <pubDate>Mon Nov 25 06:00:59 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Programmable Zener is Really an IC</title>
+            <link>https://hackaday.com/2024/11/24/programmable-zener-is-really-an-ic/</link>
+            <description>Programmable Zener is Really an IC</description>
+            <pubDate>Mon Nov 25 06:00:16 2024</pubDate>
+            </item>
+            <item>
+            <title>El Blog de Lázaro: Controlar las RPM de los ventiladores en Unraid (II)</title>
+            <link>https://elblogdelazaro.org/posts/2024-11-25-controlar-las-rpm-de-los-ventiladores-en-unraid-ii/</link>
+            <description>Controlar las RPM de los ventiladores en Unraid (II)</description>
+            <pubDate>Mon Nov 25 05:43:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Aftershock II: How Students Shattered 20-Year Amateur Rocket Records</title>
+            <link>https://hackaday.com/2024/11/24/aftershock-ii-how-students-shattered-20-year-amateur-rocket-records/</link>
+            <description>Aftershock II: How Students Shattered 20-Year Amateur Rocket Records</description>
+            <pubDate>Mon Nov 25 03:00:22 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: November 24, 2024</title>
+            <link>https://hackaday.com/2024/11/24/hackaday-links-november-24-2024/</link>
+            <description>Hackaday Links: November 24, 2024</description>
+            <pubDate>Mon Nov 25 00:00:43 2024</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Double Your Analog Oscilloscope Fun with this Retro Beam Splitter</title>
             <link>https://hackaday.com/2024/11/24/double-your-analog-oscilloscope-fun-with-this-retro-beam-splitter/</link>
             <description>Double Your Analog Oscilloscope Fun with this Retro Beam Splitter</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/noticias/seguridad/pig-butchering-ciberdelincuentes-criptomonedas-falsas/</link>
             <description>Qué son las estafas de pig butchering: así consiguen los ciberdelincuentes que los usuarios inviertan en criptomonedas falsas</description>
             <pubDate>Sun Nov 24 20:00:46 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La necrópolis de Varna: el mayor tesoro de la antigüedad y el misterio de una civilización</title>
-            <link>https://www.xataka.com/investigacion/necropolis-varna-mayor-tesoro-antiguedad-misterio-civilizacion</link>
-            <description>La necrópolis de Varna: el mayor tesoro de la antigüedad y el misterio de una civilización</description>
-            <pubDate>Sun Nov 24 19:01:28 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Varios motivos por los que la UE debería tener su propio centro de tecnología defensiva a la americana</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/motivos-ue-centro-tecnologia/</link>
-            <description>Varios motivos por los que la UE debería tener su propio centro de tecnología defensiva a la americana</description>
-            <pubDate>Sun Nov 24 19:00:17 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Quieres usar Matter en su sistema de domótica? Guía para configurarlo</title>
-            <link>https://www.redeszone.net/noticias/hogar/conectar-dispositivos-matter-alexa-google-home-apple-smartthings/</link>
-            <description>¿Quieres usar Matter en su sistema de domótica? Guía para configurarlo</description>
-            <pubDate>Sun Nov 24 18:06:17 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Google está conquistando los colegios de España. Y muchas familias no son conscientes de lo que está en juego</title>
-            <link>https://www.xataka.com/privacidad/google-esta-conquistando-colegios-espana-muchas-familias-no-conscientes-que-esta-juego</link>
-            <description>Google está conquistando los colegios de España. Y muchas familias no son conscientes de lo que está en juego</description>
-            <pubDate>Sun Nov 24 18:01:23 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: TDTChannels soluciona uno de los principales problemas que estaba sufriendo</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/tdtchannels-soluciona-problema-sufriendo-1124/</link>
-            <description>TDTChannels soluciona uno de los principales problemas que estaba sufriendo</description>
-            <pubDate>Sun Nov 24 18:00:51 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Flyback, Done Right</title>
-            <link>https://hackaday.com/2024/11/24/flyback-done-right/</link>
-            <description>Flyback, Done Right</description>
-            <pubDate>Sun Nov 24 18:00:16 2024</pubDate>
             </item></channel>
 </rss>
