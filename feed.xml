@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Se lanzó Red Hat Enterprise Linux 9.5 con la función de sistema Sudo y Podman 5.0</title>
+            <link>https://www.linuxparty.es/36-linuxbiz/12279-se-lanz%C3%B3-red-hat-enterprise-linux-9-5-con-la-funci%C3%B3n-de-sistema-sudo-y-podman-5-0.html</link>
+            <description>Se lanzó Red Hat Enterprise Linux 9.5 con la función de sistema Sudo y Podman 5.0</description>
+            <pubDate>Tue Nov 26 07:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Building A Pi-Powered LED Chess Board</title>
+            <link>https://hackaday.com/2024/11/25/building-a-pi-powered-led-chess-board/</link>
+            <description>Building A Pi-Powered LED Chess Board</description>
+            <pubDate>Tue Nov 26 06:00:57 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Así puedes mejorar Bluesky para reforzar tu privacidad y librarte de los acosadores</title>
+            <link>https://www.adslzone.net/noticias/redes-sociales/bluesky-reforzar-privacidad-acosadores/</link>
+            <description>Así puedes mejorar Bluesky para reforzar tu privacidad y librarte de los acosadores</description>
+            <pubDate>Tue Nov 26 06:00:01 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: CISA Urges Agencies to Patch Critical "Array Networks" Flaw Amid Active Attacks</title>
+            <link>https://thehackernews.com/2024/11/cisa-urges-agencies-to-patch-critical.html</link>
+            <description>CISA Urges Agencies to Patch Critical "Array Networks" Flaw Amid Active Attacks</description>
+            <pubDate>Tue Nov 26 05:03:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Solar Orbiter Takes Amazing Solar Pictures</title>
+            <link>https://hackaday.com/2024/11/25/solar-orbiter-takes-amazing-solar-pictures/</link>
+            <description>Solar Orbiter Takes Amazing Solar Pictures</description>
+            <pubDate>Tue Nov 26 03:00:08 2024</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: Build Your Own Holiday Star With LEDs — Glowing DIY Decorations for the Festive Season!</title>
+            <link>https://makezine.com/projects/build-your-own-poinsettia-with-leds-glowing-diy-decorations-for-the-festive-season/</link>
+            <description>Build Your Own Holiday Star With LEDs — Glowing DIY Decorations for the Festive Season!</description>
+            <pubDate>Tue Nov 26 00:13:17 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An Over-Engineered Basement Monitor</title>
+            <link>https://hackaday.com/2024/11/25/an-over-engineered-basement-monitor/</link>
+            <description>An Over-Engineered Basement Monitor</description>
+            <pubDate>Tue Nov 26 00:00:37 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Warp, the AI-infused Terminal, Relaxes Its Login Requirement</title>
+            <link>https://www.omgubuntu.co.uk/2024/11/warp-ai-terminal-login-change</link>
+            <description>Warp, the AI-infused Terminal, Relaxes Its Login Requirement</description>
+            <pubDate>Mon Nov 25 23:48:00 2024</pubDate>
+            </item>
+            <item>
             <title>Xataka: Un informe desclasificado acaba de humillar al F-35. Elon Musk no ha tardado en criticar sin piedad al polémico proyecto</title>
             <link>https://www.xataka.com/otros/informe-desclasificado-acaba-humillar-al-f-35-elon-musk-no-ha-tardado-criticar-piedad-al-polemico-proyecto</link>
             <description>Un informe desclasificado acaba de humillar al F-35. Elon Musk no ha tardado en criticar sin piedad al polémico proyecto</description>
@@ -22,53 +70,5 @@
             <link>https://www.xataka.com/ecologia-y-naturaleza/expedicion-liderada-cientificos-espanoles-estudia-preocupante-proceso-oceanico-atlantificacion-artico</link>
             <description>Una expedición liderada por científicos españoles estudia un preocupante proceso oceánico: la atlantificación del Ártico</description>
             <pubDate>Mon Nov 25 21:01:28 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: E-Ink Screen Combined With Analog Dial Is Epic Win</title>
-            <link>https://hackaday.com/2024/11/25/e-ink-screen-combined-with-analog-dial-is-epic-win/</link>
-            <description>E-Ink Screen Combined With Analog Dial Is Epic Win</description>
-            <pubDate>Mon Nov 25 21:00:31 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Qué operadora es más rápida? La solución de la CNMC para que puedas comprobarlo en segundos</title>
-            <link>https://www.adslzone.net/noticias/operadores/herramienta-cnmc-ver-operadora-mas-rapida/</link>
-            <description>¿Qué operadora es más rápida? La solución de la CNMC para que puedas comprobarlo en segundos</description>
-            <pubDate>Mon Nov 25 21:00:17 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los ciberdelincuentes han encontrado una nueva vía para distribuir software ilegal: listas de reproducción de Spotify</title>
-            <link>https://www.xataka.com/seguridad/ciberdelincuentes-han-encontrado-nueva-via-para-distribuir-software-ilegal-listas-reproduccion-spotify</link>
-            <description>Los ciberdelincuentes han encontrado una nueva vía para distribuir software ilegal: listas de reproducción de Spotify</description>
-            <pubDate>Mon Nov 25 20:31:26 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Microsoft vuelve a bombardear con anuncios de Windows 11 más invasivos a usuarios que no han actualizado sus ordenadores</title>
-            <link>https://www.adslzone.net/noticias/windows/microsoft-windows-11-anuncios-invasivos/</link>
-            <description>Microsoft vuelve a bombardear con anuncios de Windows 11 más invasivos a usuarios que no han actualizado sus ordenadores</description>
-            <pubDate>Mon Nov 25 20:30:55 2024</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Busting the ghost engineers (0.1x-ers)</title>
-            <link>https://changelog.com/news/122</link>
-            <description>Busting the ghost engineers (0.1x-ers)</description>
-            <pubDate>Mon Nov 25 20:30:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: La Comisión Europea ya señala a Bluesky: le exige difundir cuántos usuarios tiene y en qué país europeo opera</title>
-            <link>https://www.genbeta.com/actualidad/comision-europea-senala-a-bluesky-le-exige-difundir-cuantos-usuarios-tiene-que-pais-europeo-opera</link>
-            <description>La Comisión Europea ya señala a Bluesky: le exige difundir cuántos usuarios tiene y en qué país europeo opera</description>
-            <pubDate>Mon Nov 25 20:07:29 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: No todo son luces en Bluesky: la prometedora alternativa a X de Elon Musk infringe la Ley de Servicios Digitales europea</title>
-            <link>https://www.xataka.com/legislacion-y-derechos/no-todo-luces-bluesky-prometedora-alternativa-a-x-elon-musk-infringe-ley-servicios-digitales-europea</link>
-            <description>No todo son luces en Bluesky: la prometedora alternativa a X de Elon Musk infringe la Ley de Servicios Digitales europea</description>
-            <pubDate>Mon Nov 25 20:01:08 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon hace un descuento irrepetible de Black Friday en el Fire TV Stick 4K</title>
-            <link>https://www.adslzone.net/ofertas/amazon/dongle-amazon-fire-tv-stick-4k-1124/</link>
-            <description>Amazon hace un descuento irrepetible de Black Friday en el Fire TV Stick 4K</description>
-            <pubDate>Mon Nov 25 20:00:18 2024</pubDate>
             </item></channel>
 </rss>
