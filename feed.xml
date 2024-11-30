@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Modernizing an Apple iPod, or: a Modern-Day Ship of Theseus</title>
+            <link>https://hackaday.com/2024/11/29/modernizing-an-apple-ipod-or-a-modern-day-ship-of-theseus/</link>
+            <description>Modernizing an Apple iPod, or: a Modern-Day Ship of Theseus</description>
+            <pubDate>Sat Nov 30 06:00:53 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 30 de noviembre</title>
+            <link>https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-30-noviembre</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 30 de noviembre</description>
+            <pubDate>Sat Nov 30 04:01:51 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hacking Trees to Bring Back the American Chestnut</title>
+            <link>https://hackaday.com/2024/11/29/hacking-trees-to-bring-back-the-american-chestnut/</link>
+            <description>Hacking Trees to Bring Back the American Chestnut</description>
+            <pubDate>Sat Nov 30 03:00:20 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Swapping Batteries Has Never Looked This Cool</title>
+            <link>https://hackaday.com/2024/11/29/swapping-batteries-has-never-looked-this-cool/</link>
+            <description>Swapping Batteries Has Never Looked This Cool</description>
+            <pubDate>Sat Nov 30 00:00:32 2024</pubDate>
+            </item>
+            <item>
             <title>Xataka: Estamos cerca de conseguir un hormigón sin agua para usar en la Luna. Promete cambiar las construcciones en la Tierra</title>
             <link>https://www.xataka.com/materiales/estamos-cerca-conseguir-hormigon-agua-para-usar-luna-promete-cambiar-construcciones-tierra</link>
             <description>Estamos cerca de conseguir un hormigón sin agua para usar en la Luna. Promete cambiar las construcciones en la Tierra</description>
@@ -46,29 +70,5 @@
             <link>https://ubunlog.com/como-instalar-paquetes-snap-en-linux-mint/</link>
             <description>Cómo instalar paquetes Snap en Linux Mint</description>
             <pubDate>Fri Nov 29 20:47:53 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Meta planea construir un descomunal cable submarino global, según TechCrunch. Tiene buenas razones para hacerlo</title>
-            <link>https://www.xataka.com/servicios/meta-planea-construir-descomunal-cable-submarino-global-techcrunch-tiene-buenas-razones-para-hacerlo</link>
-            <description>Meta planea construir un descomunal cable submarino global, según TechCrunch. Tiene buenas razones para hacerlo</description>
-            <pubDate>Fri Nov 29 20:31:49 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Xiaomi y su mejor aspirador revolucionan las ofertas del Black Friday para que dejes tu casa limpísima</title>
-            <link>https://www.adslzone.net/ofertas/mix/aliexpress-aspirador-xiaomi-vacuum-cleaner-g9-plus-1124/</link>
-            <description>Xiaomi y su mejor aspirador revolucionan las ofertas del Black Friday para que dejes tu casa limpísima</description>
-            <pubDate>Fri Nov 29 20:30:22 2024</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Cómo solucionar la diferencia horaria entre Linux y Windows</title>
-            <link>https://ubunlog.com/como-solucionar-la-diferencia-horaria-entre-linux-y-windows/</link>
-            <description>Cómo solucionar la diferencia horaria entre Linux y Windows</description>
-            <pubDate>Fri Nov 29 20:05:26 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Estas turbinas eólicas plegables financiadas por Bill Gates se ensamblan 10 veces más rápido que las normales</title>
-            <link>https://www.xataka.com/energia/eolica-necesita-revolucion-bill-gates-ha-hecho-su-apuesta-plataformas-marinas-plegables-faciles-montar</link>
-            <description>Estas turbinas eólicas plegables financiadas por Bill Gates se ensamblan 10 veces más rápido que las normales</description>
-            <pubDate>Fri Nov 29 20:01:49 2024</pubDate>
             </item></channel>
 </rss>
