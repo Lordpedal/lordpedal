@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Making a Stool from Clay</title>
+            <link>https://hackaday.com/2024/11/30/making-a-stool-from-clay/</link>
+            <description>Making a Stool from Clay</description>
+            <pubDate>Sun Dec  1 06:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Arduino VGA, The Old Fashioned Way</title>
+            <link>https://hackaday.com/2024/11/30/arduino-vga-the-old-fashioned-way/</link>
+            <description>Arduino VGA, The Old Fashioned Way</description>
+            <pubDate>Sun Dec  1 03:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Uncle Sam Wants You to Recover Energy Materials from Wastewater</title>
+            <link>https://hackaday.com/2024/11/30/uncle-sam-wants-you-to-recover-energy-materials-from-wastewater/</link>
+            <description>Uncle Sam Wants You to Recover Energy Materials from Wastewater</description>
+            <pubDate>Sun Dec  1 00:00:00 2024</pubDate>
+            </item>
+            <item>
             <title>Blog Bitix: Construyendo un pipeline de CI/CD con Github Actions</title>
             <link>https://picodotdev.github.io/blog-bitix/2024/03/construyendo-un-pipeline-de-cicd-con-github-actions/</link>
             <description>Construyendo un pipeline de CI/CD con Github Actions</description>
@@ -52,23 +70,5 @@
             <link>https://www.redeszone.net/noticias/seguridad/cybersecurity-mesh-architecture-csma-que-es-funcionamiento/</link>
             <description>Así funciona CyberSecurity Mesh Architecture (CSMA), el futuro de la ciberseguridad está aquí</description>
             <pubDate>Sat Nov 30 18:06:31 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La dopamina es una de las hormonas más conocidas de nuestro cuerpo. En realidad es mucho más que eso</title>
-            <link>https://www.xataka.com/medicina-y-salud/dopamina-hormonas-conocidas-nuestro-cuerpo-que-que-hace-exactamente</link>
-            <description>La dopamina es una de las hormonas más conocidas de nuestro cuerpo. En realidad es mucho más que eso</description>
-            <pubDate>Sat Nov 30 18:01:55 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Ni Google Chrome ni Safari: Copilot ha conseguido que una década después vuelva a usar un navegador de Microsoft en mi Mac</title>
-            <link>https://www.genbeta.com/navegadores/google-chrome-safari-copilot-ha-conseguido-que-decada-despues-vuelva-a-usar-navegador-microsoft-mi-mac</link>
-            <description>Ni Google Chrome ni Safari: Copilot ha conseguido que una década después vuelva a usar un navegador de Microsoft en mi Mac</description>
-            <pubDate>Sat Nov 30 18:01:55 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Saving a Samsung TV From the Dreaded Boot Loop</title>
-            <link>https://hackaday.com/2024/11/30/saving-a-samsung-tv-from-the-dreaded-boot-loop/</link>
-            <description>Saving a Samsung TV From the Dreaded Boot Loop</description>
-            <pubDate>Sat Nov 30 18:00:17 2024</pubDate>
             </item></channel>
 </rss>
