@@ -6,10 +6,58 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Cómo limitar las conexiones SSH (puerto TCP 22) con ufw en Ubuntu Linux</title>
+            <link>https://www.linuxparty.es/57-seguridad/12288-c%C3%B3mo-limitar-las-conexiones-ssh-puerto-tcp-22-con-ufw-en-ubuntu-linux.html</link>
+            <description>Cómo limitar las conexiones SSH (puerto TCP 22) con ufw en Ubuntu Linux</description>
+            <pubDate>Tue Dec  3 07:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: This Single Proton Pass Feature Saved My Inbox</title>
+            <link>https://itsfoss.com/proton-pass-hide-my-email/</link>
+            <description>This Single Proton Pass Feature Saved My Inbox</description>
+            <pubDate>Tue Dec  3 06:16:56 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Una nueva campaña de correos falsos envía documentos Word dañados imposibles de detectar</title>
+            <link>https://www.adslzone.net/noticias/seguridad/correos-falsos-documentos-word-imposibles-detectar/</link>
+            <description>Una nueva campaña de correos falsos envía documentos Word dañados imposibles de detectar</description>
+            <pubDate>Tue Dec  3 06:00:14 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: From Cans To Sheet Metal, With Ease</title>
+            <link>https://hackaday.com/2024/12/02/from-cans-to-sheet-metal-with-ease/</link>
+            <description>From Cans To Sheet Metal, With Ease</description>
+            <pubDate>Tue Dec  3 06:00:10 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Horns&Hooves Campaign Delivers RATs via Fake Emails and JavaScript Payloads</title>
+            <link>https://thehackernews.com/2024/12/horns-campaign-delivers-rats-via-fake.html</link>
+            <description>Horns&Hooves Campaign Delivers RATs via Fake Emails and JavaScript Payloads</description>
+            <pubDate>Tue Dec  3 05:23:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Modular Breadboard Snaps You Into Benchtop Tidiness</title>
+            <link>https://hackaday.com/2024/12/02/modular-breadboard-snaps-you-into-benchtop-tidiness/</link>
+            <description>Modular Breadboard Snaps You Into Benchtop Tidiness</description>
+            <pubDate>Tue Dec  3 03:00:22 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Automatic Battery Charger You Never Knew You Needed</title>
+            <link>https://hackaday.com/2024/12/02/the-automatic-battery-charger-you-never-knew-you-needed/</link>
+            <description>The Automatic Battery Charger You Never Knew You Needed</description>
+            <pubDate>Tue Dec  3 00:00:41 2024</pubDate>
+            </item>
+            <item>
             <title>hackplayers: Malware capaz de grabar vídeo con el led de la cámara apagado (PoC en portátil ThinkPad X230)</title>
             <link>https://www.hackplayers.com/2024/12/malware-graba-video-con-led-apagado.html</link>
             <description>Malware capaz de grabar vídeo con el led de la cámara apagado (PoC en portátil ThinkPad X230)</description>
             <pubDate>Mon Dec  2 23:00:05 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Cinnamon Desktop 6.4 Released with New Look</title>
+            <link>https://www.omgubuntu.co.uk/2024/12/cinnamon-6-4-desktop-new-features-theme</link>
+            <description>Cinnamon Desktop 6.4 Released with New Look</description>
+            <pubDate>Mon Dec  2 22:09:00 2024</pubDate>
             </item>
             <item>
             <title>Xataka: Google Maps abraza una de las características más valoradas de Waze: moverse en coche será mucho más fácil</title>
@@ -22,53 +70,5 @@
             <link>https://www.genbeta.com/actualidad/ha-llegado-dia-no-podemos-instalar-ublock-google-chrome-hay-forma-seguir-usandola</link>
             <description>Ha llegado el día: ya no podemos instalar uBlock en Google Chrome. Pero hay una forma de seguir usándola</description>
             <pubDate>Mon Dec  2 21:20:57 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Unique 3D Printer Has a Print Head With a Twist</title>
-            <link>https://hackaday.com/2024/12/02/unique-3d-printer-has-a-print-head-with-a-twist/</link>
-            <description>Unique 3D Printer Has a Print Head With a Twist</description>
-            <pubDate>Mon Dec  2 21:00:37 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La nave espacial Voyager 1 ha vuelto a comunicarse con la Tierra gracias a un nuevo rescate milagroso de la NASA</title>
-            <link>https://www.xataka.com/espacio/nave-espacial-voyager-1-ha-vuelto-a-comunicarse-tierra-gracias-a-nuevo-rescate-milagroso-nasa</link>
-            <description>La nave espacial Voyager 1 ha vuelto a comunicarse con la Tierra gracias a un nuevo rescate milagroso de la NASA</description>
-            <pubDate>Mon Dec  2 21:00:05 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esto es lo que pagarás en 2025 por tu tarifa de fibra, móvil y TV de Movistar</title>
-            <link>https://www.adslzone.net/noticias/operadores/pagaras-2025-tarifa-fibra-movil-tv-movistar/</link>
-            <description>Esto es lo que pagarás en 2025 por tu tarifa de fibra, móvil y TV de Movistar</description>
-            <pubDate>Mon Dec  2 21:00:02 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La cuota de mercado de Windows 11 ha vuelto a caer: algo no está funcionando con el “nuevo” sistema de Microsoft</title>
-            <link>https://www.xataka.com/aplicaciones/cuota-mercado-windows-11-ha-vuelto-a-caer-algo-no-esta-funcionando-nuevo-sistema-microsoft</link>
-            <description>La cuota de mercado de Windows 11 ha vuelto a caer: algo no está funcionando con el “nuevo” sistema de Microsoft</description>
-            <pubDate>Mon Dec  2 20:30:21 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Qué ocurre si provocas un accidente con tu coche y no tienes seguro? La DGT te da la respuesta</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/accidente-coche-sin-seguro-dgt/</link>
-            <description>¿Qué ocurre si provocas un accidente con tu coche y no tienes seguro? La DGT te da la respuesta</description>
-            <pubDate>Mon Dec  2 20:30:17 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Ahora puedes tener la pantalla de arranque original de PlayStation en tu PS5: así se activa junto a los temas de la PS2, PS3 y PS4</title>
-            <link>https://www.xataka.com/videojuegos/ahora-puedes-tener-pantalla-arranque-original-playstation-tu-ps5-asi-se-activa-a-temas-ps2-ps3-ps4</link>
-            <description>Ahora puedes tener la pantalla de arranque original de PlayStation en tu PS5: así se activa junto a los temas de la PS2, PS3 y PS4</description>
-            <pubDate>Mon Dec  2 20:03:15 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Estos auriculares de Steelseries están a precio reducido en PcComponentes y es la compra ideal para tu setup gaming</title>
-            <link>https://www.adslzone.net/ofertas/mix/pccomponentes-auriculares-steelseries-artics-pro-wireless-1224/</link>
-            <description>Estos auriculares de Steelseries están a precio reducido en PcComponentes y es la compra ideal para tu setup gaming</description>
-            <pubDate>Mon Dec  2 20:00:48 2024</pubDate>
-            </item>
-            <item>
-            <title>Changelog: If not React, then what?</title>
-            <link>https://changelog.com/news/123</link>
-            <description>If not React, then what?</description>
-            <pubDate>Mon Dec  2 20:00:00 2024</pubDate>
             </item></channel>
 </rss>
