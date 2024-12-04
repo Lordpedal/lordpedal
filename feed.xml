@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Instalar Docker y aprender a manipular contenedores básicos en CentOS y RHEL</title>
+            <link>https://www.linuxparty.es/115-docker/12290-instalar-docker-y-aprender-a-manipular-contenedores-b%C3%A1sicos-en-centos-y-rhel.html</link>
+            <description>Instalar Docker y aprender a manipular contenedores básicos en CentOS y RHEL</description>
+            <pubDate>Wed Dec  4 07:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Fail of the Week: The SMD Crystal Radio That Wasn’t</title>
+            <link>https://hackaday.com/2024/12/03/fail-of-the-week-the-smd-crystal-radio-that-wasnt/</link>
+            <description>Fail of the Week: The SMD Crystal Radio That Wasn’t</description>
+            <pubDate>Wed Dec  4 06:00:19 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Veeam Issues Patch for Critical RCE Vulnerability in Service Provider Console</title>
+            <link>https://thehackernews.com/2024/12/veeam-issues-patch-for-critical-rce.html</link>
+            <description>Veeam Issues Patch for Critical RCE Vulnerability in Service Provider Console</description>
+            <pubDate>Wed Dec  4 05:34:00 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Critical SailPoint IdentityIQ Vulnerability Exposes Files to Unauthorized Access</title>
+            <link>https://thehackernews.com/2024/12/critical-sailpoint-identityiq.html</link>
+            <description>Critical SailPoint IdentityIQ Vulnerability Exposes Files to Unauthorized Access</description>
+            <pubDate>Wed Dec  4 05:08:00 2024</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Hackers Use Corrupted ZIPs and Office Docs to Evade Antivirus and Email Defenses</title>
+            <link>https://thehackernews.com/2024/12/hackers-use-corrupted-zips-and-office.html</link>
+            <description>Hackers Use Corrupted ZIPs and Office Docs to Evade Antivirus and Email Defenses</description>
+            <pubDate>Wed Dec  4 04:48:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Month Without IPV4 is Like a Month Without…</title>
+            <link>https://hackaday.com/2024/12/03/a-month-without-ipv4-is-like-a-month-without/</link>
+            <description>A Month Without IPV4 is Like a Month Without…</description>
+            <pubDate>Wed Dec  4 03:00:47 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D Printing Threaded Replacements</title>
+            <link>https://hackaday.com/2024/12/03/3d-printing-threaded-replacements/</link>
+            <description>3D Printing Threaded Replacements</description>
+            <pubDate>Wed Dec  4 00:00:16 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Flexbar Brings Apple’s Touch Bar Back from the Dead</title>
+            <link>https://www.omgubuntu.co.uk/2024/12/flexbar-macbook-pro-touch-bar-standalone</link>
+            <description>Flexbar Brings Apple’s Touch Bar Back from the Dead</description>
+            <pubDate>Tue Dec  3 23:52:00 2024</pubDate>
+            </item>
+            <item>
             <title>Xataka: El malware continúa colándose en Play Store: estas apps fueron descargadas millones de veces antes de ser eliminadas</title>
             <link>https://www.xataka.com/seguridad/malware-continua-colandose-play-store-estas-apps-fueron-descargadas-millones-veces-antes-ser-eliminadas</link>
             <description>El malware continúa colándose en Play Store: estas apps fueron descargadas millones de veces antes de ser eliminadas</description>
@@ -22,53 +70,5 @@
             <link>https://www.muylinux.com/2024/12/03/gnome-os-proposito-general/</link>
             <description>GNOME OS también aspira a ser una distribución de propósito general</description>
             <pubDate>Tue Dec  3 21:04:29 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Estos son los nuevos precios de Movistar para sus tarifas de solo fibra y móvil</title>
-            <link>https://www.adslzone.net/noticias/operadores/nuevos-precios-solo-fibra-movil-movistar-1224/</link>
-            <description>Estos son los nuevos precios de Movistar para sus tarifas de solo fibra y móvil</description>
-            <pubDate>Tue Dec  3 21:00:55 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Car Radio Chip Goes Into DIY Build</title>
-            <link>https://hackaday.com/2024/12/03/car-radio-chip-goes-into-diy-build/</link>
-            <description>Car Radio Chip Goes Into DIY Build</description>
-            <pubDate>Tue Dec  3 21:00:48 2024</pubDate>
-            </item>
-            <item>
-            <title>Linux Magazine News (path: lmi_news): Armbian 24.11 Released with Expanded Hardware Support</title>
-            <link>http://www.linux-magazine.com/Online/News/Armbian-24.11-Released-with-Expanded-Hardware-Support</link>
-            <description>Armbian 24.11 Released with Expanded Hardware Support</description>
-            <pubDate>Tue Dec  3 20:52:02 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La gran apuesta de Amazon por la IA generativa ya tiene nombre: se llama Nova y llega para rivalizar con OpenAI</title>
-            <link>https://www.xataka.com/robotica-e-ia/gran-apuesta-amazon-ia-generativa-tiene-nombre-se-llama-nova-llega-para-rivalizar-openai</link>
-            <description>La gran apuesta de Amazon por la IA generativa ya tiene nombre: se llama Nova y llega para rivalizar con OpenAI</description>
-            <pubDate>Tue Dec  3 20:32:02 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: El Gobierno ya puede saber todo sobre dónde y con quién viajas, pero afirma en X que no ha cambiado nada</title>
-            <link>https://www.genbeta.com/actualidad/gobierno-puede-saber-todo-donde-quien-viajas-afirma-x-que-no-ha-cambiado-nada</link>
-            <description>El Gobierno ya puede saber todo sobre dónde y con quién viajas, pero afirma en X que no ha cambiado nada</description>
-            <pubDate>Tue Dec  3 20:20:47 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El último símbolo de exclusividad no es un coche o un bolso: es una barra de chocolate y pistacho que se ha hecho viral</title>
-            <link>https://www.xataka.com/medicina-y-salud/ultimo-simbolo-exclusividad-no-coche-bolso-barra-chocolate-pistacho-que-se-ha-hecho-viral</link>
-            <description>El último símbolo de exclusividad no es un coche o un bolso: es una barra de chocolate y pistacho que se ha hecho viral</description>
-            <pubDate>Tue Dec  3 20:13:40 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Últimas horas para comprar la tablet iPad de 10ª generación a precio de outlet en Miravia</title>
-            <link>https://www.adslzone.net/ofertas/mix/miravia-tablet-apple-ipad-10-generacion-1224/</link>
-            <description>Últimas horas para comprar la tablet iPad de 10ª generación a precio de outlet en Miravia</description>
-            <pubDate>Tue Dec  3 20:00:41 2024</pubDate>
-            </item>
-            <item>
-            <title>Elbinario: Taller de introducción a la IA LIBRE hacklab La raíz</title>
-            <link>https://elbinario.net/2024/12/03/taller-de-introduccion-a-la-ia-libre-hacklab-la-raiz/</link>
-            <description>Taller de introducción a la IA LIBRE hacklab La raíz</description>
-            <pubDate>Tue Dec  3 20:00:07 2024</pubDate>
             </item></channel>
 </rss>
