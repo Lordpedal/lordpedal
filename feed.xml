@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A Hundred Year Old Solid State Amplifier</title>
+            <link>https://hackaday.com/2024/12/05/a-hundred-year-old-solid-state-amplifier/</link>
+            <description>A Hundred Year Old Solid State Amplifier</description>
+            <pubDate>Fri Dec  6 06:00:00 2024</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Cómo Descargar Videos de Twitter (X) de Manera Gratis y Segura</title>
+            <link>https://esgeeks.com/descargar-videos-x-facebook-gratis/</link>
+            <description>Cómo Descargar Videos de Twitter (X) de Manera Gratis y Segura</description>
+            <pubDate>Fri Dec  6 03:48:35 2024</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Install raspi-config in Ubuntu on Raspberry Pi</title>
+            <link>https://itsfoss.com/install-raspi-config-ubuntu/</link>
+            <description>Install raspi-config in Ubuntu on Raspberry Pi</description>
+            <pubDate>Fri Dec  6 03:36:27 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Unconventional Oil Production, All You Need to Know</title>
+            <link>https://hackaday.com/2024/12/05/unconventional-oil-production-all-you-need-to-know/</link>
+            <description>Unconventional Oil Production, All You Need to Know</description>
+            <pubDate>Fri Dec  6 03:00:19 2024</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: San Francisco Bay Area Cool Event Alert!</title>
+            <link>https://makezine.com/article/maker-news/san-francisco-bay-area-cool-event-alert/</link>
+            <description>San Francisco Bay Area Cool Event Alert!</description>
+            <pubDate>Fri Dec  6 01:51:58 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Gray Matter on a Chip: Building an Artificial Brain with Luminol</title>
+            <link>https://hackaday.com/2024/12/05/gray-matter-on-a-chip-building-an-artificial-brain-with-luminol/</link>
+            <description>Gray Matter on a Chip: Building an Artificial Brain with Luminol</description>
+            <pubDate>Fri Dec  6 00:00:10 2024</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Latest COSMIC Desktop Alpha Adds New Options, VRR Support</title>
+            <link>https://www.omgubuntu.co.uk/2024/12/cosmic-desktop-alpha-4-changes</link>
+            <description>Latest COSMIC Desktop Alpha Adds New Options, VRR Support</description>
+            <pubDate>Thu Dec  5 23:15:40 2024</pubDate>
+            </item>
+            <item>
             <title>Xataka: El software espía Pegasus ya no se limita a objetivos de alto perfil: ha sido detectado en móviles de usuarios comunes</title>
             <link>https://www.xataka.com/seguridad/software-espia-pegasus-no-se-limita-a-objetivos-alto-perfil-ha-sido-detectado-moviles-usuarios-comunes</link>
             <description>El software espía Pegasus ya no se limita a objetivos de alto perfil: ha sido detectado en móviles de usuarios comunes</description>
@@ -28,47 +70,5 @@
             <link>https://hackaday.com/2024/12/05/how-corroded-can-a-motherboard-be/</link>
             <description>How Corroded Can a Motherboard Be?</description>
             <pubDate>Thu Dec  5 21:00:22 2024</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: Cómo Eran los Virus Informáticos en los Años 80 y 90 del Siglo Pasado</title>
-            <link>https://esgeeks.com/como-eran-virus-informaticos-80-90/</link>
-            <description>Cómo Eran los Virus Informáticos en los Años 80 y 90 del Siglo Pasado</description>
-            <pubDate>Thu Dec  5 20:39:13 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Posiblemente no veamos una secuela de Elden Ring hasta dentro de unos cuantos años, pero hay buenas noticias</title>
-            <link>https://www.adslzone.net/noticias/videojuegos/secuela-elden-ring-buenas-noticias/</link>
-            <description>Posiblemente no veamos una secuela de Elden Ring hasta dentro de unos cuantos años, pero hay buenas noticias</description>
-            <pubDate>Thu Dec  5 20:30:45 2024</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Se esperaba, pero ya es oficial: Linux 6.12 es una versión LTS, la de 2024</title>
-            <link>https://ubunlog.com/se-esperaba-pero-ya-es-oficial-linux-6-12-es-una-version-lts-la-de-2024/</link>
-            <description>Se esperaba, pero ya es oficial: Linux 6.12 es una versión LTS, la de 2024</description>
-            <pubDate>Thu Dec  5 20:04:30 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El plan de China para convertirse en el mayor exportador nuclear del mundo es simple: 100 reactores nuevos en 10 años</title>
-            <link>https://www.xataka.com/energia/plan-china-para-convertirse-mayor-exportador-nuclear-mundo-simple-100-reactores-nuevos-10-anos</link>
-            <description>El plan de China para convertirse en el mayor exportador nuclear del mundo es simple: 100 reactores nuevos en 10 años</description>
-            <pubDate>Thu Dec  5 20:00:26 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: De locos: Miravia ha rebajado uno de los Xiaomi más vendidos dejándolo por menos de 150€, ¡va a volar!</title>
-            <link>https://www.adslzone.net/ofertas/mix/miravia-smartphone-xiaomi-redmi-note-13-1224/</link>
-            <description>De locos: Miravia ha rebajado uno de los Xiaomi más vendidos dejándolo por menos de 150€, ¡va a volar!</description>
-            <pubDate>Thu Dec  5 20:00:24 2024</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Alpine Linux 3.21 Llega con Linux Kernel 6.12 LTS y Soporte Inicial para LoongArch64</title>
-            <link>https://nksistemas.com/alpine-linux-3-21-llega-con-linux-kernel-6-12-lts-y-soporte-inicial-para-loongarch64/</link>
-            <description>Alpine Linux 3.21 Llega con Linux Kernel 6.12 LTS y Soporte Inicial para LoongArch64</description>
-            <pubDate>Thu Dec  5 19:48:42 2024</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Linux Kernel 6.11 Llega al Fin de su Ciclo de Vida: ¡Hora de Actualizar a Linux Kernel 6.12 LTS!</title>
-            <link>https://nksistemas.com/linux-kernel-6-11-llega-al-fin-de-su-ciclo-de-vida-hora-de-actualizar-a-linux-kernel-6-12-lts/</link>
-            <description>Linux Kernel 6.11 Llega al Fin de su Ciclo de Vida: ¡Hora de Actualizar a Linux Kernel 6.12 LTS!</description>
-            <pubDate>Thu Dec  5 19:45:44 2024</pubDate>
             </item></channel>
 </rss>
