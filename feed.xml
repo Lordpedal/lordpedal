@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Cheap FPGA PCIe Development</title>
+            <link>https://hackaday.com/2024/12/07/cheap-fpga-pcie-development/</link>
+            <description>Cheap FPGA PCIe Development</description>
+            <pubDate>Sun Dec  8 06:00:44 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Look inside IKEA’s Vallhorn Motion Sensor Teardown</title>
+            <link>https://hackaday.com/2024/12/07/a-look-inside-ikeas-vallhorn-motion-sensor-teardown/</link>
+            <description>A Look inside IKEA’s Vallhorn Motion Sensor Teardown</description>
+            <pubDate>Sun Dec  8 03:00:12 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Microchess Remembered</title>
+            <link>https://hackaday.com/2024/12/07/microchess-remembered/</link>
+            <description>Microchess Remembered</description>
+            <pubDate>Sun Dec  8 00:00:39 2024</pubDate>
+            </item>
+            <item>
             <title>El Pingüino Tolkiano: LibreOffice 25.2 alfa 1</title>
             <link>https://elpinguinotolkiano.wordpress.com/2024/12/07/libreoffice-25-2-alfa-1/</link>
             <description>LibreOffice 25.2 alfa 1</description>
@@ -52,23 +70,5 @@
             <link>https://www.redeszone.net/noticias/power/energia-minieolica-alternativa-pequeno-consumidor/</link>
             <description>Descubre qué es la energía minieólica y el ahorro en la luz que puedes tener</description>
             <pubDate>Sat Dec  7 18:06:44 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Dos nuevos estudios afianzan algo que ya intuíamos: nuestra dieta tiene mucho que ver con los cánceres del sistema digestivo</title>
-            <link>https://www.xataka.com/medicina-y-salud/dos-nuevos-estudios-afianzan-algo-que-intuiamos-nuestra-dieta-tiene-mucho-que-ver-canceres-sistema-digestivo</link>
-            <description>Dos nuevos estudios afianzan algo que ya intuíamos: nuestra dieta tiene mucho que ver con los cánceres del sistema digestivo</description>
-            <pubDate>Sat Dec  7 18:00:32 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La suscripción Prime de Amazon viene cargada de juegos gratis este mes de diciembre</title>
-            <link>https://www.adslzone.net/noticias/videojuegos/prime-amazon-juegos-gratis-diciembre-2024/</link>
-            <description>La suscripción Prime de Amazon viene cargada de juegos gratis este mes de diciembre</description>
-            <pubDate>Sat Dec  7 18:00:27 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Liquid Metal Ion Thrusters Aren’t Easy</title>
-            <link>https://hackaday.com/2024/12/07/liquid-metal-ion-thrusters-arent-easy/</link>
-            <description>Liquid Metal Ion Thrusters Aren’t Easy</description>
-            <pubDate>Sat Dec  7 18:00:15 2024</pubDate>
             </item></channel>
 </rss>
