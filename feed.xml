@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>KDE Blog: Episodio 37 de KDE Express: OptiImage, KDenlive, Krunner, HDR, Dolphin, Karp, OpenMadriva, Impresión, Donaciones</title>
+            <link>https://www.kdeblog.com/episodio-37-de-kde-express-optiimage-kdenlive-krunner-hdr-dolphin-karp-openmadriva-impresion-donaciones.html</link>
+            <description>Episodio 37 de KDE Express: OptiImage, KDenlive, Krunner, HDR, Dolphin, Karp, OpenMadriva, Impresión, Donaciones</description>
+            <pubDate>Sat Dec 14 06:57:08 2024</pubDate>
+            </item>
+            <item>
+            <title>TutorialesIT: Cómo eliminar virus de tu ordenador con Windows 10 u 11 sin descargar un antivirus</title>
+            <link>https://tutorialesit.com/como-eliminar-virus-de-tu-ordenador-con-windows-10-u-11-sin-descargar-un-antivirus/</link>
+            <description>Cómo eliminar virus de tu ordenador con Windows 10 u 11 sin descargar un antivirus</description>
+            <pubDate>Sat Dec 14 06:50:44 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Origami-Inspired, Self-locking Structures With 3D Printing</title>
+            <link>https://hackaday.com/2024/12/13/origami-inspired-self-locking-structures-with-3d-printing/</link>
+            <description>Origami-Inspired, Self-locking Structures With 3D Printing</description>
+            <pubDate>Sat Dec 14 06:00:10 2024</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: How I Turned my Raspberry Pi into a Wi-Fi extender</title>
+            <link>https://itsfoss.com/raspberry-pi-wifi-extender/</link>
+            <description>How I Turned my Raspberry Pi into a Wi-Fi extender</description>
+            <pubDate>Sat Dec 14 05:28:30 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 14 de diciembre</title>
+            <link>https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-14-diciembre</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 14 de diciembre</description>
+            <pubDate>Sat Dec 14 04:00:38 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Walkie Talkies, Jedi Style: Building a Communicator</title>
+            <link>https://hackaday.com/2024/12/13/walkie-talkies-jedi-style-building-a-communicator/</link>
+            <description>Walkie Talkies, Jedi Style: Building a Communicator</description>
+            <pubDate>Sat Dec 14 03:00:35 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Flashy Paper Christmas Tree Does It With a 555</title>
+            <link>https://hackaday.com/2024/12/13/flashy-paper-christmas-tree-does-it-with-a-555/</link>
+            <description>Flashy Paper Christmas Tree Does It With a 555</description>
+            <pubDate>Sat Dec 14 00:00:17 2024</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: 2024 Holiday Maker Gift Guide</title>
+            <link>https://makezine.com/article/maker-news/2024-holiday-maker-gift-guide/</link>
+            <description>2024 Holiday Maker Gift Guide</description>
+            <pubDate>Fri Dec 13 23:14:00 2024</pubDate>
+            </item>
+            <item>
             <title>NKSistemas: Kubernetes 1.32 ‘Penelope’: Innovaciones Clave para Despliegues en la Nube</title>
             <link>https://nksistemas.com/kubernetes-1-32-penelope-innovaciones-clave-para-despliegues-en-la-nube/</link>
             <description>Kubernetes 1.32 ‘Penelope’: Innovaciones Clave para Despliegues en la Nube</description>
@@ -22,53 +70,5 @@
             <link>https://www.xataka.com/empresas-y-economia/openai-da-golpe-tactico-para-desactivar-demanda-elon-musk-publica-mensajes-internos-multimillonario</link>
             <description>OpenAI da un golpe táctico para desactivar la demanda de Elon Musk: publica mensajes internos del multimillonario</description>
             <pubDate>Fri Dec 13 21:13:02 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Apple Newton Gets Rebuilt Battery Pack</title>
-            <link>https://hackaday.com/2024/12/13/apple-newton-gets-rebuilt-battery-pack/</link>
-            <description>Apple Newton Gets Rebuilt Battery Pack</description>
-            <pubDate>Fri Dec 13 21:00:43 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así uso Movistar Plus+ en mi Smart TV para inundar de Navidad el salón de mi hogar</title>
-            <link>https://www.adslzone.net/noticias/operadores/como-usar-movistar-plus-chimenea/</link>
-            <description>Así uso Movistar Plus+ en mi Smart TV para inundar de Navidad el salón de mi hogar</description>
-            <pubDate>Fri Dec 13 21:00:10 2024</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: CentOS Stream 10 “Coughlan” Llega con Kernel Linux 6.12 LTS, GNOME 47 y Más Novedades</title>
-            <link>https://nksistemas.com/centos-stream-10-coughlan-llega-con-kernel-linux-6-12-lts-gnome-47-y-mas-novedades/</link>
-            <description>CentOS Stream 10 “Coughlan” Llega con Kernel Linux 6.12 LTS, GNOME 47 y Más Novedades</description>
-            <pubDate>Fri Dec 13 20:28:23 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El auge de la IA ha sido una condena para Intel, pero una ventaja para Broadcom: ahora vale más de 1 billón de dólares</title>
-            <link>https://www.xataka.com/empresas-y-economia/auge-ia-ha-sido-condena-para-intel-ventaja-para-broadcom-ahora-vale-1-billon-dolares</link>
-            <description>El auge de la IA ha sido una condena para Intel, pero una ventaja para Broadcom: ahora vale más de 1 billón de dólares</description>
-            <pubDate>Fri Dec 13 20:00:36 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: PcComponentes no se lo piensa y baja el precio de los auriculares gaming de Logitech más top por Navidad</title>
-            <link>https://www.adslzone.net/ofertas/mix/pccomponentes-auriculares-logitech-g-pro-x-1224/</link>
-            <description>PcComponentes no se lo piensa y baja el precio de los auriculares gaming de Logitech más top por Navidad</description>
-            <pubDate>Fri Dec 13 20:00:30 2024</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Kaizen! Three wise men?</title>
-            <link>https://changelog.com/friends/73</link>
-            <description>Kaizen! Three wise men?</description>
-            <pubDate>Fri Dec 13 20:00:00 2024</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: 390,000+ WordPress Credentials Stolen via Malicious GitHub Repository Hosting PoC Exploits</title>
-            <link>https://thehackernews.com/2024/12/390000-wordpress-credentials-stolen-via.html</link>
-            <description>390,000+ WordPress Credentials Stolen via Malicious GitHub Repository Hosting PoC Exploits</description>
-            <pubDate>Fri Dec 13 20:00:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Las empresas de IA están perdiendo un dineral. Esperan recuperarlo con una técnica sencilla: suscripciones cada vez más caras</title>
-            <link>https://www.xataka.com/robotica-e-ia/usar-ia-forma-gratuita-espejismo-empresas-estan-perdiendo-dinero-forma-colosal-para-despues-quizas-ganarlo</link>
-            <description>Las empresas de IA están perdiendo un dineral. Esperan recuperarlo con una técnica sencilla: suscripciones cada vez más caras</description>
-            <pubDate>Fri Dec 13 19:30:36 2024</pubDate>
             </item></channel>
 </rss>
