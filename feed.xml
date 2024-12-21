@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: 3D Printing A Big Lego Christmas Tree</title>
+            <link>https://hackaday.com/2024/12/20/3d-printing-a-big-lego-christmas-tree/</link>
+            <description>3D Printing A Big Lego Christmas Tree</description>
+            <pubDate>Sat Dec 21 06:00:24 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 21 de diciembre</title>
+            <link>https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-21-diciembre</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 21 de diciembre</description>
+            <pubDate>Sat Dec 21 04:01:30 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: It’s Official: The North Pole is Moving</title>
+            <link>https://hackaday.com/2024/12/20/its-official-the-north-pole-is-moving/</link>
+            <description>It’s Official: The North Pole is Moving</description>
+            <pubDate>Sat Dec 21 03:00:25 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Rudolph’s Sleigh on a North Pole PCB</title>
+            <link>https://hackaday.com/2024/12/20/rudolphs-sleigh-on-a-north-pole-pcb/</link>
+            <description>Rudolph’s Sleigh on a North Pole PCB</description>
+            <pubDate>Sat Dec 21 00:00:46 2024</pubDate>
+            </item>
+            <item>
             <title>hackplayers: Krueger: herramienta en .NET para parar el EDR remotamente con WDAC</title>
             <link>https://www.hackplayers.com/2024/12/krueger-herramienta-en-net-para-parar-edr.html</link>
             <description>Krueger: herramienta en .NET para parar el EDR remotamente con WDAC</description>
@@ -46,29 +70,5 @@
             <link>https://changelog.com/friends/74</link>
             <description>State of the "log" 2024</description>
             <pubDate>Fri Dec 20 20:00:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: OpenAI vuelve a hacer saltar la IA por los aires cuando Google comenzaba a superarle: así es o3 y por qué es tan importante</title>
-            <link>https://www.genbeta.com/inteligencia-artificial/openai-vuelve-a-hacer-saltar-ia-aires-cuando-google-comenzaba-a-superarle-asi-o3-que-importante</link>
-            <description>OpenAI vuelve a hacer saltar la IA por los aires cuando Google comenzaba a superarle: así es o3 y por qué es tan importante</description>
-            <pubDate>Fri Dec 20 19:43:28 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Las revisiones de especialistas de las respuestas de Google Gemini las hacen personas no expertas</title>
-            <link>https://www.adslzone.net/noticias/ia/revisiones-respuestas-google-gemini-personas-no-expertas/</link>
-            <description>Las revisiones de especialistas de las respuestas de Google Gemini las hacen personas no expertas</description>
-            <pubDate>Fri Dec 20 19:30:41 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: OpenAI no da tregua a Google: anuncia o3 y o3 mini tras del lanzamiento del modo de pensamiento de Gemini</title>
-            <link>https://www.xataka.com/robotica-e-ia/openai-no-da-tregua-a-google-anuncia-o3-o3-mini-lanzamiento-modo-pensamiento-gemini</link>
-            <description>OpenAI no da tregua a Google: anuncia o3 y o3 mini tras del lanzamiento del modo de pensamiento de Gemini</description>
-            <pubDate>Fri Dec 20 19:11:00 2024</pubDate>
-            </item>
-            <item>
-            <title>Vitónica: Seguro que lo has hecho con un compañero en el gimnasio pero debes saber esto antes de seguir haciéndolo</title>
-            <link>https://www.vitonica.com/entrenamiento/seguro-que-has-hecho-esto-companero-gimnasio-debes-saber-esto-antes-seguir-haciendolo</link>
-            <description>Seguro que lo has hecho con un compañero en el gimnasio pero debes saber esto antes de seguir haciéndolo</description>
-            <pubDate>Fri Dec 20 19:01:34 2024</pubDate>
             </item></channel>
 </rss>
