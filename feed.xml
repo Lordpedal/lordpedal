@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Inside a Diamond Plant</title>
+            <link>https://hackaday.com/2024/12/21/inside-a-diamond-plant/</link>
+            <description>Inside a Diamond Plant</description>
+            <pubDate>Sun Dec 22 06:00:17 2024</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Novedades Semana 51 en el Linuxverso: PorteuX 1.8, T2 SDE 24.12 y NetBSD 10.1</title>
+            <link>https://blog.desdelinux.net/linuxverso-semana-51-2024/</link>
+            <description>Novedades Semana 51 en el Linuxverso: PorteuX 1.8, T2 SDE 24.12 y NetBSD 10.1</description>
+            <pubDate>Sun Dec 22 05:00:53 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Nanoscale Imaging and Control of Altermagnetism in MnTe</title>
+            <link>https://hackaday.com/2024/12/21/nanoscale-imaging-and-control-of-altermagnetism-in-mnte/</link>
+            <description>Nanoscale Imaging and Control of Altermagnetism in MnTe</description>
+            <pubDate>Sun Dec 22 03:00:47 2024</pubDate>
+            </item>
+            <item>
+            <title>Elbinario: Linux, el Doom de los sistemas operativos parte 3 (smartTV)</title>
+            <link>https://elbinario.net/2024/12/22/linux-el-doom-de-los-sistemas-operativos-parte-3-smarttv/</link>
+            <description>Linux, el Doom de los sistemas operativos parte 3 (smartTV)</description>
+            <pubDate>Sun Dec 22 02:33:37 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An LCD, Touch Sensor, USB-C, And A Microcontroller for a Buck</title>
+            <link>https://hackaday.com/2024/12/21/an-lcd-touch-sensor-usb-c-and-a-microcontroller-for-a-buck/</link>
+            <description>An LCD, Touch Sensor, USB-C, And A Microcontroller for a Buck</description>
+            <pubDate>Sun Dec 22 00:00:45 2024</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Me ha llegado un recibo de Movistar que no puedo pagar, ¿puedo fraccionarlo sin que me corten la línea?</title>
             <link>https://www.adslzone.net/noticias/operadores/como-fraccionar-recibo-movistar/</link>
             <description>Me ha llegado un recibo de Movistar que no puedo pagar, ¿puedo fraccionarlo sin que me corten la línea?</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/windows/cambiar-sonido-pendrive-conectarlo-pc/</link>
             <description>Cómo cambiar el sonido del pendrive al conectarlo y desconectarlo del PC</description>
             <pubDate>Sat Dec 21 19:00:23 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La moneda más buscada en España vale dos millones de euros y fue acuñada en 1609: el centén segoviano</title>
-            <link>https://www.xataka.com/magnet/la-moneda-mas-buscada-en-espana-vale-dos-millones-de-euros-y-fue-acunada-en-1609-el-centen-segoviano</link>
-            <description>La moneda más buscada en España vale dos millones de euros y fue acuñada en 1609: el centén segoviano</description>
-            <pubDate>Sat Dec 21 18:35:30 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Necesitas una VPN para tus dispositivos de domótica? Sí, y estos son mis motivos</title>
-            <link>https://www.redeszone.net/noticias/seguridad/necesitas-servicio-vpn-proyectos-iot/</link>
-            <description>¿Necesitas una VPN para tus dispositivos de domótica? Sí, y estos son mis motivos</description>
-            <pubDate>Sat Dec 21 18:03:47 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Es mi gato un psicópata: unos investigadores han desarrollado un test para salir de dudas</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/mi-gato-psicopata-unos-investigadores-han-desarrollado-test-para-salir-dudas</link>
-            <description>Es mi gato un psicópata: unos investigadores han desarrollado un test para salir de dudas</description>
-            <pubDate>Sat Dec 21 18:01:30 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La Lotería de Navidad en la TDT y online en RTVE Play con cuatro señales distintas</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/loteria-navidad-tdt-online-rtve-play-1224/</link>
-            <description>La Lotería de Navidad en la TDT y online en RTVE Play con cuatro señales distintas</description>
-            <pubDate>Sat Dec 21 18:00:57 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Custom Firmware For Even Cheaper Bluetooth Thermometers</title>
-            <link>https://hackaday.com/2024/12/21/custom-firmware-for-even-cheaper-bluetooth-thermometers/</link>
-            <description>Custom Firmware For Even Cheaper Bluetooth Thermometers</description>
-            <pubDate>Sat Dec 21 18:00:54 2024</pubDate>
             </item></channel>
 </rss>
