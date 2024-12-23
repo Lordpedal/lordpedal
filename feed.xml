@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Faster Integer Division with Floating Point</title>
+            <link>https://hackaday.com/2024/12/22/faster-integer-division-with-floating-point/</link>
+            <description>Faster Integer Division with Floating Point</description>
+            <pubDate>Mon Dec 23 06:00:50 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: No lo dejes para última hora: programa ya tus felicitaciones de Año Nuevo en WhatsApp y Telegram</title>
+            <link>https://www.adslzone.net/noticias/redes-sociales/ultima-hora-programar-whatsapp-telegram/</link>
+            <description>No lo dejes para última hora: programa ya tus felicitaciones de Año Nuevo en WhatsApp y Telegram</description>
+            <pubDate>Mon Dec 23 06:00:49 2024</pubDate>
+            </item>
+            <item>
+            <title>cambiatealinux.com: Eliminar ficheros en Linux recursivamente en directorios y subdirectorios</title>
+            <link>https://www.cambiatealinux.com/eliminar-ficheros-en-linux-recursivamente-en-directorios-y-subdirectorios</link>
+            <description>Eliminar ficheros en Linux recursivamente en directorios y subdirectorios</description>
+            <pubDate>Mon Dec 23 04:40:07 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: DIY Camera Slider Moves And Rotates For Slick Shots</title>
+            <link>https://hackaday.com/2024/12/22/diy-camera-slider-moves-and-rotates-for-slick-shots/</link>
+            <description>DIY Camera Slider Moves And Rotates For Slick Shots</description>
+            <pubDate>Mon Dec 23 03:00:19 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: December 22, 2024</title>
+            <link>https://hackaday.com/2024/12/22/hackaday-links-december-22-2024/</link>
+            <description>Hackaday Links: December 22, 2024</description>
+            <pubDate>Mon Dec 23 00:00:16 2024</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: 3D Printed Forklift Is A Cute Desk Toy</title>
             <link>https://hackaday.com/2024/12/22/3d-printed-forklift-is-a-cute-desk-toy/</link>
             <description>3D Printed Forklift Is A Cute Desk Toy</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/windows/programar-apagado-automatico-windows-11/</link>
             <description>Así puedes programar el apagado automático en Windows 11</description>
             <pubDate>Sun Dec 22 19:00:39 2024</pubDate>
-            </item>
-            <item>
-            <title>h4ckseed: How To: Proteger Servidor FTP con SSL/TLS en Rocky Linux</title>
-            <link>https://h4ckseed.wordpress.com/2024/12/22/how-to-proteger-servidor-ftp-con-ssl-tls-en-rocky-linux/</link>
-            <description>How To: Proteger Servidor FTP con SSL/TLS en Rocky Linux</description>
-            <pubDate>Sun Dec 22 18:51:03 2024</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: ¿Se pueden usar servicios basados en la nube en Linux?</title>
-            <link>https://ubunlog.com/se-pueden-usar-servicios-basados-en-la-nube-en-linux/</link>
-            <description>¿Se pueden usar servicios basados en la nube en Linux?</description>
-            <pubDate>Sun Dec 22 18:06:47 2024</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Esta es la velocidad mínima de Internet que tendría hoy en día y estos son los motivos</title>
-            <link>https://www.redeszone.net/noticias/redes/velocidad-minima-internet-casa/</link>
-            <description>Esta es la velocidad mínima de Internet que tendría hoy en día y estos son los motivos</description>
-            <pubDate>Sun Dec 22 18:02:06 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: He probado todos los Android de gama alta de 2024. Tengo clarísimo con cuál me quedo</title>
-            <link>https://www.xataka.com/analisis/he-probado-todos-android-gama-alta-2024-tengo-clarisimo-cual-me-quedo</link>
-            <description>He probado todos los Android de gama alta de 2024. Tengo clarísimo con cuál me quedo</description>
-            <pubDate>Sun Dec 22 18:01:30 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Dragon Ball Z Kai llega a Netflix antes de terminar el año</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/dragon-ball-z-kai-llega-netflix-1224/</link>
-            <description>Dragon Ball Z Kai llega a Netflix antes de terminar el año</description>
-            <pubDate>Sun Dec 22 18:00:57 2024</pubDate>
             </item></channel>
 </rss>
