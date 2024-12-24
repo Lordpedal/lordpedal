@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks</title>
+            <link>https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html</link>
+            <description>Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks</description>
+            <pubDate>Tue Dec 24 06:06:00 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Watch Any Video on Your Game Boy, Via Link Cable</title>
+            <link>https://hackaday.com/2024/12/23/watch-any-video-on-your-game-boy-via-link-cable/</link>
+            <description>Watch Any Video on Your Game Boy, Via Link Cable</description>
+            <pubDate>Tue Dec 24 06:00:48 2024</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Los mejores stickers y felicitaciones de WhatsApp para Nochebuena y Navidad 2024</title>
+            <link>https://www.adslzone.net/noticias/whatsapp/mejores-stickers-felicitaciones-whatsapp-nochebuena-navidad-2024/</link>
+            <description>Los mejores stickers y felicitaciones de WhatsApp para Nochebuena y Navidad 2024</description>
+            <pubDate>Tue Dec 24 06:00:15 2024</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Absolute Essentials You Need to Know to Survive Vi Editor</title>
+            <link>https://itsfoss.com/vi-editor-basics/</link>
+            <description>Absolute Essentials You Need to Know to Survive Vi Editor</description>
+            <pubDate>Tue Dec 24 05:58:36 2024</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Cómo Defenderse Contra los Ataques de Fuerza Bruta con Fail2ban</title>
+            <link>https://esgeeks.com/defenderse-ataques-fuerza-bruta-fail2ban/</link>
+            <description>Cómo Defenderse Contra los Ataques de Fuerza Bruta con Fail2ban</description>
+            <pubDate>Tue Dec 24 03:09:56 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: ALSEP: Apollo’s Modular Lunar Experiments Laboratory</title>
+            <link>https://hackaday.com/2024/12/23/alsep-apollos-modular-lunar-experiments-laboratory/</link>
+            <description>ALSEP: Apollo’s Modular Lunar Experiments Laboratory</description>
+            <pubDate>Tue Dec 24 03:00:19 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Camera Slider Uses Repositionable Rail To Do Rotational Moves</title>
+            <link>https://hackaday.com/2024/12/23/camera-slider-uses-repositionable-rail-to-do-rotational-moves/</link>
+            <description>Camera Slider Uses Repositionable Rail To Do Rotational Moves</description>
+            <pubDate>Tue Dec 24 00:00:11 2024</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: ¡Feliz Navidad!</title>
+            <link>https://www.hackplayers.com/2024/12/feliz-navidad.html</link>
+            <description>¡Feliz Navidad!</description>
+            <pubDate>Mon Dec 23 23:57:53 2024</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Destronó a 'Dune 2' y superó a 'Deadpool y Lobezno': ya sabemos cuál es la película más taquillera de 2024</title>
+            <link>https://www.xataka.com/cine-y-tv/destrono-a-dune-2-supero-a-deadpool-lobezno-sabemos-cual-pelicula-taquillera-2024</link>
+            <description>Destronó a 'Dune 2' y superó a 'Deadpool y Lobezno': ya sabemos cuál es la película más taquillera de 2024</description>
+            <pubDate>Mon Dec 23 23:02:48 2024</pubDate>
+            </item>
+            <item>
             <title>Make: DIY Projects and Ideas for Makers: I’m 3D Printing Chocolate</title>
             <link>https://makezine.com/article/digital-fabrication/3d-printing-workshop/im-3d-printing-chocolate/</link>
             <description>I’m 3D Printing Chocolate</description>
@@ -16,59 +70,5 @@
             <link>https://www.muylinux.com/2024/12/23/tamano-archivos-vista-iconos-dolphin-nautilus-nemo/</link>
             <description>Cómo ver el tamaño de los archivos en la vista de iconos en Dolphin, Nautilus y Nemo</description>
             <pubDate>Mon Dec 23 22:26:38 2024</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Olvídate de Python o Rust: hablar con las máquinas es el nuevo lenguaje de programación de moda gracias a la IA</title>
-            <link>https://www.genbeta.com/desarrollo/olvidate-python-rust-hablar-maquinas-nuevo-lenguaje-programacion-moda-gracias-a-ia</link>
-            <description>Olvídate de Python o Rust: hablar con las máquinas es el nuevo lenguaje de programación de moda gracias a la IA</description>
-            <pubDate>Mon Dec 23 21:15:30 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Un laboratorio de Corea ha conseguido producir hidrógeno a gran escala a partir de un bien abundante: las aguas fecales</title>
-            <link>https://www.xataka.com/energia/laboratorio-corea-ha-conseguido-producir-hidrogeno-a-gran-escala-a-partir-bien-abundante-aguas-fecales</link>
-            <description>Un laboratorio de Corea ha conseguido producir hidrógeno a gran escala a partir de un bien abundante: las aguas fecales</description>
-            <pubDate>Mon Dec 23 21:01:35 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Crawler Challenge: Building Rope-Traversing Robots</title>
-            <link>https://hackaday.com/2024/12/23/crawler-challenge-building-rope-traversing-robots/</link>
-            <description>Crawler Challenge: Building Rope-Traversing Robots</description>
-            <pubDate>Mon Dec 23 21:00:51 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Por qué no puedo ver en Movistar Plus+ las series infantiles de Apple TV+?</title>
-            <link>https://www.adslzone.net/noticias/operadores/contenido-apple-tv-movistar-plus/</link>
-            <description>¿Por qué no puedo ver en Movistar Plus+ las series infantiles de Apple TV+?</description>
-            <pubDate>Mon Dec 23 21:00:50 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Las Ray-Ban Meta son unas de las mejores gafas inteligentes. Mark Zuckerberg planea añadirles una pantalla, según FT.</title>
-            <link>https://www.xataka.com/wearables/ray-ban-meta-unas-mejores-gafas-inteligentes-mark-zuckerberg-planea-anadirles-pantalla-ft</link>
-            <description>Las Ray-Ban Meta son unas de las mejores gafas inteligentes. Mark Zuckerberg planea añadirles una pantalla, según FT.</description>
-            <pubDate>Mon Dec 23 20:31:30 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon pone fecha de caducidad a tu Fire TV Stick: ¿cuánto tiempo puede durar?</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/amazon-fecha-caducidad-fire-tv-stick/</link>
-            <description>Amazon pone fecha de caducidad a tu Fire TV Stick: ¿cuánto tiempo puede durar?</description>
-            <pubDate>Mon Dec 23 20:30:50 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Sam Altman defiende el cambio de "estatus" de OpenAI: Elon Musk "es un matón al que le gusta pelearse con sus rivales"</title>
-            <link>https://www.xataka.com/robotica-e-ia/sam-altman-defiende-cambio-estatus-openai-elon-musk-maton-a-quien-le-gusta-pelearse-sus-rivales</link>
-            <description>Sam Altman defiende el cambio de "estatus" de OpenAI: Elon Musk "es un matón al que le gusta pelearse con sus rivales"</description>
-            <pubDate>Mon Dec 23 20:01:31 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon rebaja un Mini PC irresistible que te llegará a casa en tiempo récord</title>
-            <link>https://www.adslzone.net/ofertas/amazon/ordenador-mini-pc-nipogi-ak1-plus-1224/</link>
-            <description>Amazon rebaja un Mini PC irresistible que te llegará a casa en tiempo récord</description>
-            <pubDate>Mon Dec 23 20:00:16 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Golpe de realidad para Rusia: Roscosmos ha confirmado que abandonará la Estación Espacial Internacional en 2030</title>
-            <link>https://www.xataka.com/espacio/golpe-realidad-rusia-roscosmos-ha-confirmado-que-abandonara-estacion-espacial-internacional-2030</link>
-            <description>Golpe de realidad para Rusia: Roscosmos ha confirmado que abandonará la Estación Espacial Internacional en 2030</description>
-            <pubDate>Mon Dec 23 19:31:30 2024</pubDate>
             </item></channel>
 </rss>
