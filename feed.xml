@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: The Business Card of DOOM</title>
+            <link>https://hackaday.com/2024/12/28/the-business-card-of-doom/</link>
+            <description>The Business Card of DOOM</description>
+            <pubDate>Sun Dec 29 06:00:51 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Porting Dragon’s Lair to the Game Boy Color Was a Technical Triumph</title>
+            <link>https://hackaday.com/2024/12/28/porting-dragons-lair-to-the-game-boy-color-was-a-technical-triumph/</link>
+            <description>Porting Dragon’s Lair to the Game Boy Color Was a Technical Triumph</description>
+            <pubDate>Sun Dec 29 03:00:11 2024</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Full Color 3D Printing With PolyDye and Existing Inkjet Cartridges</title>
+            <link>https://hackaday.com/2024/12/28/full-color-3d-printing-with-polydye-and-existing-inkjet-cartridges/</link>
+            <description>Full Color 3D Printing With PolyDye and Existing Inkjet Cartridges</description>
+            <pubDate>Sun Dec 29 00:00:26 2024</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Quiero ver Movistar Plus+ en otra televisión, ¿es necesario instalar un nuevo decodificador?</title>
             <link>https://www.adslzone.net/noticias/operadores/ver-movistar-plus-otra-television/</link>
             <description>Quiero ver Movistar Plus+ en otra televisión, ¿es necesario instalar un nuevo decodificador?</description>
@@ -52,23 +70,5 @@
             <link>https://www.xataka.com/medicina-y-salud/unos-cientificos-han-calculado-como-rapido-piensa-realmente-nuestro-cerebro-sorpresa-lento-esperado</link>
             <description>Unos científicos han calculado cómo de rápido piensa realmente nuestro cerebro. La sorpresa: más lento de lo esperado</description>
             <pubDate>Sat Dec 28 18:01:30 2024</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Circuit Secrets: Exploring a $5 Emergency Light</title>
-            <link>https://hackaday.com/2024/12/28/circuit-secrets-exploring-a-5-dollar-emergency-light/</link>
-            <description>Circuit Secrets: Exploring a $5 Emergency Light</description>
-            <pubDate>Sat Dec 28 18:00:39 2024</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: WhatsApp mejorará el envío de imágenes en su versión de escritorio con un nuevo sistema</title>
-            <link>https://www.adslzone.net/noticias/whatsapp/whatsapp-envio-imagenes-escritorio-sistema-1224/</link>
-            <description>WhatsApp mejorará el envío de imágenes en su versión de escritorio con un nuevo sistema</description>
-            <pubDate>Sat Dec 28 18:00:33 2024</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La gran fiebre económica de China son los cálculos biliares bovinos. Y sí, es algo tan extraño como parece</title>
-            <link>https://www.xataka.com/magnet/chips-maquinas-china-tiene-fiebre-calculos-biliares-bovinos-valen-que-oro</link>
-            <description>La gran fiebre económica de China son los cálculos biliares bovinos. Y sí, es algo tan extraño como parece</description>
-            <pubDate>Sat Dec 28 17:01:35 2024</pubDate>
             </item></channel>
 </rss>
