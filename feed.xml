@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: ArmSoM AIM7: A Promising Upcoming Rockchip Device for AI Development</title>
+            <link>https://itsfoss.com/armsom-aim7-review/</link>
+            <description>ArmSoM AIM7: A Promising Upcoming Rockchip Device for AI Development</description>
+            <pubDate>Sun Jan 12 06:53:56 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Bad Apple but it’s 6,500 Regex Searches in Vim</title>
+            <link>https://hackaday.com/2025/01/11/bad-apple-but-its-6500-regex-searches-in-vim/</link>
+            <description>Bad Apple but it’s 6,500 Regex Searches in Vim</description>
+            <pubDate>Sun Jan 12 06:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Retrotechtacular: The 1951 Telephone Selector</title>
+            <link>https://hackaday.com/2025/01/11/retrotechtacular-the-1951-telephone-selector/</link>
+            <description>Retrotechtacular: The 1951 Telephone Selector</description>
+            <pubDate>Sun Jan 12 03:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: iFixit Releases Command Line Docs for FixHub Iron</title>
+            <link>https://hackaday.com/2025/01/11/ifixit-releases-command-line-docs-for-fixhub-iron/</link>
+            <description>iFixit Releases Command Line Docs for FixHub Iron</description>
+            <pubDate>Sun Jan 12 00:00:00 2025</pubDate>
+            </item>
+            <item>
             <title>NKSistemas: Debian 12.9: La última actualización de Bookworm llega con importantes mejoras y seguridad</title>
             <link>https://nksistemas.com/debian-12-9-la-ultima-actualizacion-de-bookworm-llega-con-importantes-mejoras-y-seguridad/</link>
             <description>Debian 12.9: La última actualización de Bookworm llega con importantes mejoras y seguridad</description>
@@ -46,29 +70,5 @@
             <link>https://56k.es/fanta/instalar-y-disfrutar-con-qnx-4-25-desde-qemu/</link>
             <description>Disfrutar QNX 4.25 desde Qemu en la intimidad</description>
             <pubDate>Sat Jan 11 20:32:48 2025</pubDate>
-            </item>
-            <item>
-            <title>56K: Solaris 2.6 SPARC sobre Qemu a la luz de la luna</title>
-            <link>https://56k.es/fanta/solaris-2-6-sobre-qemu/</link>
-            <description>Solaris 2.6 SPARC sobre Qemu a la luz de la luna</description>
-            <pubDate>Sat Jan 11 20:22:06 2025</pubDate>
-            </item>
-            <item>
-            <title>56K: Compilar qemu para arquitectura SPARC tras comprar zumo de naranja en el SPAR</title>
-            <link>https://56k.es/fanta/compilar-qemu-con-soporte-para-arquitectura-sparc-y-sparc64/</link>
-            <description>Compilar qemu para arquitectura SPARC tras comprar zumo de naranja en el SPAR</description>
-            <pubDate>Sat Jan 11 20:20:34 2025</pubDate>
-            </item>
-            <item>
-            <title>56K: ESXi 6.7.0 sobre Qemu para noches de pasión</title>
-            <link>https://56k.es/fanta/esxi-6-7-0-sobre-qemu-en-linux-para-noches-de-pasion/</link>
-            <description>ESXi 6.7.0 sobre Qemu para noches de pasión</description>
-            <pubDate>Sat Jan 11 20:08:05 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Utilizando esta web puedes seguir publicando contenido en redes sociales sin tener las apps instaladas y distraerte con ellas</title>
-            <link>https://www.adslzone.net/noticias/redes-sociales/web-distrarte-contenido-redes-sociales/</link>
-            <description>Utilizando esta web puedes seguir publicando contenido en redes sociales sin tener las apps instaladas y distraerte con ellas</description>
-            <pubDate>Sat Jan 11 20:00:38 2025</pubDate>
             </item></channel>
 </rss>
