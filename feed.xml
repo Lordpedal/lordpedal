@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Capacitor Decoupling Chaos, and Why You Should Abandon 100 nF</title>
+            <link>https://hackaday.com/2025/01/25/capacitor-decoupling-chaos-and-why-you-should-abandon-100-nf/</link>
+            <description>Capacitor Decoupling Chaos, and Why You Should Abandon 100 nF</description>
+            <pubDate>Sun Jan 26 06:00:47 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Does a Radome Affect Radio?</title>
+            <link>https://hackaday.com/2025/01/25/does-a-radome-affect-radio/</link>
+            <description>Does a Radome Affect Radio?</description>
+            <pubDate>Sun Jan 26 03:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Software Lets You Paint Surface Patterns on 3D Prints</title>
+            <link>https://hackaday.com/2025/01/25/software-lets-you-paint-surface-patterns-on-3d-prints/</link>
+            <description>Software Lets You Paint Surface Patterns on 3D Prints</description>
+            <pubDate>Sun Jan 26 00:00:57 2025</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Soy cliente de O2, ¿puedo aprovechar la promoción anual de Movistar Plus+ y tener dos meses gratis?</title>
             <link>https://www.adslzone.net/noticias/operadores/suscripcion-anual-tarifa-movistar-plus-cliente-o2/</link>
             <description>Soy cliente de O2, ¿puedo aprovechar la promoción anual de Movistar Plus+ y tener dos meses gratis?</description>
@@ -52,23 +70,5 @@
             <link>https://www.xataka.com/magnet/kalma-primer-esfuerzo-real-corea-norte-convertirse-lugar-vacaciones-ahora-solo-para-rusos</link>
             <description>Kalma es el primer esfuerzo real de Corea del Norte por convertirse en un lugar de vacaciones. Por ahora solo para rusos</description>
             <pubDate>Sat Jan 25 18:31:12 2025</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Adiós contraseñas: las claves de acceso toman el mando en 2025</title>
-            <link>https://www.redeszone.net/noticias/seguridad/adios-contrasenas-claves-acceso/</link>
-            <description>Adiós contraseñas: las claves de acceso toman el mando en 2025</description>
-            <pubDate>Sat Jan 25 18:10:17 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Preventing AI Plagiarism With .ASS Subtitling</title>
-            <link>https://hackaday.com/2025/01/25/preventing-ai-plagiarism-with-ass/</link>
-            <description>Preventing AI Plagiarism With .ASS Subtitling</description>
-            <pubDate>Sat Jan 25 18:02:13 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El polo norte magnético lleva años desplazándose aceleradamente. Así es como los instrumentos de navegación le siguen el paso</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/polo-norte-magnetico-lleva-anos-desplazandose-aceleradamente-asi-como-instrumentos-navegacion-le-siguen-paso</link>
-            <description>El polo norte magnético lleva años desplazándose aceleradamente. Así es como los instrumentos de navegación le siguen el paso</description>
-            <pubDate>Sat Jan 25 18:01:13 2025</pubDate>
             </item></channel>
 </rss>
