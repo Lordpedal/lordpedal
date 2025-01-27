@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>El Blog de Lázaro: PG Back Web copias de seguridad postgreSQL con interfaz web</title>
+            <link>https://elblogdelazaro.org/posts/2025-01-27-pg-back-web-copias-de-seguridad-postgresql-con-interfaz-web/</link>
+            <description>PG Back Web copias de seguridad postgreSQL con interfaz web</description>
+            <pubDate>Mon Jan 27 06:30:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Making A Mini AM Transmitter Better</title>
+            <link>https://hackaday.com/2025/01/26/making-a-mini-am-transmitter-better/</link>
+            <description>Making A Mini AM Transmitter Better</description>
+            <pubDate>Mon Jan 27 03:00:36 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: January 26, 2025</title>
+            <link>https://hackaday.com/2025/01/26/hackaday-links-january-26-2025/</link>
+            <description>Hackaday Links: January 26, 2025</description>
+            <pubDate>Mon Jan 27 00:00:36 2025</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Si tienes una tarjeta de Orange prepago y tienes un viaje planificado, es mejor que sepas esta condición</title>
             <link>https://www.adslzone.net/noticias/operadores/condiciones-tarjeta-prepago-orange-extranjero/</link>
             <description>Si tienes una tarjeta de Orange prepago y tienes un viaje planificado, es mejor que sepas esta condición</description>
@@ -52,23 +70,5 @@
             <link>https://www.xataka.com/privacidad/instalar-camara-privada-mexico-esto-que-dice-ley-polemica-multas-millonarias</link>
             <description>Instalar una cámara de seguridad en México: lo que dice la ley sobre la polémica de las multas millonarias</description>
             <pubDate>Sun Jan 26 19:01:12 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esta es la razón por la que la penalización de tu contrato de Vodafone es hoy mayor que cuando la firmaste</title>
-            <link>https://www.adslzone.net/noticias/operadores/como-funciona-permanencia-creciente-vodafone/</link>
-            <description>Esta es la razón por la que la penalización de tu contrato de Vodafone es hoy mayor que cuando la firmaste</description>
-            <pubDate>Sun Jan 26 19:00:30 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Waist Level Viewfinder For Not A Lot</title>
-            <link>https://hackaday.com/2025/01/26/a-waist-level-viewfinder-for-not-a-lot/</link>
-            <description>A Waist Level Viewfinder For Not A Lot</description>
-            <pubDate>Sun Jan 26 19:00:13 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China avanza a una velocidad vertiginosa en fusión nuclear. Ya tiene listo algo que hasta ahora solo tenía Países Bajos</title>
-            <link>https://www.xataka.com/energia/china-avanza-a-velocidad-vertiginosa-fusion-nuclear-tiene-listo-algo-que-ahora-solo-tenia-paises-bajos</link>
-            <description>China avanza a una velocidad vertiginosa en fusión nuclear. Ya tiene listo algo que hasta ahora solo tenía Países Bajos</description>
-            <pubDate>Sun Jan 26 18:31:12 2025</pubDate>
             </item></channel>
 </rss>
