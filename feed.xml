@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: BeyondTrust Zero-Day Breach Exposes 17 SaaS Customers via Compromised API Key</title>
+            <link>https://thehackernews.com/2025/02/beyondtrust-zero-day-breach-exposes-17.html</link>
+            <description>BeyondTrust Zero-Day Breach Exposes 17 SaaS Customers via Compromised API Key</description>
+            <pubDate>Sat Feb  1 06:40:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A New Case and Keyboard For The Timex Sinclair 1000</title>
+            <link>https://hackaday.com/2025/01/31/a-new-case-and-keyboard-for-the-timex-sinclair-1000/</link>
+            <description>A New Case and Keyboard For The Timex Sinclair 1000</description>
+            <pubDate>Sat Feb  1 06:00:25 2025</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Meta Confirms Zero-Click WhatsApp Spyware Attack Targeting 90 Journalists, Activists</title>
+            <link>https://thehackernews.com/2025/02/meta-confirms-zero-click-whatsapp.html</link>
+            <description>Meta Confirms Zero-Click WhatsApp Spyware Attack Targeting 90 Journalists, Activists</description>
+            <pubDate>Sat Feb  1 05:29:00 2025</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Using Emacs as Terminal Multiplexer on Windows</title>
+            <link>https://itsfoss.com/emacs-as-terminal-multiplexer-windows/</link>
+            <description>Using Emacs as Terminal Multiplexer on Windows</description>
+            <pubDate>Sat Feb  1 03:44:33 2025</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Malvertising Scam Uses Fake Google Ads to Hijack Microsoft Advertising Accounts</title>
+            <link>https://thehackernews.com/2025/02/malvertising-scam-uses-fake-google-ads.html</link>
+            <description>Malvertising Scam Uses Fake Google Ads to Hijack Microsoft Advertising Accounts</description>
+            <pubDate>Sat Feb  1 03:22:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Electroplating DIY PCB Vias At Home Without Chemical Baths</title>
+            <link>https://hackaday.com/2025/01/31/electroplating-diy-pcb-vias-at-home-without-chemical-baths/</link>
+            <description>Electroplating DIY PCB Vias At Home Without Chemical Baths</description>
+            <pubDate>Sat Feb  1 03:00:52 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Automating The Process Of Drawing With Chalk</title>
+            <link>https://hackaday.com/2025/01/31/automating-the-process-of-drawing-with-chalk/</link>
+            <description>Automating The Process Of Drawing With Chalk</description>
+            <pubDate>Sat Feb  1 00:00:48 2025</pubDate>
+            </item>
+            <item>
             <title>Genbeta: Las "red flags" que más alertan a quien fue directora de Recursos Humanos de Microsoft durante 15 años: "Veía miles de CV cada año"</title>
             <link>https://www.genbeta.com/a-fondo/red-flags-que-alertan-a-quien-fue-directora-recursos-humanos-microsoft-durante-15-anos-veia-miles-cv-cada-ano</link>
             <description>Las "red flags" que más alertan a quien fue directora de Recursos Humanos de Microsoft durante 15 años: "Veía miles de CV cada año"</description>
@@ -28,47 +70,5 @@
             <link>https://www.genbeta.com/inteligencia-artificial/openai-lanza-o3-mini-su-nuevo-modelo-esta-disponible-gratis-para-todos-usuarios-supera-a-deepseek</link>
             <description>OpenAI lanza 'o3-mini': su nuevo modelo está disponible gratis para todos los usuarios y supera a DeepSeek</description>
             <pubDate>Fri Jan 31 20:55:00 2025</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: OpenAI lanza su avanzado modelo de IA o3-mini de manera gratuita</title>
-            <link>https://www.linuxadictos.com/openai-lanza-su-avanzado-modelo-de-ia-o3-mini-de-manera-gratuita.html</link>
-            <description>OpenAI lanza su avanzado modelo de IA o3-mini de manera gratuita</description>
-            <pubDate>Fri Jan 31 20:35:40 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Apple se forra vendiendo suscripciones: más de mil millones en un año récord</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/apple-suscripciones-millones-record/</link>
-            <description>Apple se forra vendiendo suscripciones: más de mil millones en un año récord</description>
-            <pubDate>Fri Jan 31 20:30:21 2025</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Over the top auth strategies</title>
-            <link>https://changelog.com/friends/78</link>
-            <description>Over the top auth strategies</description>
-            <pubDate>Fri Jan 31 20:30:00 2025</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Breve guía de introducción a los juegos en Linux</title>
-            <link>https://www.muylinux.com/2025/01/31/introduccion-juegos-en-linux/</link>
-            <description>Breve guía de introducción a los juegos en Linux</description>
-            <pubDate>Fri Jan 31 20:15:13 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Pluto TV estrenará en febrero hasta cinco canales para añadir más series, programas y contenidos especiales</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/nuevos-canales-pluto-tv-0225/</link>
-            <description>Pluto TV estrenará en febrero hasta cinco canales para añadir más series, programas y contenidos especiales</description>
-            <pubDate>Fri Jan 31 20:15:04 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: OpenAI da un golpe en la mesa y lanza o3-mini: el nuevo modelo razonador aterriza en las cuentas gratuitas de ChatGPT</title>
-            <link>https://www.xataka.com/robotica-e-ia/openai-da-golpe-mesa-lanza-o3-mini-nuevo-modelo-razonador-aterriza-cuentas-gratuitas-chatgpt</link>
-            <description>OpenAI da un golpe en la mesa y lanza o3-mini: el nuevo modelo razonador aterriza en las cuentas gratuitas de ChatGPT</description>
-            <pubDate>Fri Jan 31 20:13:00 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Miravia tiene un descuento espectacular en una Smart TV 4K Ultra HD de auténtica locura</title>
-            <link>https://www.adslzone.net/ofertas/mix/miravia-smart-tv-samsung-tq65q64d-0125/</link>
-            <description>Miravia tiene un descuento espectacular en una Smart TV 4K Ultra HD de auténtica locura</description>
-            <pubDate>Fri Jan 31 20:00:09 2025</pubDate>
             </item></channel>
 </rss>
