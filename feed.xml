@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Inside a Vintage Oven Controlled Crystal Oscillator</title>
+            <link>https://hackaday.com/2025/02/01/inside-a-vintage-oven-controlled-crystal-oscillator/</link>
+            <description>Inside a Vintage Oven Controlled Crystal Oscillator</description>
+            <pubDate>Sun Feb  2 06:00:15 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Using Microwave Heating to Locally Anneal CNT-Coated FDM Prints</title>
+            <link>https://hackaday.com/2025/02/01/using-microwave-heating-to-locally-anneal-cnt-coated-fdm-prints/</link>
+            <description>Using Microwave Heating to Locally Anneal CNT-Coated FDM Prints</description>
+            <pubDate>Sun Feb  2 03:00:24 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Could Non-Planar Infill Improve The Strength Of Your 3D Prints?</title>
+            <link>https://hackaday.com/2025/02/01/could-non-planar-infill-improve-the-strength-of-your-3d-prints/</link>
+            <description>Could Non-Planar Infill Improve The Strength Of Your 3D Prints?</description>
+            <pubDate>Sun Feb  2 00:00:01 2025</pubDate>
+            </item>
+            <item>
             <title>56K: QMMP – WinAmp en GNU+Linux con miles de skins</title>
             <link>https://56k.es/fanta/qmmp-winamp-en-gnulinux-con-miles-de-skins/</link>
             <description>QMMP – WinAmp en GNU+Linux con miles de skins</description>
@@ -52,23 +70,5 @@
             <link>https://56k.es/fanta/rtl2838-geoposicionar-aviones-comerciales-gnulinux/</link>
             <description>Geoposicionar Aviones en Linux</description>
             <pubDate>Sat Feb  1 20:39:42 2025</pubDate>
-            </item>
-            <item>
-            <title>56K: 0118 999 881 999 119 725 3</title>
-            <link>https://56k.es/fanta/0118-999-881-999-119-725-3/</link>
-            <description>0118 999 881 999 119 725 3</description>
-            <pubDate>Sat Feb  1 20:30:57 2025</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: Try Mozilla’s New AI Detector Add-On for Firefox</title>
-            <link>https://www.omgubuntu.co.uk/2025/02/deepfake-is-an-ai-detector-firefox-addon</link>
-            <description>Try Mozilla’s New AI Detector Add-On for Firefox</description>
-            <pubDate>Sat Feb  1 19:52:56 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En 1925 el mayor explorador de cuevas se adentró en una para convertirla en destino turístico. Nunca más salió de allí</title>
-            <link>https://www.xataka.com/magnet/1925-mayor-explorador-cuevas-se-adentro-para-convertirla-destino-turistico-nunca-salio-alli</link>
-            <description>En 1925 el mayor explorador de cuevas se adentró en una para convertirla en destino turístico. Nunca más salió de allí</description>
-            <pubDate>Sat Feb  1 19:01:58 2025</pubDate>
             </item></channel>
 </rss>
