@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: DaVinci’s New Threads</title>
+            <link>https://hackaday.com/2025/02/16/davincis-new-threads/</link>
+            <description>DaVinci’s New Threads</description>
+            <pubDate>Mon Feb 17 06:00:35 2025</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Mi compañero de piso se ha comprado un dumbphone: qué funciones tiene y cómo le ayuda a no perder el tiempo</title>
+            <link>https://www.adslzone.net/noticias/tecnologia/dumbphone-funciones-tiempo-ayuda/</link>
+            <description>Mi compañero de piso se ha comprado un dumbphone: qué funciones tiene y cómo le ayuda a no perder el tiempo</description>
+            <pubDate>Mon Feb 17 06:00:24 2025</pubDate>
+            </item>
+            <item>
+            <title>atareao con Linux: Descubre la herramienta que cambiará como usas Python</title>
+            <link>https://atareao.es/podcast/descubre-la-herramienta-que-cambiara-como-usas-python/</link>
+            <description>Descubre la herramienta que cambiará como usas Python</description>
+            <pubDate>Mon Feb 17 05:28:09 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Using Antimony To Make Qubits More Stable</title>
+            <link>https://hackaday.com/2025/02/16/using-antimony-to-make-qubits-more-stable/</link>
+            <description>Using Antimony To Make Qubits More Stable</description>
+            <pubDate>Mon Feb 17 03:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: February 16, 2025</title>
+            <link>https://hackaday.com/2025/02/16/hackaday-links-february-16-2025/</link>
+            <description>Hackaday Links: February 16, 2025</description>
+            <pubDate>Mon Feb 17 00:00:36 2025</pubDate>
+            </item>
+            <item>
             <title>NKSistemas: GNOME 47.4 Lanzado: Mejoras de Rendimiento en Nautilus y Correcciones de Errores</title>
             <link>https://nksistemas.com/gnome-47-4-lanzado-mejoras-de-rendimiento-en-nautilus-y-correcciones-de-errores/</link>
             <description>GNOME 47.4 Lanzado: Mejoras de Rendimiento en Nautilus y Correcciones de Errores</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/transporte/asi-bala-plata-capsula-aerea-ultrasegura-que-eeuu-suele-utilizar-como-alternativa-al-avion-juicio-final</link>
             <description>Así es la Bala de Plata: la cápsula aérea ultrasegura que EEUU suele utilizar como alternativa al “avión del juicio final”</description>
             <pubDate>Sun Feb 16 20:00:27 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Qué es el error wv 6007 en Movistar y cómo se soluciona</title>
-            <link>https://www.adslzone.net/noticias/operadores/error-wv-6007-movistar-solucion/</link>
-            <description>Qué es el error wv 6007 en Movistar y cómo se soluciona</description>
-            <pubDate>Sun Feb 16 20:00:15 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esta IA gratuita es perfecta para crear una app desde cero sin saber de programación</title>
-            <link>https://www.adslzone.net/noticias/ia/inteligencia-artificial-gratuita-crear-app-programacion/</link>
-            <description>Esta IA gratuita es perfecta para crear una app desde cero sin saber de programación</description>
-            <pubDate>Sun Feb 16 19:00:36 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los submarinos chinos son auténticas jaulas de grillos: una nueva generación promete cambiar las reglas del juego</title>
-            <link>https://www.xataka.com/transporte/submarinos-chinos-jaula-grillos-nueva-generacion-promete-cambiar-reglas-juego</link>
-            <description>Los submarinos chinos son auténticas jaulas de grillos: una nueva generación promete cambiar las reglas del juego</description>
-            <pubDate>Sun Feb 16 19:00:28 2025</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Esto es lo que ocurre cuando alguien corta los cables de Internet submarino, y ya ha pasado varias veces</title>
-            <link>https://www.redeszone.net/noticias/redes/problema-corte-cables-internet-submarino/</link>
-            <description>Esto es lo que ocurre cuando alguien corta los cables de Internet submarino, y ya ha pasado varias veces</description>
-            <pubDate>Sun Feb 16 18:05:02 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Netflix le ha quitado por sorpresa a SkyShowtime la película que estaba esperando a ver</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/netflix-estrena-pelicula-esperando-ver-0225/</link>
-            <description>Netflix le ha quitado por sorpresa a SkyShowtime la película que estaba esperando a ver</description>
-            <pubDate>Sun Feb 16 18:00:36 2025</pubDate>
             </item></channel>
 </rss>
