@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Retrotechtacular: Better Living Through Nuclear Chemistry</title>
+            <link>https://hackaday.com/2025/03/08/retrotechtacular-better-living-through-nuclear-chemistry/</link>
+            <description>Retrotechtacular: Better Living Through Nuclear Chemistry</description>
+            <pubDate>Sun Mar  9 06:00:07 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Fictional Computers: EMERAC was the Chatbot of 1957</title>
+            <link>https://hackaday.com/2025/03/08/fictional-computers-emerac-was-the-chatbot-of-1957/</link>
+            <description>Fictional Computers: EMERAC was the Chatbot of 1957</description>
+            <pubDate>Sun Mar  9 03:00:25 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Writing an OLED Display Driver in MicroZig</title>
+            <link>https://hackaday.com/2025/03/08/writing-an-oled-display-driver-in-microzig/</link>
+            <description>Writing an OLED Display Driver in MicroZig</description>
+            <pubDate>Sun Mar  9 00:00:31 2025</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Así puedes actualizar el amplificador WiFi de Movistar y O2 en pocos pasos</title>
             <link>https://www.adslzone.net/noticias/operadores/actualizar-amplificador-wifi-movistar-o2-pasos/</link>
             <description>Así puedes actualizar el amplificador WiFi de Movistar y O2 en pocos pasos</description>
@@ -52,23 +70,5 @@
             <link>https://www.kdeblog.com/una-semana-muy-arreglada-esta-semana-en-plasma.html</link>
             <description>Una semana muy arreglada – Esta semana en Plasma</description>
             <pubDate>Sat Mar  8 18:41:06 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Un venezolano se inventó una ciudad sin ley en mitad de una isla. Ahora los millonarios que le siguieron no saben cómo escapar</title>
-            <link>https://www.xataka.com/empresas-y-economia/venezolano-se-invento-ciudad-privada-ley-mitad-isla-millonarios-que-le-siguieron-no-saben-como-escapar</link>
-            <description>Un venezolano se inventó una ciudad sin ley en mitad de una isla. Ahora los millonarios que le siguieron no saben cómo escapar</description>
-            <pubDate>Sat Mar  8 18:30:13 2025</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: He conectado un pendrive antiguo y ha saltado el antivirus de Windows, ¿debo preocuparme?</title>
-            <link>https://www.redeszone.net/noticias/seguridad/conectado-pendrive-antiguo-antivirus-windows/</link>
-            <description>He conectado un pendrive antiguo y ha saltado el antivirus de Windows, ¿debo preocuparme?</description>
-            <pubDate>Sat Mar  8 18:02:59 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Simyo lanza tarifas de fibra extremadamente baratas que no están disponibles en su web</title>
-            <link>https://www.adslzone.net/noticias/operadores/simyo-tarifas-fibra-baratas-secretas-0325/</link>
-            <description>Simyo lanza tarifas de fibra extremadamente baratas que no están disponibles en su web</description>
-            <pubDate>Sat Mar  8 18:00:44 2025</pubDate>
             </item></channel>
 </rss>
