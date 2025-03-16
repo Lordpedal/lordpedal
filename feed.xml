@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Repairing a Kodak Picture Maker Kiosk</title>
+            <link>https://hackaday.com/2025/03/15/repairing-a-kodak-picture-maker-kiosk/</link>
+            <description>Repairing a Kodak Picture Maker Kiosk</description>
+            <pubDate>Sun Mar 16 05:00:07 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Building a Fully Automatic Birkeland-Eyde Reactor</title>
+            <link>https://hackaday.com/2025/03/15/building-a-fully-automatic-birkeland-eyde-reactor/</link>
+            <description>Building a Fully Automatic Birkeland-Eyde Reactor</description>
+            <pubDate>Sun Mar 16 02:00:11 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Add WebUSB Support To Firefox With a Special USB Device</title>
+            <link>https://hackaday.com/2025/03/15/add-webusb-support-to-firefox-with-a-special-usb-device/</link>
+            <description>Add WebUSB Support To Firefox With a Special USB Device</description>
+            <pubDate>Sat Mar 15 23:00:55 2025</pubDate>
+            </item>
+            <item>
             <title>NKSistemas: Ya tenemos Debian 12.10 “Bookworm” con 66 Correcciones de Errores y 43 Actualizaciones de Seguridad</title>
             <link>https://nksistemas.com/ya-tenemos-debian-12-10-bookworm-con-66-correcciones-de-errores-y-43-actualizaciones-de-seguridad/</link>
             <description>Ya tenemos Debian 12.10 “Bookworm” con 66 Correcciones de Errores y 43 Actualizaciones de Seguridad</description>
@@ -52,23 +70,5 @@
             <link>https://www.redeszone.net/noticias/seguridad/pasos-seguridad-instalar-dispositivo-inteligente/</link>
             <description>Primeros pasos, por seguridad, que debes dar en cuanto instalas un dispositivo inteligente</description>
             <pubDate>Sat Mar 15 18:05:57 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Unos científicos se han propuesto resolver la gran pregunta: ¿es más "sano" el vino blanco o el tinto?</title>
-            <link>https://www.xataka.com/medicina-y-salud/unos-cientificos-se-han-propuesto-resolver-gran-pregunta-sano-vino-blanco-tinto</link>
-            <description>Unos científicos se han propuesto resolver la gran pregunta: ¿es más "sano" el vino blanco o el tinto?</description>
-            <pubDate>Sat Mar 15 18:00:42 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Windows 11 vuelve a sufrir el pantallazo azul de la muerte y otros problemas</title>
-            <link>https://www.adslzone.net/noticias/windows/windows-11-vuelve-sufrir-pantallazo-azul-0325/</link>
-            <description>Windows 11 vuelve a sufrir el pantallazo azul de la muerte y otros problemas</description>
-            <pubDate>Sat Mar 15 18:00:16 2025</pubDate>
-            </item>
-            <item>
-            <title>Make: DIY Projects and Ideas for Makers: There U Glow Proves You Can Do Tech</title>
-            <link>https://makezine.com/article/maker-news/there-u-glow-proves-you-can-do-tech/</link>
-            <description>There U Glow Proves You Can Do Tech</description>
-            <pubDate>Sat Mar 15 18:00:00 2025</pubDate>
             </item></channel>
 </rss>
