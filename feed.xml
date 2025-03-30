@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: RESURGE Malware Exploits Ivanti Flaw with Rootkit and Web Shell Features</title>
+            <link>https://thehackernews.com/2025/03/resurge-malware-exploits-ivanti-flaw.html</link>
+            <description>RESURGE Malware Exploits Ivanti Flaw with Rootkit and Web Shell Features</description>
+            <pubDate>Sun Mar 30 05:07:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Yaydio, a Music Player For Kids</title>
+            <link>https://hackaday.com/2025/03/29/yaydio-a-music-player-for-kids/</link>
+            <description>Yaydio, a Music Player For Kids</description>
+            <pubDate>Sun Mar 30 05:00:46 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: DIY Split Keyboard Made with a Saw</title>
+            <link>https://hackaday.com/2025/03/29/diy-split-keyboard-made-with-a-saw/</link>
+            <description>DIY Split Keyboard Made with a Saw</description>
+            <pubDate>Sun Mar 30 02:00:10 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An ESP32 Pomdoro Timer</title>
+            <link>https://hackaday.com/2025/03/29/an-esp32-pomdoro-timer/</link>
+            <description>An ESP32 Pomdoro Timer</description>
+            <pubDate>Sat Mar 29 23:00:20 2025</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Tengo Netflix en Lowi y quiero incluir Disney+ a mi tarifa: ¿se pueden contratar ambos servicios?</title>
             <link>https://www.adslzone.net/noticias/operadores/netflix-lowi-disney-plus-contratar-ambos-servicios/</link>
             <description>Tengo Netflix en Lowi y quiero incluir Disney+ a mi tarifa: ¿se pueden contratar ambos servicios?</description>
@@ -46,29 +70,5 @@
             <link>https://ubunlog.com/comillas-angulares-y-otros-atajos-de-teclado-en-linux-para-el-idioma-espanol/</link>
             <description>Comillas angulares y otros atajos de teclado en Linux para el idioma español</description>
             <pubDate>Sat Mar 29 18:03:35 2025</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿A quién le interesa que haya bots enviando correos o molestando en redes sociales? Esto debes saber</title>
-            <link>https://www.redeszone.net/noticias/seguridad/quien-se-beneficia-bots-internet/</link>
-            <description>¿A quién le interesa que haya bots enviando correos o molestando en redes sociales? Esto debes saber</description>
-            <pubDate>Sat Mar 29 18:01:12 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hemos encontrado un "remedio" aún peor que los enemas de café: "mumia", o momia triturada</title>
-            <link>https://www.xataka.com/medicina-y-salud/hace-anos-comer-polvo-momia-era-visto-como-remedio-para-salud-todo-simple-error</link>
-            <description>Hemos encontrado un "remedio" aún peor que los enemas de café: "mumia", o momia triturada</description>
-            <pubDate>Sat Mar 29 18:00:36 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Microsoft impone una nueva condición obligatoria para instalar Windows 11 y no está gustando nada</title>
-            <link>https://www.adslzone.net/noticias/windows/microsoft-condicion-obligatoria-instalar-windows-11-0325/</link>
-            <description>Microsoft impone una nueva condición obligatoria para instalar Windows 11 y no está gustando nada</description>
-            <pubDate>Sat Mar 29 18:00:35 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En Singapur, el lujo no es tener un Ferrari o un Lamborghini. El verdadero lujo es simplemente conducir</title>
-            <link>https://www.xataka.com/movilidad/singapur-lujo-no-tener-ferrari-lamborghini-verdadero-lujo-simplemente-conducir</link>
-            <description>En Singapur, el lujo no es tener un Ferrari o un Lamborghini. El verdadero lujo es simplemente conducir</description>
-            <pubDate>Sat Mar 29 17:30:36 2025</pubDate>
             </item></channel>
 </rss>
