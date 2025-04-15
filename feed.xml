@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: 11 Vibe Coding Tools to 10x Your Development on Linux Desktop</title>
+            <link>https://itsfoss.com/vibe-coding-tools-linux/</link>
+            <description>11 Vibe Coding Tools to 10x Your Development on Linux Desktop</description>
+            <pubDate>Tue Apr 15 05:41:55 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Building A DIY Tornado Tower</title>
+            <link>https://hackaday.com/2025/04/14/building-a-diy-tornado-tower/</link>
+            <description>Building A DIY Tornado Tower</description>
+            <pubDate>Tue Apr 15 05:00:59 2025</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: En qué casos sale más rentable hacer la declaración conjunta que individual</title>
+            <link>https://www.adslzone.net/noticias/fintech/ventajas-renta-conjunta-individual-0425/</link>
+            <description>En qué casos sale más rentable hacer la declaración conjunta que individual</description>
+            <pubDate>Tue Apr 15 05:00:42 2025</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Gladinet’s Triofox and CentreStack Under Active Exploitation via Critical RCE Vulnerability</title>
+            <link>https://thehackernews.com/2025/04/gladinets-triofox-and-centrestack-under.html</link>
+            <description>Gladinet’s Triofox and CentreStack Under Active Exploitation via Critical RCE Vulnerability</description>
+            <pubDate>Tue Apr 15 04:39:00 2025</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Meta Resumes E.U. AI Training Using Public User Data After Regulator Approval</title>
+            <link>https://thehackernews.com/2025/04/meta-resumes-eu-ai-training-using.html</link>
+            <description>Meta Resumes E.U. AI Training Using Public User Data After Regulator Approval</description>
+            <pubDate>Tue Apr 15 04:10:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Plasmonic Modulators Directly Convert Terahertz Waves to Optical Signals</title>
+            <link>https://hackaday.com/2025/04/14/plasmonic-modulators-directly-convert-terahertz-waves-to-optical-signals/</link>
+            <description>Plasmonic Modulators Directly Convert Terahertz Waves to Optical Signals</description>
+            <pubDate>Tue Apr 15 02:00:45 2025</pubDate>
+            </item>
+            <item>
+            <title>Xataka: NVIDIA mueve ficha en plena guerra arancelaria: promete fabricar hasta medio billón de dólares en productos de IA en EEUU</title>
+            <link>https://www.xataka.com/empresas-y-economia/nvidia-mueve-ficha-plena-guerra-arancelaria-promete-fabricar-medio-billon-dolares-productos-ia-eeuu</link>
+            <description>NVIDIA mueve ficha en plena guerra arancelaria: promete fabricar hasta medio billón de dólares en productos de IA en EEUU</description>
+            <pubDate>Mon Apr 14 23:44:44 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Elastic Bands Enable Touchable Volumetric Display</title>
+            <link>https://hackaday.com/2025/04/14/elastic-bands-enable-touchable-volumetric-display/</link>
+            <description>Elastic Bands Enable Touchable Volumetric Display</description>
+            <pubDate>Mon Apr 14 23:00:42 2025</pubDate>
+            </item>
+            <item>
+            <title>NKSistemas: MX Linux 23.6 llega con soporte para Debian 12.10 y kernel Linux 6.14</title>
+            <link>https://nksistemas.com/mx-linux-23-6-llega-con-soporte-para-debian-12-10-y-kernel-linux-6-14/</link>
+            <description>MX Linux 23.6 llega con soporte para Debian 12.10 y kernel Linux 6.14</description>
+            <pubDate>Mon Apr 14 22:55:36 2025</pubDate>
+            </item>
+            <item>
             <title>Xataka: El iPhone 16e parecía un tropiezo. Al final ha sido decisivo para que Apple logre un hito en ventas inédito en su historia</title>
             <link>https://www.xataka.com/empresas-y-economia/iphone-16e-parecia-tropiezo-al-final-ha-sido-decisivo-apple-logre-hito-ventas-inedito-su-historia</link>
             <description>El iPhone 16e parecía un tropiezo. Al final ha sido decisivo para que Apple logre un hito en ventas inédito en su historia</description>
@@ -16,59 +70,5 @@
             <link>https://changelog.com/news/140</link>
             <description>Google's new protocol has AI agents talkin'</description>
             <pubDate>Mon Apr 14 20:30:00 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: ESP32-Powered Clock Brings Aviation Style To Your Desk</title>
-            <link>https://hackaday.com/2025/04/14/esp32-powered-clock-brings-aviation-style-to-your-desk/</link>
-            <description>ESP32-Powered Clock Brings Aviation Style To Your Desk</description>
-            <pubDate>Mon Apr 14 20:00:47 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Microsoft avisa: no borres esta carpeta de Windows o te arrepentirás</title>
-            <link>https://www.adslzone.net/noticias/windows/microsoft-avisa-borrar-carpeta-windows-0425/</link>
-            <description>Microsoft avisa: no borres esta carpeta de Windows o te arrepentirás</description>
-            <pubDate>Mon Apr 14 20:00:47 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Kodi se actualizará pronto para solucionar un problema que tiene a los usuarios muy molestos</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/kodi-actualizara-pronto-solucionar-problema-0425/</link>
-            <description>Kodi se actualizará pronto para solucionar un problema que tiene a los usuarios muy molestos</description>
-            <pubDate>Mon Apr 14 19:30:24 2025</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: OpenAI tiene nueva familia de modelos de IA: GPT-4.1. Prometen romper moldes, con un gran ausente: ChatGPT</title>
-            <link>https://www.genbeta.com/inteligencia-artificial/openai-tiene-nueva-familia-modelos-ia-gpt-4-1-prometen-romper-moldes-gran-ausente-chatgpt</link>
-            <description>OpenAI tiene nueva familia de modelos de IA: GPT-4.1. Prometen romper moldes, con un gran ausente: ChatGPT</description>
-            <pubDate>Mon Apr 14 19:08:27 2025</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: OpenAI lanza GPT-4.1: Tres nuevos modelos que superan a GPT-4o y desafían a Grok</title>
-            <link>https://nksistemas.com/openai-lanza-gpt-4-1-tres-nuevos-modelos-que-superan-a-gpt-4o-y-desafian-a-grok/</link>
-            <description>OpenAI lanza GPT-4.1: Tres nuevos modelos que superan a GPT-4o y desafían a Grok</description>
-            <pubDate>Mon Apr 14 19:05:35 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon rompe el precio del Xiaomi Redmi más popular y lo deja por debajo de los 200€ por tiempo limitado</title>
-            <link>https://www.adslzone.net/ofertas/amazon/smartphone-xiaomi-redmi-note-14-0425/</link>
-            <description>Amazon rompe el precio del Xiaomi Redmi más popular y lo deja por debajo de los 200€ por tiempo limitado</description>
-            <pubDate>Mon Apr 14 19:00:41 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Cada día reingresan tres grandes piezas de basura espacial: "algún día se nos acabará la suerte y caerán sobre alguien"</title>
-            <link>https://www.xataka.com/espacio/cada-dia-reingresan-tres-grandes-piezas-basura-espacial-algun-dia-se-nos-acabara-suerte-caeran-alguien</link>
-            <description>Cada día reingresan tres grandes piezas de basura espacial: "algún día se nos acabará la suerte y caerán sobre alguien"</description>
-            <pubDate>Mon Apr 14 19:00:13 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: EEUU se imaginaba que China vetaría su exportación de tierras raras. Tiene un plan B: el fondo del Pacífico</title>
-            <link>https://www.xataka.com/energia/eeuu-se-imaginaba-que-china-vetaria-su-exportacion-tierras-raras-tiene-plan-b-fondo-pacifico</link>
-            <description>EEUU se imaginaba que China vetaría su exportación de tierras raras. Tiene un plan B: el fondo del Pacífico</description>
-            <pubDate>Mon Apr 14 18:31:40 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Este es el aparato para ver Netflix, Max y Disney+ donde quiera y que nunca olvido llevarme en las vacaciones de Semana Santa</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/aparato-ver-netflix-max-disney-plus-vacaciones-semana-santa-0425/</link>
-            <description>Este es el aparato para ver Netflix, Max y Disney+ donde quiera y que nunca olvido llevarme en las vacaciones de Semana Santa</description>
-            <pubDate>Mon Apr 14 18:30:16 2025</pubDate>
             </item></channel>
 </rss>
