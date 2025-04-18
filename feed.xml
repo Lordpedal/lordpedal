@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Tiny, Hackable Telepresence Robot for under $100? Meet Goby</title>
+            <link>https://hackaday.com/2025/04/17/tiny-hackable-telepresence-robot-for-under-100-meet-goby/</link>
+            <description>Tiny, Hackable Telepresence Robot for under $100? Meet Goby</description>
+            <pubDate>Fri Apr 18 05:00:08 2025</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: CVE-2025-24054 Under Active Attack—Steals NTLM Credentials on File Download</title>
+            <link>https://thehackernews.com/2025/04/cve-2025-24054-under-active.html</link>
+            <description>CVE-2025-24054 Under Active Attack—Steals NTLM Credentials on File Download</description>
+            <pubDate>Fri Apr 18 04:29:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Rise of the Robots: How Robots Are Changing Dairy Farms</title>
+            <link>https://hackaday.com/2025/04/17/rise-of-the-robots-how-robots-are-changing-dairy-farms/</link>
+            <description>Rise of the Robots: How Robots Are Changing Dairy Farms</description>
+            <pubDate>Fri Apr 18 02:00:08 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Blacksmith Shows Us How To Choose An Anvil</title>
+            <link>https://hackaday.com/2025/04/17/a-blacksmith-shows-us-how-to-choose-an-anvil/</link>
+            <description>A Blacksmith Shows Us How To Choose An Anvil</description>
+            <pubDate>Thu Apr 17 23:00:04 2025</pubDate>
+            </item>
+            <item>
+            <title>NKSistemas: Ubuntu 25.04 «Plucky Puffin» llega con GNOME 48, mejoras de rendimiento y nuevas herramientas de desarrollo</title>
+            <link>https://nksistemas.com/ubuntu-25-04-plucky-puffin-llega-con-gnome-48-mejoras-de-rendimiento-y-nuevas-herramientas-de-desarrollo/</link>
+            <description>Ubuntu 25.04 «Plucky Puffin» llega con GNOME 48, mejoras de rendimiento y nuevas herramientas de desarrollo</description>
+            <pubDate>Thu Apr 17 22:00:18 2025</pubDate>
+            </item>
+            <item>
             <title>Ubunlog: Ubuntu Unity 25.04 se mantiene en Unity 7.7 y sube la base a paquetes actualizados</title>
             <link>https://ubunlog.com/ubuntu-unity-25-04-se-mantiene-en-unity-7-7-y-sube-la-base-a-paquetes-actualizados/</link>
             <description>Ubuntu Unity 25.04 se mantiene en Unity 7.7 y sube la base a paquetes actualizados</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/cine-y-tv/nuevo-trailer-4-fantasticos-deja-que-imagenes-desliza-formula-marvel-para-romper-crisis-mcu</link>
             <description>El nuevo tráiler de ‘Los 4 Fantásticos’ deja más que imágenes: desliza la fórmula de Marvel para romper la crisis del MCU</description>
             <pubDate>Thu Apr 17 18:55:53 2025</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: La Policía lo tendrá más difícil para extraer datos: Google añade el reinicio automático en Android</title>
-            <link>https://www.redeszone.net/noticias/seguridad/policia-mas-dificil-extraer-datos-reinicio-android/</link>
-            <description>La Policía lo tendrá más difícil para extraer datos: Google añade el reinicio automático en Android</description>
-            <pubDate>Thu Apr 17 18:06:35 2025</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: How to Upgrade to Ubuntu 25.04 ‘Plucky Puffin’</title>
-            <link>https://www.omgubuntu.co.uk/2025/04/how-to-upgrade-to-ubuntu-25-04</link>
-            <description>How to Upgrade to Ubuntu 25.04 ‘Plucky Puffin’</description>
-            <pubDate>Thu Apr 17 18:06:28 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El dinero ha cambiado de manos, pero no de apellidos: los millonarios más jóvenes de 2025 son la prueba</title>
-            <link>https://www.xataka.com/empresas-y-economia/dinero-ha-cambiado-manos-no-apellidos-millonarios-jovenes-2025-prueba</link>
-            <description>El dinero ha cambiado de manos, pero no de apellidos: los millonarios más jóvenes de 2025 son la prueba</description>
-            <pubDate>Thu Apr 17 18:01:27 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Guía para instalar el router WiFi de Lowi si contratas su fibra</title>
-            <link>https://www.adslzone.net/noticias/operadores/instalar-router-wifi-lowi-fibra/</link>
-            <description>Guía para instalar el router WiFi de Lowi si contratas su fibra</description>
-            <pubDate>Thu Apr 17 18:00:24 2025</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Ubuntu Studio 25.04 llega con GIMP 3.0, PipeWire 1.2.7 y aplicaciones para creadores de contenidos actualizadas</title>
-            <link>https://ubunlog.com/ubuntu-studio-25-04-llega-con-gimp-3-0-pipewire-1-2-7-y-aplicaciones-para-creadores-de-contenidos-actualizadas/</link>
-            <description>Ubuntu Studio 25.04 llega con GIMP 3.0, PipeWire 1.2.7 y aplicaciones para creadores de contenidos actualizadas</description>
-            <pubDate>Thu Apr 17 17:42:30 2025</pubDate>
             </item></channel>
 </rss>
