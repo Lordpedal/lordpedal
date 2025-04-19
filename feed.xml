@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Restoring an Abandoned Game Boy Kiosk</title>
+            <link>https://hackaday.com/2025/04/18/restoring-an-abandoned-game-boy-kiosk/</link>
+            <description>Restoring an Abandoned Game Boy Kiosk</description>
+            <pubDate>Sat Apr 19 05:00:59 2025</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Novedades del Linuxverso Semana 16/2025: MX Linux 23.6, T2 SDE 25.4 y Manjaro Linux 25.0.0</title>
+            <link>https://blog.desdelinux.net/novedades-linuxverso-semana-16-2025/</link>
+            <description>Novedades del Linuxverso Semana 16/2025: MX Linux 23.6, T2 SDE 25.4 y Manjaro Linux 25.0.0</description>
+            <pubDate>Sat Apr 19 04:00:31 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Haircuts in Space: How to Keep Your Astronauts Looking Fresh</title>
+            <link>https://hackaday.com/2025/04/18/haircuts-in-space-how-to-keep-your-astronauts-looking-fresh/</link>
+            <description>Haircuts in Space: How to Keep Your Astronauts Looking Fresh</description>
+            <pubDate>Sat Apr 19 02:00:18 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Robot Picks Fruit and Changes Light Bulbs with Measuring Tape</title>
+            <link>https://hackaday.com/2025/04/18/robot-picks-fruit-and-changes-light-bulbs-with-measuring-tape/</link>
+            <description>Robot Picks Fruit and Changes Light Bulbs with Measuring Tape</description>
+            <pubDate>Fri Apr 18 23:00:12 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: 11 Things to Do After Installing Ubuntu 25.04</title>
+            <link>https://www.omgubuntu.co.uk/2025/04/ubuntu-25-04-post-install-tasks</link>
+            <description>11 Things to Do After Installing Ubuntu 25.04</description>
+            <pubDate>Fri Apr 18 22:59:00 2025</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: A Pi-Based LiDAR Scanner</title>
             <link>https://hackaday.com/2025/04/18/a-pi-based-lidar-scanner/</link>
             <description>A Pi-Based LiDAR Scanner</description>
@@ -40,35 +70,5 @@
             <link>https://56k.es/fanta/bin2png-convertir-archivos-binarios-a-png-para-publicarlos-en-redes-sociales/</link>
             <description>bin2png – Convertir archivos binarios a png para publicarlos en redes sociales</description>
             <pubDate>Fri Apr 18 18:50:56 2025</pubDate>
-            </item>
-            <item>
-            <title>56K: Vassal – Un motor para juegos de mesa – La casa de los fantasmas</title>
-            <link>https://56k.es/fanta/vassal-un-motor-para-juegos-de-mesa-la-casa-de-los-fantasmas/</link>
-            <description>Vassal – Un motor para juegos de mesa – La casa de los fantasmas</description>
-            <pubDate>Fri Apr 18 18:46:08 2025</pubDate>
-            </item>
-            <item>
-            <title>56K: Repositorio Demoscene BitmapFonts</title>
-            <link>https://56k.es/fanta/repositorio-demoscene-bitmapfonts/</link>
-            <description>Repositorio Demoscene BitmapFonts</description>
-            <pubDate>Fri Apr 18 18:42:45 2025</pubDate>
-            </item>
-            <item>
-            <title>56K: Reversing de Igor Objetivo Uikokahonia desde Linux</title>
-            <link>https://56k.es/fanta/reversing-de-igor-objetivo-uikokahonia-jugable-desde-linux/</link>
-            <description>Reversing de Igor Objetivo Uikokahonia desde Linux</description>
-            <pubDate>Fri Apr 18 18:40:56 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Vintage Game Rides Again Thanks to Modern Tech</title>
-            <link>https://hackaday.com/2025/04/18/vintage-game-rides-again-thanks-to-modern-tech/</link>
-            <description>Vintage Game Rides Again Thanks to Modern Tech</description>
-            <pubDate>Fri Apr 18 18:30:11 2025</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: La vida útil de los certificados SSL se reducirá a 47 días para 2029, ¿por qué esta decisión?</title>
-            <link>https://www.redeszone.net/noticias/seguridad/vida-util-certificados-ssl-tls-reducira-47-dias-2029/</link>
-            <description>La vida útil de los certificados SSL se reducirá a 47 días para 2029, ¿por qué esta decisión?</description>
-            <pubDate>Fri Apr 18 18:09:13 2025</pubDate>
             </item></channel>
 </rss>
