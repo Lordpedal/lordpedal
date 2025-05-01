@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: FOSS Weekly #25.18: Linux Magazine, Modern Terminals, Muse Pi, apt Guide and More</title>
+            <link>https://itsfoss.com/newsletter/foss-weekly-25-18/</link>
+            <description>FOSS Weekly #25.18: Linux Magazine, Modern Terminals, Muse Pi, apt Guide and More</description>
+            <pubDate>Thu May  1 05:49:00 2025</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Exploring Firefox Tab Groups: Has Mozilla Redeemed Itself?</title>
+            <link>https://itsfoss.com/firefox-tab-groups/</link>
+            <description>Exploring Firefox Tab Groups: Has Mozilla Redeemed Itself?</description>
+            <pubDate>Thu May  1 05:10:17 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Vintage Stereo Stack Becomes Neat PC Case</title>
+            <link>https://hackaday.com/2025/04/30/vintage-stereo-stack-becomes-neat-pc-case/</link>
+            <description>Vintage Stereo Stack Becomes Neat PC Case</description>
+            <pubDate>Thu May  1 05:00:39 2025</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: ¿Qué Sucede Cuando una VPN es Hackeada?</title>
+            <link>https://esgeeks.com/que-sucede-vpn-es-hackeada/</link>
+            <description>¿Qué Sucede Cuando una VPN es Hackeada?</description>
+            <pubDate>Thu May  1 03:14:11 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Neutron Flux Impact on Quartz Expansion Rate</title>
+            <link>https://hackaday.com/2025/04/30/neutron-flux-impact-on-quartz-expansion-rate/</link>
+            <description>Neutron Flux Impact on Quartz Expansion Rate</description>
+            <pubDate>Thu May  1 02:00:10 2025</pubDate>
+            </item>
+            <item>
+            <title>Shell Script UNIX-LINUX-WINDOWS: LINUX – Script array asociativo para analizar LOG y contar direcciones IP.</title>
+            <link>https://www.reiser.cl/2025/04/30/linux-script-array-asociativo-para-analizar-log-y-contar-direcciones-ip/</link>
+            <description>LINUX – Script array asociativo para analizar LOG y contar direcciones IP.</description>
+            <pubDate>Thu May  1 00:16:41 2025</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: Maker Faire Miami Goes Tropical This Weekend</title>
+            <link>https://makezine.com/article/maker-news/maker-faire-miami-goes-tropical-this-weekend/</link>
+            <description>Maker Faire Miami Goes Tropical This Weekend</description>
+            <pubDate>Wed Apr 30 23:47:40 2025</pubDate>
+            </item>
+            <item>
+            <title>Shell Script UNIX-LINUX-WINDOWS: LINUX – Script LOAD Average  y memoria utilizada.</title>
+            <link>https://www.reiser.cl/2025/04/30/linux-script-load-average-y-memoria-utilizada/</link>
+            <description>LINUX – Script LOAD Average  y memoria utilizada.</description>
+            <pubDate>Wed Apr 30 23:23:22 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A New And Weird Kind of Typewriter</title>
+            <link>https://hackaday.com/2025/04/30/a-new-and-weird-kind-of-typewriter/</link>
+            <description>A New And Weird Kind of Typewriter</description>
+            <pubDate>Wed Apr 30 23:00:31 2025</pubDate>
+            </item>
+            <item>
             <title>DistritoTux: ¡Está en la Lista de Espera! ¿Merece un Lugar en DistroWatch?</title>
             <link>https://www.distritotux.cl/2025/04/esta-en-la-lista-de-espera-merece-un.html</link>
             <description>¡Está en la Lista de Espera! ¿Merece un Lugar en DistroWatch?</description>
@@ -16,59 +70,5 @@
             <link>https://nksistemas.com/libreoffice-25-2-3-disponible-con-68-correcciones-de-errores/</link>
             <description>LibreOffice 25.2.3 disponible con 68 correcciones de errores</description>
             <pubDate>Wed Apr 30 20:46:53 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Ya hemos visto al Yangwang U8 de BYD flotar en un río. Es más impresionante de lo que imaginábamos</title>
-            <link>https://www.xataka.com/movilidad/hemos-visto-al-yangwang-u8-byd-flotar-rio-impresionante-que-imaginabamos</link>
-            <description>Ya hemos visto al Yangwang U8 de BYD flotar en un río. Es más impresionante de lo que imaginábamos</description>
-            <pubDate>Wed Apr 30 20:31:52 2025</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Rootkits invisibles: el nuevo desafío para las herramientas de seguridad en Linux</title>
-            <link>https://blog.desdelinux.net/rootkits-invisibles-el-nuevo-desafio-para-las-herramientas-de-seguridad-en-linux/</link>
-            <description>Rootkits invisibles: el nuevo desafío para las herramientas de seguridad en Linux</description>
-            <pubDate>Wed Apr 30 20:12:40 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: España sufrió un apagón masivo. El teletrabajo distribuido llegó inmediatamente para salvar a muchas empresas</title>
-            <link>https://www.xataka.com/empresas-y-economia/espana-ha-sufrido-apagon-masivo-trabajo-presencial-ha-caido-nomadas-digitales-han-salvado-muebles</link>
-            <description>España sufrió un apagón masivo. El teletrabajo distribuido llegó inmediatamente para salvar a muchas empresas</description>
-            <pubDate>Wed Apr 30 20:01:35 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Puedes poner a funcionar un router a pilas? Este usuario lo ha hecho</title>
-            <link>https://www.adslzone.net/noticias/redes/puedes-router-pilas-usuario/</link>
-            <description>¿Puedes poner a funcionar un router a pilas? Este usuario lo ha hecho</description>
-            <pubDate>Wed Apr 30 20:00:48 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Layout A PCB with Tscircuit</title>
-            <link>https://hackaday.com/2025/04/30/layout-a-pcb-with-tscircuit/</link>
-            <description>Layout A PCB with Tscircuit</description>
-            <pubDate>Wed Apr 30 20:00:00 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Este es el thriller psicológico de Max con una de las historias de IA más perturbadoras que no debes perderte</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/thriller-psicologico-max-ia/</link>
-            <description>Este es el thriller psicológico de Max con una de las historias de IA más perturbadoras que no debes perderte</description>
-            <pubDate>Wed Apr 30 19:30:21 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China está cada vez más cerca de tener su propia Starship: acaba de fabricar el tanque de acero del enorme cohete CZ-9</title>
-            <link>https://www.xataka.com/espacio/china-esta-cada-vez-cerca-tener-su-propia-starship-acaba-fabricar-tanque-acero-enorme-cohete-cz-9</link>
-            <description>China está cada vez más cerca de tener su propia Starship: acaba de fabricar el tanque de acero del enorme cohete CZ-9</description>
-            <pubDate>Wed Apr 30 19:09:00 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon no defrauda y deja el precio del Samsung Galaxy S25 por los suelos</title>
-            <link>https://www.adslzone.net/ofertas/amazon/smartphone-samsung-galaxy-s25-0425/</link>
-            <description>Amazon no defrauda y deja el precio del Samsung Galaxy S25 por los suelos</description>
-            <pubDate>Wed Apr 30 19:00:13 2025</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Sin WhatsApp ni Internet, la radio salvó el apagón. Si buscas una, lo mejor es esperar: los precios se han disparado en Internet</title>
-            <link>https://www.genbeta.com/actualidad/whatsapp-internet-radio-salvo-apagon-buscas-mejor-esperar-precios-se-han-disparado-internet</link>
-            <description>Sin WhatsApp ni Internet, la radio salvó el apagón. Si buscas una, lo mejor es esperar: los precios se han disparado en Internet</description>
-            <pubDate>Wed Apr 30 18:39:41 2025</pubDate>
             </item></channel>
 </rss>
