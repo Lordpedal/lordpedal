@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A Neat E-Paper Digit Clock (or Four)</title>
+            <link>https://hackaday.com/2025/05/02/a-neat-e-paper-digit-clock-or-four/</link>
+            <description>A Neat E-Paper Digit Clock (or Four)</description>
+            <pubDate>Sat May  3 05:00:45 2025</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 3 de mayo</title>
+            <link>https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-3-mayo</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 3 de mayo</description>
+            <pubDate>Sat May  3 03:01:53 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Gentle Introduction to Impedance Matching</title>
+            <link>https://hackaday.com/2025/05/02/a-gentle-introduction-to-impedance-matching/</link>
+            <description>A Gentle Introduction to Impedance Matching</description>
+            <pubDate>Sat May  3 02:00:45 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Prusa Mini Nozzle Cam on the Cheap</title>
+            <link>https://hackaday.com/2025/05/02/prusa-mini-nozzle-cam-on-the-cheap/</link>
+            <description>Prusa Mini Nozzle Cam on the Cheap</description>
+            <pubDate>Fri May  2 23:00:23 2025</pubDate>
+            </item>
+            <item>
+            <title>MuyLinux: KDE reorganiza su estrategia de soporte a largo plazo para Plasma</title>
+            <link>https://www.muylinux.com/2025/05/02/kde-plasma-lts/</link>
+            <description>KDE reorganiza su estrategia de soporte a largo plazo para Plasma</description>
+            <pubDate>Fri May  2 21:52:56 2025</pubDate>
+            </item>
+            <item>
             <title>Xataka: El Tempest europeo quiere desafiar al F-35: su futura baza estará en dos cartas clave que prometen cambiar el combate aéreo</title>
             <link>https://www.xataka.com/transporte/tempest-europeo-quiere-desafiar-al-f-35-su-futura-baza-estara-dos-cartas-clave-que-prometen-cambiar-combate-aereo</link>
             <description>El Tempest europeo quiere desafiar al F-35: su futura baza estará en dos cartas clave que prometen cambiar el combate aéreo</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/medicina-y-salud/nuevo-ritual-tiktok-empieza-cucharada-ayunas-como-aceite-coco-se-volvio-ultima-tendencia-adelgazar-esfuerzo</link>
             <description>El nuevo ritual de TikTok empieza con una cucharada en ayunas: como el aceite de coco se volvió en la última tendencia de "adelgazar sin esfuerzo"</description>
             <pubDate>Fri May  2 19:01:53 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon revienta el precio del Samsung Galaxy S25 con 256 GB de almacenamiento</title>
-            <link>https://www.adslzone.net/ofertas/amazon/movil-samsung-galaxy-s25-0525/</link>
-            <description>Amazon revienta el precio del Samsung Galaxy S25 con 256 GB de almacenamiento</description>
-            <pubDate>Fri May  2 19:00:20 2025</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Mayo 2025: Acontecer informativo del mes sobre las noticias del Linuxverso</title>
-            <link>https://blog.desdelinux.net/noticias-linuxverso-mayo-2025/</link>
-            <description>Mayo 2025: Acontecer informativo del mes sobre las noticias del Linuxverso</description>
-            <pubDate>Fri May  2 18:41:32 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Bill Gates y el espectro autista: una revelación familiar que arroja luz sobre su personalidad y éxito profesional</title>
-            <link>https://www.xataka.com/empresas-y-economia/bill-gates-espectro-autista-revelacion-familiar-que-arroja-luz-su-personalidad-exito-profesional</link>
-            <description>Bill Gates y el espectro autista: una revelación familiar que arroja luz sobre su personalidad y éxito profesional</description>
-            <pubDate>Fri May  2 18:31:53 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El modelo que hizo crecer a Temu en EEUU acaba de romperse: ya no se puede comprar nada desde allí que se envíe directo de China</title>
-            <link>https://www.xataka.com/empresas-y-economia/modelo-que-hizo-crecer-a-temu-eeuu-acaba-romperse-no-se-puede-comprar-nada-alli-que-se-envie-directo-china</link>
-            <description>El modelo que hizo crecer a Temu en EEUU acaba de romperse: ya no se puede comprar nada desde allí que se envíe directo de China</description>
-            <pubDate>Fri May  2 18:30:37 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Plex causa el caos y desde este mes te obliga a pagar si quieres usar tu servidor fuera de casa</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/plex-obliga-pagar-usar-servidor-fuera-casa/</link>
-            <description>Plex causa el caos y desde este mes te obliga a pagar si quieres usar tu servidor fuera de casa</description>
-            <pubDate>Fri May  2 18:30:18 2025</pubDate>
             </item></channel>
 </rss>
