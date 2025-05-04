@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: 3D Printed Cable-Driven Mechanisms – Some Strings Attached</title>
+            <link>https://hackaday.com/2025/05/03/3d-printed-cable-driven-mechanisms-some-strings-attached/</link>
+            <description>3D Printed Cable-Driven Mechanisms – Some Strings Attached</description>
+            <pubDate>Sun May  4 05:00:06 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Testing a Cheap Bench Power Supply Sold on Amazon</title>
+            <link>https://hackaday.com/2025/05/03/testing-a-cheap-bench-power-supply-sold-on-amazon/</link>
+            <description>Testing a Cheap Bench Power Supply Sold on Amazon</description>
+            <pubDate>Sun May  4 02:00:58 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: LLM Ported To The C64, Kinda</title>
+            <link>https://hackaday.com/2025/05/03/llm-ported-to-the-c64-kinda/</link>
+            <description>LLM Ported To The C64, Kinda</description>
+            <pubDate>Sat May  3 23:00:28 2025</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Tablet Suspension System Avoids Fatigue at Bedtime</title>
             <link>https://hackaday.com/2025/05/03/tablet-suspension-system-avoids-fatigue-at-bedtime/</link>
             <description>Tablet Suspension System Avoids Fatigue at Bedtime</description>
@@ -52,23 +70,5 @@
             <link>https://www.xataka.com/ecologia-y-naturaleza/unos-cientificos-japoneses-han-llevado-pararrayos-al-siguiente-nivel-dron-que-caza-relampagos</link>
             <description>Unos científicos japoneses han llevado el pararrayos al siguiente nivel: con un dron que caza relámpagos</description>
             <pubDate>Sat May  3 17:01:53 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Hacking Different Sized Nozzles For AnyCubic Printers</title>
-            <link>https://hackaday.com/2025/05/03/hacking-different-sized-nozzles-for-anycubic-printers/</link>
-            <description>Hacking Different Sized Nozzles For AnyCubic Printers</description>
-            <pubDate>Sat May  3 17:00:20 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Revolut hace lo impensable y se prepara para competir con Digi y O2</title>
-            <link>https://www.adslzone.net/noticias/operadores/revolut-competir-digi-o2-0525/</link>
-            <description>Revolut hace lo impensable y se prepara para competir con Digi y O2</description>
-            <pubDate>Sat May  3 17:00:00 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China se acerca a la autosuficiencia energética: activa 10 nuevos reactores y refuerza su dominio nuclear</title>
-            <link>https://www.xataka.com/energia/china-se-acerca-a-autosuficiencia-energetica-activa-10-nuevos-reactores-refuerza-su-dominio-nuclear</link>
-            <description>China se acerca a la autosuficiencia energética: activa 10 nuevos reactores y refuerza su dominio nuclear</description>
-            <pubDate>Sat May  3 16:01:53 2025</pubDate>
             </item></channel>
 </rss>
