@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: FOSS Weekly #25.19: sudo-rs, Terminal Makeover, Kazam 2.0, Mission Center and More Linux Stuff</title>
+            <link>https://itsfoss.com/newsletter/foss-weekly-25-19/</link>
+            <description>FOSS Weekly #25.19: sudo-rs, Terminal Makeover, Kazam 2.0, Mission Center and More Linux Stuff</description>
+            <pubDate>Thu May  8 05:54:15 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Jellybean Mac Hides Modern PC</title>
+            <link>https://hackaday.com/2025/05/07/jellybean-mac-hides-modern-pc/</link>
+            <description>Jellybean Mac Hides Modern PC</description>
+            <pubDate>Thu May  8 05:00:31 2025</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Mi Fire TV cargaba lentísimo por WiFi al estar lejos del router hasta que probé este truco infalible que sale gratis</title>
+            <link>https://www.adslzone.net/noticias/streaming-tv/mi-fire-tv-cargaba-lentisimo-wifi-truco-infalible-gratis/</link>
+            <description>Mi Fire TV cargaba lentísimo por WiFi al estar lejos del router hasta que probé este truco infalible que sale gratis</description>
+            <pubDate>Thu May  8 05:00:25 2025</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Cisco Patches CVE-2025-20188 (10.0 CVSS) in IOS XE That Enables Root Exploits via JWT</title>
+            <link>https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html</link>
+            <description>Cisco Patches CVE-2025-20188 (10.0 CVSS) in IOS XE That Enables Root Exploits via JWT</description>
+            <pubDate>Thu May  8 04:57:00 2025</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: Cómo Preferir IPv4 sobre IPv6 en Redes Windows</title>
+            <link>https://esgeeks.com/preferir-ipv4-sobre-ipv6-redes-windows/</link>
+            <description>Cómo Preferir IPv4 sobre IPv6 en Redes Windows</description>
+            <pubDate>Thu May  8 03:20:55 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Superconductivity News: What Makes Floquet Majorana Fermions Special for Quantum Computing?</title>
+            <link>https://hackaday.com/2025/05/07/superconductivity-news-what-makes-floquet-majorana-fermions-special-for-quantum-computing/</link>
+            <description>Superconductivity News: What Makes Floquet Majorana Fermions Special for Quantum Computing?</description>
+            <pubDate>Thu May  8 02:00:56 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Wireless USB Autopsy</title>
+            <link>https://hackaday.com/2025/05/07/wireless-usb-autopsy/</link>
+            <description>Wireless USB Autopsy</description>
+            <pubDate>Wed May  7 23:00:46 2025</pubDate>
+            </item>
+            <item>
             <title>Xataka: Llevamos toda la vida intentando entender a los animales: Baidu cree tener la clave y lo ha registrado en una nueva patente</title>
             <link>https://www.xataka.com/robotica-e-ia/llevamos-toda-vida-intentando-entender-a-animales-baidu-cree-tener-clave-ha-registrado-nueva-patente</link>
             <description>Llevamos toda la vida intentando entender a los animales: Baidu cree tener la clave y lo ha registrado en una nueva patente</description>
@@ -28,47 +70,5 @@
             <link>https://hackaday.com/2025/05/07/liquid-silicone-3d-printing-is-no-joke/</link>
             <description>Liquid Silicone 3D Printing Is No Joke</description>
             <pubDate>Wed May  7 20:00:12 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Cómo se activa el modo El Eternauta en WhatsApp y por qué vas a querer usarlo</title>
-            <link>https://www.adslzone.net/noticias/whatsapp/modo-el-eternauta-whatsapp/</link>
-            <description>Cómo se activa el modo El Eternauta en WhatsApp y por qué vas a querer usarlo</description>
-            <pubDate>Wed May  7 19:49:45 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Los tres servicios secretos de Movistar que nadie conoce, pero que harán que ni te plantees cambiarte de operador</title>
-            <link>https://www.adslzone.net/noticias/operadores/servicios-importantes-movistar-clientes-0525/</link>
-            <description>Los tres servicios secretos de Movistar que nadie conoce, pero que harán que ni te plantees cambiarte de operador</description>
-            <pubDate>Wed May  7 19:33:28 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: WhatsApp acaba de marcar un precedente legal contra el espionaje: Pegasus tendrá que pagar 167 millones por daños</title>
-            <link>https://www.xataka.com/seguridad/whatsapp-acaba-marcar-precedente-legal-espionaje-pegasus-tendra-que-pagar-167-millones-danos</link>
-            <description>WhatsApp acaba de marcar un precedente legal contra el espionaje: Pegasus tendrá que pagar 167 millones por daños</description>
-            <pubDate>Wed May  7 19:31:35 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Cuando SpaceX sufrió su peor incidente, Elon Musk culpó a un francotirador de la competencia. Tuvo que intervenir el FBI</title>
-            <link>https://www.xataka.com/espacio/cuando-spacex-sufrio-su-peor-incidente-elon-musk-culpo-a-francotirador-competencia-que-intervino-fbi</link>
-            <description>Cuando SpaceX sufrió su peor incidente, Elon Musk culpó a un francotirador de la competencia. Tuvo que intervenir el FBI</description>
-            <pubDate>Wed May  7 19:01:36 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: PcComponentes aniquila a la competencia con un descuentazo para esta tablet polivalente de Xiaomi: está casi a la mitad de precio</title>
-            <link>https://www.adslzone.net/ofertas/mix/pccomponentes-tablet-xiaomi-pad-6-0525/</link>
-            <description>PcComponentes aniquila a la competencia con un descuentazo para esta tablet polivalente de Xiaomi: está casi a la mitad de precio</description>
-            <pubDate>Wed May  7 19:00:54 2025</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Tras sufrir sus bloqueos, Twitch y Vercel ahora se han aliado con LaLiga: Cloudflare se queda cada vez más aislada</title>
-            <link>https://www.genbeta.com/actualidad/sufrir-sus-bloqueos-twitch-vercel-ahora-se-han-aliado-laliga-cloudflare-se-queda-cada-vez-aislada</link>
-            <description>Tras sufrir sus bloqueos, Twitch y Vercel ahora se han aliado con LaLiga: Cloudflare se queda cada vez más aislada</description>
-            <pubDate>Wed May  7 18:54:00 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: ¿Puede un gorila ganar a 100 hombres? El dilema que está consumiendo obsesivamente a medio internet</title>
-            <link>https://www.xataka.com/magnet/puede-gorila-ganar-a-100-hombres-dilema-que-esta-consumiendo-obsesivamente-a-medio-internet</link>
-            <description>¿Puede un gorila ganar a 100 hombres? El dilema que está consumiendo obsesivamente a medio internet</description>
-            <pubDate>Wed May  7 18:31:35 2025</pubDate>
             </item></channel>
 </rss>
