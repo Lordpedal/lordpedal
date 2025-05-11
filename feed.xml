@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>KDE Blog: Inhibir la suspensión durante la transferencia de archivos – Esta semana en Plasma</title>
+            <link>https://www.kdeblog.com/inhibir-la-suspension-durante-la-transferencia-de-archivos-esta-semana-en-plasma.html</link>
+            <description>Inhibir la suspensión durante la transferencia de archivos – Esta semana en Plasma</description>
+            <pubDate>Sun May 11 05:40:26 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Another Old ThinkPad Gets A New Motherboard</title>
+            <link>https://hackaday.com/2025/05/10/another-old-thinkpad-gets-a-new-motherboard/</link>
+            <description>Another Old ThinkPad Gets A New Motherboard</description>
+            <pubDate>Sun May 11 05:00:09 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An LLM for the Raspberry Pi</title>
+            <link>https://hackaday.com/2025/05/10/an-llm-for-the-raspberry-pi/</link>
+            <description>An LLM for the Raspberry Pi</description>
+            <pubDate>Sun May 11 02:00:04 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Restoring A Sinclair C5 For The Road</title>
+            <link>https://hackaday.com/2025/05/10/restoring-a-sinclair-c5-for-the-road/</link>
+            <description>Restoring A Sinclair C5 For The Road</description>
+            <pubDate>Sat May 10 23:00:33 2025</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Orange TV Libre sorprende añadiendo cuatro nuevos canales a su servicio</title>
             <link>https://www.adslzone.net/noticias/operadores/orange-tv-libre-cuatro-nuevos-canales-0525/</link>
             <description>Orange TV Libre sorprende añadiendo cuatro nuevos canales a su servicio</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/espacio/sabemos-que-nave-sovietica-ha-caido-tierra-no-sabemos-donde-agencias-espaciales-no-coinciden</link>
             <description>Sabemos que la nave soviética ha caído ya en la Tierra, pero no sabemos dónde: las agencias espaciales no coinciden</description>
             <pubDate>Sat May 10 18:00:00 2025</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: ¿Tiene sentido desconectar el Wi-Fi del router y conectarte desde otro punto de acceso?</title>
-            <link>https://www.redeszone.net/noticias/wifi/por-que-desconectar-wifi-router/</link>
-            <description>¿Tiene sentido desconectar el Wi-Fi del router y conectarte desde otro punto de acceso?</description>
-            <pubDate>Sat May 10 17:06:07 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Netflix le quita a Max su película reciente más importante que recuadó más de 700 millones de dólares</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/netflix-max-pelicula-importante-0525/</link>
-            <description>Netflix le quita a Max su película reciente más importante que recuadó más de 700 millones de dólares</description>
-            <pubDate>Sat May 10 17:00:52 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Best Practices for FDM Printing</title>
-            <link>https://hackaday.com/2025/05/10/best-practices-for-fdm-printing/</link>
-            <description>Best Practices for FDM Printing</description>
-            <pubDate>Sat May 10 17:00:46 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El Alzheimer comienza mucho antes que sus síntomas. Y hemos descubierto uno de sus primeros mecanismos</title>
-            <link>https://www.xataka.com/medicina-y-salud/grupo-investigadores-csic-descubierto-nueva-proteina-clave-avance-alzheimer</link>
-            <description>El Alzheimer comienza mucho antes que sus síntomas. Y hemos descubierto uno de sus primeros mecanismos</description>
-            <pubDate>Sat May 10 17:00:04 2025</pubDate>
             </item></channel>
 </rss>
