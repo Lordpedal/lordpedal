@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: Automatically Format Code On File Save in Visual Studio Code</title>
+            <link>https://itsfoss.com/vs-code-auto-format-code/</link>
+            <description>Automatically Format Code On File Save in Visual Studio Code</description>
+            <pubDate>Sun May 18 05:23:03 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Escaping US Tech Giants Leads European YouTuber to Open Source</title>
+            <link>https://hackaday.com/2025/05/17/escaping-us-tech-giants-leads-european-youtuber-to-open-source/</link>
+            <description>Escaping US Tech Giants Leads European YouTuber to Open Source</description>
+            <pubDate>Sun May 18 05:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Lost 256 KB Japanese ROM for the Macintosh Plus Has Been Found</title>
+            <link>https://hackaday.com/2025/05/17/the-lost-256-kb-japanese-rom-for-the-macintosh-plus-has-been-found/</link>
+            <description>The Lost 256 KB Japanese ROM for the Macintosh Plus Has Been Found</description>
+            <pubDate>Sun May 18 02:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Determine Fundamental Constants with LEDs and a Multimeter</title>
+            <link>https://hackaday.com/2025/05/17/determine-fundamental-constants-with-leds-and-a-multimeter/</link>
+            <description>Determine Fundamental Constants with LEDs and a Multimeter</description>
+            <pubDate>Sat May 17 23:00:52 2025</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Legacy Update: Un proyecto de código abierto para mantener viejos Windows funcionales</title>
+            <link>https://blog.desdelinux.net/legacy-update/</link>
+            <description>Legacy Update: Un proyecto de código abierto para mantener viejos Windows funcionales</description>
+            <pubDate>Sat May 17 22:23:14 2025</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Movistar Plus+ tiene una fórmula del éxito que ni Orange ni Digi entienden</title>
             <link>https://www.adslzone.net/noticias/operadores/movistar-plus-formula-exito-0525/</link>
             <description>Movistar Plus+ tiene una fórmula del éxito que ni Orange ni Digi entienden</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/magnet/mexico-tenia-su-propia-alcatraz-a-130-km-pais-unas-islas-fortificadas-albergaban-asesinos-peligrosos-nacion</link>
             <description>México tenía su propia Alcatraz a 130 km del país. Unas islas fortificadas albergaban los asesinos más peligrosos de la nación</description>
             <pubDate>Sat May 17 18:01:24 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: SkyShowtime ha cancelado mi plan y no sé por qué: esto es lo que descubrí</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/skyshowtime-ha-cancelado-mi-plan-y-no-se-por-que-esto-es-lo-que-descubri/</link>
-            <description>SkyShowtime ha cancelado mi plan y no sé por qué: esto es lo que descubrí</description>
-            <pubDate>Sat May 17 18:00:50 2025</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Errores que debes evitar si vas a instalar un timbre o videoportero inteligente</title>
-            <link>https://www.redeszone.net/noticias/seguridad/errores-evitar-uso-timbre-videoportero-inteligente/</link>
-            <description>Errores que debes evitar si vas a instalar un timbre o videoportero inteligente</description>
-            <pubDate>Sat May 17 17:02:55 2025</pubDate>
-            </item>
-            <item>
-            <title>Noticias de Linux y tecnología - LinuxParty: Aprende a usar las capas en GIMP: Guía esencial para usuarios de Linux</title>
-            <link>https://www.linuxparty.es/123-articulos/12472-aprende-a-usar-las-capas-en-gimp-gu%C3%ADa-esencial-para-usuarios-de-linux.html</link>
-            <description>Aprende a usar las capas en GIMP: Guía esencial para usuarios de Linux</description>
-            <pubDate>Sat May 17 17:01:31 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Atrasar la menopausia es más que una carrera contra la edad: es una lucha para mejorar la calidad de vida</title>
-            <link>https://www.xataka.com/medicina-y-salud/atrasar-menopausia-que-carrera-edad-lucha-para-mejorar-calidad-vida</link>
-            <description>Atrasar la menopausia es más que una carrera contra la edad: es una lucha para mejorar la calidad de vida</description>
-            <pubDate>Sat May 17 17:01:24 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Zen Flute is a Teensy Powered Mouth Theramin</title>
-            <link>https://hackaday.com/2025/05/17/zen-flute-is-a-teensy-powered-mouth-theramin/</link>
-            <description>Zen Flute is a Teensy Powered Mouth Theramin</description>
-            <pubDate>Sat May 17 17:00:32 2025</pubDate>
             </item></channel>
 </rss>
