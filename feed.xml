@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Making a Backyard Observatory Replete With Retractable Roof</title>
+            <link>https://hackaday.com/2025/05/24/making-a-backyard-observatory-replete-with-retractable-roof/</link>
+            <description>Making a Backyard Observatory Replete With Retractable Roof</description>
+            <pubDate>Sun May 25 05:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: AI Art Installation Swaps Diffusion for Reflection</title>
+            <link>https://hackaday.com/2025/05/24/ai-art-installation-swaps-diffusion-for-reflection/</link>
+            <description>AI Art Installation Swaps Diffusion for Reflection</description>
+            <pubDate>Sun May 25 02:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reverse Engineering LEGO Island</title>
+            <link>https://hackaday.com/2025/05/24/reverse-engineering-lego-island/</link>
+            <description>Reverse Engineering LEGO Island</description>
+            <pubDate>Sat May 24 23:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>NKSistemas: GCC 14.3: El Compilador Estable con Más de 200 Correcciones de Errores</title>
+            <link>https://nksistemas.com/gcc-14-3-el-compilador-estable-con-mas-de-200-correcciones-de-errores/</link>
+            <description>GCC 14.3: El Compilador Estable con Más de 200 Correcciones de Errores</description>
+            <pubDate>Sat May 24 22:30:58 2025</pubDate>
+            </item>
+            <item>
+            <title>NKSistemas: NixOS 25.05 «Warbler» Llega con Linux 6.12 LTS, GNOME 48 y Soporte Inicial para COSMIC</title>
+            <link>https://nksistemas.com/nixos-25-05-warbler-llega-con-linux-6-12-lts-gnome-48-y-soporte-inicial-para-cosmic/</link>
+            <description>NixOS 25.05 «Warbler» Llega con Linux 6.12 LTS, GNOME 48 y Soporte Inicial para COSMIC</description>
+            <pubDate>Sat May 24 22:28:07 2025</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: Movistar Plus+, Orange TV, Disney+ y DAZN, las reglas para ver el fútbol van a cambiar</title>
             <link>https://www.adslzone.net/noticias/operadores/movistar-plus-orange-tv-disney-dazn-futbol-0525/</link>
             <description>Movistar Plus+, Orange TV, Disney+ y DAZN, las reglas para ver el fútbol van a cambiar</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/fintech/verificacion-dos-pasos-wise-seguridad/</link>
             <description>El ajuste que deberías activar en Wise para tener tu cuenta para tener tu dinero protegido</description>
             <pubDate>Sat May 24 18:00:35 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Sinaloa se ha convertido en un lugar tan violento que hasta los animales huyen de allí</title>
-            <link>https://www.xataka.com/magnet/sinaloa-se-ha-convertido-lugar-violento-que-animales-huyen-alli</link>
-            <description>Sinaloa se ha convertido en un lugar tan violento que hasta los animales huyen de allí</description>
-            <pubDate>Sat May 24 17:31:46 2025</pubDate>
-            </item>
-            <item>
-            <title>RedesZone: Prepárate para la pérdida de datos si no haces las copias de seguridad así</title>
-            <link>https://www.redeszone.net/noticias/seguridad/prepararse-perdida-datos-elegir-copia-seguridad-nube/</link>
-            <description>Prepárate para la pérdida de datos si no haces las copias de seguridad así</description>
-            <pubDate>Sat May 24 17:03:55 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La llegada del ser humano a Sudamérica, vista a través del ADN de los herederos de la última gran migración</title>
-            <link>https://www.xataka.com/investigacion/llegada-ser-humano-a-sudamerica-vista-a-traves-adn-herederos-ultima-gran-migracion</link>
-            <description>La llegada del ser humano a Sudamérica, vista a través del ADN de los herederos de la última gran migración</description>
-            <pubDate>Sat May 24 17:01:47 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Nerf Blaster Becomes Remote Control Turret</title>
-            <link>https://hackaday.com/2025/05/24/nerf-blaster-becomes-remote-control-turret/</link>
-            <description>Nerf Blaster Becomes Remote Control Turret</description>
-            <pubDate>Sat May 24 17:00:47 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Prime Video podría emitir sus mejores series en abierto</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/prime-video-mejores-series-abierto/</link>
-            <description>Prime Video podría emitir sus mejores series en abierto</description>
-            <pubDate>Sat May 24 17:00:12 2025</pubDate>
             </item></channel>
 </rss>
