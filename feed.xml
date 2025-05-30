@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Linux 6.16 agrega la opción 'X86_NATIVE_CPU' para optimizar la compilación del kernel</title>
+            <link>https://www.linuxparty.es/123-articulos/12498-linux-6-16-agrega-la-opci%C3%B3n-x86_native_cpu-para-optimizar-la-compilaci%C3%B3n-del-kernel.html</link>
+            <description>Linux 6.16 agrega la opción 'X86_NATIVE_CPU' para optimizar la compilación del kernel</description>
+            <pubDate>Fri May 30 06:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Another Doom Port To The Atari ST</title>
+            <link>https://hackaday.com/2025/05/29/another-doom-port-to-the-atari-st/</link>
+            <description>Another Doom Port To The Atari ST</description>
+            <pubDate>Fri May 30 05:00:42 2025</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: ¿Te dura poco la batería del móvil? Instagram podría ser el culpable y así lo puedes evitar</title>
+            <link>https://www.adslzone.net/noticias/moviles/dura-poco-bateria-movil-instagram-culpable/</link>
+            <description>¿Te dura poco la batería del móvil? Instagram podría ser el culpable y así lo puedes evitar</description>
+            <pubDate>Fri May 30 04:57:36 2025</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Meta Disrupts Influence Ops Targeting Romania, Azerbaijan, and Taiwan with Fake Personas</title>
+            <link>https://thehackernews.com/2025/05/meta-disrupts-influence-ops-targeting.html</link>
+            <description>Meta Disrupts Influence Ops Targeting Romania, Azerbaijan, and Taiwan with Fake Personas</description>
+            <pubDate>Fri May 30 04:09:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: IcePI Zero: A Pi Zero for FPGA</title>
+            <link>https://hackaday.com/2025/05/29/icepi-zero-a-pi-zero-for-fpga/</link>
+            <description>IcePI Zero: A Pi Zero for FPGA</description>
+            <pubDate>Fri May 30 02:00:40 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Simple Tip for Gluing Those LED Filaments</title>
+            <link>https://hackaday.com/2025/05/29/a-simple-tip-for-gluing-those-led-filaments/</link>
+            <description>A Simple Tip for Gluing Those LED Filaments</description>
+            <pubDate>Thu May 29 23:00:39 2025</pubDate>
+            </item>
+            <item>
             <title>MuyLinux: Canonical anuncia lanzamientos mensuales para las versiones en desarrollo de Ubuntu</title>
             <link>https://www.muylinux.com/2025/05/29/ubuntu-monthly-snapshot-releases/</link>
             <description>Canonical anuncia lanzamientos mensuales para las versiones en desarrollo de Ubuntu</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/quitar-cables-adsl-fachada-legalmente/</link>
             <description>¿Tienes aún cables del ADSL colgando en tu fachada? Esta es la única manera de quitarlos legalmente</description>
             <pubDate>Thu May 29 20:12:53 2025</pubDate>
-            </item>
-            <item>
-            <title>56K: Nada mejor que el Minimig para escribir a la noche</title>
-            <link>https://56k.es/fanta/nada-mejor-que-el-minimig-para-escribir-por-la-noche/</link>
-            <description>Nada mejor que el Minimig para escribir a la noche</description>
-            <pubDate>Thu May 29 20:08:47 2025</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Por qué Ubuntu es la mejor alternativa para quienes abandonan WIndows</title>
-            <link>https://ubunlog.com/por-que-ubuntu-es-la-mejor-alternativa-para-quienes-abandonan-windows/</link>
-            <description>Por qué Ubuntu es la mejor alternativa para quienes abandonan WIndows</description>
-            <pubDate>Thu May 29 20:03:37 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: You Can Make Your Own Ribbon Mic With A Gum Wrapper</title>
-            <link>https://hackaday.com/2025/05/29/you-can-make-your-own-ribbon-mic-with-a-gum-wrapper/</link>
-            <description>You Can Make Your Own Ribbon Mic With A Gum Wrapper</description>
-            <pubDate>Thu May 29 20:00:45 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Bizum confirma lo que ocurre si envías dinero a alguien sin cuenta: solo tiene 48 horas</title>
-            <link>https://www.adslzone.net/noticias/fintech/bizum-confirma-tiempo-maximo-bizum-0525/</link>
-            <description>Bizum confirma lo que ocurre si envías dinero a alguien sin cuenta: solo tiene 48 horas</description>
-            <pubDate>Thu May 29 19:39:54 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon liquida el Kindle más top: 100 € menos por tiempo limitado</title>
-            <link>https://www.adslzone.net/ofertas/amazon/ebook-kindle-scribe-16gb-0525/</link>
-            <description>Amazon liquida el Kindle más top: 100 € menos por tiempo limitado</description>
-            <pubDate>Thu May 29 19:13:11 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Nadie entiende por qué el ex CEO de Google ha comprado una empresa de cohetes. Él mismo lo dice: datacenters en el espacio</title>
-            <link>https://www.xataka.com/espacio/nadie-entiende-que-ex-ceo-google-ha-comprado-empresa-cohetes-dice-datacenters-espacio</link>
-            <description>Nadie entiende por qué el ex CEO de Google ha comprado una empresa de cohetes. Él mismo lo dice: datacenters en el espacio</description>
-            <pubDate>Thu May 29 19:00:02 2025</pubDate>
             </item></channel>
 </rss>
