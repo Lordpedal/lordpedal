@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Disarming a Nuke… Twice</title>
+            <link>https://hackaday.com/2025/05/31/disarming-a-nuke-twice/</link>
+            <description>Disarming a Nuke… Twice</description>
+            <pubDate>Sun Jun  1 05:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Can We Replace a Program Counter with a Linear-Feedback Shift Register? Yes We Can!</title>
+            <link>https://hackaday.com/2025/05/31/can-we-replace-a-program-counter-with-a-linear-feedback-shift-register-yes-we-can/</link>
+            <description>Can We Replace a Program Counter with a Linear-Feedback Shift Register? Yes We Can!</description>
+            <pubDate>Sun Jun  1 02:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: ESPer-CDP Plays CDs and Streams in Style</title>
+            <link>https://hackaday.com/2025/05/31/esper-cdp-plays-cds-and-streams-in-style/</link>
+            <description>ESPer-CDP Plays CDs and Streams in Style</description>
+            <pubDate>Sat May 31 23:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Ubuntu 25.10 Switches to Rust-based Sudo</title>
+            <link>https://www.omgubuntu.co.uk/2025/05/ubuntu-25-10-rust-sudo-rs-change</link>
+            <description>Ubuntu 25.10 Switches to Rust-based Sudo</description>
+            <pubDate>Sat May 31 22:47:00 2025</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Hot Rod Backyard Bath on Steel Spring Legs</title>
             <link>https://hackaday.com/2025/05/31/hot-rod-backyard-bath-on-steel-spring-legs/</link>
             <description>Hot Rod Backyard Bath on Steel Spring Legs</description>
@@ -46,29 +70,5 @@
             <link>https://www.adslzone.net/noticias/streaming-tv/rtve-play-gratis-pelicula-vista-max-0525/</link>
             <description>RTVE Play estrena gratis una de las películas más vistas de Max</description>
             <pubDate>Sat May 31 17:09:02 2025</pubDate>
-            </item>
-            <item>
-            <title>RedesZone : Portal sobre telecomunicaciones, redes y ciberseguridad: 5 factores clave para crear tu propio NAS y hacerlo correctamente</title>
-            <link>https://www.redeszone.net/noticias/redes/factores-clave-crear-propio-nas/</link>
-            <description>5 factores clave para crear tu propio NAS y hacerlo correctamente</description>
-            <pubDate>Sat May 31 17:06:56 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Llevamos mucho tiempo creando herramientas de los huesos de las ballenas. Antes incluso de aprender a cazarlas</title>
-            <link>https://www.xataka.com/investigacion/ballena-se-aprovechaba-todo-llevamos-usando-sus-huesos-para-fabricar-herramientas-hace-20-000-anos</link>
-            <description>Llevamos mucho tiempo creando herramientas de los huesos de las ballenas. Antes incluso de aprender a cazarlas</description>
-            <pubDate>Sat May 31 17:00:55 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Building a Wireless Motorized Fader For Lighting Control</title>
-            <link>https://hackaday.com/2025/05/31/building-a-wireless-motorized-fader-for-lighting-control/</link>
-            <description>Building a Wireless Motorized Fader For Lighting Control</description>
-            <pubDate>Sat May 31 17:00:38 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: AliExpress la lía al poner el smartwatch top Samsung Galaxy Watch 7 por menos de 170 euros</title>
-            <link>https://www.adslzone.net/ofertas/mix/aliexpress-smartwatch-samsung-galaxy-watch-7-0525/</link>
-            <description>AliExpress la lía al poner el smartwatch top Samsung Galaxy Watch 7 por menos de 170 euros</description>
-            <pubDate>Sat May 31 16:08:46 2025</pubDate>
             </item></channel>
 </rss>
