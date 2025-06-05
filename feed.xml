@@ -6,15 +6,45 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Passive Saturation Box is a Cheap Way To Distort Your Sound</title>
+            <link>https://hackaday.com/2025/06/04/passive-saturation-box-is-a-cheap-way-to-distort-your-sound/</link>
+            <description>Passive Saturation Box is a Cheap Way To Distort Your Sound</description>
+            <pubDate>Thu Jun  5 05:00:23 2025</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: Esta es la edad mínima legal para abrir una cuenta bancaria en España</title>
+            <link>https://www.adslzone.net/noticias/fintech/edad-minima-legal-abrir-cuenta-bancaria/</link>
+            <description>Esta es la edad mínima legal para abrir una cuenta bancaria en España</description>
+            <pubDate>Thu Jun  5 04:58:22 2025</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: FOSS Weekly #25.23: Helwan Linux, Quarkdown, Konsole Tweaks, Keyboard Shortcuts and More Linux Stuff</title>
+            <link>https://itsfoss.com/newsletter/foss-weekly-25-23/</link>
+            <description>FOSS Weekly #25.23: Helwan Linux, Quarkdown, Konsole Tweaks, Keyboard Shortcuts and More Linux Stuff</description>
+            <pubDate>Thu Jun  5 04:30:10 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Slide Rule by Helix</title>
+            <link>https://hackaday.com/2025/06/04/slide-rule-by-helix/</link>
+            <description>Slide Rule by Helix</description>
+            <pubDate>Thu Jun  5 02:00:37 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Raspberry Pi Imager 1.9.4 Released with Various Changes</title>
+            <link>https://www.omgubuntu.co.uk/2025/06/raspberry-pi-imager-1-9-4-released-with-various-changes</link>
+            <description>Raspberry Pi Imager 1.9.4 Released with Various Changes</description>
+            <pubDate>Wed Jun  4 22:53:00 2025</pubDate>
+            </item>
+            <item>
             <title>Xataka: PlayStation acaba de acercarnos más que nunca al juego arcade con su nuevo hardware: así es Project Defiant</title>
             <link>https://www.xataka.com/videojuegos/playstation-acaba-acercarnos-que-nunca-al-juego-arcade-su-nuevo-hardware-asi-project-defiant</link>
             <description>PlayStation acaba de acercarnos más que nunca al juego arcade con su nuevo hardware: así es Project Defiant</description>
             <pubDate>Wed Jun  4 21:53:20 2025</pubDate>
             </item>
             <item>
-            <title>Xataka: Meta sabe que la IA no se alimenta solo de modelos: por eso ha sellado una apuesta de 20 años por la energía nuclear</title>
+            <title>Xataka: Meta se lanza a por la energía nuclear para sus centros de datos de IA: acaba de sellar un ambicioso acuerdo a 20 años</title>
             <link>https://www.xataka.com/energia/meta-sabe-que-ia-no-se-alimenta-solo-modelos-eso-ha-sellado-apuesta-20-anos-energia-nuclear</link>
-            <description>Meta sabe que la IA no se alimenta solo de modelos: por eso ha sellado una apuesta de 20 años por la energía nuclear</description>
+            <description>Meta se lanza a por la energía nuclear para sus centros de datos de IA: acaba de sellar un ambicioso acuerdo a 20 años</description>
             <pubDate>Wed Jun  4 20:30:04 2025</pubDate>
             </item>
             <item>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/streaming-tv/apple-tv-desvela-bombazo-fecha-estreno/</link>
             <description>Apple TV+ desvela un bombazo sorpresa y anuncia su fecha de estreno</description>
             <pubDate>Wed Jun  4 19:33:47 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Microsoft acaba de reaccionar ante la ola de ciberataques: su estrategia en Europa y España habla directamente a los Gobiernos</title>
-            <link>https://www.xataka.com/seguridad/microsoft-acaba-reaccionar-ola-ciberataques-su-estrategia-europa-espana-habla-directamente-a-gobiernos</link>
-            <description>Microsoft acaba de reaccionar ante la ola de ciberataques: su estrategia en Europa y España habla directamente a los Gobiernos</description>
-            <pubDate>Wed Jun  4 19:31:48 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La IA consume tanta energía que Estados Unidos está construyendo centros de datos directamente en pozos de gas natural</title>
-            <link>https://www.xataka.com/energia/ia-consume-tanta-energia-que-estados-unidos-esta-construyendo-centros-datos-directamente-pozos-gas-natural</link>
-            <description>La IA consume tanta energía que Estados Unidos está construyendo centros de datos directamente en pozos de gas natural</description>
-            <pubDate>Wed Jun  4 19:00:00 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: AliExpress hará que olvides la Nintendo Switch 2: esta consola retro lo tiene todo con un descuento del 22%</title>
-            <link>https://www.adslzone.net/ofertas/mix/aliexpress-consola-retro-retroid-pocket-5-0625/</link>
-            <description>AliExpress hará que olvides la Nintendo Switch 2: esta consola retro lo tiene todo con un descuento del 22%</description>
-            <pubDate>Wed Jun  4 18:57:41 2025</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Los mejores ‘docks’ para Linux según el escritorio</title>
-            <link>https://www.muylinux.com/2025/06/04/los-mejores-docks-para-linux/</link>
-            <description>Los mejores ‘docks’ para Linux según el escritorio</description>
-            <pubDate>Wed Jun  4 18:55:25 2025</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: VacuumTube me hace dudar, pero creo que es el mejor cliente de YouTube que puedes usar en tu Steam Deck</title>
-            <link>https://www.linuxadictos.com/vacuumtube-me-hace-dudar-pero-creo-que-es-el-mejor-cliente-de-youtube-que-puedes-usar-en-tu-steam-deck.html</link>
-            <description>VacuumTube me hace dudar, pero creo que es el mejor cliente de YouTube que puedes usar en tu Steam Deck</description>
-            <pubDate>Wed Jun  4 18:46:02 2025</pubDate>
             </item></channel>
 </rss>
