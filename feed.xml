@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: FOSS Weekly #25.25: Nitrux Hyprland, Joplin Tips, Denmark Ditching Microsoft, Tiling Moves and More Linux Stuff</title>
+            <link>https://itsfoss.com/newsletter/foss-weekly-25-25/</link>
+            <description>FOSS Weekly #25.25: Nitrux Hyprland, Joplin Tips, Denmark Ditching Microsoft, Tiling Moves and More Linux Stuff</description>
+            <pubDate>Thu Jun 19 05:21:30 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Gas Burner Reuses Printer Nozzle For Metalwork</title>
+            <link>https://hackaday.com/2025/06/18/gas-burner-reuses-printer-nozzle-for-metalwork/</link>
+            <description>Gas Burner Reuses Printer Nozzle For Metalwork</description>
+            <pubDate>Thu Jun 19 05:00:30 2025</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions</title>
+            <link>https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html</link>
+            <description>New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions</description>
+            <pubDate>Thu Jun 19 03:33:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Cobbler: Un servidor de instalación de Linux para entornos de instalación de red</title>
+            <link>https://blog.desdelinux.net/cobbler/</link>
+            <description>Cobbler: Un servidor de instalación de Linux para entornos de instalación de red</description>
+            <pubDate>Thu Jun 19 02:23:38 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Number of Microphones… er, Inductors, Rather</title>
+            <link>https://hackaday.com/2025/06/18/a-number-of-microphones-er-inductors-rather/</link>
+            <description>A Number of Microphones… er, Inductors, Rather</description>
+            <pubDate>Thu Jun 19 02:00:23 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: FLOSS Weekly Episode 837: World’s Best Beta Tester</title>
+            <link>https://hackaday.com/2025/06/18/floss-weekly-episode-837-worlds-best-beta-tester/</link>
+            <description>FLOSS Weekly Episode 837: World’s Best Beta Tester</description>
+            <pubDate>Wed Jun 18 23:00:02 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: UxPlay Control Extension Makes AirPlay Sharing Easier to Use</title>
+            <link>https://www.omgubuntu.co.uk/2025/06/uxplay-control-gnome-shell-extension</link>
+            <description>UxPlay Control Extension Makes AirPlay Sharing Easier to Use</description>
+            <pubDate>Wed Jun 18 22:59:00 2025</pubDate>
+            </item>
+            <item>
             <title>Xataka: 1.500 toneladas, 98 metros y un viaje desde Alemania: así es la tuneladora que apunta a transformar la Línea 11 de Madrid</title>
             <link>https://www.xataka.com/ingenieria-y-megaconstrucciones/1-500-toneladas-98-metros-viaje-alemania-asi-tuneladora-que-apunta-a-transformar-linea-11-madrid</link>
             <description>1.500 toneladas, 98 metros y un viaje desde Alemania: así es la tuneladora que apunta a transformar la Línea 11 de Madrid</description>
@@ -18,9 +60,9 @@
             <pubDate>Wed Jun 18 21:00:00 2025</pubDate>
             </item>
             <item>
-            <title>Genbeta: El drama no acaba en Microsoft: pese a sus enormes beneficios, volverá a despedir a miles de trabajadores, según Bloomberg</title>
+            <title>Genbeta: En Microsoft no se acaba el drama: pese a sus enormes beneficios, volverá a despedir a miles de trabajadores, según Bloomberg</title>
             <link>https://www.genbeta.com/actualidad/drama-no-acaba-microsoft-pese-a-sus-enormes-beneficios-volvera-a-despedir-a-miles-trabajadores-bloomberg</link>
-            <description>El drama no acaba en Microsoft: pese a sus enormes beneficios, volverá a despedir a miles de trabajadores, según Bloomberg</description>
+            <description>En Microsoft no se acaba el drama: pese a sus enormes beneficios, volverá a despedir a miles de trabajadores, según Bloomberg</description>
             <pubDate>Wed Jun 18 20:12:39 2025</pubDate>
             </item>
             <item>
@@ -28,47 +70,5 @@
             <link>https://hackaday.com/2025/06/18/bhangmeterv2-answers-the-question-has-a-nuke-gone-off/</link>
             <description>BhangmeterV2 Answers The Question “Has a Nuke Gone Off?”</description>
             <pubDate>Wed Jun 18 20:00:09 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esto es lo que los clientes de Lowi piden a gritos (y que otros operadores ya ofrecen)</title>
-            <link>https://www.adslzone.net/noticias/operadores/clientes-lowi-piden-otros-operadores-ofrecen/</link>
-            <description>Esto es lo que los clientes de Lowi piden a gritos (y que otros operadores ya ofrecen)</description>
-            <pubDate>Wed Jun 18 19:56:30 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: La última actualización de Windows 11 causa más problemas de los que resuelve</title>
-            <link>https://www.adslzone.net/noticias/windows/ultima-actualizacion-windows-11-causa-problemas-0625/</link>
-            <description>La última actualización de Windows 11 causa más problemas de los que resuelve</description>
-            <pubDate>Wed Jun 18 19:32:24 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ChatGPT para WhatsApp ya permite generar imágenes: ahora sí lo tiene todo</title>
-            <link>https://www.adslzone.net/noticias/whatsapp/chatgpt-whatsapp-generador-imagenes/</link>
-            <description>ChatGPT para WhatsApp ya permite generar imágenes: ahora sí lo tiene todo</description>
-            <pubDate>Wed Jun 18 19:12:02 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Amazon tiene un as bajo la manga al poner este reloj Garmin a precio de liquidación: más de un 30 % de descuento</title>
-            <link>https://www.adslzone.net/ofertas/amazon/smartwatch-garmin-vivoactive-5-0625/</link>
-            <description>Amazon tiene un as bajo la manga al poner este reloj Garmin a precio de liquidación: más de un 30 % de descuento</description>
-            <pubDate>Wed Jun 18 19:08:05 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El caza que aún resiste en Irán más de 40 años después de su llegada. No es ruso ni iraní. Es el F-14 estadounidense</title>
-            <link>https://www.xataka.com/otros/caza-que-resiste-iran-40-anos-despues-su-llegada-no-ruso-irani-f-14-estadounidense</link>
-            <description>El caza que aún resiste en Irán más de 40 años después de su llegada. No es ruso ni iraní. Es el F-14 estadounidense</description>
-            <pubDate>Wed Jun 18 19:00:16 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En un intento desesperado por evitar el apagón, REE intentó arrancar una central de gas siete minutos antes del desastre</title>
-            <link>https://www.xataka.com/energia/intento-desesperado-evitar-apagon-ree-intento-arrancar-central-gas-siete-minutos-antes-desastre</link>
-            <description>En un intento desesperado por evitar el apagón, REE intentó arrancar una central de gas siete minutos antes del desastre</description>
-            <pubDate>Wed Jun 18 18:31:08 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Split Keyboard Uses No PCB</title>
-            <link>https://hackaday.com/2025/06/18/split-keyboard-uses-no-pcb/</link>
-            <description>Split Keyboard Uses No PCB</description>
-            <pubDate>Wed Jun 18 18:30:46 2025</pubDate>
             </item></channel>
 </rss>
