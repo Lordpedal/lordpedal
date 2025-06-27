@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Making GameCube Keyboard Controller Work with Animal Crossing</title>
+            <link>https://hackaday.com/2025/06/26/making-gamecube-keyboard-controller-work-with-animal-crossing/</link>
+            <description>Making GameCube Keyboard Controller Work with Animal Crossing</description>
+            <pubDate>Fri Jun 27 05:00:52 2025</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Grave vulnerabilidad en Konsole permite ejecutar código con solo abrir una página web</title>
+            <link>https://ubunlog.com/grave-vulnerabilidad-en-konsole-permite-ejecutar-codigo-con-solo-abrir-una-pagina-web/</link>
+            <description>Grave vulnerabilidad en Konsole permite ejecutar código con solo abrir una página web</description>
+            <pubDate>Fri Jun 27 03:42:40 2025</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: KDE Plasma 6.4: mejoras en Wayland, notificaciones, diseño y experiencia visual</title>
+            <link>https://blog.desdelinux.net/kde-plasma-6-4-mejoras-en-wayland-notificaciones-diseno-y-experiencia-visual/</link>
+            <description>KDE Plasma 6.4: mejoras en Wayland, notificaciones, diseño y experiencia visual</description>
+            <pubDate>Fri Jun 27 03:06:53 2025</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Git 2.50: mejoras en rendimiento, para repositorios grandes y mas</title>
+            <link>https://blog.desdelinux.net/git-2-50-mejoras-en-rendimiento-para-repositorios-grandes-y-mas/</link>
+            <description>Git 2.50: mejoras en rendimiento, para repositorios grandes y mas</description>
+            <pubDate>Fri Jun 27 02:51:56 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Pi Networks the Smith Chart Way</title>
+            <link>https://hackaday.com/2025/06/26/pi-networks-the-smith-chart-way/</link>
+            <description>Pi Networks the Smith Chart Way</description>
+            <pubDate>Fri Jun 27 02:00:35 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Optimizing Dust Separation for Extreme Efficiency</title>
+            <link>https://hackaday.com/2025/06/26/optimizing-dust-separation-for-extreme-efficiency/</link>
+            <description>Optimizing Dust Separation for Extreme Efficiency</description>
+            <pubDate>Thu Jun 26 23:00:58 2025</pubDate>
+            </item>
+            <item>
+            <title>Xataka: La Policía investiga si una filtración ha expuesto datos personales de Pedro Sánchez y varios ministros, según Cadena SER</title>
+            <link>https://www.xataka.com/seguridad/policia-investiga-filtracion-ha-expuesto-datos-personales-pedro-sanchez-varios-ministros-cadena-ser</link>
+            <description>La Policía investiga si una filtración ha expuesto datos personales de Pedro Sánchez y varios ministros, según Cadena SER</description>
+            <pubDate>Thu Jun 26 22:59:21 2025</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Amancio Ortega aprendió lo difícil que es entrar en el Top 10 de mayores fortunas. También ha aprendido lo fácil que es salir</title>
+            <link>https://www.xataka.com/empresas-y-economia/amancio-ortega-aprendio-dificil-que-entrar-al-top-10-mayores-fortunas-tambien-ha-aprendido-facil-que-salir</link>
+            <description>Amancio Ortega aprendió lo difícil que es entrar en el Top 10 de mayores fortunas. También ha aprendido lo fácil que es salir</description>
+            <pubDate>Thu Jun 26 22:02:24 2025</pubDate>
+            </item>
+            <item>
             <title>EsGeeks: Cómo Inutilizar Linux (dañar un sistema Linux) y Cómo Protegerte</title>
             <link>https://esgeeks.com/como-inutilizar-linux/</link>
             <description>Cómo Inutilizar Linux (dañar un sistema Linux) y Cómo Protegerte</description>
@@ -22,53 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/usuarios-movistar-plus-intrigados-llegara-finalmente-canal-4k/</link>
             <description>Los usuarios de Movistar Plus+ siguen intrigados: ¿Llegará finalmente este canal a 4K?</description>
             <pubDate>Thu Jun 26 19:58:44 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Netflix renueva la serie más polémica y los usuarios estallan en redes</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/netflix-renueva-serie-polemica-0625/</link>
-            <description>Netflix renueva la serie más polémica y los usuarios estallan en redes</description>
-            <pubDate>Thu Jun 26 19:33:40 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: AliExpress hace un descuento histórico en una de las mejores consolas con Linux y miles de juegos</title>
-            <link>https://www.adslzone.net/ofertas/mix/aliexpress-consola-mini-anbernic-rg35xx-2024-0625/</link>
-            <description>AliExpress hace un descuento histórico en una de las mejores consolas con Linux y miles de juegos</description>
-            <pubDate>Thu Jun 26 19:04:34 2025</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Sin libros escaneados (y descargados con torrent) no tendríamos IAs: una batalla legal está sacando a la luz cómo se han entrenado</title>
-            <link>https://www.genbeta.com/inteligencia-artificial/libros-escaneados-descargados-torrent-no-tendriamos-ias-batalla-legal-esta-sacando-a-luz-como-se-han-entrenado</link>
-            <description>Sin libros escaneados (y descargados con torrent) no tendríamos IAs: una batalla legal está sacando a la luz cómo se han entrenado</description>
-            <pubDate>Thu Jun 26 18:50:03 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Así es la oferta de Vodafone para tener Internet 5G en tu casa de verano por solo 15€</title>
-            <link>https://www.adslzone.net/noticias/operadores/vodafone-segundas-residencias-2025/</link>
-            <description>Así es la oferta de Vodafone para tener Internet 5G en tu casa de verano por solo 15€</description>
-            <pubDate>Thu Jun 26 18:45:01 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Barcelona probó una renta básica de 1.297 euros al mes y el 22% dejó de trabajar: la prueba fue un éxito</title>
-            <link>https://www.xataka.com/empresas-y-economia/barcelona-asigno-renta-basica-1-297-euros-al-mes-22-dejo-trabajar-prueba-fue-exito</link>
-            <description>Barcelona probó una renta básica de 1.297 euros al mes y el 22% dejó de trabajar: la prueba fue un éxito</description>
-            <pubDate>Thu Jun 26 18:34:55 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Rust Drives a Linux USB Device</title>
-            <link>https://hackaday.com/2025/06/26/rust-drives-a-linux-usb-device/</link>
-            <description>Rust Drives a Linux USB Device</description>
-            <pubDate>Thu Jun 26 18:30:00 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Presentar la Renta fuera de plazo: sanciones y recargos que deberías conocer</title>
-            <link>https://www.adslzone.net/noticias/fintech/declaracion-renta-no-presentada-consecuencias/</link>
-            <description>Presentar la Renta fuera de plazo: sanciones y recargos que deberías conocer</description>
-            <pubDate>Thu Jun 26 18:02:25 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China no intervino en la guerra para proteger el petróleo iraní. Porque su plan es más largo que el conflicto</title>
-            <link>https://www.xataka.com/energia/china-no-intervino-guerra-para-proteger-petroleo-irani-porque-su-plan-largo-que-conflicto</link>
-            <description>China no intervino en la guerra para proteger el petróleo iraní. Porque su plan es más largo que el conflicto</description>
-            <pubDate>Thu Jun 26 18:00:25 2025</pubDate>
             </item></channel>
 </rss>
