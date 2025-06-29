@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Open-Source Knob Packed with Precision</title>
+            <link>https://hackaday.com/2025/06/28/open-source-knob-packed-with-precision/</link>
+            <description>Open-Source Knob Packed with Precision</description>
+            <pubDate>Sun Jun 29 05:00:50 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reading The Chip In Your Passport</title>
+            <link>https://hackaday.com/2025/06/28/reading-the-chip-in-your-passport/</link>
+            <description>Reading The Chip In Your Passport</description>
+            <pubDate>Sun Jun 29 02:00:24 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Ancient SoundBlaster Cards Just Got A Driver Update</title>
+            <link>https://hackaday.com/2025/06/28/ancient-soundblaster-cards-just-got-a-driver-update/</link>
+            <description>Ancient SoundBlaster Cards Just Got A Driver Update</description>
+            <pubDate>Sat Jun 28 23:00:17 2025</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Making Optical Glass from Ceran Stovetops</title>
             <link>https://hackaday.com/2025/06/28/making-optical-glass-from-ceran-stovetops/</link>
             <description>Making Optical Glass from Ceran Stovetops</description>
@@ -36,15 +54,15 @@
             <pubDate>Sat Jun 28 17:30:05 2025</pubDate>
             </item>
             <item>
-            <title>RedesZone : Portal sobre telecomunicaciones, redes y ciberseguridad: Cada cuánto tiempo conviene cambiar los repetidores Wi-Fi que tengas en casa</title>
-            <link>https://www.redeszone.net/noticias/wifi/cuando-cambiar-repetidores-wifi/</link>
-            <description>Cada cuánto tiempo conviene cambiar los repetidores Wi-Fi que tengas en casa</description>
-            <pubDate>Sat Jun 28 17:03:02 2025</pubDate>
-            </item>
-            <item>
             <title>ADSLZone: Vodafone, Movistar y MasOrange logran un nuevo hito para la industria</title>
             <link>https://www.adslzone.net/noticias/operadores/vodafone-movistar-masorange-nuevo-hito/</link>
             <description>Vodafone, Movistar y MasOrange logran un nuevo hito para la industria</description>
+            <pubDate>Sat Jun 28 17:03:02 2025</pubDate>
+            </item>
+            <item>
+            <title>RedesZone : Portal sobre telecomunicaciones, redes y ciberseguridad: Cada cuánto tiempo conviene cambiar los repetidores Wi-Fi que tengas en casa</title>
+            <link>https://www.redeszone.net/noticias/wifi/cuando-cambiar-repetidores-wifi/</link>
+            <description>Cada cuánto tiempo conviene cambiar los repetidores Wi-Fi que tengas en casa</description>
             <pubDate>Sat Jun 28 17:03:02 2025</pubDate>
             </item>
             <item>
@@ -52,23 +70,5 @@
             <link>https://www.xataka.com/movilidad/reddit-creen-haber-dado-parking-perfecto-forma-espina-pez-para-60-coches-no-siempre-funciona</link>
             <description>Los coches son cada vez más grandes y las plazas no crecen. Hay quien tiene una solución: el parking 'espina de pez'</description>
             <pubDate>Sat Jun 28 17:00:05 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: BeyBlades Made Ever More Dangerous With 3D Printing</title>
-            <link>https://hackaday.com/2025/06/28/beyblades-made-ever-more-dangerous-with-3d-printing/</link>
-            <description>BeyBlades Made Ever More Dangerous With 3D Printing</description>
-            <pubDate>Sat Jun 28 17:00:00 2025</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: Salida de la Sombra: 6 Comandos Linux poco Conocidos</title>
-            <link>https://esgeeks.com/comandos-linux-poco-conocidos/</link>
-            <description>Salida de la Sombra: 6 Comandos Linux poco Conocidos</description>
-            <pubDate>Sat Jun 28 16:42:22 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El ganchillo era un refugio tranquilo alejado del estrés y de la sobreinformación de internet. Hasta que llegó la IA</title>
-            <link>https://www.xataka.com/robotica-e-ia/hay-gente-que-esta-ganando-dinero-vendiendo-patrones-ganchillo-imposibles-tejer-patrones-hechos-ia</link>
-            <description>El ganchillo era un refugio tranquilo alejado del estrés y de la sobreinformación de internet. Hasta que llegó la IA</description>
-            <pubDate>Sat Jun 28 16:30:05 2025</pubDate>
             </item></channel>
 </rss>
