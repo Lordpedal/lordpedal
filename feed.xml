@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: GIMP 3.2 promete un nuevo modo de pintura y compatibilidad con la importación de patrones de Photoshop</title>
+            <link>https://www.linuxparty.es/24-gimp/12544-gimp-3-2-promete-un-nuevo-modo-de-pintura-y-compatibilidad-con-la-importaci%C3%B3n-de-patrones-de-photoshop.html</link>
+            <description>GIMP 3.2 promete un nuevo modo de pintura y compatibilidad con la importación de patrones de Photoshop</description>
+            <pubDate>Mon Jun 30 06:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Switching from Desktop Linux to FreeBSD</title>
+            <link>https://hackaday.com/2025/06/29/switching-from-desktop-linux-to-freebsd/</link>
+            <description>Switching from Desktop Linux to FreeBSD</description>
+            <pubDate>Mon Jun 30 05:00:41 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Break The Air Gap With Ultrasound</title>
+            <link>https://hackaday.com/2025/06/29/break-the-air-gap-with-ultrasound/</link>
+            <description>Break The Air Gap With Ultrasound</description>
+            <pubDate>Mon Jun 30 02:00:53 2025</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Aplicaciones de accesibilidad para Linux</title>
+            <link>https://ubunlog.com/aplicaciones-de-accesibilidad-para-linux/</link>
+            <description>Aplicaciones de accesibilidad para Linux</description>
+            <pubDate>Mon Jun 30 01:04:13 2025</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Uso de la cámara web en Linux</title>
+            <link>https://ubunlog.com/uso-de-la-camara-web-en-linux/</link>
+            <description>Uso de la cámara web en Linux</description>
+            <pubDate>Sun Jun 29 23:35:43 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: June 29, 2025</title>
+            <link>https://hackaday.com/2025/06/29/hackaday-links-june-29-2025/</link>
+            <description>Hackaday Links: June 29, 2025</description>
+            <pubDate>Sun Jun 29 23:00:46 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Rename Audio Devices on Ubuntu with this ‘Simple’ App</title>
+            <link>https://www.omgubuntu.co.uk/2025/06/rename-audio-devices-ubuntu-linux-pipewire</link>
+            <description>Rename Audio Devices on Ubuntu with this ‘Simple’ App</description>
+            <pubDate>Sun Jun 29 22:40:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: De Windows a Linux: Eligir aplicaciones para diseño</title>
+            <link>https://ubunlog.com/de-windows-a-linux-eligir-aplicaciones-para-diseno/</link>
+            <description>De Windows a Linux: Eligir aplicaciones para diseño</description>
+            <pubDate>Sun Jun 29 22:31:05 2025</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Taiwán cree haber encontrado el mítico Planeta 9 del sistema solar. En vez de buscar su luz, ha estado buscando su calor</title>
+            <link>https://www.xataka.com/espacio/taiwan-cree-haber-encontrado-mitico-planeta-9-sistema-solar-vez-buscar-su-luz-ha-estado-buscando-su-calor</link>
+            <description>Taiwán cree haber encontrado el mítico Planeta 9 del sistema solar. En vez de buscar su luz, ha estado buscando su calor</description>
+            <pubDate>Sun Jun 29 22:02:05 2025</pubDate>
+            </item>
+            <item>
             <title>hackplayers: Motores de búsqueda que usan los hackers (y profesionales de la ciberseguridad)</title>
             <link>https://www.hackplayers.com/2025/06/motores-de-busqueda-hackers.html</link>
             <description>Motores de búsqueda que usan los hackers (y profesionales de la ciberseguridad)</description>
@@ -16,59 +70,5 @@
             <link>https://www.hackplayers.com/2025/06/cve-2025-3699-Mitsubishi-Electric.html</link>
             <description>CVE-2025-3699: la puerta trasera (no intencionada) en los HVAC de Mitsubishi Electric</description>
             <pubDate>Sun Jun 29 21:07:17 2025</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Linus Torvalds Elimina Bcachefs del Kernel Linux 6.17 tras Conflicto con su Desarrollador Principal</title>
-            <link>https://nksistemas.com/linus-torvalds-elimina-bcachefs-del-kernel-linux-6-17-tras-conflicto-con-su-desarrollador-principal/</link>
-            <description>Linus Torvalds Elimina Bcachefs del Kernel Linux 6.17 tras Conflicto con su Desarrollador Principal</description>
-            <pubDate>Sun Jun 29 20:29:03 2025</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: VirtualBox 7.2 Beta 2 Llega con Soporte para Linux 6.16 y Más Mejoras para Windows en ARM</title>
-            <link>https://nksistemas.com/virtualbox-7-2-beta-2-llega-con-soporte-para-linux-6-16-y-mas-mejoras-para-windows-en-arm/</link>
-            <description>VirtualBox 7.2 Beta 2 Llega con Soporte para Linux 6.16 y Más Mejoras para Windows en ARM</description>
-            <pubDate>Sun Jun 29 20:27:46 2025</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: OBS Studio 31.0.4: Actualización Crítica para Evitar Cierres Inesperados</title>
-            <link>https://nksistemas.com/obs-studio-31-0-4-actualizacion-critica-para-evitar-cierres-inesperados/</link>
-            <description>OBS Studio 31.0.4: Actualización Crítica para Evitar Cierres Inesperados</description>
-            <pubDate>Sun Jun 29 20:26:32 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Windows 95 on PlayStation 2 Works as Well as You Expected</title>
-            <link>https://hackaday.com/2025/06/29/windows-95-on-playstation-2-works-as-well-as-you-expected/</link>
-            <description>Windows 95 on PlayStation 2 Works as Well as You Expected</description>
-            <pubDate>Sun Jun 29 20:00:30 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Este pequeño ajuste en tu router puede blindar tu red contra hackers</title>
-            <link>https://www.adslzone.net/noticias/seguridad/ajuste-router-wifi-contra-hackers/</link>
-            <description>Este pequeño ajuste en tu router puede blindar tu red contra hackers</description>
-            <pubDate>Sun Jun 29 19:02:07 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Ferrari ha ganado en tierra, pero ahora apunta al océano. Su nuevo reto es un barco que funciona sin una gota de combustible</title>
-            <link>https://www.xataka.com/transporte/ferrari-ha-ganado-tierra-ahora-apunta-al-oceano-su-nuevo-reto-barco-que-funciona-gota-combustible</link>
-            <description>Ferrari ha ganado en tierra, pero ahora apunta al océano. Su nuevo reto es un barco que funciona sin una gota de combustible</description>
-            <pubDate>Sun Jun 29 19:00:05 2025</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: Ingeniería Inversa: ¿Qué es y Para qué Sirve?</title>
-            <link>https://esgeeks.com/ingenieria-inversa-reverse-engineering/</link>
-            <description>Ingeniería Inversa: ¿Qué es y Para qué Sirve?</description>
-            <pubDate>Sun Jun 29 18:49:45 2025</pubDate>
-            </item>
-            <item>
-            <title>DistritoTux: Aprende Terminal de Linux Desde Cero, Video 59, Playground con el comando find</title>
-            <link>https://www.distritotux.cl/2025/06/aprende-terminal-de-linux-desde-cero_29.html</link>
-            <description>Aprende Terminal de Linux Desde Cero, Video 59, Playground con el comando find</description>
-            <pubDate>Sun Jun 29 18:25:07 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Puedo cambiar de eSIM a SIM física sin cambiar de número?</title>
-            <link>https://www.adslzone.net/esim/te-interesa/cambiar-esim-sim-sin-cambiar-numero/</link>
-            <description>¿Puedo cambiar de eSIM a SIM física sin cambiar de número?</description>
-            <pubDate>Sun Jun 29 18:01:27 2025</pubDate>
             </item></channel>
 </rss>
