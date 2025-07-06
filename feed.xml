@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: A Look Through the Eye of a Bowling Ball</title>
+            <link>https://hackaday.com/2025/07/05/a-look-through-the-eye-of-a-bowling-ball/</link>
+            <description>A Look Through the Eye of a Bowling Ball</description>
+            <pubDate>Sun Jul  6 05:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Fixing 'failed to synchronize all databases' Pacman Error in Arch Linux</title>
+            <link>https://itsfoss.com/failed-to-synchronize-all-databases/</link>
+            <description>Fixing 'failed to synchronize all databases' Pacman Error in Arch Linux</description>
+            <pubDate>Sun Jul  6 04:43:46 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Shadow Clock Shows The Time On The Wall</title>
+            <link>https://hackaday.com/2025/07/05/shadow-clock-shows-the-time-on-the-wall/</link>
+            <description>Shadow Clock Shows The Time On The Wall</description>
+            <pubDate>Sun Jul  6 02:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Daisy chain of hacks lets new Arm board run Doom</title>
+            <link>https://hackaday.com/2025/07/05/daisy-chain-of-hacks-lets-new-arm-board-run-doom/</link>
+            <description>Daisy chain of hacks lets new Arm board run Doom</description>
+            <pubDate>Sat Jul  5 23:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Gradia Screenshot Tool Just Keeps Getting Better</title>
+            <link>https://www.omgubuntu.co.uk/2025/07/gradia-screenshot-tool-adds-new-features</link>
+            <description>Gradia Screenshot Tool Just Keeps Getting Better</description>
+            <pubDate>Sat Jul  5 22:59:00 2025</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Mapping Tool Helps Identify Usable Land For Building</title>
             <link>https://hackaday.com/2025/07/05/mapping-tool-helps-identify-usable-land-for-building/</link>
             <description>Mapping Tool Helps Identify Usable Land For Building</description>
@@ -40,35 +70,5 @@
             <link>https://www.redeszone.net/noticias/redes/cuello-botella-red-ethernet-motivos/</link>
             <description>¿Podría haber cuello de botella en tu red Ethernet y tener peor Internet? Estos son los motivos</description>
             <pubDate>Sat Jul  5 17:16:07 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: ¿Hay dos canales de Movistar Plus+ gratis en Pluto TV? Esto lo explica</title>
-            <link>https://www.adslzone.net/noticias/operadores/dos-canales-movistar-plus-disponibles-gratis-pluto-tv/</link>
-            <description>¿Hay dos canales de Movistar Plus+ gratis en Pluto TV? Esto lo explica</description>
-            <pubDate>Sat Jul  5 17:03:08 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Menos aleatorio de lo que parece: lo que sabemos sobre los riesgos de sufrir un ictus siendo joven</title>
-            <link>https://www.xataka.com/medicina-y-salud/aleatorio-que-parece-que-sabemos-riesgos-sufrir-ictus-siendo-joven</link>
-            <description>Menos aleatorio de lo que parece: lo que sabemos sobre los riesgos de sufrir un ictus siendo joven</description>
-            <pubDate>Sat Jul  5 17:00:12 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: AI Is Only Coming For Fun Jobs</title>
-            <link>https://hackaday.com/2025/07/05/ai-is-only-coming-for-fun-jobs/</link>
-            <description>AI Is Only Coming For Fun Jobs</description>
-            <pubDate>Sat Jul  5 17:00:00 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En EEUU hay una isla que lleva más de un siglo prohibiendo el uso de cualquier vehículo a motor. Y le va bastante bien</title>
-            <link>https://www.xataka.com/movilidad/eeuu-hay-isla-que-lleva-siglo-prohibiendo-coches-sigue-usando-caballos-no-le-va-nada-mal</link>
-            <description>En EEUU hay una isla que lleva más de un siglo prohibiendo el uso de cualquier vehículo a motor. Y le va bastante bien</description>
-            <pubDate>Sat Jul  5 16:30:12 2025</pubDate>
-            </item>
-            <item>
-            <title>EsGeeks: El Mejor Software para Monitorear Actividad del Sistema Windows</title>
-            <link>https://esgeeks.com/mejor-software-monitorear-actividad-windows/</link>
-            <description>El Mejor Software para Monitorear Actividad del Sistema Windows</description>
-            <pubDate>Sat Jul  5 16:12:11 2025</pubDate>
             </item></channel>
 </rss>
