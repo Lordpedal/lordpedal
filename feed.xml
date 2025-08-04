@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Reverse-Engineering the TDA7000 FM Radio Receiver IC</title>
+            <link>https://hackaday.com/2025/08/03/reverse-engineering-the-tda7000-fm-radio-receiver-ic/</link>
+            <description>Reverse-Engineering the TDA7000 FM Radio Receiver IC</description>
+            <pubDate>Mon Aug  4 05:00:14 2025</pubDate>
+            </item>
+            <item>
+            <title>El Blog de Lázaro: [Artículo]: Top 10 temas para Hugo más descargados</title>
+            <link>https://elblogdelazaro.org/top-10-temas-para-hugo-m%C3%A1s-descargados/</link>
+            <description>[Artículo]: Top 10 temas para Hugo más descargados</description>
+            <pubDate>Mon Aug  4 04:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Open-Source, Flexible E-Reader</title>
+            <link>https://hackaday.com/2025/08/03/open-source-flexible-e-reader/</link>
+            <description>Open-Source, Flexible E-Reader</description>
+            <pubDate>Mon Aug  4 02:00:58 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: August 3, 2025</title>
+            <link>https://hackaday.com/2025/08/03/hackaday-links-august-3-2025/</link>
+            <description>Hackaday Links: August 3, 2025</description>
+            <pubDate>Sun Aug  3 23:00:39 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Newelle, a ‘Virtual Assistant’ for GNOME, Hits Version 1.0</title>
+            <link>https://www.omgubuntu.co.uk/2025/08/newelle-ai-assistant-ubuntu-linux-desktop</link>
+            <description>Newelle, a ‘Virtual Assistant’ for GNOME, Hits Version 1.0</description>
+            <pubDate>Sun Aug  3 22:59:00 2025</pubDate>
+            </item>
+            <item>
+            <title>NKSistemas: Linux 6.17 profundiza su soporte para Rust: más controladores y abstracciones seguras</title>
+            <link>https://nksistemas.com/linux-6-17-profundiza-su-soporte-para-rust-mas-controladores-y-abstracciones-seguras/</link>
+            <description>Linux 6.17 profundiza su soporte para Rust: más controladores y abstracciones seguras</description>
+            <pubDate>Sun Aug  3 22:02:58 2025</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Repairing An Obscure Apple II Clone</title>
             <link>https://hackaday.com/2025/08/03/repairing-an-obscure-apple-ii-clone/</link>
             <description>Repairing An Obscure Apple II Clone</description>
@@ -34,41 +70,5 @@
             <link>https://www.xataka.com/espacio/esa-se-prepara-para-salto-hipersonico-invictus-su-carta-para-competir-china-eeuu-vuelos-extremos</link>
             <description>La ESA se prepara para un salto hipersónico. Invictus es su carta para competir con China y EEUU en vuelos extremos</description>
             <pubDate>Sun Aug  3 19:00:37 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Siempre hemos creído que nos divorciamos más hoy que en tiempos de nuestros padres. La ciencia tiene algo que decir</title>
-            <link>https://www.xataka.com/magnet/siempre-hemos-creido-que-nos-divorciamos-hoy-que-tiempos-nuestros-padres-ciencia-tiene-algo-que-decir</link>
-            <description>Siempre hemos creído que nos divorciamos más hoy que en tiempos de nuestros padres. La ciencia tiene algo que decir</description>
-            <pubDate>Sun Aug  3 18:30:37 2025</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: KDE Plasma Adding Auto Day/Night Theme Switching</title>
-            <link>https://www.omgubuntu.co.uk/2025/08/kde-plasma-6-5-auto-change-theme-night</link>
-            <description>KDE Plasma Adding Auto Day/Night Theme Switching</description>
-            <pubDate>Sun Aug  3 18:06:05 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Conecta tu PC a cualquier televisor sin HDMI: solo necesitas este truco</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/conecta-pc-televisor-sin-hdmi/</link>
-            <description>Conecta tu PC a cualquier televisor sin HDMI: solo necesitas este truco</description>
-            <pubDate>Sun Aug  3 18:02:13 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El WiFi y las redes móviles están dejando "ciegos" a los radiotelescopios: es un problema para todo el planeta</title>
-            <link>https://www.xataka.com/espacio/wifi-redes-moviles-estan-dejando-ciegos-a-radiotelescopios-problema-porque-ayudan-a-ubicarnos-universo</link>
-            <description>El WiFi y las redes móviles están dejando "ciegos" a los radiotelescopios: es un problema para todo el planeta</description>
-            <pubDate>Sun Aug  3 18:00:37 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hertz contrató una empresa de IA para que sus clientes se sintieran seguros al devolver los coches. Están más inseguros que nunca</title>
-            <link>https://www.xataka.com/movilidad/hertz-contrato-empresa-ia-sus-clientes-se-sintieran-seguros-al-devolver-coches-tiene-a-sus-clientes-unas</link>
-            <description>Hertz contrató una empresa de IA para que sus clientes se sintieran seguros al devolver los coches. Están más inseguros que nunca</description>
-            <pubDate>Sun Aug  3 17:30:37 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Un canal de la TDT va a revolucionar su programación y cambiar por completo</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/canal-tdt-revolucionar-programacion-cambiar/</link>
-            <description>Un canal de la TDT va a revolucionar su programación y cambiar por completo</description>
-            <pubDate>Sun Aug  3 17:06:39 2025</pubDate>
             </item></channel>
 </rss>
