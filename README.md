@@ -7,6 +7,7 @@
 
 ### Overclock Server: *Últimos artículos*
 
+- [Debian 13 Trixie: Servidor PC](https://lordpedal.github.io/gnu/linux/debian-13-servidor/)
 - [Debian 12 Bookworm: Servidor PC](https://lordpedal.github.io/gnu/linux/debian-12-servidor/)
 - [Navidrome: Docker](https://lordpedal.github.io/gnu/linux/docker/navidrome-docker/)
 - [NPM GoAccess Addon: Docker](https://lordpedal.github.io/gnu/linux/docker/npmgo-docker/)
