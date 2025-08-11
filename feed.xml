@@ -6,10 +6,52 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>ADSLZone: El detalle de la ley que explica por qué Hacienda todavía no te ha devuelto tu dinero</title>
+            <link>https://www.adslzone.net/noticias/fintech/motivos-hacienda-no-devuelve-renta/</link>
+            <description>El detalle de la ley que explica por qué Hacienda todavía no te ha devuelto tu dinero</description>
+            <pubDate>Mon Aug 11 05:03:19 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Amiga Programming in 2025 with AmiBlitz</title>
+            <link>https://hackaday.com/2025/08/10/amiga-programming-in-2025-with-amiblitz/</link>
+            <description>Amiga Programming in 2025 with AmiBlitz</description>
+            <pubDate>Mon Aug 11 05:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>hackplayers: Simulación reto OPC UA (Defcon 31)</title>
+            <link>https://www.hackplayers.com/2025/08/simulacion-reto-opc-ua-defcon-31.html</link>
+            <description>Simulación reto OPC UA (Defcon 31)</description>
+            <pubDate>Mon Aug 11 00:27:28 2025</pubDate>
+            </item>
+            <item>
+            <title>NKSistemas: Solución Definitiva: Error «ModuleNotFoundError: No module named ‘ansible.module_utils.six.moves'» en Ansible</title>
+            <link>https://nksistemas.com/solucion-definitiva-error-modulenotfounderror-no-module-named-ansible-module_utils-six-moves-en-ansible/</link>
+            <description>Solución Definitiva: Error «ModuleNotFoundError: No module named ‘ansible.module_utils.six.moves'» en Ansible</description>
+            <pubDate>Sun Aug 10 23:25:48 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: August 10, 2025</title>
+            <link>https://hackaday.com/2025/08/10/hackaday-links-august-10-2025/</link>
+            <description>Hackaday Links: August 10, 2025</description>
+            <pubDate>Sun Aug 10 23:00:51 2025</pubDate>
+            </item>
+            <item>
             <title>hackplayers: CVE-2025-53786 – Anatomía de una escalada de privilegios silenciosa en entornos híbridos de Microsoft Exchange</title>
             <link>https://www.hackplayers.com/2025/08/cve-2025-53786-exchange-entornos-hibridos.html</link>
             <description>CVE-2025-53786 – Anatomía de una escalada de privilegios silenciosa en entornos híbridos de Microsoft Exchange</description>
             <pubDate>Sun Aug 10 21:15:32 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Mozilla Slammed Over Battery-Draining “Garbage” AI in Firefox</title>
+            <link>https://www.omgubuntu.co.uk/2025/08/firefox-high-cpu-usage-inference-disable</link>
+            <description>Mozilla Slammed Over Battery-Draining “Garbage” AI in Firefox</description>
+            <pubDate>Sun Aug 10 20:58:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 2025 One Hertz Challenge: Using Industrial Relays to Make a Flasher</title>
+            <link>https://hackaday.com/2025/08/10/2025-one-hertz-challenge-using-industrial-relays-to-make-a-flasher/</link>
+            <description>2025 One Hertz Challenge: Using Industrial Relays to Make a Flasher</description>
+            <pubDate>Sun Aug 10 20:00:02 2025</pubDate>
             </item>
             <item>
             <title>The Hacker News: New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP</title>
@@ -28,47 +70,5 @@
             <link>https://www.adslzone.net/noticias/tecnologia/antena-comunitaria-casa-familiar-requisitos-tdt/</link>
             <description>¿Tienes antena comunitaria o casa unifamiliar? Esto es lo que necesitas para ver la TDT</description>
             <pubDate>Sun Aug 10 18:57:18 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Este ajuste de HBO Max desactiva la reproducción automática del siguiente capítulo</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/hbo-max-desactiva-reproduccion-automatica/</link>
-            <description>Este ajuste de HBO Max desactiva la reproducción automática del siguiente capítulo</description>
-            <pubDate>Sun Aug 10 18:03:57 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La Smart Band 10 puede parecer más de lo mismo. Tras un mes en la muñeca, queda claro por qué Xiaomi ha optado por repetir</title>
-            <link>https://www.xataka.com/wearables/smart-band-10-puede-parecer-mes-muneca-queda-claro-que-xiaomi-ha-optado-repetir</link>
-            <description>La Smart Band 10 puede parecer más de lo mismo. Tras un mes en la muñeca, queda claro por qué Xiaomi ha optado por repetir</description>
-            <pubDate>Sun Aug 10 18:00:09 2025</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Repositorios oficiales para Debian 13 «Trixie»</title>
-            <link>https://nksistemas.com/repositorios-oficiales-para-debian-13-trixie/</link>
-            <description>Repositorios oficiales para Debian 13 «Trixie»</description>
-            <pubDate>Sun Aug 10 17:40:32 2025</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Debian 13 «Trixie» ya está disponible: Soporte para RISC-V, APT 3.0 y más</title>
-            <link>https://nksistemas.com/debian-13-trixie-ya-esta-disponible-soporte-para-risc-v-apt-3-0-y-mas/</link>
-            <description>Debian 13 «Trixie» ya está disponible: Soporte para RISC-V, APT 3.0 y más</description>
-            <pubDate>Sun Aug 10 17:31:49 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Durante la Segunda Guerra Mundial, Australia envió un ornitorrinco a Churchill. Murió en el viaje y 82 años después sabemos por qué</title>
-            <link>https://www.xataka.com/magnet/durante-segunda-guerra-mundial-australia-envio-ornitorrinco-a-churchill-murio-viaje-82-anos-despues-sabemos-que</link>
-            <description>Durante la Segunda Guerra Mundial, Australia envió un ornitorrinco a Churchill. Murió en el viaje y 82 años después sabemos por qué</description>
-            <pubDate>Sun Aug 10 17:30:08 2025</pubDate>
-            </item>
-            <item>
-            <title>Lógica de Mhyst: El lado oscuro de la web moderna</title>
-            <link>https://logicademhyst.blogspot.com/2025/08/el-lado-oscuro-de-la-web-moderna.html</link>
-            <description>El lado oscuro de la web moderna</description>
-            <pubDate>Sun Aug 10 17:22:54 2025</pubDate>
-            </item>
-            <item>
-            <title>RedesZone : Portal sobre telecomunicaciones, redes y ciberseguridad: Si haces esto día a día con tus claves, necesitas instalar urgentemente un gestor de contraseñas</title>
-            <link>https://www.redeszone.net/noticias/seguridad/senales-instalar-gestor-contrasenas/</link>
-            <description>Si haces esto día a día con tus claves, necesitas instalar urgentemente un gestor de contraseñas</description>
-            <pubDate>Sun Aug 10 17:06:24 2025</pubDate>
             </item></channel>
 </rss>
