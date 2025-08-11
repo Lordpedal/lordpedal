@@ -8,8 +8,9 @@
 ### Overclock Server: *Últimos artículos*
 
 - [Debian 13 Trixie: Servidor PC](https://lordpedal.github.io/gnu/linux/servidor/debian-13-servidor/)
+- [Mazanoke: Docker](https://lordpedal.github.io/gnu/linux/docker/mazanoke-docker/)
+- [Omnitools: Docker](https://lordpedal.github.io/gnu/linux/docker/omnitools-docker/)
+- [it-tools: Docker](https://lordpedal.github.io/gnu/linux/docker/ittools-docker/)
 - [Debian 12 Bookworm: Servidor PC](https://lordpedal.github.io/gnu/linux/servidor/debian-12-servidor/)
-- [Navidrome: Docker](https://lordpedal.github.io/gnu/linux/docker/navidrome-docker/)
-- [NPM GoAccess Addon: Docker](https://lordpedal.github.io/gnu/linux/docker/npmgo-docker/)
 
 > ... la culminación de un fin es el comienzo de una realidad.
