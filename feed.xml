@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Lógica de Mhyst: Google: Y vuelta la burra al trigo</title>
+            <link>https://logicademhyst.blogspot.com/2025/08/google-y-vuelta-la-burra-al-trigo.html</link>
+            <description>Google: Y vuelta la burra al trigo</description>
+            <pubDate>Sun Aug 31 05:34:50 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Latest Projects from Cornell’s ECE 4760/5730</title>
+            <link>https://hackaday.com/2025/08/30/the-latest-projects-from-cornells-ece-4760-5730/</link>
+            <description>The Latest Projects from Cornell’s ECE 4760/5730</description>
+            <pubDate>Sun Aug 31 05:00:04 2025</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Agosto 2025: Lo bueno, lo malo, lo interesante y más dentro del Linuxverso</title>
+            <link>https://blog.desdelinux.net/agosto-2025-bueno-malo-interesante-linuxverso/</link>
+            <description>Agosto 2025: Lo bueno, lo malo, lo interesante y más dentro del Linuxverso</description>
+            <pubDate>Sun Aug 31 04:00:57 2025</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Lanzamientos de Distros en agosto 2025: PorteuX 2.2, openSUSE 16.0 RC y Ubuntu 24.04.3</title>
+            <link>https://ubunlog.com/lanzamientos-distros-agosto-2025/</link>
+            <description>Lanzamientos de Distros en agosto 2025: PorteuX 2.2, openSUSE 16.0 RC y Ubuntu 24.04.3</description>
+            <pubDate>Sun Aug 31 04:00:05 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Queramin is a QWERTY Theremin with a C-64 Heart</title>
+            <link>https://hackaday.com/2025/08/30/the-queramin-is-a-qwerty-theremin-with-a-c-64-heart/</link>
+            <description>The Queramin is a QWERTY Theremin with a C-64 Heart</description>
+            <pubDate>Sun Aug 31 02:00:49 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Does it Make Sense to Upgrade a Prusa MK4S to a Core One?</title>
+            <link>https://hackaday.com/2025/08/30/does-it-make-sense-to-upgrade-a-prusa-mk4s-to-a-core-one/</link>
+            <description>Does it Make Sense to Upgrade a Prusa MK4S to a Core One?</description>
+            <pubDate>Sat Aug 30 23:00:56 2025</pubDate>
+            </item>
+            <item>
             <title>Linux Adictos: Steam Deck 2: ventana de lanzamiento y pistas oficiales</title>
             <link>https://www.linuxadictos.com/steam-deck-2-ventana-de-lanzamiento-y-pistas-oficiales.html</link>
             <description>Steam Deck 2: ventana de lanzamiento y pistas oficiales</description>
@@ -34,41 +70,5 @@
             <link>https://nksistemas.com/wine-10-14-llega-con-mejoras-en-graficos-red-y-correcciones-de-bugs/</link>
             <description>Wine 10.14 llega con mejoras en gráficos, red y correcciones de bugs</description>
             <pubDate>Sat Aug 30 19:14:29 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Mi pesadilla con Apple: así fue intentar cambio mi Apple Watch defectuoso este verano</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/cambio-apple-watch-mediamarkt/</link>
-            <description>Mi pesadilla con Apple: así fue intentar cambio mi Apple Watch defectuoso este verano</description>
-            <pubDate>Sat Aug 30 19:06:23 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Esto es lo que realmente pasa cuando aceptamos las cookies de una web, ¿estamos dando nuestros datos?</title>
-            <link>https://www.adslzone.net/noticias/internet/aceptar-cookies-consecuencias-reales/</link>
-            <description>Esto es lo que realmente pasa cuando aceptamos las cookies de una web, ¿estamos dando nuestros datos?</description>
-            <pubDate>Sat Aug 30 18:08:05 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Stellantis espera un barco con los brazos abiertos. Uno cargado de coches chinos para asaltar los SUV de 30.000 euros</title>
-            <link>https://www.xataka.com/movilidad/stellantis-espera-barco-brazos-abiertos-uno-cargado-coches-chinos-para-asaltar-suv-30-000-euros</link>
-            <description>Stellantis espera un barco con los brazos abiertos. Uno cargado de coches chinos para asaltar los SUV de 30.000 euros</description>
-            <pubDate>Sat Aug 30 18:01:23 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Una presa, dos embalses y miles de millones de litros de agua: cómo Granada quiere convertirse en la gran batería del sur de España</title>
-            <link>https://www.xataka.com/energia/presa-dos-embalses-miles-millones-litros-agua-como-granada-quiere-convertirse-gran-bateria-sur-espana</link>
-            <description>Una presa, dos embalses y miles de millones de litros de agua: cómo Granada quiere convertirse en la gran batería del sur de España</description>
-            <pubDate>Sat Aug 30 17:31:22 2025</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Conceptos básicos acerca de Linux</title>
-            <link>https://ubunlog.com/conceptos-basicos-acerca-de-linux/</link>
-            <description>Conceptos básicos acerca de Linux</description>
-            <pubDate>Sat Aug 30 17:29:57 2025</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Paquetes esenciales a instalar en Debian 13 «Trixie» y otras basadas en ella</title>
-            <link>https://blog.desdelinux.net/paquetes-esenciales-debian-13-trixie-parte-1/</link>
-            <description>Paquetes esenciales a instalar en Debian 13 «Trixie» y otras basadas en ella</description>
-            <pubDate>Sat Aug 30 17:28:14 2025</pubDate>
             </item></channel>
 </rss>
