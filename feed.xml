@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog Amid Active Exploitation</title>
+            <link>https://thehackernews.com/2025/09/cisa-adds-tp-link-and-whatsapp-flaws-to.html</link>
+            <description>CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog Amid Active Exploitation</description>
+            <pubDate>Wed Sep  3 05:09:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An Amiga Demo With No CPU Involved</title>
+            <link>https://hackaday.com/2025/09/02/an-amiga-demo-with-no-cpu-involved/</link>
+            <description>An Amiga Demo With No CPU Involved</description>
+            <pubDate>Wed Sep  3 05:00:51 2025</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: No abras este mensaje: vuelve la estafa de la multa pendiente de la DGT</title>
+            <link>https://www.adslzone.net/noticias/seguridad/estafa-multa-pendiente-dgt-0925/</link>
+            <description>No abras este mensaje: vuelve la estafa de la multa pendiente de la DGT</description>
+            <pubDate>Wed Sep  3 05:00:15 2025</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations</title>
+            <link>https://thehackernews.com/2025/09/salesloft-takes-drift-offline-after.html</link>
+            <description>Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations</description>
+            <pubDate>Wed Sep  3 03:53:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Case for Pascal, 55 Years On</title>
+            <link>https://hackaday.com/2025/09/02/the-case-for-pascal-55-years-on/</link>
+            <description>The Case for Pascal, 55 Years On</description>
+            <pubDate>Wed Sep  3 02:00:31 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: This Plotter Knows No Boundaries</title>
+            <link>https://hackaday.com/2025/09/02/this-plotter-knows-no-boundaries/</link>
+            <description>This Plotter Knows No Boundaries</description>
+            <pubDate>Tue Sep  2 23:00:36 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Google Can Keep Paying for Firefox Search Deal, Judge Rules</title>
+            <link>https://www.omgubuntu.co.uk/2025/09/google-antitrust-ruling-firefox-search-deal</link>
+            <description>Google Can Keep Paying for Firefox Search Deal, Judge Rules</description>
+            <pubDate>Tue Sep  2 22:43:40 2025</pubDate>
+            </item>
+            <item>
             <title>Xataka: Google no tendrá que vender Chrome. La justicia ha elegido otro castigo: uno que también amenaza con reconfigurar su negocio</title>
             <link>https://www.xataka.com/empresas-y-economia/google-no-tendra-que-vender-chrome-justicia-ha-elegido-otro-castigo-uno-que-tambien-amenaza-reconfigurar-su-negocio</link>
             <description>Google no tendrá que vender Chrome. La justicia ha elegido otro castigo: uno que también amenaza con reconfigurar su negocio</description>
@@ -28,47 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/ultimas-tarifas-fibra-300-mbps/</link>
             <description>Tener fibra barata de 300 Mbps es casi misión imposible: así son las ofertas de Movistar, Orange y otros operadores que aún resisten</description>
             <pubDate>Tue Sep  2 19:51:41 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Burbujas de vida primitiva en los mares de metano de Titán: la hipótesis que puede resolver el misterio</title>
-            <link>https://www.xataka.com/espacio/burbujas-vida-primitiva-mares-metano-titan-hipotesis-que-puede-resolver-misterio</link>
-            <description>Burbujas de vida primitiva en los mares de metano de Titán: la hipótesis que puede resolver el misterio</description>
-            <pubDate>Tue Sep  2 19:31:22 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Estamos asistiendo al principio de una era peligrosa en la aviación comercial. Una en la que si vas a un funeral el billete te costará más</title>
-            <link>https://www.xataka.com/movilidad/estamos-asistiendo-al-principio-era-peligrosa-aviacion-comercial-que-vas-a-funeral-billete-te-costara</link>
-            <description>Estamos asistiendo al principio de una era peligrosa en la aviación comercial. Una en la que si vas a un funeral el billete te costará más</description>
-            <pubDate>Tue Sep  2 19:01:22 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El portátil de moda para la vuelta al cole tiene 32 GB de RAM y está en oferta por tiempo límite</title>
-            <link>https://www.adslzone.net/ofertas/amazon/portatil-hp-15-fc0243ns-0925/</link>
-            <description>El portátil de moda para la vuelta al cole tiene 32 GB de RAM y está en oferta por tiempo límite</description>
-            <pubDate>Tue Sep  2 18:58:30 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El fútbol gratis de la TDT ha disparado la audiencia de un canal hasta niveles de récord</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/futbol-gratis-tdt-disparado-audiencia-canal/</link>
-            <description>El fútbol gratis de la TDT ha disparado la audiencia de un canal hasta niveles de récord</description>
-            <pubDate>Tue Sep  2 18:34:07 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: “Me temo que vamos a estar más ocupados”: Jensen Huang discrepa de Musk y ve en la IA una profunda transformación laboral</title>
-            <link>https://www.xataka.com/robotica-e-ia/me-temo-que-vamos-a-estar-ocupados-jensen-huang-discrepa-musk-ve-ia-profunda-transformacion-laboral</link>
-            <description>“Me temo que vamos a estar más ocupados”: Jensen Huang discrepa de Musk y ve en la IA una profunda transformación laboral</description>
-            <pubDate>Tue Sep  2 18:31:22 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Applying Thermal Lining to Rocket Tubes Requires a Monstrous DIY Spin-caster</title>
-            <link>https://hackaday.com/2025/09/02/applying-thermal-lining-to-rocket-tubes-requires-a-monstrous-diy-spin-caster/</link>
-            <description>Applying Thermal Lining to Rocket Tubes Requires a Monstrous DIY Spin-caster</description>
-            <pubDate>Tue Sep  2 18:30:19 2025</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Ya no es sólo Movistar: estas operadoras también ofrecen ya tus datos a los anunciantes si aceptas esta 'supercookie'</title>
-            <link>https://www.genbeta.com/navegadores/no-solo-movistar-estas-operadoras-tambien-ofrecen-tus-datos-a-anunciantes-aceptas-esta-supercookie</link>
-            <description>Ya no es sólo Movistar: estas operadoras también ofrecen ya tus datos a los anunciantes si aceptas esta 'supercookie'</description>
-            <pubDate>Tue Sep  2 18:20:55 2025</pubDate>
             </item></channel>
 </rss>
