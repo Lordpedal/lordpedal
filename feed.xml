@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: sudo vs sudo-rs: What You Need to Know About the Rust Takeover of Classic Sudo Command</title>
+            <link>https://itsfoss.com/sudo-vs-sudo-rs/</link>
+            <description>sudo vs sudo-rs: What You Need to Know About the Rust Takeover of Classic Sudo Command</description>
+            <pubDate>Sun Sep 14 05:37:41 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D Modeling with Paper as an Alternative to 3D printing</title>
+            <link>https://hackaday.com/2025/09/13/3d-modeling-with-paper-as-an-alternative-to-3d-printing/</link>
+            <description>3D Modeling with Paper as an Alternative to 3D printing</description>
+            <pubDate>Sun Sep 14 05:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Aussie Researchers Say They Can Bring The Iron Age to Mars</title>
+            <link>https://hackaday.com/2025/09/13/aussie-researchers-say-they-can-bring-the-iron-age-to-mars/</link>
+            <description>Aussie Researchers Say They Can Bring The Iron Age to Mars</description>
+            <pubDate>Sun Sep 14 02:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: How to Make a Simple MOSFET Tester</title>
+            <link>https://hackaday.com/2025/09/13/how-to-make-a-simple-mosfet-tester/</link>
+            <description>How to Make a Simple MOSFET Tester</description>
+            <pubDate>Sat Sep 13 23:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Dash to Panel Update Adds GNOME 49 Support + More</title>
+            <link>https://www.omgubuntu.co.uk/2025/09/dash-to-panel-extension-gnome-49</link>
+            <description>Dash to Panel Update Adds GNOME 49 Support + More</description>
+            <pubDate>Sat Sep 13 21:29:00 2025</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Send Images to Your Terminal With Rich Pixels</title>
             <link>https://hackaday.com/2025/09/13/send-images-to-your-terminal-with-rich-pixels/</link>
             <description>Send Images to Your Terminal With Rich Pixels</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/transporte/estadounidense-diseno-yate-sus-suenos-no-podia-permitirselo-solucion-construirlo-su-casa-1</link>
             <description>Un estadounidense diseñó el yate de sus sueños, pero no podía permitírselo. Solución: construirlo él mismo en su casa</description>
             <pubDate>Sat Sep 13 17:30:45 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: El “Metro Europeo” se convierte en el proyecto más ambicioso: 39 ciudades conectadas con trenes más rápidos que el AVE</title>
-            <link>https://www.adslzone.net/noticias/internet/metro-europeo-proyecto-ambicioso-39-ciudades/</link>
-            <description>El “Metro Europeo” se convierte en el proyecto más ambicioso: 39 ciudades conectadas con trenes más rápidos que el AVE</description>
-            <pubDate>Sat Sep 13 17:03:54 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: No todos los alimentos procesados suponen un riesgo para nuestra salud. Algunos trucos pueden ayudarnos a elegir los mejores</title>
-            <link>https://www.xataka.com/medicina-y-salud/no-todos-alimentos-procesados-suponen-riesgo-para-nuestra-salud-algunos-trucos-pueden-ayudarnos-a-elegir-mejores</link>
-            <description>No todos los alimentos procesados suponen un riesgo para nuestra salud. Algunos trucos pueden ayudarnos a elegir los mejores</description>
-            <pubDate>Sat Sep 13 17:00:46 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: ESP32 Hosts Functional Minecraft Server</title>
-            <link>https://hackaday.com/2025/09/13/esp32-hosts-functional-minecraft-server/</link>
-            <description>ESP32 Hosts Functional Minecraft Server</description>
-            <pubDate>Sat Sep 13 17:00:04 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Xiaomi desploma el precio de este reloj tan top: sale por apenas 100 €</title>
-            <link>https://www.adslzone.net/ofertas/amazon/smartwatch-xiaomi-watch-s4-0925/</link>
-            <description>Xiaomi desploma el precio de este reloj tan top: sale por apenas 100 €</description>
-            <pubDate>Sat Sep 13 16:14:59 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: India se ahoga en millones de toneladas de plástico. Una ciudad ha encontrado una salida inesperada: cambiarlo por platos de curry y arroz</title>
-            <link>https://www.xataka.com/magnet/india-se-ahoga-millones-toneladas-plastico-ciudad-ha-encontrado-salida-inesperada-cambiarlo-platos-curry-arroz</link>
-            <description>India se ahoga en millones de toneladas de plástico. Una ciudad ha encontrado una salida inesperada: cambiarlo por platos de curry y arroz</description>
-            <pubDate>Sat Sep 13 16:00:46 2025</pubDate>
             </item></channel>
 </rss>
