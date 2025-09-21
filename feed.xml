@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Linux Adictos: Steam retira el soporte a Windows 10 de 32 bits</title>
+            <link>https://www.linuxadictos.com/steam-retira-el-soporte-a-windows-10-de-32-bits.html</link>
+            <description>Steam retira el soporte a Windows 10 de 32 bits</description>
+            <pubDate>Sun Sep 21 05:41:06 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: March to the Beat of Your Own Piezoelectric Drum</title>
+            <link>https://hackaday.com/2025/09/20/march-to-the-beat-of-your-own-piezoelectric-drum/</link>
+            <description>March to the Beat of Your Own Piezoelectric Drum</description>
+            <pubDate>Sun Sep 21 05:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: When Low SRAM Keeps the DOOM off Your Vape</title>
+            <link>https://hackaday.com/2025/09/20/when-low-sram-keeps-the-doom-off-your-vape/</link>
+            <description>When Low SRAM Keeps the DOOM off Your Vape</description>
+            <pubDate>Sun Sep 21 02:00:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: Ubuntu 25.10 beta llega con Linux 6.17 y cambios clave</title>
+            <link>https://www.hwlibre.com/ubuntu-25-10-beta-llega-con-linux-6-17-y-cambios-clave/</link>
+            <description>Ubuntu 25.10 beta llega con Linux 6.17 y cambios clave</description>
+            <pubDate>Sat Sep 20 23:56:45 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Ruggedized Raspberry Pi for Sailors</title>
+            <link>https://hackaday.com/2025/09/20/a-ruggedized-raspberry-pi-for-sailors/</link>
+            <description>A Ruggedized Raspberry Pi for Sailors</description>
+            <pubDate>Sat Sep 20 23:00:56 2025</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Venus Climate Orbiter Akatsuki’s Mission Has Ended</title>
             <link>https://hackaday.com/2025/09/20/venus-climate-orbiter-akatsukis-mission-has-ended/</link>
             <description>Venus Climate Orbiter Akatsuki’s Mission Has Ended</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/energia/bateria-global-que-se-seca-como-desierto-atacama-evidencia-precio-ecologico-descarbonizacion</link>
             <description>La batería global que se seca: cómo el desierto de Atacama evidencia el precio ecológico de la descarbonización</description>
             <pubDate>Sat Sep 20 18:00:46 2025</pubDate>
-            </item>
-            <item>
-            <title>h4ckseed: Recursos Compartidos Linux/Unix en un cliente NFS de Windows</title>
-            <link>https://h4ckseed.wordpress.com/2025/09/20/recursos-compartidos-linux-unix-en-un-cliente-nfs-de-windows/</link>
-            <description>Recursos Compartidos Linux/Unix en un cliente NFS de Windows</description>
-            <pubDate>Sat Sep 20 17:55:54 2025</pubDate>
-            </item>
-            <item>
-            <title>Desde Linux: Novedades del Linuxverso Semana 38/2025: Fedora 43 Beta, SparkyLinux 2025.09 y Mauna Linux 25</title>
-            <link>https://blog.desdelinux.net/novedades-linuxverso-semana-38-2025/</link>
-            <description>Novedades del Linuxverso Semana 38/2025: Fedora 43 Beta, SparkyLinux 2025.09 y Mauna Linux 25</description>
-            <pubDate>Sat Sep 20 17:38:36 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Las universidades de Corea del Sur tienen un problema existencial: los jóvenes coreanos solo quieren ser médicos</title>
-            <link>https://www.xataka.com/magnet/universidades-corea-sur-tienen-problema-existencial-jovenes-coreanos-solo-quieren-ser-medicos</link>
-            <description>Las universidades de Corea del Sur tienen un problema existencial: los jóvenes coreanos solo quieren ser médicos</description>
-            <pubDate>Sat Sep 20 17:30:45 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: Se extiende por España un nuevo modelo de vivienda de una habitación con espacios compartidos</title>
-            <link>https://www.adslzone.net/noticias/internet/nuevo-modelo-vivienda-una-habitacion-espacios-compartidos/</link>
-            <description>Se extiende por España un nuevo modelo de vivienda de una habitación con espacios compartidos</description>
-            <pubDate>Sat Sep 20 17:04:52 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El frío del Ártico era la barrera ideal contra las especies invasoras. Ahora esa barrera está cayendo</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/frio-artico-era-barrera-ideal-especies-invasoras-ahora-esa-barrera-esta-cayendo</link>
-            <description>El frío del Ártico era la barrera ideal contra las especies invasoras. Ahora esa barrera está cayendo</description>
-            <pubDate>Sat Sep 20 17:00:46 2025</pubDate>
             </item></channel>
 </rss>
