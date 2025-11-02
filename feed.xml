@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>It's FOSS: The (Almost) Perfect Linux Marketplace App for Flatpak Lovers</title>
+            <link>https://itsfoss.com/bazaar-app/</link>
+            <description>The (Almost) Perfect Linux Marketplace App for Flatpak Lovers</description>
+            <pubDate>Sun Nov  2 06:07:03 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Multitasking On The Humble Z80 CPU</title>
+            <link>https://hackaday.com/2025/11/01/multitasking-on-the-humble-z80-cpu/</link>
+            <description>Multitasking On The Humble Z80 CPU</description>
+            <pubDate>Sun Nov  2 05:00:07 2025</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Caída mundial de Epic Games con Fortnite, Fall Guys y Rocket League fuera de juego</title>
+            <link>https://www.adslzone.net/noticias/videojuegos/caida-mundial-epic-games-fortnite-fall-guys-rocket-league-juego/</link>
+            <description>Caída mundial de Epic Games con Fortnite, Fall Guys y Rocket League fuera de juego</description>
+            <pubDate>Sun Nov  2 02:39:19 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: An Audio Brick For Your Smart Home</title>
+            <link>https://hackaday.com/2025/11/01/an-audio-brick-for-your-smart-home/</link>
+            <description>An Audio Brick For Your Smart Home</description>
+            <pubDate>Sun Nov  2 02:00:44 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Building a PV Solar-Powered Quadcopter</title>
+            <link>https://hackaday.com/2025/11/01/building-a-pv-solar-powered-quadcopter/</link>
+            <description>Building a PV Solar-Powered Quadcopter</description>
+            <pubDate>Sat Nov  1 23:00:46 2025</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: No puedo acceder a la app de Mi O2 o a la web: ¿Qué está ocurriendo y cómo lo soluciono?</title>
             <link>https://www.adslzone.net/noticias/operadores/no-puedo-acceder-app-mi-o2-web/</link>
             <description>No puedo acceder a la app de Mi O2 o a la web: ¿Qué está ocurriendo y cómo lo soluciono?</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/cine-y-tv/hace-tres-decadas-simpson-se-codearon-toy-story-episodio-que-cambio-historia-television</link>
             <description>El día en que 'Los Simpson' se codearon con 'Toy Story': el mítico episodio que cambió la historia de la televisión</description>
             <pubDate>Sat Nov  1 18:30:57 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Los usuarios de Digi TV tienen una petición para que iguale a sus rivales</title>
-            <link>https://www.adslzone.net/noticias/operadores/usuarios-digi-tv-peticion-iguale-rivales/</link>
-            <description>Los usuarios de Digi TV tienen una petición para que iguale a sus rivales</description>
-            <pubDate>Sat Nov  1 18:04:35 2025</pubDate>
-            </item>
-            <item>
-            <title>RedesZone : Portal sobre telecomunicaciones, redes y ciberseguridad: Si vendo o tiro mi router Wi-Fi, ¿podrían ver por dónde he navegado si alguien lo coge?</title>
-            <link>https://www.redeszone.net/noticias/seguridad/datos-router-vender-tirar-aparato/</link>
-            <description>Si vendo o tiro mi router Wi-Fi, ¿podrían ver por dónde he navegado si alguien lo coge?</description>
-            <pubDate>Sat Nov  1 18:04:24 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Navantia, Indra, Escribano, SAPA: qué empresas están ganando en el gran rearme de la industria española</title>
-            <link>https://www.xataka.com/otros/navantia-indra-escribano-sapa-que-empresas-estan-ganando-gran-rearme-industria-espanola</link>
-            <description>Navantia, Indra, Escribano, SAPA: qué empresas están ganando en el gran rearme de la industria española</description>
-            <pubDate>Sat Nov  1 18:00:57 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: España sigue teniendo decenas de embalses que no se pueden usar porque literalmente nadie ha puesto tuberías</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/espana-sigue-teniendo-decenas-pantanos-que-no-se-pueden-usar-porque-nadie-ha-hecho-tuberias</link>
-            <description>España sigue teniendo decenas de embalses que no se pueden usar porque literalmente nadie ha puesto tuberías</description>
-            <pubDate>Sat Nov  1 17:30:57 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Estrena uno de los mejores Google Pixel Watch con pantalla AMOLED por menos de 230 €</title>
-            <link>https://www.adslzone.net/ofertas/mix/aliexpress-smartwatch-google-pixel-watch-3-1125/</link>
-            <description>Estrena uno de los mejores Google Pixel Watch con pantalla AMOLED por menos de 230 €</description>
-            <pubDate>Sat Nov  1 17:06:19 2025</pubDate>
             </item></channel>
 </rss>
