@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Hacking a Pill Camera</title>
+            <link>https://hackaday.com/2025/11/18/hacking-a-pill-camera/</link>
+            <description>Hacking a Pill Camera</description>
+            <pubDate>Wed Nov 19 06:00:25 2025</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away</title>
+            <link>https://itsfoss.com/news/open-source-developers-are-exhausted/</link>
+            <description>Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away</description>
+            <pubDate>Wed Nov 19 05:42:55 2025</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Siempre que planifico un viaje uso esta web para descubrir combinaciones de trenes</title>
+            <link>https://www.adslzone.net/noticias/internet/planificar-viaje-pagina-combinaciones-trenes/</link>
+            <description>Siempre que planifico un viaje uso esta web para descubrir combinaciones de trenes</description>
+            <pubDate>Wed Nov 19 05:00:35 2025</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild</title>
+            <link>https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html</link>
+            <description>Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild</description>
+            <pubDate>Wed Nov 19 04:20:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Kubernetes Cluster Goes Mobile in Pet Carrier</title>
+            <link>https://hackaday.com/2025/11/18/kubernetes-cluster-goes-mobile-in-pet-carrier/</link>
+            <description>Kubernetes Cluster Goes Mobile in Pet Carrier</description>
+            <pubDate>Wed Nov 19 03:00:13 2025</pubDate>
+            </item>
+            <item>
+            <title>SoloLinux: Linux 6.19 podría habilitar por defecto las extensiones de Microsoft C</title>
+            <link>https://sololinux.es/linux-6-19/</link>
+            <description>Linux 6.19 podría habilitar por defecto las extensiones de Microsoft C</description>
+            <pubDate>Wed Nov 19 00:54:14 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Humane Mousetrap Lets You Know It’s Caught Something</title>
+            <link>https://hackaday.com/2025/11/18/humane-mousetrap-lets-you-know-its-caught-something/</link>
+            <description>Humane Mousetrap Lets You Know It’s Caught Something</description>
+            <pubDate>Wed Nov 19 00:00:37 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Xubuntu Reveals How its Website Was Hijacked</title>
+            <link>https://www.omgubuntu.co.uk/2025/11/xubuntu-website-breach-report</link>
+            <description>Xubuntu Reveals How its Website Was Hijacked</description>
+            <pubDate>Tue Nov 18 23:59:53 2025</pubDate>
+            </item>
+            <item>
             <title>Xataka: SpaceX cambió la economía espacial. Ahora quiere hacer lo mismo con el coste de los satélites</title>
             <link>https://www.xataka.com/empresas-y-economia/spacex-cambio-economia-espacial-ahora-quiere-hacer-coste-satelites</link>
             <description>SpaceX cambió la economía espacial. Ahora quiere hacer lo mismo con el coste de los satélites</description>
@@ -22,53 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/digi-vodafone-movistar-tarifa-movil-ilimitada-barata/</link>
             <description>Digi, Vodafone, Movistar… ¿Quién tiene la tarifa móvil ilimitada más barata del mercado?</description>
             <pubDate>Tue Nov 18 21:04:57 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Casting Metal Tools With Kitchen Appliances</title>
-            <link>https://hackaday.com/2025/11/18/casting-metal-tools-with-kitchen-appliances/</link>
-            <description>Casting Metal Tools With Kitchen Appliances</description>
-            <pubDate>Tue Nov 18 21:00:49 2025</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: Blender 5,  nueva versión mayor de la suite de creación 3D﻿</title>
-            <link>https://www.muylinux.com/2025/11/18/blender-5/</link>
-            <description>Blender 5,  nueva versión mayor de la suite de creación 3D﻿</description>
-            <pubDate>Tue Nov 18 20:44:13 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Si quieres ver todo el deporte en O2, la operadora ha compartido cómo hacerlo sin cambiar de operador</title>
-            <link>https://www.adslzone.net/noticias/operadores/como-ver-deporte-o2-movistar-plus/</link>
-            <description>Si quieres ver todo el deporte en O2, la operadora ha compartido cómo hacerlo sin cambiar de operador</description>
-            <pubDate>Tue Nov 18 20:27:32 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: AliExpress no se guarda nada para el Black Friday y deja el Garmin más buscado 110 € más barato</title>
-            <link>https://www.adslzone.net/ofertas/mix/aliexpress-smartwatch-garmin-forerunner-165/</link>
-            <description>AliExpress no se guarda nada para el Black Friday y deja el Garmin más buscado 110 € más barato</description>
-            <pubDate>Tue Nov 18 20:03:26 2025</pubDate>
-            </item>
-            <item>
-            <title>Linux Magazine News (path: lmi_news): Valve Announces Pending Release of Steam Machine</title>
-            <link>http://www.linux-magazine.com/Online/News/Valve-Announces-Pending-Release-of-Steam-Machine</link>
-            <description>Valve Announces Pending Release of Steam Machine</description>
-            <pubDate>Tue Nov 18 20:02:36 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En un gesto de incalculable francesidad, Francia ha bautizado al primer cohete lanzado desde sus fronteras como "Baguette One"</title>
-            <link>https://www.xataka.com/espacio/cohete-civil-despegara-primera-vez-francia-continental-se-llama-baguette-one-no-broma</link>
-            <description>En un gesto de incalculable francesidad, Francia ha bautizado al primer cohete lanzado desde sus fronteras como "Baguette One"</description>
-            <pubDate>Tue Nov 18 20:01:06 2025</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: GIMP 3.2 Hits Release Candidate with Improved Text Editing + More</title>
-            <link>https://www.omgubuntu.co.uk/2025/11/gimp-3-2-release-candidate-highlights</link>
-            <description>GIMP 3.2 Hits Release Candidate with Improved Text Editing + More</description>
-            <pubDate>Tue Nov 18 19:53:21 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Prime Video estrena el jueves el drama psicológico del año que estuvo en cines en octubre</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/prime-video-estrena-drama-psicologico-cines-octubre/</link>
-            <description>Prime Video estrena el jueves el drama psicológico del año que estuvo en cines en octubre</description>
-            <pubDate>Tue Nov 18 19:33:04 2025</pubDate>
             </item></channel>
 </rss>
