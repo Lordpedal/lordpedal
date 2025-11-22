@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Microsoft Open Sources Zork I, II and III</title>
+            <link>https://hackaday.com/2025/11/21/microsoft-open-sources-zork-i-ii-and-iii/</link>
+            <description>Microsoft Open Sources Zork I, II and III</description>
+            <pubDate>Sat Nov 22 06:00:17 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: How to Use That Slide Rule</title>
+            <link>https://hackaday.com/2025/11/21/how-to-use-that-slide-rule/</link>
+            <description>How to Use That Slide Rule</description>
+            <pubDate>Sat Nov 22 03:00:01 2025</pubDate>
+            </item>
+            <item>
+            <title>Linux Magazine News (path: lmi_news): Debian Unleashes Debian Libre Live</title>
+            <link>http://www.linux-magazine.com/Online/News/Debian-Unleashes-Debian-Libre-Live</link>
+            <description>Debian Unleashes Debian Libre Live</description>
+            <pubDate>Sat Nov 22 02:29:10 2025</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Nitrux 5.0 presenta una transformación total hacia Hyprland, NX AppHub y un sistema inmutable</title>
+            <link>https://blog.desdelinux.net/nitrux-5-0-presenta-una-transformacion-total-hacia-hyprland-nx-apphub-y-un-sistema-inmutable/</link>
+            <description>Nitrux 5.0 presenta una transformación total hacia Hyprland, NX AppHub y un sistema inmutable</description>
+            <pubDate>Sat Nov 22 01:56:02 2025</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: CVE-2025-48593: una vulnerabilidad crítica en Bluetooth que afecta a Android 13–16</title>
+            <link>https://blog.desdelinux.net/vulnerabilidad-bluetooth-android-cve-2025-48593-noviembre/</link>
+            <description>CVE-2025-48593: una vulnerabilidad crítica en Bluetooth que afecta a Android 13–16</description>
+            <pubDate>Sat Nov 22 01:36:19 2025</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Google ajusta la verificación de desarrolladores en Android</title>
+            <link>https://blog.desdelinux.net/google-verificacion-desarrolladores-android-instalacion-apk-no-verificados/</link>
+            <description>Google ajusta la verificación de desarrolladores en Android</description>
+            <pubDate>Sat Nov 22 01:25:28 2025</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Make A Magical Mistletoe #AdafruitWeekendProject</title>
+            <link>https://blog.adafruit.com/2025/11/21/make-a-magical-mistletoe-adafruitweekendproject-2/</link>
+            <description>Make A Magical Mistletoe #AdafruitWeekendProject</description>
+            <pubDate>Sat Nov 22 01:00:15 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Making Actually Useful Schematics in KiCad</title>
+            <link>https://hackaday.com/2025/11/21/making-actually-useful-schematics-in-kicad/</link>
+            <description>Making Actually Useful Schematics in KiCad</description>
+            <pubDate>Sat Nov 22 00:00:32 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: The Raspberry Pi 500+ Works as a Standalone Keyboard (Well, Kinda)</title>
+            <link>https://www.omgubuntu.co.uk/2025/11/raspberry-pi-500-plus-use-as-regular-keyboard</link>
+            <description>The Raspberry Pi 500+ Works as a Standalone Keyboard (Well, Kinda)</description>
+            <pubDate>Fri Nov 21 23:12:00 2025</pubDate>
+            </item>
+            <item>
             <title>Xataka: Google ha abierto una puerta que muchos temían: ya está probando anuncios dentro de las respuestas de IA de su buscador</title>
             <link>https://www.xataka.com/robotica-e-ia/google-ha-abierto-puerta-que-muchos-temian-esta-probando-anuncios-dentro-respuestas-ia-su-buscador</link>
             <description>Google ha abierto una puerta que muchos temían: ya está probando anuncios dentro de las respuestas de IA de su buscador</description>
@@ -16,59 +70,5 @@
             <link>https://56k.es/fanta/space-cadet-pinball-el-pinbal-de-windows-en-linux/</link>
             <description>Space Cadet Pinball – El Pinbal de Windows en Linux</description>
             <pubDate>Fri Nov 21 21:15:27 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Wiring Up The Railway, All The Live-Long Day</title>
-            <link>https://hackaday.com/2025/11/21/wiring-up-the-railway-all-the-live-long-day/</link>
-            <description>Wiring Up The Railway, All The Live-Long Day</description>
-            <pubDate>Fri Nov 21 21:00:07 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Si la app Smart WiFi te falla, Movistar ha compartido la solución definitiva</title>
-            <link>https://www.adslzone.net/noticias/operadores/como-solucionar-problemas-app-smart-wifi/</link>
-            <description>Si la app Smart WiFi te falla, Movistar ha compartido la solución definitiva</description>
-            <pubDate>Fri Nov 21 20:57:47 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: La DGT recuerda la importancia de los frenos de tu coche: estos son los diferentes tipos y sus usos</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/dgt-alerta-importancia-frenos/</link>
-            <description>La DGT recuerda la importancia de los frenos de tu coche: estos son los diferentes tipos y sus usos</description>
-            <pubDate>Fri Nov 21 20:28:03 2025</pubDate>
-            </item>
-            <item>
-            <title>Cartas de Linux: Mejorando el rendimiento de una tarjeta gráfica Nvidia con los drivers Nouveau cambiando la velocidad de reloj</title>
-            <link>https://cartaslinux.wordpress.com/2025/11/21/mejorando-el-rendimiento-de-una-tarjeta-grafica-nvidia-con-los-drivers-nouveau-cambiando-la-velocidad-de-reloj/</link>
-            <description>Mejorando el rendimiento de una tarjeta gráfica Nvidia con los drivers Nouveau cambiando la velocidad de reloj</description>
-            <pubDate>Fri Nov 21 20:16:59 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: La PlayStation 5 Slim Digital nunca había estado tan barata en PcComponentes como con sus ofertas Black Friday</title>
-            <link>https://www.adslzone.net/ofertas/mix/pccomponentes-consola-playstation-5-slim-digital-1125/</link>
-            <description>La PlayStation 5 Slim Digital nunca había estado tan barata en PcComponentes como con sus ofertas Black Friday</description>
-            <pubDate>Fri Nov 21 20:01:45 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Yoigo lanza la mejor tarifa anti Digi con datos ilimitados por solo 8 euros al mes</title>
-            <link>https://www.adslzone.net/noticias/operadores/yoigo-mejor-tarifa-anti-digi-datos-ilimitados-8-euros/</link>
-            <description>Yoigo lanza la mejor tarifa anti Digi con datos ilimitados por solo 8 euros al mes</description>
-            <pubDate>Fri Nov 21 19:32:38 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Creíamos que nada superaría al robot ruso que acabó en el suelo. Hasta que pusieron a bailar uno frente a Putin</title>
-            <link>https://www.xataka.com/robotica-e-ia/creiamos-que-nada-superaria-al-robot-ruso-que-acabo-suelo-que-pusieron-a-bailar-uno-frente-a-putin</link>
-            <description>Creíamos que nada superaría al robot ruso que acabó en el suelo. Hasta que pusieron a bailar uno frente a Putin</description>
-            <pubDate>Fri Nov 21 19:31:06 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Commodore’s Most Popular Computer gets DOOM-style Shooter</title>
-            <link>https://hackaday.com/2025/11/21/commodores-most-popular-computer-gets-doom-style-shooter/</link>
-            <description>Commodore’s Most Popular Computer gets DOOM-style Shooter</description>
-            <pubDate>Fri Nov 21 19:30:23 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Mientras tú usas IA para todo, la ciencia ha calculado el coste de sus alucinaciones: dos tercios de la información es falsa o contiene errores</title>
-            <link>https://www.adslzone.net/noticias/ia/ciencia-cuantifica-errores-chatgpt-fuentes/</link>
-            <description>Mientras tú usas IA para todo, la ciencia ha calculado el coste de sus alucinaciones: dos tercios de la información es falsa o contiene errores</description>
-            <pubDate>Fri Nov 21 19:03:42 2025</pubDate>
             </item></channel>
 </rss>
