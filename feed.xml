@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: The Near Space Adventures of Bradfield the Bear</title>
+            <link>https://hackaday.com/2025/12/12/the-near-space-adventures-of-bradfield-the-bear/</link>
+            <description>The Near Space Adventures of Bradfield the Bear</description>
+            <pubDate>Sat Dec 13 06:00:15 2025</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild</title>
+            <link>https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html</link>
+            <description>Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild</description>
+            <pubDate>Sat Dec 13 05:32:00 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Super-Sizing Insects and the Benefits of Bones</title>
+            <link>https://hackaday.com/2025/12/12/super-sizing-insects-and-the-benefits-of-bones/</link>
+            <description>Super-Sizing Insects and the Benefits of Bones</description>
+            <pubDate>Sat Dec 13 03:00:54 2025</pubDate>
+            </item>
+            <item>
+            <title>3D printing – Adafruit Industries – Makers, hackers, artists, designers and engineers!: Layer by Layer – Snap Fit Case with Live Hinges</title>
+            <link>https://blog.adafruit.com/2025/12/12/layer-by-layer-snap-fit-case-with-live-hinges/</link>
+            <description>Layer by Layer – Snap Fit Case with Live Hinges</description>
+            <pubDate>Sat Dec 13 01:00:45 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Liberating AirPods with Bluetooth Spoofing</title>
+            <link>https://hackaday.com/2025/12/12/liberating-airpods-with-bluetooth-spoofing/</link>
+            <description>Liberating AirPods with Bluetooth Spoofing</description>
+            <pubDate>Sat Dec 13 00:00:22 2025</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Hidden Camera Build Proves You Can’t Trust Walnuts</title>
             <link>https://hackaday.com/2025/12/12/hidden-camera-build-proves-you-cant-trust-walnuts/</link>
             <description>Hidden Camera Build Proves You Can’t Trust Walnuts</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/movilidad/ayudas-a-compra-coches-electricos-nuevo-incendio-concesionarios-dudan-a-20-dias-su-aplicacion</link>
             <description>Las ayudas a la compra de coches eléctricos ante un nuevo incendio: los concesionarios dudan a 20 días de su aplicación</description>
             <pubDate>Fri Dec 12 20:00:02 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Tu vado no es tan tuyo como pensabas: así lo regula la ley</title>
-            <link>https://www.adslzone.net/e-movilidad/noticias-en-marcha/vado-personal-derecho-aparcar/</link>
-            <description>Tu vado no es tan tuyo como pensabas: así lo regula la ley</description>
-            <pubDate>Fri Dec 12 19:34:50 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Rats Get even Better at Playing DOOM</title>
-            <link>https://hackaday.com/2025/12/12/rats-get-even-better-at-playing-doom/</link>
-            <description>Rats Get even Better at Playing DOOM</description>
-            <pubDate>Fri Dec 12 19:30:58 2025</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Durante años los anuncios de la tele han sonado más alto sin violar ninguna ley. España ha decidido que eso se ha acabado</title>
-            <link>https://www.xataka.com/cine-y-tv/durante-anos-anuncios-tele-han-sonado-alto-violar-ninguna-ley-espana-ha-decidido-que-eso-se-ha-acabado</link>
-            <description>Durante años los anuncios de la tele han sonado más alto sin violar ninguna ley. España ha decidido que eso se ha acabado</description>
-            <pubDate>Fri Dec 12 19:30:02 2025</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Down the Linux rabbit hole</title>
-            <link>https://changelog.com/friends/121</link>
-            <description>Down the Linux rabbit hole</description>
-            <pubDate>Fri Dec 12 19:30:00 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Si no quieres IA en Windows 11, prueba con esta solución gratuita</title>
-            <link>https://www.adslzone.net/noticias/windows/elimintar-inteligencia-artificial-windows-solucion-gratuita/</link>
-            <description>Si no quieres IA en Windows 11, prueba con esta solución gratuita</description>
-            <pubDate>Fri Dec 12 19:03:20 2025</pubDate>
             </item></channel>
 </rss>
