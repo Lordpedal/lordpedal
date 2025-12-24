@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Exploring Modern SID Chip Substitutes</title>
+            <link>https://hackaday.com/2025/12/23/exploring-modern-sid-chip-substitutes/</link>
+            <description>Exploring Modern SID Chip Substitutes</description>
+            <pubDate>Wed Dec 24 06:00:01 2025</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Digi TV anuncia programación de Navidad con decenas de películas para sus clientes</title>
+            <link>https://www.adslzone.net/noticias/operadores/digi-tv-anuncia-programacion-navidad-peliculas-clientes/</link>
+            <description>Digi TV anuncia programación de Navidad con decenas de películas para sus clientes</description>
+            <pubDate>Wed Dec 24 05:56:23 2025</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Los stickers y felicitaciones de WhatsApp más divertidos para arrasar en Nochebuena y Navidad 2025</title>
+            <link>https://www.adslzone.net/noticias/whatsapp/mejores-stickers-felicitaciones-navidad-whatsapp-2025/</link>
+            <description>Los stickers y felicitaciones de WhatsApp más divertidos para arrasar en Nochebuena y Navidad 2025</description>
+            <pubDate>Wed Dec 24 05:02:49 2025</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Firefox is Adding Split View for Tabs, Here’s How to Enable It</title>
+            <link>https://www.omgubuntu.co.uk/2025/12/enable-firefox-split-view-feature</link>
+            <description>Firefox is Adding Split View for Tabs, Here’s How to Enable It</description>
+            <pubDate>Wed Dec 24 03:16:22 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Breathe Easy While Printing With this VOC Calculator</title>
+            <link>https://hackaday.com/2025/12/23/breathe-easy-while-printing-with-this-voc-calculator/</link>
+            <description>Breathe Easy While Printing With this VOC Calculator</description>
+            <pubDate>Wed Dec 24 03:00:28 2025</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Be Wary of Flash-less ESP32-C3 Super Mini Boards</title>
+            <link>https://hackaday.com/2025/12/23/be-wary-of-flash-less-esp32-c3-super-mini-boards/</link>
+            <description>Be Wary of Flash-less ESP32-C3 Super Mini Boards</description>
+            <pubDate>Wed Dec 24 00:00:10 2025</pubDate>
+            </item>
+            <item>
             <title>Make: DIY Projects and Ideas for Makers: Maker Community Responds to Prusa’s New Open Community License</title>
             <link>https://makezine.com/article/maker-news/maker-community-responds-to-prusas-new-open-community-license/</link>
             <description>Maker Community Responds to Prusa’s New Open Community License</description>
@@ -34,41 +70,5 @@
             <link>https://www.xataka.com/empresas-y-economia/apple-convirtio-privacidad-su-bandera-sus-funciones-le-ha-supuesto-multa-98-millones-euros-europa</link>
             <description>Apple convirtió la privacidad en su bandera. Una de sus funciones le ha supuesto una multa de 98 millones de euros en Europa</description>
             <pubDate>Tue Dec 23 21:00:59 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: ¿No puedes tener 10 Gbps con Movistar? Puede que al menos puedas renovar a su Smart WiFi 6</title>
-            <link>https://www.adslzone.net/noticias/operadores/movistar-renovar-smart-wifi-6/</link>
-            <description>¿No puedes tener 10 Gbps con Movistar? Puede que al menos puedas renovar a su Smart WiFi 6</description>
-            <pubDate>Tue Dec 23 20:52:13 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: El Garmin Fénix 8 cae de precio en Amazon por tiempo limitado: ahórrate hoy 230 €</title>
-            <link>https://www.adslzone.net/ofertas/amazon/smartwatch-garmin-fenix-8-1225/</link>
-            <description>El Garmin Fénix 8 cae de precio en Amazon por tiempo limitado: ahórrate hoy 230 €</description>
-            <pubDate>Tue Dec 23 20:03:06 2025</pubDate>
-            </item>
-            <item>
-            <title>Genbeta: Microsoft se está moviendo para reemplazar todo su código C/C++ por Rust de aquí a 2030</title>
-            <link>https://www.genbeta.com/desarrollo/microsoft-se-esta-moviendo-para-reemplazar-todo-su-codigo-c-c-rust-aqui-a-2030</link>
-            <description>Microsoft se está moviendo para reemplazar todo su código C/C++ por Rust de aquí a 2030</description>
-            <pubDate>Tue Dec 23 19:37:59 2025</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: Ghostty Terminal Adopts a Non-Profit Funding Model</title>
-            <link>https://www.omgubuntu.co.uk/2025/12/ghostty-terminal-non-profit-fiscal-sponsorship</link>
-            <description>Ghostty Terminal Adopts a Non-Profit Funding Model</description>
-            <pubDate>Tue Dec 23 19:34:54 2025</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Apple TV tiene una oferta secreta para conseguir dos meses al precio de uno</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/como-conseguir-apple-tv-descuento/</link>
-            <description>Apple TV tiene una oferta secreta para conseguir dos meses al precio de uno</description>
-            <pubDate>Tue Dec 23 19:33:45 2025</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Tackling Tremors With DIY Technology</title>
-            <link>https://hackaday.com/2025/12/23/tackling-tremors-with-diy-technology/</link>
-            <description>Tackling Tremors With DIY Technology</description>
-            <pubDate>Tue Dec 23 19:30:36 2025</pubDate>
             </item></channel>
 </rss>
