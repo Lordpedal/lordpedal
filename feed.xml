@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Quote Printer Keeps Receipts</title>
+            <link>https://hackaday.com/2026/01/03/quote-printer-keeps-receipts/</link>
+            <description>Quote Printer Keeps Receipts</description>
+            <pubDate>Sun Jan  4 06:00:51 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: FPGA Dev Kit Unofficially Brings MSX Standard Back</title>
+            <link>https://hackaday.com/2026/01/03/fpga-dev-kit-unofficially-brings-msx-standard-back/</link>
+            <description>FPGA Dev Kit Unofficially Brings MSX Standard Back</description>
+            <pubDate>Sun Jan  4 03:00:36 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Apollo Lunar Module Thrust Meter Lives Again</title>
+            <link>https://hackaday.com/2026/01/03/apollo-lunar-module-thrust-meter-lives-again/</link>
+            <description>Apollo Lunar Module Thrust Meter Lives Again</description>
+            <pubDate>Sun Jan  4 00:00:29 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: Computación analógica en memoria: la apuesta para recortar el gasto energético de la IA</title>
+            <link>https://www.hwlibre.com/computacion-analogica-en-memoria-la-apuesta-para-recortar-el-gasto-energetico-de-la-ia/</link>
+            <description>Computación analógica en memoria: la apuesta para recortar el gasto energético de la IA</description>
+            <pubDate>Sat Jan  3 22:38:16 2026</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Cómo sintonizar los canales de la TDT con el descodificador de Orange TV</title>
             <link>https://www.adslzone.net/noticias/operadores/sincronizar-canales-tdt-descodificador-orange-tv/</link>
             <description>Cómo sintonizar los canales de la TDT con el descodificador de Orange TV</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/movilidad/te-parece-caro-cambiar-bateria-coche-electrico-espera-a-ver-que-cuesta-ferrari-laferrari-200-000-euros</link>
             <description>Si te parece caro cambiar la batería de un coche eléctrico, espera a ver lo que cuesta en un Ferrari LaFerrari: más de 200.000 euros</description>
             <pubDate>Sat Jan  3 19:00:59 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Un canal gratis de tu Smart TV inicia el lunes una programación especial de cine</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/canal-gratis-smart-tv-inicia-lunes-programacion-especial-cine/</link>
-            <description>Un canal gratis de tu Smart TV inicia el lunes una programación especial de cine</description>
-            <pubDate>Sat Jan  3 18:31:06 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Olvídate del WiFi y del cable: estas son las alternativas para llevar Internet a cualquier rincón de tu casa</title>
-            <link>https://www.adslzone.net/noticias/internet/llevar-internet-otras-zonas-casa/</link>
-            <description>Olvídate del WiFi y del cable: estas son las alternativas para llevar Internet a cualquier rincón de tu casa</description>
-            <pubDate>Sat Jan  3 18:08:26 2026</pubDate>
-            </item>
-            <item>
-            <title>RedesZone : Portal sobre telecomunicaciones, redes y ciberseguridad: ¿Es buena idea que un hotel tenga Wi-Fi abierto sin clave? Esto debes saber</title>
-            <link>https://www.redeszone.net/noticias/wifi/riesgos-hotel-wifi-abierto-sin-clave/</link>
-            <description>¿Es buena idea que un hotel tenga Wi-Fi abierto sin clave? Esto debes saber</description>
-            <pubDate>Sat Jan  3 18:08:13 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Las empresas energéticas están cambiando el petróleo por los MW. La nueva mina es el soporte a los centros de datos</title>
-            <link>https://www.xataka.com/energia/petroleras-no-solo-petroleras-se-han-convertido-proveedoras-energia-para-fiebre-centros-datos-ia</link>
-            <description>Las empresas energéticas están cambiando el petróleo por los MW. La nueva mina es el soporte a los centros de datos</description>
-            <pubDate>Sat Jan  3 18:00:59 2026</pubDate>
             </item></channel>
 </rss>
