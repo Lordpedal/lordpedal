@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: DIY, Full-Stack Farm Automation</title>
+            <link>https://hackaday.com/2026/01/16/diy-full-stack-farm-automation/</link>
+            <description>DIY, Full-Stack Farm Automation</description>
+            <pubDate>Sat Jan 17 06:00:14 2026</pubDate>
+            </item>
+            <item>
+            <title>Xataka: La ciencia de estar soltero: un macroestudio advierte que el bienestar cae en picado si no has tenido pareja a los 25</title>
+            <link>https://www.xataka.com/investigacion/ciencia-estar-soltero-macroestudio-advierte-que-bienestar-cae-picado-no-has-tenido-pareja-a-25</link>
+            <description>La ciencia de estar soltero: un macroestudio advierte que el bienestar cae en picado si no has tenido pareja a los 25</description>
+            <pubDate>Sat Jan 17 04:01:26 2026</pubDate>
+            </item>
+            <item>
+            <title>It&#x27;s FOSS: 11 Interesting ESP32 Microcontroller Projects Beginners Can Try</title>
+            <link>https://itsfoss.com/esp32-microcontroller-projects/</link>
+            <description>11 Interesting ESP32 Microcontroller Projects Beginners Can Try</description>
+            <pubDate>Sat Jan 17 03:41:18 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: How Accurate is a 125 Year Old Resistance Standard?</title>
+            <link>https://hackaday.com/2026/01/16/how-accurate-is-a-125-year-old-resistance-standard/</link>
+            <description>How Accurate is a 125 Year Old Resistance Standard?</description>
+            <pubDate>Sat Jan 17 03:00:39 2026</pubDate>
+            </item>
+            <item>
+            <title>Changelog: Kaizen! Let it crash</title>
+            <link>https://changelog.com/friends/124</link>
+            <description>Kaizen! Let it crash</description>
+            <pubDate>Sat Jan 17 00:45:00 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Testing a Continuous Printing Mod for the Bambu Lab A1 Mini</title>
+            <link>https://hackaday.com/2026/01/16/testing-a-continuous-printing-mod-for-the-bambu-lab-a1-mini/</link>
+            <description>Testing a Continuous Printing Mod for the Bambu Lab A1 Mini</description>
+            <pubDate>Sat Jan 17 00:00:49 2026</pubDate>
+            </item>
+            <item>
             <title>Hardware libre: Guía completa de iluminación ornamental LED en interiores y exteriores</title>
             <link>https://www.hwlibre.com/guia-completa-de-iluminacion-ornamental-led-en-interiores-y-exteriores/</link>
             <description>Guía completa de iluminación ornamental LED en interiores y exteriores</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/ofertas/mix/carrefour-smartphone-xiaomi-15t-0126/</link>
             <description>Carrefour baja más de 250 € precio de este móvil de gama alta de Xiaomi con 5G y 12 GB de RAM</description>
             <pubDate>Fri Jan 16 20:16:20 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Un proyecto millonario, una “partícula espacial” y dos semanas de silencio: ya sabemos qué ha pasado con el SpainSat NG II</title>
-            <link>https://www.xataka.com/espacio/proyecto-millonario-particula-espacial-dos-semanas-silencio-sabemos-que-ha-pasado-spainsat-ng-ii</link>
-            <description>Un proyecto millonario, una “partícula espacial” y dos semanas de silencio: ya sabemos qué ha pasado con el SpainSat NG II</description>
-            <pubDate>Fri Jan 16 20:01:27 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: España era sol y tapas, ahora son mansiones y piscinas infinitas: los ultrarricos la han convertido en su refugio</title>
-            <link>https://www.xataka.com/magnet/ultrarricos-eligen-espana-como-cuarto-destino-mundial-estos-motivos-que-invierten-aqui</link>
-            <description>España era sol y tapas, ahora son mansiones y piscinas infinitas: los ultrarricos la han convertido en su refugio</description>
-            <pubDate>Fri Jan 16 19:36:55 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: ¿Un fallo en la fibra te ha dejado también sin conexión móvil? Movistar explica el motivo y cómo se puede evitar</title>
-            <link>https://www.adslzone.net/noticias/operadores/fallo-fibra-afecta-movil-movistar/</link>
-            <description>¿Un fallo en la fibra te ha dejado también sin conexión móvil? Movistar explica el motivo y cómo se puede evitar</description>
-            <pubDate>Fri Jan 16 19:33:25 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Battle Born LFP Battery Melts With New Problem</title>
-            <link>https://hackaday.com/2026/01/16/battle-born-lfp-battery-melts-with-new-problem/</link>
-            <description>Battle Born LFP Battery Melts With New Problem</description>
-            <pubDate>Fri Jan 16 19:30:46 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: OpenAI empezará a poner anuncios en ChatGPT. Ya sabemos a quién llegará esta primera prueba</title>
-            <link>https://www.xataka.com/robotica-e-ia/openai-empezara-a-poner-anuncios-chatgpt-sabemos-a-quien-llegara-esta-primera-prueba</link>
-            <description>OpenAI empezará a poner anuncios en ChatGPT. Ya sabemos a quién llegará esta primera prueba</description>
-            <pubDate>Fri Jan 16 19:00:39 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Málaga acoge el nuevo centro de Indra con 700 trabajadores y 40 millones de inversión</title>
-            <link>https://www.adslzone.net/noticias/ciencia/malaga-centro-indra-avionica-700-trabajadores/</link>
-            <description>Málaga acoge el nuevo centro de Indra con 700 trabajadores y 40 millones de inversión</description>
-            <pubDate>Fri Jan 16 18:57:20 2026</pubDate>
             </item></channel>
 </rss>
