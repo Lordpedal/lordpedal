@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: The History of Tandem Computers</title>
+            <link>https://hackaday.com/2026/01/26/the-history-of-tandem-computers/</link>
+            <description>The History of Tandem Computers</description>
+            <pubDate>Tue Jan 27 06:00:36 2026</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Se acaba el tiempo para tener Disney+ desde 4,99 euros: quedan menos de 48 horas</title>
+            <link>https://www.adslzone.net/noticias/streaming-tv/ultimas-horas-promocion-disney-4-99/</link>
+            <description>Se acaba el tiempo para tener Disney+ desde 4,99 euros: quedan menos de 48 horas</description>
+            <pubDate>Tue Jan 27 05:08:18 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: One Hundred Years Of Telly</title>
+            <link>https://hackaday.com/2026/01/26/one-hundred-years-of-telly/</link>
+            <description>One Hundred Years Of Telly</description>
+            <pubDate>Tue Jan 27 03:00:48 2026</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: From Shoe Box to Smart Robot: A Maker’s Journey to Autonomy</title>
+            <link>https://makezine.com/article/maker-news/maker-faire/from-shoe-box-to-smart-robot-a-makers-journey-to-autonomy/</link>
+            <description>From Shoe Box to Smart Robot: A Maker’s Journey to Autonomy</description>
+            <pubDate>Mon Jan 26 23:47:30 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: New AppImage Offers an Easier Way to Run Affinity on Ubuntu</title>
+            <link>https://www.omgubuntu.co.uk/2026/01/run-affinity-linux-ubuntu-appimage</link>
+            <description>New AppImage Offers an Easier Way to Run Affinity on Ubuntu</description>
+            <pubDate>Mon Jan 26 23:23:05 2026</pubDate>
+            </item>
+            <item>
             <title>Xataka: Qwen3-Max-Thinking rivaliza más que nunca con Gemini 3 Pro de Google. La clave está en lo que no se está contando</title>
             <link>https://www.xataka.com/robotica-e-ia/qwen3-max-thinking-rivaliza-que-nunca-gemini-3-pro-google-clave-esta-que-no-se-esta-contando</link>
             <description>Qwen3-Max-Thinking rivaliza más que nunca con Gemini 3 Pro de Google. La clave está en lo que no se está contando</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/ofertas/mix/aliexpress-smartwatch-garmin-forerunner-165-music-0126/</link>
             <description>Si eres de los que no puedes correr sin música, AliExpress tiene un chollo para ti: hazte con este Garmin ahorrándote más de 110 € con este cupón</description>
             <pubDate>Mon Jan 26 20:03:05 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Japón ha intentado encender la central nuclear más grande del mundo. Ha durado apenas unas horas</title>
-            <link>https://www.xataka.com/energia/japon-ha-intentado-encender-central-nuclear-grande-mundo-ha-durado-apenas-unas-horas</link>
-            <description>Japón ha intentado encender la central nuclear más grande del mundo. Ha durado apenas unas horas</description>
-            <pubDate>Mon Jan 26 20:01:27 2026</pubDate>
-            </item>
-            <item>
-            <title>Changelog: Clawdbot triggers a run on Mac Minis</title>
-            <link>https://changelog.com/news/178</link>
-            <description>Clawdbot triggers a run on Mac Minis</description>
-            <pubDate>Mon Jan 26 20:00:00 2026</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Nuevos parches del kernel Linux reducen el uso de memoria del swap y mejoran el rendimiento</title>
-            <link>https://nksistemas.com/nuevos-parches-del-kernel-linux-reducen-el-uso-de-memoria-del-swap-y-mejoran-el-rendimiento/</link>
-            <description>Nuevos parches del kernel Linux reducen el uso de memoria del swap y mejoran el rendimiento</description>
-            <pubDate>Mon Jan 26 19:42:28 2026</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: GRUB 2.14: Arranque más seguro con TPM2, UKI, Argon2 y soporte EROFS</title>
-            <link>https://nksistemas.com/grub-2-14-arranque-mas-seguro-con-tpm2-uki-argon2-y-soporte-erofs/</link>
-            <description>GRUB 2.14: Arranque más seguro con TPM2, UKI, Argon2 y soporte EROFS</description>
-            <pubDate>Mon Jan 26 19:37:11 2026</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: GParted 1.8: nueva versión del editor de particiones con mejoras clave en FAT, EFI y estabilidad</title>
-            <link>https://nksistemas.com/gparted-1-8-nueva-version-del-editor-de-particiones-con-mejoras-clave-en-fat-efi-y-estabilidad/</link>
-            <description>GParted 1.8: nueva versión del editor de particiones con mejoras clave en FAT, EFI y estabilidad</description>
-            <pubDate>Mon Jan 26 19:33:00 2026</pubDate>
             </item></channel>
 </rss>
