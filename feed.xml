@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Crouching Typewriter, Hidden PC</title>
+            <link>https://hackaday.com/2026/01/30/crouching-typewriter-hidden-pc/</link>
+            <description>Crouching Typewriter, Hidden PC</description>
+            <pubDate>Sat Jan 31 06:00:48 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Ubuntu 26.04 Snapshot 3 is available to download</title>
+            <link>https://www.omgubuntu.co.uk/2026/01/ubuntu-26-04-snapshot-3-released</link>
+            <description>Ubuntu 26.04 Snapshot 3 is available to download</description>
+            <pubDate>Sat Jan 31 03:39:50 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Writing an Optimizing Tensor Compiler from Scratch</title>
+            <link>https://hackaday.com/2026/01/30/writing-an-optimizing-tensor-compiler-from-scratch/</link>
+            <description>Writing an Optimizing Tensor Compiler from Scratch</description>
+            <pubDate>Sat Jan 31 03:00:08 2026</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: Particle, Digi, and the XBee That Started It All</title>
+            <link>https://makezine.com/article/technology/particle-digi-and-the-xbee-that-started-it-all/</link>
+            <description>Particle, Digi, and the XBee That Started It All</description>
+            <pubDate>Sat Jan 31 01:26:48 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Need a Curved Plastic Mesh? Print Flat, Curve Later</title>
+            <link>https://hackaday.com/2026/01/30/need-a-curved-plastic-mesh-print-flat-curve-later/</link>
+            <description>Need a Curved Plastic Mesh? Print Flat, Curve Later</description>
+            <pubDate>Sat Jan 31 00:00:47 2026</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Claude empieza a parecer imparable: la NASA ya lo ha usado para planificar rutas del rover Perseverance en Marte</title>
+            <link>https://www.xataka.com/espacio/claude-empieza-a-parecer-imparable-nasa-ha-usado-para-planificar-rutas-rover-perseverance-marte</link>
+            <description>Claude empieza a parecer imparable: la NASA ya lo ha usado para planificar rutas del rover Perseverance en Marte</description>
+            <pubDate>Fri Jan 30 23:12:22 2026</pubDate>
+            </item>
+            <item>
             <title>Xataka: No todos los robots humanoides quieren parecer humanos: Sprout ha sido diseñado con otro objetivo en mente</title>
             <link>https://www.xataka.com/robotica-e-ia/no-todos-robots-humanoides-quieren-parecer-humanos-sprout-ha-sido-disenado-otro-objetivo-mente</link>
             <description>No todos los robots humanoides quieren parecer humanos: Sprout ha sido diseñado con otro objetivo en mente</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/ofertas/amazon/dongle-amazon-fire-tv-stick-hd-0126/</link>
             <description>Amazon rebaja el Fire TV Stick HD: consíguelo hoy por menos de 30 €</description>
             <pubDate>Fri Jan 30 20:03:14 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Submarinos militares como “hoteles de cinco estrellas”: así es la apuesta de Corea del Sur para entrar en el mercado occidental</title>
-            <link>https://www.xataka.com/magnet/submarinos-militares-como-hoteles-cinco-estrellas-asi-apuesta-corea-sur-para-entrar-mercado-occidental</link>
-            <description>Submarinos militares como “hoteles de cinco estrellas”: así es la apuesta de Corea del Sur para entrar en el mercado occidental</description>
-            <pubDate>Fri Jan 30 20:00:57 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Un asturiano se está montando un garaje con superdeportivos de ensueño en Mónaco: Fernando Alonso</title>
-            <link>https://www.xataka.com/movilidad/asturiano-se-esta-montando-garaje-superdeportivos-ensueno-monaco-fernando-alonso</link>
-            <description>Un asturiano se está montando un garaje con superdeportivos de ensueño en Mónaco: Fernando Alonso</description>
-            <pubDate>Fri Jan 30 19:30:57 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Do Expensive Filaments Make 3D Printed Wrenches Better?</title>
-            <link>https://hackaday.com/2026/01/30/do-expensive-filaments-make-3d-printed-wrenches-better/</link>
-            <description>Do Expensive Filaments Make 3D Printed Wrenches Better?</description>
-            <pubDate>Fri Jan 30 19:30:47 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Cómo saber si tu AVE tiene la velocidad limitada: mira los retrasos reales de Iryo, Renfe y Ouigo</title>
-            <link>https://www.adslzone.net/noticias/internet/aplicacion-adif-ver-retrasos-trenes/</link>
-            <description>Cómo saber si tu AVE tiene la velocidad limitada: mira los retrasos reales de Iryo, Renfe y Ouigo</description>
-            <pubDate>Fri Jan 30 19:28:11 2026</pubDate>
-            </item>
-            <item>
-            <title>MuyLinux: ¡Linux Mint es la distro más popular de 2025!</title>
-            <link>https://www.muylinux.com/2026/01/30/resultados-distribuciones-2025/</link>
-            <description>¡Linux Mint es la distro más popular de 2025!</description>
-            <pubDate>Fri Jan 30 19:25:04 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: ¿Quieres Filmin más barato? Tiene una nueva oferta especial limitada</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/filmin-oferta-temporal-trimestral/</link>
-            <description>¿Quieres Filmin más barato? Tiene una nueva oferta especial limitada</description>
-            <pubDate>Fri Jan 30 19:04:27 2026</pubDate>
             </item></channel>
 </rss>
