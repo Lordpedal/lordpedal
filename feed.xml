@@ -6,6 +6,24 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Why PlayStation Graphics Wobble, Flicker and Twitch</title>
+            <link>https://hackaday.com/2026/02/06/why-playstation-graphics-wobble-flicker-and-twitch/</link>
+            <description>Why PlayStation Graphics Wobble, Flicker and Twitch</description>
+            <pubDate>Sat Feb  7 06:00:00 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: CIA’s World Factbook is Gone</title>
+            <link>https://hackaday.com/2026/02/06/cias-world-factbook-is-gone/</link>
+            <description>CIA’s World Factbook is Gone</description>
+            <pubDate>Sat Feb  7 03:00:26 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Welding Nuts Inside Metal Tubes, Painlessly</title>
+            <link>https://hackaday.com/2026/02/06/welding-nuts-inside-metal-tubes-painlessly/</link>
+            <description>Welding Nuts Inside Metal Tubes, Painlessly</description>
+            <pubDate>Sat Feb  7 00:00:31 2026</pubDate>
+            </item>
+            <item>
             <title>Hardware libre: RS485: guía completa de comunicación serie industrial y cableado</title>
             <link>https://www.hwlibre.com/rs485-guia-completa-de-comunicacion-serie-industrial-y-cableado/</link>
             <description>RS485: guía completa de comunicación serie industrial y cableado</description>
@@ -52,23 +70,5 @@
             <link>https://www.adslzone.net/ofertas/amazon/robot-aspirador-lefant-m2-0226/</link>
             <description>Amazon liquida este robot aspirador con un descuento del 71%: una joya de la limpieza por menos de 100 euros</description>
             <pubDate>Fri Feb  6 20:02:11 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Creíamos que la dieta vegetariana garantizaba la longevidad. En la vejez extrema, los datos dicen justo lo contrario</title>
-            <link>https://www.xataka.com/medicina-y-salud/creiamos-que-dieta-vegetariana-garantizaba-longevidad-vejez-extrema-datos-dicen-justo-contrario</link>
-            <description>Creíamos que la dieta vegetariana garantizaba la longevidad. En la vejez extrema, los datos dicen justo lo contrario</description>
-            <pubDate>Fri Feb  6 20:01:53 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Ni Windows 11 ni macOS: las 3 funciones de Linux que te harán trabajar mucho más rápido</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/funciones-linux-haran-trabajar-mucho-mas-rapido/</link>
-            <description>Ni Windows 11 ni macOS: las 3 funciones de Linux que te harán trabajar mucho más rápido</description>
-            <pubDate>Fri Feb  6 19:33:43 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La IA deja otra noticia que amargará el día a los jugadores: NVIDIA no lanzará nuevas gráficas este año, según The Information</title>
-            <link>https://www.xataka.com/componentes/ia-deja-otra-noticia-que-amargara-dia-a-jugadores-nvidia-no-lanzara-nuevas-graficas-este-ano-the-information</link>
-            <description>La IA deja otra noticia que amargará el día a los jugadores: NVIDIA no lanzará nuevas gráficas este año, según The Information</description>
-            <pubDate>Fri Feb  6 19:30:41 2026</pubDate>
             </item></channel>
 </rss>
