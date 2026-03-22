@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: An Electric Jellyfish For Androids</title>
+            <link>https://hackaday.com/2026/03/21/an-electric-jellyfish-for-androids/</link>
+            <description>An Electric Jellyfish For Androids</description>
+            <pubDate>Sun Mar 22 05:00:19 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: BenQ Display Pilot 2 software now has a Linux version</title>
+            <link>https://www.omgubuntu.co.uk/2026/03/benq-display-pilot-2-linux</link>
+            <description>BenQ Display Pilot 2 software now has a Linux version</description>
+            <pubDate>Sun Mar 22 02:27:44 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Analog Video From an 8-Bit Microcontroller</title>
+            <link>https://hackaday.com/2026/03/21/analog-video-from-an-8-bit-microcontroller/</link>
+            <description>Analog Video From an 8-Bit Microcontroller</description>
+            <pubDate>Sun Mar 22 02:00:41 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: Sensores de presión de los neumáticos: seguridad, riesgos de rastreo y futuro conectado</title>
+            <link>https://www.hwlibre.com/sensores-de-presion-de-los-neumaticos-seguridad-riesgos-de-rastreo-y-futuro-conectado/</link>
+            <description>Sensores de presión de los neumáticos: seguridad, riesgos de rastreo y futuro conectado</description>
+            <pubDate>Sat Mar 21 23:20:04 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reviving a Cursed Sun SPARCstation IPX</title>
+            <link>https://hackaday.com/2026/03/21/reviving-a-cursed-sun-sparcstation-ipx/</link>
+            <description>Reviving a Cursed Sun SPARCstation IPX</description>
+            <pubDate>Sat Mar 21 23:00:20 2026</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Todos los trucos para eliminar la publicidad molesta del menú de tu Smart TV</title>
             <link>https://www.adslzone.net/noticias/tecnologia/trucos-eliminar-anuncios-publicidad-smart-tv/</link>
             <description>Todos los trucos para eliminar la publicidad molesta del menú de tu Smart TV</description>
@@ -40,35 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/mejor-tarifas-movil-tipo-cliente/</link>
             <description>Dime qué tipo de tarifa móvil buscas y te diré qué operador deberías contratar</description>
             <pubDate>Sat Mar 21 18:33:50 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El 'butter run' es la última locura de Internet: correr 20 km para batir tu propia mantequilla. Lo hemos puesto a prueba</title>
-            <link>https://www.xataka.com/magnet/butter-run-ultima-locura-internet-correr-20-km-para-batir-tu-propia-mantequilla-hemos-puesto-a-prueba</link>
-            <description>El 'butter run' es la última locura de Internet: correr 20 km para batir tu propia mantequilla. Lo hemos puesto a prueba</description>
-            <pubDate>Sat Mar 21 18:31:52 2026</pubDate>
-            </item>
-            <item>
-            <title>RedesZone : Portal sobre telecomunicaciones, redes y ciberseguridad: No solo es el microondas: todo esto que tienes en la cocina está matando tu Wi-Fi</title>
-            <link>https://www.redeszone.net/noticias/wifi/aparatos-cocina-afectan-wifi/</link>
-            <description>No solo es el microondas: todo esto que tienes en la cocina está matando tu Wi-Fi</description>
-            <pubDate>Sat Mar 21 18:05:49 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: El problema de la pixelación en el fútbol de Movistar Plus+ tiene solución (y no es por culpa del cable)</title>
-            <link>https://www.adslzone.net/noticias/operadores/problema-pixelacion-futbol-movistar-solucion/</link>
-            <description>El problema de la pixelación en el fútbol de Movistar Plus+ tiene solución (y no es por culpa del cable)</description>
-            <pubDate>Sat Mar 21 18:03:21 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Llevamos más de un siglo creyendo que el apéndice es un órgano inútil y un error evolutivo. Estábamos muy equivocados</title>
-            <link>https://www.xataka.com/medicina-y-salud/llevamos-siglo-creyendo-que-apendice-organo-inutil-error-evolutivo-ciencia-ha-demostrado-todo-contrario</link>
-            <description>Llevamos más de un siglo creyendo que el apéndice es un órgano inútil y un error evolutivo. Estábamos muy equivocados</description>
-            <pubDate>Sat Mar 21 18:01:53 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Micron sabía que la crisis de la memoria RAM le iba a venir fenomenal. La realidades que  le ha ido aún mejor</title>
-            <link>https://www.xataka.com/empresas-y-economia/micron-sabia-que-crisis-memoria-ram-le-iba-a-venir-fenomenal-realidad-le-ha-ido-mejor</link>
-            <description>Micron sabía que la crisis de la memoria RAM le iba a venir fenomenal. La realidades que  le ha ido aún mejor</description>
-            <pubDate>Sat Mar 21 17:31:53 2026</pubDate>
             </item></channel>
 </rss>
