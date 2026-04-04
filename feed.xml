@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Making a Vintage Allen Scythe Electric</title>
+            <link>https://hackaday.com/2026/04/03/making-a-vintage-allen-scythe-electric/</link>
+            <description>Making a Vintage Allen Scythe Electric</description>
+            <pubDate>Sat Apr  4 05:00:52 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reverse-Engineering a Handheld Car Tire Pressure Gauge</title>
+            <link>https://hackaday.com/2026/04/03/reverse-engineering-a-handheld-car-tire-pressure-gauge/</link>
+            <description>Reverse-Engineering a Handheld Car Tire Pressure Gauge</description>
+            <pubDate>Sat Apr  4 02:00:41 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Simulating a glowing fireplace with an RP2040</title>
+            <link>https://hackaday.com/2026/04/03/simulating-a-glowing-fireplace-with-an-rp2040/</link>
+            <description>Simulating a glowing fireplace with an RP2040</description>
+            <pubDate>Fri Apr  3 23:00:19 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Skyscraper brings Bluesky to the Linux terminal</title>
+            <link>https://www.omgubuntu.co.uk/2026/04/skyscraper-bluesky-terminal-client-linux</link>
+            <description>Skyscraper brings Bluesky to the Linux terminal</description>
+            <pubDate>Fri Apr  3 22:55:00 2026</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: El router es más importante de lo que crees: descubre cuántos metros cuadrados cubre según el modelo escogido</title>
             <link>https://www.adslzone.net/noticias/redes/router-importante-metros-cuadrados-cubre-modelo/</link>
             <description>El router es más importante de lo que crees: descubre cuántos metros cuadrados cubre según el modelo escogido</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/videojuegos/evolucion-tetris-competitivo-gracias-a-nuevas-tecnicas-manejo-que-han-ido-pulverizando-todos-records</link>
             <description>Hay gente tan extremadamente competitiva en el 'Tetris' que están rompiendo el juego de forma literal</description>
             <pubDate>Fri Apr  3 18:00:56 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing</title>
-            <link>https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html</link>
-            <description>China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing</description>
-            <pubDate>Fri Apr  3 17:34:00 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hay tantos millonarios mudándose en masa a Florida que se han encontrado con un problema: no cabe un solo megayate más</title>
-            <link>https://www.xataka.com/empresas-y-economia/millonarios-big-tech-se-estan-mudando-masa-a-florida-han-encontrado-problema-no-hay-espacio-para-sus-megayates</link>
-            <description>Hay tantos millonarios mudándose en masa a Florida que se han encontrado con un problema: no cabe un solo megayate más</description>
-            <pubDate>Fri Apr  3 17:30:56 2026</pubDate>
-            </item>
-            <item>
-            <title>RedesZone : Portal sobre telecomunicaciones, redes y ciberseguridad: Cámaras de seguridad de interior vs de exterior: estas son las diferencias más importantes</title>
-            <link>https://www.redeszone.net/noticias/seguridad/diferencias-camaras-seguridad-interior-exterior/</link>
-            <description>Cámaras de seguridad de interior vs de exterior: estas son las diferencias más importantes</description>
-            <pubDate>Fri Apr  3 17:06:23 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Movistar Plus+ estrena mañana la película maldita que condenó la carrera de su protagonista</title>
-            <link>https://www.adslzone.net/noticias/operadores/movistar-plus-estrena-pelicula-maldita-condeno-carrera-protagonista/</link>
-            <description>Movistar Plus+ estrena mañana la película maldita que condenó la carrera de su protagonista</description>
-            <pubDate>Fri Apr  3 17:04:24 2026</pubDate>
             </item></channel>
 </rss>
