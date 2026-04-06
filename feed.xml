@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Pocket-Sized e-Ink Gets a Firmware Upgrade</title>
+            <link>https://hackaday.com/2026/04/05/pocket-sized-e-ink-gets-a-firmware-upgrade/</link>
+            <description>Pocket-Sized e-Ink Gets a Firmware Upgrade</description>
+            <pubDate>Mon Apr  6 05:00:08 2026</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: Ubuntu 26.04 LTS sube a 6 GB de RAM: ¿El fin del Linux para PC antiguos?</title>
+            <link>https://ubunlog.com/ubuntu-26-04-lts-requisitos-6gb-ram-analisis-opinion/</link>
+            <description>Ubuntu 26.04 LTS sube a 6 GB de RAM: ¿El fin del Linux para PC antiguos?</description>
+            <pubDate>Mon Apr  6 04:29:11 2026</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Si usas TikTok antes de dormir, desactiva esta función o te quedarás sin batería (y sin datos) por la mañana</title>
+            <link>https://www.adslzone.net/noticias/redes-sociales/ajuste-tik-tok-ahorrar-bateria/</link>
+            <description>Si usas TikTok antes de dormir, desactiva esta función o te quedarás sin batería (y sin datos) por la mañana</description>
+            <pubDate>Mon Apr  6 04:02:46 2026</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Arti 2.2.0: Soporte HTTP CONNECT, mejoras RPC y seguridad</title>
+            <link>https://blog.desdelinux.net/arti-2-2-0-lanzamiento-tor-rust-http-connect-rpc/</link>
+            <description>Arti 2.2.0: Soporte HTTP CONNECT, mejoras RPC y seguridad</description>
+            <pubDate>Mon Apr  6 03:35:11 2026</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: KDE Plasma 6.7: Escalado perfecto en Wayland y mejoras en Vulkan</title>
+            <link>https://blog.desdelinux.net/kde-plasma-6-7-escalado-wayland-vulkan-mejoras-interfaz/</link>
+            <description>KDE Plasma 6.7: Escalado perfecto en Wayland y mejoras en Vulkan</description>
+            <pubDate>Mon Apr  6 03:16:53 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Making the Case Against Markdown</title>
+            <link>https://hackaday.com/2026/04/05/making-the-case-against-markdown/</link>
+            <description>Making the Case Against Markdown</description>
+            <pubDate>Mon Apr  6 02:00:15 2026</pubDate>
+            </item>
+            <item>
+            <title>El Blog de Lázaro: [Artículo]: Sincronización en Trilium: escritorio, web y móvil</title>
+            <link>https://elblogdelazaro.org/sincronizacion-en-trilium-escritorio-web-y-movil/</link>
+            <description>[Artículo]: Sincronización en Trilium: escritorio, web y móvil</description>
+            <pubDate>Mon Apr  6 00:00:00 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: You can now enable Ubuntu Pro from the OS setup tool</title>
+            <link>https://www.omgubuntu.co.uk/2026/04/ubuntu-pro-initial-setup-tool</link>
+            <description>You can now enable Ubuntu Pro from the OS setup tool</description>
+            <pubDate>Sun Apr  5 23:57:18 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Building a Vise Stand with Pen-Like Retracting Wheels</title>
+            <link>https://hackaday.com/2026/04/05/building-a-vise-stand-with-pen-like-retracting-wheels/</link>
+            <description>Building a Vise Stand with Pen-Like Retracting Wheels</description>
+            <pubDate>Sun Apr  5 23:00:57 2026</pubDate>
+            </item>
+            <item>
             <title>NKSistemas: Fortinet corrige vulnerabilidad crítica en FortiClient EMS (CVE-2026-35616) explotada activamente</title>
             <link>https://nksistemas.com/fortinet-corrige-vulnerabilidad-critica-en-forticlient-ems-cve-2026-35616-explotada-activamente/</link>
             <description>Fortinet corrige vulnerabilidad crítica en FortiClient EMS (CVE-2026-35616) explotada activamente</description>
@@ -16,59 +70,5 @@
             <link>https://hackaday.com/2026/04/05/tiny-moves-big-depth-an-open-source-macro-focus-slider/</link>
             <description>Tiny Moves, Big Depth: An Open-Source Macro Focus Slider</description>
             <pubDate>Sun Apr  5 20:00:49 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Cambié mis líneas a O2, pero la portabilidad se ha retenido: ahora comprendo los motivos</title>
-            <link>https://www.adslzone.net/noticias/operadores/cambie-lineas-o2-portabilidad-retenido-motivos/</link>
-            <description>Cambié mis líneas a O2, pero la portabilidad se ha retenido: ahora comprendo los motivos</description>
-            <pubDate>Sun Apr  5 19:04:40 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China lleva 30 años diseñando el futuro de sus cazas y misiles hipersónicos: un motor para todas las velocidades</title>
-            <link>https://www.xataka.com/magnet/china-lleva-30-anos-disenando-futuro-sus-cazas-misiles-hipersonicos-motor-para-todas-velocidades</link>
-            <description>China lleva 30 años diseñando el futuro de sus cazas y misiles hipersónicos: un motor para todas las velocidades</description>
-            <pubDate>Sun Apr  5 19:00:56 2026</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Mejoras de interfaz y estabilidad – Esta semana en Plasma</title>
-            <link>https://www.kdeblog.com/mejoras-de-interfaz-y-estabilidad-esta-semana-en-plasma.html</link>
-            <description>Mejoras de interfaz y estabilidad – Esta semana en Plasma</description>
-            <pubDate>Sun Apr  5 18:42:04 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: $285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation</title>
-            <link>https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html</link>
-            <description>$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation</description>
-            <pubDate>Sun Apr  5 18:25:00 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Orange lo confirma: si ves el fútbol en estos canales, no vas a poder cambiar el audio de los partidos</title>
-            <link>https://www.adslzone.net/noticias/operadores/orange-canales-futbol-audio-radios/</link>
-            <description>Orange lo confirma: si ves el fútbol en estos canales, no vas a poder cambiar el audio de los partidos</description>
-            <pubDate>Sun Apr  5 18:01:01 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Conducir un coche autónomo es más fácil para la IA que jugar al 'Tetris': el motivo son las leyes de la física</title>
-            <link>https://www.xataka.com/robotica-e-ia/conducir-coche-autonomo-facil-para-ia-que-jugar-al-tetris-motivo-leyes-fisica</link>
-            <description>Conducir un coche autónomo es más fácil para la IA que jugar al 'Tetris': el motivo son las leyes de la física</description>
-            <pubDate>Sun Apr  5 18:00:56 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Íbamos a convertir la basura en energía limpia. Ahora el sector del biogás se enfrenta a su mayor reto: convencer a los vecinos</title>
-            <link>https://www.xataka.com/energia/ibamos-a-convertir-basura-energia-limpia-ahora-sector-biogas-se-enfrenta-a-su-mayor-reto-convencer-a-vecinos</link>
-            <description>Íbamos a convertir la basura en energía limpia. Ahora el sector del biogás se enfrenta a su mayor reto: convencer a los vecinos</description>
-            <pubDate>Sun Apr  5 17:30:56 2026</pubDate>
-            </item>
-            <item>
-            <title>RedesZone : Portal sobre telecomunicaciones, redes y ciberseguridad: No compres un NAS de gama de entrada con estas características, cometerás un grave error</title>
-            <link>https://www.redeszone.net/noticias/redes/no-compres-nas-gama-entrada-caracteristicas-grave-error/</link>
-            <description>No compres un NAS de gama de entrada con estas características, cometerás un grave error</description>
-            <pubDate>Sun Apr  5 17:03:15 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Disney+ ha estrenado por sorpresa la película de comedia más divertida y surrealista del año</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/disney-estrenado-comedia-mas-divertida-surrealista/</link>
-            <description>Disney+ ha estrenado por sorpresa la película de comedia más divertida y surrealista del año</description>
-            <pubDate>Sun Apr  5 17:01:11 2026</pubDate>
             </item></channel>
 </rss>
