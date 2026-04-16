@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Raspberry para torpes: ODROID-U3 con kernel 6.12 usando los kernels de Velvet OS</title>
+            <link>https://raspberryparatorpes.net/proyectos/odroid-u3-kernel-6-velvet-os/</link>
+            <description>ODROID-U3 con kernel 6.12 usando los kernels de Velvet OS</description>
+            <pubDate>Thu Apr 16 05:53:00 2026</pubDate>
+            </item>
+            <item>
+            <title>KDE Blog: Nuevo configurador para de Plasma 6.6</title>
+            <link>https://www.kdeblog.com/nuevo-configurador-para-de-plasma-6-6.html</link>
+            <description>Nuevo configurador para de Plasma 6.6</description>
+            <pubDate>Thu Apr 16 05:37:20 2026</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: ¿Tu móvil solo carga si mueves el cable? Tiene una solución más sencilla de la que crees, y no deberás cambiar de cargador</title>
+            <link>https://www.adslzone.net/noticias/tecnologia/movil-solo-carga-posicion-cable-problema-solucion/</link>
+            <description>¿Tu móvil solo carga si mueves el cable? Tiene una solución más sencilla de la que crees, y no deberás cambiar de cargador</description>
+            <pubDate>Thu Apr 16 05:01:11 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Cooking a Raspberry Pi FireWire HAT With Backfeeding</title>
+            <link>https://hackaday.com/2026/04/15/cooking-a-raspberry-pi-firewire-hat-with-backfeeding/</link>
+            <description>Cooking a Raspberry Pi FireWire HAT With Backfeeding</description>
+            <pubDate>Thu Apr 16 05:00:47 2026</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Inditex avisa de urgencia: Zara ha sufrido un ataque informático que ha afectado a bases de datos internas</title>
+            <link>https://www.adslzone.net/noticias/seguridad/inditex-avisa-zara-sufrido-ataque-informatico-bases-datos/</link>
+            <description>Inditex avisa de urgencia: Zara ha sufrido un ataque informático que ha afectado a bases de datos internas</description>
+            <pubDate>Thu Apr 16 04:00:10 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Haiku Isn’t Just for X86 Anymore, Boots on ARM in QEMU</title>
+            <link>https://hackaday.com/2026/04/15/haiku-isnt-just-for-x86-anymore-boots-on-arm-in-qemu/</link>
+            <description>Haiku Isn’t Just for X86 Anymore, Boots on ARM in QEMU</description>
+            <pubDate>Thu Apr 16 02:00:57 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Python Comes to the Arduino Uno Q</title>
+            <link>https://hackaday.com/2026/04/15/python-comes-to-the-arduino-uno-q/</link>
+            <description>Python Comes to the Arduino Uno Q</description>
+            <pubDate>Wed Apr 15 23:00:46 2026</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Las luces LED del Smart WiFi 7 de Movistar te avisarán de fallos: qué significa cada luz y color del router</title>
             <link>https://www.adslzone.net/noticias/operadores/luces-led-smart-wifi-7-movistar/</link>
             <description>Las luces LED del Smart WiFi 7 de Movistar te avisarán de fallos: qué significa cada luz y color del router</description>
@@ -28,47 +70,5 @@
             <link>https://www.adslzone.net/noticias/internet/apertura-famoso-outlet-zaragoza-precios-baratos/</link>
             <description>Abre en el centro de Zaragoza un famoso outlet con precios por debajo de los 2 euros: querrás toda la tienda</description>
             <pubDate>Wed Apr 15 19:32:50 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La Tierra iba a obligarnos a "borrar" un segundo de nuestros relojes en 2026. El cambio climático lo ha cambiado todo</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/tierra-iba-a-obligarnos-a-borrar-segundo-nuestros-relojes-2026-cambio-climatico-ha-cambiado-todo</link>
-            <description>La Tierra iba a obligarnos a "borrar" un segundo de nuestros relojes en 2026. El cambio climático lo ha cambiado todo</description>
-            <pubDate>Wed Apr 15 19:30:32 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: PcComponentes rebaja más de lo que imaginas el mejor pack de PlayStation 5 con GTA y otro juegazo</title>
-            <link>https://www.adslzone.net/ofertas/pccomponentes-consola-sony-playstation-5-slim-pack-gta-0426/</link>
-            <description>PcComponentes rebaja más de lo que imaginas el mejor pack de PlayStation 5 con GTA y otro juegazo</description>
-            <pubDate>Wed Apr 15 19:04:22 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: A no ser que tengas 170.000 años, en los próximos días podrás ver un cometa que no has visto jamás</title>
-            <link>https://www.xataka.com/espacio/a-no-ser-que-tengas-170-000-anos-proximos-dias-podras-ver-cometa-que-no-has-visto-jamas</link>
-            <description>A no ser que tengas 170.000 años, en los próximos días podrás ver un cometa que no has visto jamás</description>
-            <pubDate>Wed Apr 15 19:00:32 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Movistar aclara la duda: el factor del que depende que tus partidos de fútbol se vean con la máxima calidad posible en tu Smart TV</title>
-            <link>https://www.adslzone.net/noticias/operadores/movistar-explica-factores-influyen-calidad-retransmisiones-futbol/</link>
-            <description>Movistar aclara la duda: el factor del que depende que tus partidos de fútbol se vean con la máxima calidad posible en tu Smart TV</description>
-            <pubDate>Wed Apr 15 18:33:02 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: A Look at Full Spectrum 3D Printing</title>
-            <link>https://hackaday.com/2026/04/15/a-look-at-full-spectrum-3d-printing/</link>
-            <description>A Look at Full Spectrum 3D Printing</description>
-            <pubDate>Wed Apr 15 18:30:51 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Las TVs no han dejado de crecer. LG ahora tiene una gama que alcanza las 115 pulgadas, aunque la clave está en otra parte</title>
-            <link>https://www.xataka.com/televisores/tvs-no-han-dejado-crecer-lg-ahora-tiene-gama-que-alcanza-115-pulgadas-clave-esta-otra-parte</link>
-            <description>Las TVs no han dejado de crecer. LG ahora tiene una gama que alcanza las 115 pulgadas, aunque la clave está en otra parte</description>
-            <pubDate>Wed Apr 15 18:30:33 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Uno de los últimos éxitos en comedia de HBO Max tendrá una segunda temporada, pero ¿por qué gusta tanto?</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/ultimos-exitos-comedia-hbo-max-por-que-gusta/</link>
-            <description>Uno de los últimos éxitos en comedia de HBO Max tendrá una segunda temporada, pero ¿por qué gusta tanto?</description>
-            <pubDate>Wed Apr 15 18:03:10 2026</pubDate>
             </item></channel>
 </rss>
