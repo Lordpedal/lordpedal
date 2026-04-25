@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: How to Install Haiku on a UEFI-Only Modern System</title>
+            <link>https://hackaday.com/2026/04/24/how-to-install-haiku-on-a-uefi-only-modern-system/</link>
+            <description>How to Install Haiku on a UEFI-Only Modern System</description>
+            <pubDate>Sat Apr 25 05:00:10 2026</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Novedades del Linuxverso Semana 17/2026: AlmaLinux OS 9.8 Beta 1, Redcore Linux 2601 y Ubuntu 26.04</title>
+            <link>https://blog.desdelinux.net/novedades-linuxverso-semana-17-2026/</link>
+            <description>Novedades del Linuxverso Semana 17/2026: AlmaLinux OS 9.8 Beta 1, Redcore Linux 2601 y Ubuntu 26.04</description>
+            <pubDate>Sat Apr 25 02:27:34 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Muon Magnetic Moment Matches Model, Making Major Malaise</title>
+            <link>https://hackaday.com/2026/04/24/muon-magnetic-moment-matches-model-making-major-malaise/</link>
+            <description>Muon Magnetic Moment Matches Model, Making Major Malaise</description>
+            <pubDate>Sat Apr 25 02:00:49 2026</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: Miami Maker Faire Rocked and Roared to Life</title>
+            <link>https://makezine.com/article/maker-news/miami-maker-faire-rocked-and-roared-to-life/</link>
+            <description>Miami Maker Faire Rocked and Roared to Life</description>
+            <pubDate>Sat Apr 25 01:18:34 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Audio-Forward Case Mod of Classic 90s Portable TV</title>
+            <link>https://hackaday.com/2026/04/24/audio-forward-case-mod-of-classic-90s-portable-tv/</link>
+            <description>Audio-Forward Case Mod of Classic 90s Portable TV</description>
+            <pubDate>Fri Apr 24 23:00:10 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: Ubuntu 26.04 LTS Resolute Raccoon llega con más seguridad, IA y soporte prolongado</title>
+            <link>https://www.hwlibre.com/ubuntu-26-04-lts-resolute-raccoon-llega-con-mas-seguridad-ia-y-soporte-prolongado/</link>
+            <description>Ubuntu 26.04 LTS Resolute Raccoon llega con más seguridad, IA y soporte prolongado</description>
+            <pubDate>Fri Apr 24 22:58:29 2026</pubDate>
+            </item>
+            <item>
             <title>Noticias de Linux y tecnología - LinuxParty: Cuando tu Linux va lento y no sabes por qué: el cuello de botella puede estar en el disco</title>
             <link>https://www.linuxparty.es/75-hardware/12680-cuando-tu-linux-va-lento-y-no-sabes-por-qu%C3%A9-el-cuello-de-botella-puede-estar-en-el-disco.html</link>
             <description>Cuando tu Linux va lento y no sabes por qué: el cuello de botella puede estar en el disco</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/movistar-hogar-conectado-5g-segundas-residencias/</link>
             <description>Movistar lleva el 5G a las segundas residencias con 1 giga de velocidad por 15 euros</description>
             <pubDate>Fri Apr 24 19:50:49 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Un desarrollador se fue a dormir con una alerta de 10 dólares en Google Cloud: despertó con una factura de más de 18.000</title>
-            <link>https://www.xataka.com/aplicaciones/desarrollador-se-fue-a-dormir-alerta-10-dolares-google-cloud-desperto-factura-18-000</link>
-            <description>Un desarrollador se fue a dormir con una alerta de 10 dólares en Google Cloud: despertó con una factura de más de 18.000</description>
-            <pubDate>Fri Apr 24 19:31:52 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Netflix prepara un anime exclusivo que dolerá a Crunchyroll: la adaptación inesperada de un gran clásico</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/netflix-anime-exclusivo-crunchyroll-adaptacion-gran-clasico/</link>
-            <description>Netflix prepara un anime exclusivo que dolerá a Crunchyroll: la adaptación inesperada de un gran clásico</description>
-            <pubDate>Fri Apr 24 19:31:34 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Windows 11 cambia desde hoy la forma de actualizarse: estas novedades afectan a todos los usuarios</title>
-            <link>https://www.adslzone.net/noticias/windows/windows-11-cambia-desde-hoy-forma-actualizarse/</link>
-            <description>Windows 11 cambia desde hoy la forma de actualizarse: estas novedades afectan a todos los usuarios</description>
-            <pubDate>Fri Apr 24 19:14:10 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: AliExpress rebaja la consola portátil Anbernic más potente y con IA integrada</title>
-            <link>https://www.adslzone.net/ofertas/aliexpress-consola-anbernic-rg-vita-pro-0426/</link>
-            <description>AliExpress rebaja la consola portátil Anbernic más potente y con IA integrada</description>
-            <pubDate>Fri Apr 24 19:06:55 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China ha prohibido a otra startup de IA exportar talento e investigación: poco a poco, está "nacionalizando" la IA</title>
-            <link>https://www.xataka.com/empresas-y-economia/china-ha-prohibido-a-otra-startup-ia-exportar-talento-e-investigacion-estado-esta-nacionalizando-su-ia</link>
-            <description>China ha prohibido a otra startup de IA exportar talento e investigación: poco a poco, está "nacionalizando" la IA</description>
-            <pubDate>Fri Apr 24 19:01:52 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hay un producto preparado para que dejemos de sacar el móvil del bolsillo. Las gafas: Crossover 1x44</title>
-            <link>https://www.xataka.com/crossover/hay-producto-preparado-dejemos-sacar-movil-bolsillo-gafas-crossover-1x44</link>
-            <description>Hay un producto preparado para que dejemos de sacar el móvil del bolsillo. Las gafas: Crossover 1x44</description>
-            <pubDate>Fri Apr 24 18:31:52 2026</pubDate>
             </item></channel>
 </rss>
