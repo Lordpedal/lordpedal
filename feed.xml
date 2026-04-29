@@ -6,6 +6,60 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure</title>
+            <link>https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html</link>
+            <description>LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure</description>
+            <pubDate>Wed Apr 29 05:34:00 2026</pubDate>
+            </item>
+            <item>
+            <title>Noticias de Linux y tecnología - LinuxParty: Linux sigue creciendo: alcanza el 5,33% en escritorio (abril 2026)</title>
+            <link>https://www.linuxparty.es/35-linux/12684-linux-sigue-creciendo-alcanza-el-5,33-en-escritorio-abril-2026.html</link>
+            <description>Linux sigue creciendo: alcanza el 5,33% en escritorio (abril 2026)</description>
+            <pubDate>Wed Apr 29 05:18:03 2026</pubDate>
+            </item>
+            <item>
+            <title>Raspberry para torpes: Radxa ROCK 2F: la SBC económica con WiFi 6, 4K y soporte Armbian</title>
+            <link>https://raspberryparatorpes.net/rivales/rivales-raspberry-pi-radxa-rock-2f/</link>
+            <description>Radxa ROCK 2F: la SBC económica con WiFi 6, 4K y soporte Armbian</description>
+            <pubDate>Wed Apr 29 05:07:00 2026</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Telefónica avanza en el 5G por satélite con un nuevo acuerdo para potenciar su servicio en Defensa</title>
+            <link>https://www.adslzone.net/noticias/operadores/telefonica-avanza-5g-satelite-acuerdo-defensa/</link>
+            <description>Telefónica avanza en el 5G por satélite con un nuevo acuerdo para potenciar su servicio en Defensa</description>
+            <pubDate>Wed Apr 29 05:04:56 2026</pubDate>
+            </item>
+            <item>
+            <title>Xataka: En 1944, la ocupación nazi de Holanda causó una hambruna brutal. Y gracias a ella descubrimos la celiaquía</title>
+            <link>https://www.xataka.com/magnet/1944-ocupacion-nazi-holanda-causo-hambruna-brutal-gracias-a-ella-descubrimos-celiaquia</link>
+            <description>En 1944, la ocupación nazi de Holanda causó una hambruna brutal. Y gracias a ella descubrimos la celiaquía</description>
+            <pubDate>Wed Apr 29 05:01:52 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Compact VGA Output Board For The Pi Pico</title>
+            <link>https://hackaday.com/2026/04/28/compact-vga-output-board-for-the-pi-pico/</link>
+            <description>Compact VGA Output Board For The Pi Pico</description>
+            <pubDate>Wed Apr 29 05:00:55 2026</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Lanzamiento de Ubuntu 26.04 LTS: Kernel 7.0, cifrado TPM y Wayland</title>
+            <link>https://blog.desdelinux.net/ubuntu-26-04-lanzamiento-novedades-gnome-50-kernel-7/</link>
+            <description>Lanzamiento de Ubuntu 26.04 LTS: Kernel 7.0, cifrado TPM y Wayland</description>
+            <pubDate>Wed Apr 29 02:45:50 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Recycling PLA and Other Plastic Waste with Compression Molding</title>
+            <link>https://hackaday.com/2026/04/28/recycling-pla-and-other-plastic-waste-with-compression-molding/</link>
+            <description>Recycling PLA and Other Plastic Waste with Compression Molding</description>
+            <pubDate>Wed Apr 29 02:00:31 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Can you 3D Print a Pinball Machine That’s Fun to Play?</title>
+            <link>https://hackaday.com/2026/04/28/can-you-3d-print-a-pinball-machine-thats-fun-to-play/</link>
+            <description>Can you 3D Print a Pinball Machine That’s Fun to Play?</description>
+            <pubDate>Tue Apr 28 23:00:59 2026</pubDate>
+            </item>
+            <item>
             <title>Xataka: La IA necesita cada vez más electricidad para avanzar: Meta ha firmado un acuerdo para buscarla en el espacio</title>
             <link>https://www.xataka.com/energia/ia-necesita-cada-vez-electricidad-para-avanzar-meta-ha-firmado-acuerdo-para-buscarla-espacio</link>
             <description>La IA necesita cada vez más electricidad para avanzar: Meta ha firmado un acuerdo para buscarla en el espacio</description>
@@ -16,59 +70,5 @@
             <link>https://hackaday.com/2026/04/28/payphone-tag-is-australias-new-national-sport/</link>
             <description>Payphone Tag Is Australia’s New National Sport</description>
             <pubDate>Tue Apr 28 20:00:18 2026</pubDate>
-            </item>
-            <item>
-            <title>Ubunlog: Curso de programación en Python con Linux. Parte dos</title>
-            <link>https://ubunlog.com/curso-de-programacion-en-python-con-linux-parte-dos/</link>
-            <description>Curso de programación en Python con Linux. Parte dos</description>
-            <pubDate>Tue Apr 28 19:59:16 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Movistar confirma sus planes para llevar todos estos canales a calidad HD desde el desco</title>
-            <link>https://www.adslzone.net/noticias/operadores/movistar-confirma-planes-llevar-hd-canales/</link>
-            <description>Movistar confirma sus planes para llevar todos estos canales a calidad HD desde el desco</description>
-            <pubDate>Tue Apr 28 19:57:09 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Si la pregunta es cuántas webs ha generado la IA, la respuesta empieza a explicar la nueva internet</title>
-            <link>https://www.xataka.com/robotica-e-ia/pregunta-cuantas-webs-ha-generado-ia-respuesta-empieza-a-explicar-nueva-internet</link>
-            <description>Si la pregunta es cuántas webs ha generado la IA, la respuesta empieza a explicar la nueva internet</description>
-            <pubDate>Tue Apr 28 19:31:52 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Un canal de la TDT compra la serie que ha triunfado en Netflix internacionalmente: la podrás ver gratis</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/canal-tdt-compra-serie-triunfado-netflix-internacionalmente-ver-gratis/</link>
-            <description>Un canal de la TDT compra la serie que ha triunfado en Netflix internacionalmente: la podrás ver gratis</description>
-            <pubDate>Tue Apr 28 19:31:35 2026</pubDate>
-            </item>
-            <item>
-            <title>Linux Adictos: Fedora 44 llega como referencia del escritorio Linux moderno</title>
-            <link>https://www.linuxadictos.com/fedora-44-llega-como-referencia-del-escritorio-linux-moderno.html</link>
-            <description>Fedora 44 llega como referencia del escritorio Linux moderno</description>
-            <pubDate>Tue Apr 28 19:17:21 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: México se gastó una fortuna en el Tren Maya: dos años después tiene pocos viajeros, hoteles vacíos y residentes frustrados</title>
-            <link>https://www.xataka.com/magnet/mexico-se-gasto-fortuna-su-tren-maya-dos-anos-despues-tiene-pocos-viajeros-hoteles-casi-vacios-residentes-frustrados</link>
-            <description>México se gastó una fortuna en el Tren Maya: dos años después tiene pocos viajeros, hoteles vacíos y residentes frustrados</description>
-            <pubDate>Tue Apr 28 19:01:52 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: 200 euros menos por tiempo límite: Garmin rebaja en Amazon su reloj ultrarresistente</title>
-            <link>https://www.adslzone.net/ofertas/amazon/reloj-garmin-instinct-2x-solar-0426/</link>
-            <description>200 euros menos por tiempo límite: Garmin rebaja en Amazon su reloj ultrarresistente</description>
-            <pubDate>Tue Apr 28 18:58:08 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: "Como si se diera la vuelta al edificio": la historia de las Torres Colón, el rascacielos de Madrid construido al revés</title>
-            <link>https://www.xataka.com/magnet/como-se-diera-vuelta-al-edificio-historia-torres-colon-rascacielos-madrid-construido-al-reves</link>
-            <description>"Como si se diera la vuelta al edificio": la historia de las Torres Colón, el rascacielos de Madrid construido al revés</description>
-            <pubDate>Tue Apr 28 18:45:52 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Google revoluciona Google Home con Gemini, Google Translate y Android Automotive: llegan grandes novedades</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/google-home-gemini-translate-android-automotive-novedades/</link>
-            <description>Google revoluciona Google Home con Gemini, Google Translate y Android Automotive: llegan grandes novedades</description>
-            <pubDate>Tue Apr 28 18:33:32 2026</pubDate>
             </item></channel>
 </rss>
