@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Rust Helps Make A $1 Handheld Console</title>
+            <link>https://hackaday.com/2026/05/01/rust-helps-make-a-1-handheld-console/</link>
+            <description>Rust Helps Make A $1 Handheld Console</description>
+            <pubDate>Sat May  2 05:00:07 2026</pubDate>
+            </item>
+            <item>
+            <title>DistritoTux: Un Minuto en la Vida de ......</title>
+            <link>https://www.distritotux.cl/2026/05/un-minuto-en-la-vida-de.html</link>
+            <description>Un Minuto en la Vida de ......</description>
+            <pubDate>Sat May  2 03:13:09 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: 3D Printed Orrery Runs On A Single Motor</title>
+            <link>https://hackaday.com/2026/05/01/3d-printed-orrery-runs-on-a-single-motor/</link>
+            <description>3D Printed Orrery Runs On A Single Motor</description>
+            <pubDate>Sat May  2 02:00:08 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: Copy Fail, la vulnerabilidad de Linux que pone en jaque a servidores, nube y contenedores</title>
+            <link>https://www.hwlibre.com/copy-fail-la-vulnerabilidad-de-linux-que-pone-en-jaque-a-servidores-nube-y-contenedores/</link>
+            <description>Copy Fail, la vulnerabilidad de Linux que pone en jaque a servidores, nube y contenedores</description>
+            <pubDate>Sat May  2 00:17:30 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Magnetic Induction Heats Water</title>
+            <link>https://hackaday.com/2026/05/01/magnetic-induction-heats-water/</link>
+            <description>Magnetic Induction Heats Water</description>
+            <pubDate>Fri May  1 23:00:01 2026</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: Build a Wa-Style Knife Handle</title>
+            <link>https://makezine.com/projects/build-a-wa-style-knife-handle/</link>
+            <description>Build a Wa-Style Knife Handle</description>
+            <pubDate>Fri May  1 22:30:00 2026</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Adapting a 100-Year-Old Lens To A Modern Camera</title>
             <link>https://hackaday.com/2026/05/01/adapting-a-100-year-old-lens-to-a-modern-camera/</link>
             <description>Adapting a 100-Year-Old Lens To A Modern Camera</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/ofertas/aliexpress-ordenador-mini-pc-gmktec-nucbox-g3-0526/</link>
             <description>AliExpress lanza descuento especial en un Mini PC con el que podrás hacer más de lo que imaginas</description>
             <pubDate>Fri May  1 19:06:03 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Running DOOM on a Travel Router With Touch Screen</title>
-            <link>https://hackaday.com/2026/05/01/running-doom-on-a-travel-router-with-touch-screen/</link>
-            <description>Running DOOM on a Travel Router With Touch Screen</description>
-            <pubDate>Fri May  1 18:30:54 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: El truco más sencillo para limpiar el doble cristal del horno sin tener que desmontarlo</title>
-            <link>https://www.xatakahome.com/hogar/truco-sencillo-para-limpiar-doble-cristal-horno-tener-que-desmontarlo</link>
-            <description>El truco más sencillo para limpiar el doble cristal del horno sin tener que desmontarlo</description>
-            <pubDate>Fri May  1 18:27:14 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: 30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign</title>
-            <link>https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html</link>
-            <description>30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign</description>
-            <pubDate>Fri May  1 18:09:00 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Mientras construían un túnel, unos obreros dieron con algo insólito en Suecia: no uno ni dos, sino seis naufragios centenarios</title>
-            <link>https://www.xataka.com/magnet/construian-tunel-obreros-han-dado-algo-insolito-no-uno-dos-sino-seis-naufragios-centenarios</link>
-            <description>Mientras construían un túnel, unos obreros dieron con algo insólito en Suecia: no uno ni dos, sino seis naufragios centenarios</description>
-            <pubDate>Fri May  1 18:00:26 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Cargo duplicado en la tarjeta: este es el truco de los expertos para recuperar el dinero cuanto antes</title>
-            <link>https://www.adslzone.net/noticias/fintech/cobro-duplicado-tarjeta-recuperar-dinero/</link>
-            <description>Cargo duplicado en la tarjeta: este es el truco de los expertos para recuperar el dinero cuanto antes</description>
-            <pubDate>Fri May  1 17:57:18 2026</pubDate>
-            </item>
-            <item>
-            <title>Make: DIY Projects and Ideas for Makers: Make a Yakisugi Display Stand</title>
-            <link>https://makezine.com/projects/make-a-yakisugi-display-stand/</link>
-            <description>Make a Yakisugi Display Stand</description>
-            <pubDate>Fri May  1 17:32:00 2026</pubDate>
             </item></channel>
 </rss>
