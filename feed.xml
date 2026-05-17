@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Hardware libre: Impresión 3D en las escuelas: formación docente y nuevos proyectos en el aula</title>
+            <link>https://www.hwlibre.com/impresion-3d-en-las-escuelas-formacion-docente-y-nuevos-proyectos-en-el-aula/</link>
+            <description>Impresión 3D en las escuelas: formación docente y nuevos proyectos en el aula</description>
+            <pubDate>Sun May 17 05:15:47 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Your Browser Probably Lies to the Big Sites (Blame Chrome)</title>
+            <link>https://hackaday.com/2026/05/16/your-browser-probably-lies-to-the-big-sites-blame-chrome/</link>
+            <description>Your Browser Probably Lies to the Big Sites (Blame Chrome)</description>
+            <pubDate>Sun May 17 05:00:40 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Asimov is an Open Source Humanoid Robot For the Rest of Us</title>
+            <link>https://hackaday.com/2026/05/16/asimov-is-an-open-source-humanoid-robot-for-the-rest-of-us/</link>
+            <description>Asimov is an Open Source Humanoid Robot For the Rest of Us</description>
+            <pubDate>Sun May 17 02:00:02 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: After Stumbling From CVE to CVE Will Linux get a Kill Switch?</title>
+            <link>https://hackaday.com/2026/05/16/after-stumbling-from-cve-to-cve-will-linux-get-a-kill-switch/</link>
+            <description>After Stumbling From CVE to CVE Will Linux get a Kill Switch?</description>
+            <pubDate>Sat May 16 23:00:20 2026</pubDate>
+            </item>
+            <item>
+            <title>Ubunlog: TTL: Una herramienta CLI de diagnóstico de red que va más allá del comando Traceroute y Ping</title>
+            <link>https://ubunlog.com/ttl/</link>
+            <description>TTL: Una herramienta CLI de diagnóstico de red que va más allá del comando Traceroute y Ping</description>
+            <pubDate>Sat May 16 22:46:42 2026</pubDate>
+            </item>
+            <item>
             <title>Hardware libre: Linux 7.1 refuerza seguridad y manejo de bugs en la era de la IA</title>
             <link>https://www.hwlibre.com/linux-7-1-refuerza-seguridad-y-manejo-de-bugs-en-la-era-de-la-ia/</link>
             <description>Linux 7.1 refuerza seguridad y manejo de bugs en la era de la IA</description>
@@ -40,35 +70,5 @@
             <link>https://elcondonrotodegnu.wordpress.com/2026/05/16/lanzamiento-ubuntu-touch-24-04-1-3/</link>
             <description>Lanzamiento Ubuntu Touch 24.04-1.3</description>
             <pubDate>Sat May 16 18:32:28 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China ya fabrica en masa la fibra de carbono más resistente del mundo. Y eso cambia las reglas en defensa, aeronáutica y energía</title>
-            <link>https://www.xataka.com/materiales/china-fabrica-masa-fibra-carbono-resistente-mundo-eso-cambia-reglas-defensa-aeronautica-energia</link>
-            <description>China ya fabrica en masa la fibra de carbono más resistente del mundo. Y eso cambia las reglas en defensa, aeronáutica y energía</description>
-            <pubDate>Sat May 16 18:31:30 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: El ajuste del monitor que muchos no conocen: evitará que tus ojos se cansen al trabajar durante horas</title>
-            <link>https://www.adslzone.net/noticias/tecnologia/ajuste-monitor-luz-azul-pantalla/</link>
-            <description>El ajuste del monitor que muchos no conocen: evitará que tus ojos se cansen al trabajar durante horas</description>
-            <pubDate>Sat May 16 18:02:41 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Las palas de los aerogeneradores son un peligro mortal para las aves. La solución: pintarlas como serpientes venenosas</title>
-            <link>https://www.xataka.com/energia/palas-aerogeneradores-peligro-mortal-para-aves-solucion-pintarlas-como-serpientes-venenosas</link>
-            <description>Las palas de los aerogeneradores son un peligro mortal para las aves. La solución: pintarlas como serpientes venenosas</description>
-            <pubDate>Sat May 16 18:01:30 2026</pubDate>
-            </item>
-            <item>
-            <title>ochobitshacenunbyte: Descubre Beszel: Monitorización ligera para tus contenedores</title>
-            <link>https://www.ochobitshacenunbyte.com/2026/05/16/descubre-beszel-monitorizacion-ligera-para-tus-contenedores/</link>
-            <description>Descubre Beszel: Monitorización ligera para tus contenedores</description>
-            <pubDate>Sat May 16 17:53:14 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En tres días se lanza una de las misiones espaciales más importantes de Europa: SMILE, su primer megaproyecto  con China</title>
-            <link>https://www.xataka.com/espacio/tres-dias-se-lanza-misiones-espaciales-importantes-europa-smile-su-primer-gran-proyecto-conjunto-china</link>
-            <description>En tres días se lanza una de las misiones espaciales más importantes de Europa: SMILE, su primer megaproyecto  con China</description>
-            <pubDate>Sat May 16 17:31:30 2026</pubDate>
             </item></channel>
 </rss>
