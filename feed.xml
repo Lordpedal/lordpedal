@@ -6,10 +6,52 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: The Final Steps to a Sub-Minute Benchy</title>
+            <link>https://hackaday.com/2026/05/30/the-final-steps-to-a-sub-minute-benchy/</link>
+            <description>The Final Steps to a Sub-Minute Benchy</description>
+            <pubDate>Sun May 31 05:00:07 2026</pubDate>
+            </item>
+            <item>
+            <title>EsGeeks: sha256sum: Verifica la Integridad de tus Archivos</title>
+            <link>https://esgeeks.com/sha256sum-verificar-integridad-archivos/</link>
+            <description>sha256sum: Verifica la Integridad de tus Archivos</description>
+            <pubDate>Sun May 31 03:12:52 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Poking Around with JTAG on a Guitar Amp</title>
+            <link>https://hackaday.com/2026/05/30/poking-around-with-jtag-on-a-guitar-amp/</link>
+            <description>Poking Around with JTAG on a Guitar Amp</description>
+            <pubDate>Sun May 31 02:00:42 2026</pubDate>
+            </item>
+            <item>
+            <title>~#hackplayers: Anatomía de una APT simulada. Parte 1 - La empresa invisible</title>
+            <link>https://www.hackplayers.com/2026/05/anatomia-de-una-apt-simulada-parte-1.html</link>
+            <description>Anatomía de una APT simulada. Parte 1 - La empresa invisible</description>
+            <pubDate>Sat May 30 23:51:27 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Keychain GameCube Controller Made Functional</title>
+            <link>https://hackaday.com/2026/05/30/keychain-gamecube-controller-made-functional/</link>
+            <description>Keychain GameCube Controller Made Functional</description>
+            <pubDate>Sat May 30 23:00:28 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: La nueva frontera de los paneles QD-OLED: El salto al 4K con 360 Hz de frecuencia</title>
+            <link>https://www.hwlibre.com/la-nueva-frontera-de-los-paneles-qd-oled-el-salto-al-4k-con-360-hz-de-frecuencia/</link>
+            <description>La nueva frontera de los paneles QD-OLED: El salto al 4K con 360 Hz de frecuencia</description>
+            <pubDate>Sat May 30 21:50:02 2026</pubDate>
+            </item>
+            <item>
             <title>NKSistemas: Shelly 2.3.2: La Evolución del Gestor de Paquetes Gráfico para Arch Linux</title>
             <link>https://nksistemas.com/shelly-2-3-2-la-evolucion-del-gestor-de-paquetes-grafico-para-arch-linux/</link>
             <description>Shelly 2.3.2: La Evolución del Gestor de Paquetes Gráfico para Arch Linux</description>
             <pubDate>Sat May 30 21:13:31 2026</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: OpenBSD 7.9: Mejor gestión de energía, Wi-Fi 6 y soporte para Apple Silicon</title>
+            <link>https://blog.desdelinux.net/openbsd-7-9-mejor-gestion-de-energia-wi-fi-6-y-soporte-para-apple-silicon/</link>
+            <description>OpenBSD 7.9: Mejor gestión de energía, Wi-Fi 6 y soporte para Apple Silicon</description>
+            <pubDate>Sat May 30 20:18:27 2026</pubDate>
             </item>
             <item>
             <title>Ubunlog: Curso de programación en Python usando Linux. Décima parte</title>
@@ -24,51 +66,9 @@
             <pubDate>Sat May 30 20:03:17 2026</pubDate>
             </item>
             <item>
-            <title>Blog – Hackaday: Breaking Enigma with an FPGA, Just like at Bletchly Park</title>
+            <title>Blog – Hackaday: Breaking Enigma with an FPGA, Just like at Bletchley Park</title>
             <link>https://hackaday.com/2026/05/30/breaking-enigma-with-an-fpga-just-like-at-bletchly-park/</link>
-            <description>Breaking Enigma with an FPGA, Just like at Bletchly Park</description>
+            <description>Breaking Enigma with an FPGA, Just like at Bletchley Park</description>
             <pubDate>Sat May 30 20:00:07 2026</pubDate>
-            </item>
-            <item>
-            <title>SoloLinux: Errores comunes al configurar un VPS Linux (y cómo evitarlos)</title>
-            <link>https://sololinux.es/errores-comunes-al-configurar-un-vps-linux/</link>
-            <description>Errores comunes al configurar un VPS Linux (y cómo evitarlos)</description>
-            <pubDate>Sat May 30 19:53:58 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La ciencia ha medido cómo la cena afecta al sueño y el resultado explica por qué te despiertas con antojo de azúcar</title>
-            <link>https://www.xataka.com/medicina-y-salud/ciencia-ha-medido-como-cena-afecta-al-sueno-resultado-explica-que-te-despiertas-antojo-azucar</link>
-            <description>La ciencia ha medido cómo la cena afecta al sueño y el resultado explica por qué te despiertas con antojo de azúcar</description>
-            <pubDate>Sat May 30 18:30:45 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: La gran mentira del Modo Noche y por qué realmente no te obliga a dormir bien</title>
-            <link>https://www.adslzone.net/noticias/moviles/modo-noche-ayudar-dormir-falso/</link>
-            <description>La gran mentira del Modo Noche y por qué realmente no te obliga a dormir bien</description>
-            <pubDate>Sat May 30 18:02:05 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Muchos trabajadores europeos afirman que teletrabajar les está quitando oportunidades: sus jefes ascienden a la gente a la que ven</title>
-            <link>https://www.xataka.com/empresas-y-economia/muchos-trabajadores-europeos-afirman-que-teletrabajar-les-esta-quitando-oportunidades-sus-jefes-ascienden-a-gente-a-que-ven</link>
-            <description>Muchos trabajadores europeos afirman que teletrabajar les está quitando oportunidades: sus jefes ascienden a la gente a la que ven</description>
-            <pubDate>Sat May 30 18:00:45 2026</pubDate>
-            </item>
-            <item>
-            <title>KDE Blog: Lanzamiento de la segunda beta de 6.7 – Esta semana en Plasma</title>
-            <link>https://www.kdeblog.com/lanzamiento-de-la-segunda-beta-de-6-7-esta-semana-en-plasma.html</link>
-            <description>Lanzamiento de la segunda beta de 6.7 – Esta semana en Plasma</description>
-            <pubDate>Sat May 30 17:56:20 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Ya no vale con contar dedos para saber si una imagen está hecha con IA. Ahora hay que aprender dibujo técnico</title>
-            <link>https://www.xataka.com/robotica-e-ia/no-vale-contar-dedos-para-saber-imagen-esta-hecha-ia-ahora-hay-que-aprender-dibujo-tecnico</link>
-            <description>Ya no vale con contar dedos para saber si una imagen está hecha con IA. Ahora hay que aprender dibujo técnico</description>
-            <pubDate>Sat May 30 17:30:44 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Durante la Segunda Guerra Mundial, enterraron una campana para protegerla. La encontró un agricultor en 2024</title>
-            <link>https://www.xataka.com/magnet/durante-segunda-guerra-mundial-enterraron-campana-para-protegerla-encontro-granjero-2024</link>
-            <description>Durante la Segunda Guerra Mundial, enterraron una campana para protegerla. La encontró un agricultor en 2024</description>
-            <pubDate>Sat May 30 17:16:44 2026</pubDate>
             </item></channel>
 </rss>
