@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Making Old Computers Count To A Million</title>
+            <link>https://hackaday.com/2026/06/19/making-old-computers-count-to-a-million/</link>
+            <description>Making Old Computers Count To A Million</description>
+            <pubDate>Sat Jun 20 05:00:53 2026</pubDate>
+            </item>
+            <item>
+            <title>56K: KolibriOS – Sistema Operativo en ensamblador</title>
+            <link>https://56k.es/fanta/kolibrios-sistema-operativo-en-ensamblador/</link>
+            <description>KolibriOS – Sistema Operativo en ensamblador</description>
+            <pubDate>Sat Jun 20 04:29:17 2026</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 20 de junio</title>
+            <link>https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-20-junio</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 20 de junio</description>
+            <pubDate>Sat Jun 20 03:00:17 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: How LLMs can be Assisted to do Arithmetic Correctly</title>
+            <link>https://hackaday.com/2026/06/19/how-llms-can-be-assisted-to-do-arithmetic-correctly/</link>
+            <description>How LLMs can be Assisted to do Arithmetic Correctly</description>
+            <pubDate>Sat Jun 20 02:00:19 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Epson HX-20 Gets A Drive Upgrade</title>
+            <link>https://hackaday.com/2026/06/19/epson-hx-20-gets-a-drive-upgrade/</link>
+            <description>Epson HX-20 Gets A Drive Upgrade</description>
+            <pubDate>Fri Jun 19 23:00:48 2026</pubDate>
+            </item>
+            <item>
+            <title>Xataka: EEUU acaba de incorporar un nuevo Boeing 747 a su flota presidencial. Detrás hay un polémico regalo de Qatar</title>
+            <link>https://www.xataka.com/magnet/eeuu-acaba-incorporar-nuevo-boeing-747-a-su-flota-presidencial-detras-hay-polemico-regalo-qatar</link>
+            <description>EEUU acaba de incorporar un nuevo Boeing 747 a su flota presidencial. Detrás hay un polémico regalo de Qatar</description>
+            <pubDate>Fri Jun 19 22:21:40 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: El impacto de la inteligencia artificial en la reorganización del empleo en España</title>
+            <link>https://www.hwlibre.com/el-impacto-de-la-inteligencia-artificial-en-la-reorganizacion-del-empleo-en-espana/</link>
+            <description>El impacto de la inteligencia artificial en la reorganización del empleo en España</description>
+            <pubDate>Fri Jun 19 22:14:38 2026</pubDate>
+            </item>
+            <item>
             <title>Xataka: El mercado minorista de SSD prácticamente ha desaparecido. Y no es porque los usuarios hayan dejado de comprarlos</title>
             <link>https://www.xataka.com/componentes/mercado-minorista-ssd-practicamente-ha-desaparecido-no-porque-usuarios-hayan-dejado-comprarlos</link>
             <description>El mercado minorista de SSD prácticamente ha desaparecido. Y no es porque los usuarios hayan dejado de comprarlos</description>
@@ -28,47 +70,5 @@
             <link>https://www.adslzone.net/ofertas/aliexpress-ordenador-mini-pc-acemagic-m1-0626/</link>
             <description>AliExpress rebaja un Mini PC con 24GB de RAM y disco de 512GB que responderá a todas tus exigencias</description>
             <pubDate>Fri Jun 19 19:06:35 2026</pubDate>
-            </item>
-            <item>
-            <title>Make: DIY Projects and Ideas for Makers: Open Healthware Conference 2026 is Coming</title>
-            <link>https://makezine.com/article/maker-news/open-healthware-conference-2026-is-coming/</link>
-            <description>Open Healthware Conference 2026 is Coming</description>
-            <pubDate>Fri Jun 19 19:04:00 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: De los alcornoques al cosmos: el escudo térmico “secreto” de las piezas del Ariane 6 que Airbus fabrica en España</title>
-            <link>https://www.xataka.com/espacio/alcornoques-al-cosmos-escudo-termico-secreto-piezas-ariane-6-que-airbus-fabrica-espana</link>
-            <description>De los alcornoques al cosmos: el escudo térmico “secreto” de las piezas del Ariane 6 que Airbus fabrica en España</description>
-            <pubDate>Fri Jun 19 19:00:17 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: Hoy en Carrefour, un televisor Samsung tirado de precio: no te va a costar ni 240 euros</title>
-            <link>https://www.xatakahome.com/territorio-samsung/hoy-carrefour-televisor-samsung-tirado-precio-no-te-va-a-costar-240-euros</link>
-            <description>Hoy en Carrefour, un televisor Samsung tirado de precio: no te va a costar ni 240 euros</description>
-            <pubDate>Fri Jun 19 19:00:17 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Ver Almería vs. Málaga de playoff de ascenso: así puedes ver el partido en Movistar Plus, Orange TV o Digi TV</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/ver-almeria-malaga-vuelta-playoff-ascenso/</link>
-            <description>Ver Almería vs. Málaga de playoff de ascenso: así puedes ver el partido en Movistar Plus, Orange TV o Digi TV</description>
-            <pubDate>Fri Jun 19 18:39:35 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain</title>
-            <link>https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html</link>
-            <description>Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain</description>
-            <pubDate>Fri Jun 19 18:37:41 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes</title>
-            <link>https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html</link>
-            <description>The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes</description>
-            <pubDate>Fri Jun 19 18:33:07 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hoy en Prime Video, una película de catástrofes que perdió 45 millones en cines pero que arrasa en streaming</title>
-            <link>https://www.xataka.com/streaming/hoy-prime-video-pelicula-catastrofes-que-perdio-45-millones-cines-que-arrasa-streaming</link>
-            <description>Hoy en Prime Video, una película de catástrofes que perdió 45 millones en cines pero que arrasa en streaming</description>
-            <pubDate>Fri Jun 19 18:30:17 2026</pubDate>
             </item></channel>
 </rss>
