@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Building A Wireless Fingerprint Authorization Device</title>
+            <link>https://hackaday.com/2026/07/03/building-a-wireless-fingerprint-authorization-device/</link>
+            <description>Building A Wireless Fingerprint Authorization Device</description>
+            <pubDate>Sat Jul  4 05:00:35 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Ubuntu is swapping its time sync tool for a Rust-based version</title>
+            <link>https://www.omgubuntu.co.uk/2026/07/ubuntu-ntpd-rs-rust-time-sync</link>
+            <description>Ubuntu is swapping its time sync tool for a Rust-based version</description>
+            <pubDate>Sat Jul  4 04:13:09 2026</pubDate>
+            </item>
+            <item>
+            <title>56K: Youtubers que no me caen mal – Vol.1</title>
+            <link>https://56k.es/fanta/youtubers-que-no-me-caen-mal/</link>
+            <description>Youtubers que no me caen mal – Vol.1</description>
+            <pubDate>Sat Jul  4 03:31:14 2026</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 4 de julio</title>
+            <link>https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-4-julio</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 4 de julio</description>
+            <pubDate>Sat Jul  4 03:00:44 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Microdistillery for Microchemistry</title>
+            <link>https://hackaday.com/2026/07/03/microdistillery-for-microchemistry/</link>
+            <description>Microdistillery for Microchemistry</description>
+            <pubDate>Sat Jul  4 02:00:59 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: Alianza estratégica entre Santander y el CSIC para liderar la computación cuántica y la IA avanzada</title>
+            <link>https://www.hwlibre.com/alianza-estrategica-entre-santander-y-el-csic-para-liderar-la-computacion-cuantica-y-la-ia-avanzada/</link>
+            <description>Alianza estratégica entre Santander y el CSIC para liderar la computación cuántica y la IA avanzada</description>
+            <pubDate>Sat Jul  4 01:04:08 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A New Twist on the To Do List</title>
+            <link>https://hackaday.com/2026/07/03/a-new-twist-on-the-to-do-list/</link>
+            <description>A New Twist on the To Do List</description>
+            <pubDate>Fri Jul  3 23:00:28 2026</pubDate>
+            </item>
+            <item>
             <title>Xataka: El relevo del A320 ya tiene nombre y calendario: Airbus quiere lanzar eAction en 2030</title>
             <link>https://www.xataka.com/movilidad/relevo-a320-tiene-nombre-calendario-airbus-quiere-lanzar-eaction-2030</link>
             <description>El relevo del A320 ya tiene nombre y calendario: Airbus quiere lanzar eAction en 2030</description>
@@ -28,47 +70,5 @@
             <link>https://hackaday.com/2026/07/03/this-kvm-runs-a-p4-instead-of-a-pi/</link>
             <description>This KVM runs a P4 instead of a Pi.</description>
             <pubDate>Fri Jul  3 20:00:59 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Japón se ha cansado de necesitar trabajadores. Su plan: diez millones de robots antes de 2040</title>
-            <link>https://www.xataka.com/robotica-e-ia/japon-se-ha-cansado-necesitar-trabajadores-su-plan-diez-millones-robots-antes-2040</link>
-            <description>Japón se ha cansado de necesitar trabajadores. Su plan: diez millones de robots antes de 2040</description>
-            <pubDate>Fri Jul  3 20:00:44 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Digi confirma sus planes para ofrecer fútbol la próxima temporada</title>
-            <link>https://www.adslzone.net/noticias/operadores/planes-digi-anadir-futbol/</link>
-            <description>Digi confirma sus planes para ofrecer fútbol la próxima temporada</description>
-            <pubDate>Fri Jul  3 19:57:47 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android</title>
-            <link>https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html</link>
-            <description>New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android</description>
-            <pubDate>Fri Jul  3 19:40:01 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Los nombres de usuario de WhatsApp parecían una buena idea. Entonces apareció la sombra de la suplantación de identidad</title>
-            <link>https://www.xataka.com/seguridad/nombres-usuario-whatsapp-parecian-buena-idea-entonces-aparecio-sombra-suplantacion-identidad</link>
-            <description>Los nombres de usuario de WhatsApp parecían una buena idea. Entonces apareció la sombra de la suplantación de identidad</description>
-            <pubDate>Fri Jul  3 19:30:44 2026</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Apple Container 1.0: La Madurez de los Contenedores Linux Nativos en macOS</title>
-            <link>https://nksistemas.com/apple-container-1-0-la-madurez-de-los-contenedores-linux-nativos-en-macos/</link>
-            <description>Apple Container 1.0: La Madurez de los Contenedores Linux Nativos en macOS</description>
-            <pubDate>Fri Jul  3 19:12:22 2026</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Grave Vulnerabilidad en «Ocultar mi Correo» de Apple Expone Identidades Reales</title>
-            <link>https://nksistemas.com/grave-vulnerabilidad-en-ocultar-mi-correo-de-apple-expone-identidades-reales/</link>
-            <description>Grave Vulnerabilidad en «Ocultar mi Correo» de Apple Expone Identidades Reales</description>
-            <pubDate>Fri Jul  3 19:11:24 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Amazon rebaja uno de los relojes más resistentes de Amazfit con más de 80 días de batería</title>
-            <link>https://www.adslzone.net/ofertas/amazon/smartwatch-amazfit-trex-3-0726/</link>
-            <description>Amazon rebaja uno de los relojes más resistentes de Amazfit con más de 80 días de batería</description>
-            <pubDate>Fri Jul  3 19:04:53 2026</pubDate>
             </item></channel>
 </rss>
