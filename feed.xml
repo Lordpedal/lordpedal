@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Porting DOOM to the Casio Loopy</title>
+            <link>https://hackaday.com/2026/07/11/porting-doom-to-the-casio-loopy/</link>
+            <description>Porting DOOM to the Casio Loopy</description>
+            <pubDate>Sun Jul 12 05:00:59 2026</pubDate>
+            </item>
+            <item>
+            <title>56K: Silbo Gomero – Fuera de las garras de la IA</title>
+            <link>https://56k.es/fanta/silbo-gomero-fuera-de-las-garras-de-la-ia/</link>
+            <description>Silbo Gomero – Fuera de las garras de la IA</description>
+            <pubDate>Sun Jul 12 04:45:53 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Trying to Use a 2007 Samsung UMPC as Wii U Gamepad</title>
+            <link>https://hackaday.com/2026/07/11/trying-to-use-a-2007-samsung-umpc-as-wii-u-gamepad/</link>
+            <description>Trying to Use a 2007 Samsung UMPC as Wii U Gamepad</description>
+            <pubDate>Sun Jul 12 02:00:05 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The First New WW2 Jeep Since 1945</title>
+            <link>https://hackaday.com/2026/07/11/the-first-new-ww2-jeep-since-1945/</link>
+            <description>The First New WW2 Jeep Since 1945</description>
+            <pubDate>Sat Jul 11 23:00:11 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: Baterías de estado sólido: la ciencia resuelve el problema de las dendritas mientras China acelera su producción</title>
+            <link>https://www.hwlibre.com/baterias-de-estado-solido-la-ciencia-resuelve-el-problema-de-las-dendritas-mientras-china-acelera-su-produccion/</link>
+            <description>Baterías de estado sólido: la ciencia resuelve el problema de las dendritas mientras China acelera su producción</description>
+            <pubDate>Sat Jul 11 22:26:21 2026</pubDate>
+            </item>
+            <item>
             <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Orange elimina la última excepción: el WiFi 7 ya llega a toda su fibra, pero no todos reciben el mismo router</title>
             <link>https://www.adslzone.net/noticias/operadores/orange-router-wifi-7-modelos-diferentes/</link>
             <description>Orange elimina la última excepción: el WiFi 7 ya llega a toda su fibra, pero no todos reciben el mismo router</description>
@@ -40,35 +70,5 @@
             <link>https://www.xataka.com/magnet/dinamarca-estaba-construyendo-mayor-parque-eolico-mundo-cuando-se-encontro-barco-hundido-hace-400-anos</link>
             <description>Dinamarca estaba construyendo el mayor parque eólico del mundo cuando se encontró un barco hundido de hace 400 años</description>
             <pubDate>Sat Jul 11 18:01:57 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install</title>
-            <link>https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html</link>
-            <description>Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install</description>
-            <pubDate>Sat Jul 11 17:59:26 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns</title>
-            <link>https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html</link>
-            <description>Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns</description>
-            <pubDate>Sat Jul 11 17:49:31 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El calor cambia tu humor. Un egipcio lo entendió hace 40 años y diseñó un pueblo que “sudaba” para enfriarse</title>
-            <link>https://www.xataka.com/magnet/calor-cambia-tu-humor-egipcio-entendio-hace-40-anos-diseno-pueblo-que-sudaba-para-enfriarse</link>
-            <description>El calor cambia tu humor. Un egipcio lo entendió hace 40 años y diseñó un pueblo que “sudaba” para enfriarse</description>
-            <pubDate>Sat Jul 11 17:31:57 2026</pubDate>
-            </item>
-            <item>
-            <title>RedesZone : Portal sobre telecomunicaciones, redes y ciberseguridad: Qué puede pasar si escaneas un código QR manipulado</title>
-            <link>https://www.redeszone.net/noticias/seguridad/que-ocurre-escanear-codigo-qr-malicioso/</link>
-            <description>Qué puede pasar si escaneas un código QR manipulado</description>
-            <pubDate>Sat Jul 11 17:06:50 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El esperma también envejece: los hombres mayores de 45 años tienen un 31% más de mutaciones genéticas que los menores de 30</title>
-            <link>https://www.xataka.com/medicina-y-salud/esperma-tambien-envejece-hombres-mayores-45-anos-tienen-31-mutaciones-geneticas-que-menores-30</link>
-            <description>El esperma también envejece: los hombres mayores de 45 años tienen un 31% más de mutaciones genéticas que los menores de 30</description>
-            <pubDate>Sat Jul 11 17:01:57 2026</pubDate>
             </item></channel>
 </rss>
