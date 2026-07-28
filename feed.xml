@@ -6,9 +6,63 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
-            <title>OMG! Ubuntu: Mission Center (Linux system monitor) adds battery, power draw + more info</title>
+            <title>Raspberry para torpes: Touch Display 2 de 10″: la pantalla más grande</title>
+            <link>https://raspberryparatorpes.net/hardware/touch-display-2-de-10-la-pantalla-mas-grande/</link>
+            <description>Touch Display 2 de 10″: la pantalla más grande</description>
+            <pubDate>Tue Jul 28 05:54:00 2026</pubDate>
+            </item>
+            <item>
+            <title>KDE Blog: Enciclopedia de los juegos libres, LibreGameWiki</title>
+            <link>https://www.kdeblog.com/enciclopedia-de-los-juegos-libres-libregamewiki.html</link>
+            <description>Enciclopedia de los juegos libres, LibreGameWiki</description>
+            <pubDate>Tue Jul 28 05:48:21 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: De-Aging Human Tissue Using Special Enzyme to Remove AGEs</title>
+            <link>https://hackaday.com/2026/07/27/de-aging-human-tissue-using-special-enzyme-to-remove-ages/</link>
+            <description>De-Aging Human Tissue Using Special Enzyme to Remove AGEs</description>
+            <pubDate>Tue Jul 28 05:00:50 2026</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw</title>
+            <link>https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html</link>
+            <description>Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw</description>
+            <pubDate>Tue Jul 28 04:43:53 2026</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Netflix estrenará la película española que los fans estaban pidiendo: «La vi dos veces en el cine»</title>
+            <link>https://www.adslzone.net/noticias/streaming-tv/netflix-estreno-el-secreto-orfebre-pelicula/</link>
+            <description>Netflix estrenará la película española que los fans estaban pidiendo: «La vi dos veces en el cine»</description>
+            <pubDate>Tue Jul 28 04:40:45 2026</pubDate>
+            </item>
+            <item>
+            <title>56K: Googletificación, del «Don’t be evil» a Skynet</title>
+            <link>https://56k.es/fanta/googletificacion-del-dont-be-evil-a-skynet/</link>
+            <description>Googletificación, del «Don’t be evil» a Skynet</description>
+            <pubDate>Tue Jul 28 04:01:25 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A Labour Of Love Brings A Kids Book To The Spectrum</title>
+            <link>https://hackaday.com/2026/07/27/a-labour-of-love-brings-a-kids-book-to-the-spectrum/</link>
+            <description>A Labour Of Love Brings A Kids Book To The Spectrum</description>
+            <pubDate>Tue Jul 28 02:00:22 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Re-Testing an Apollo Guidance Computer Module that Failed Certification Testing</title>
+            <link>https://hackaday.com/2026/07/27/re-testing-an-apollo-guidance-computer-module-that-failed-certification-testing/</link>
+            <description>Re-Testing an Apollo Guidance Computer Module that Failed Certification Testing</description>
+            <pubDate>Mon Jul 27 23:00:08 2026</pubDate>
+            </item>
+            <item>
+            <title>Xataka: "Es como tener una aspiradora encendida en el salón": un centro de datos convirtió la vida de un vecindario en una pesadilla</title>
+            <link>https://www.xataka.com/empresas-y-economia/como-tener-aspiradora-encendida-salon-centro-datos-convirtio-vida-vecindario-pesadilla</link>
+            <description>"Es como tener una aspiradora encendida en el salón": un centro de datos convirtió la vida de un vecindario en una pesadilla</description>
+            <pubDate>Mon Jul 27 21:57:35 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Mission Center adds battery, partition and power draw info</title>
             <link>https://www.omgubuntu.co.uk/2026/07/mission-center-battery-power-draw-reporting</link>
-            <description>Mission Center (Linux system monitor) adds battery, power draw + more info</description>
+            <description>Mission Center adds battery, partition and power draw info</description>
             <pubDate>Mon Jul 27 21:46:51 2026</pubDate>
             </item>
             <item>
@@ -16,59 +70,5 @@
             <link>https://www.xataka.com/magnet/eeuu-construyo-ejercito-poderoso-mundo-ahora-hay-quienes-senalan-su-talon-aquiles-ciberguerra</link>
             <description>EEUU construyó el ejército más poderoso del mundo. Ahora hay quienes señalan su talón de Aquiles: la ciberguerra</description>
             <pubDate>Mon Jul 27 20:18:44 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Reviving a Retro Mouse with BlueTooth low Energy support</title>
-            <link>https://hackaday.com/2026/07/27/reviving-a-retro-mouse-with-bluetooth-low-energy-support/</link>
-            <description>Reviving a Retro Mouse with BlueTooth low Energy support</description>
-            <pubDate>Mon Jul 27 20:00:38 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: No es solo el precio: contratar Disney+ con O2 tiene muchas más ventajas</title>
-            <link>https://www.adslzone.net/noticias/operadores/todas-ventajas-contratar-disney-o2/</link>
-            <description>No es solo el precio: contratar Disney+ con O2 tiene muchas más ventajas</description>
-            <pubDate>Mon Jul 27 19:57:19 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: PcComponentes tiene el Mini PC perfecto si buscas 1TB y 32 GB de memoria RAM</title>
-            <link>https://www.adslzone.net/ofertas/pccomponentes-ordenador-mini-pc-gmktec-nucbox-m5-ultra-0726/</link>
-            <description>PcComponentes tiene el Mini PC perfecto si buscas 1TB y 32 GB de memoria RAM</description>
-            <pubDate>Mon Jul 27 19:06:50 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Las ciudades españolas están llenas de un árbol que lo ensucia todo de flores y frutos. Tienen una razón para estar ahí</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/ciudades-espanolas-estan-llenas-arbol-que-ensucia-todo-flores-frutos-tienen-razon-para-estar-ahi</link>
-            <description>Las ciudades españolas están llenas de un árbol que lo ensucia todo de flores y frutos. Tienen una razón para estar ahí</description>
-            <pubDate>Mon Jul 27 19:01:36 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: "Sinceramente, una obra maestra": una de las películas de fantasía de 2025 está también entre las mejor valoradas de Gerard Butler</title>
-            <link>https://www.xataka.com/streaming/sinceramente-obra-maestra-peliculas-fantasia-2025-esta-tambien-mejor-valoradas-gerard-butler</link>
-            <description>"Sinceramente, una obra maestra": una de las películas de fantasía de 2025 está también entre las mejor valoradas de Gerard Butler</description>
-            <pubDate>Mon Jul 27 18:31:35 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Regain Some Trust in Unknown USB Drives</title>
-            <link>https://hackaday.com/2026/07/27/regain-some-trust-in-unknown-usb-drives/</link>
-            <description>Regain Some Trust in Unknown USB Drives</description>
-            <pubDate>Mon Jul 27 18:30:00 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework</title>
-            <link>https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html</link>
-            <description>NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework</description>
-            <pubDate>Mon Jul 27 18:10:05 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Qué son las novias IA que China ha tenido que prohibir porque han hecho peligrar su índice de natalidad</title>
-            <link>https://www.adslzone.net/noticias/ia/novias-ia-temor-china/</link>
-            <description>Qué son las novias IA que China ha tenido que prohibir porque han hecho peligrar su índice de natalidad</description>
-            <pubDate>Mon Jul 27 18:02:27 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Ana Crespo Blanc, catedrática de geología, sobre los terremotos de Granada: “En ese aspecto, es mejor tener una casa en el Albaicín que en el Zaidín”</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/ana-crespo-blanc-catedratica-geologia-terremotos-granada-fallas-que-tenemos-activas-demasiado-cortas-para-acumular-mucha-energia</link>
-            <description>Ana Crespo Blanc, catedrática de geología, sobre los terremotos de Granada: “En ese aspecto, es mejor tener una casa en el Albaicín que en el Zaidín”</description>
-            <pubDate>Mon Jul 27 18:01:36 2026</pubDate>
             </item></channel>
 </rss>
