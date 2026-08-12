@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: O2 sigue los pasos de Movistar y comienza a instalar el router WiFi 7 con las nuevas altas de fibra</title>
+            <link>https://www.adslzone.net/noticias/operadores/o2-router-wifi-7-nuevas-altas-fibra/</link>
+            <description>O2 sigue los pasos de Movistar y comienza a instalar el router WiFi 7 con las nuevas altas de fibra</description>
+            <pubDate>Wed Aug 12 05:03:19 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Titanic-esqe Telegraph Keeps Relationship Afloat</title>
+            <link>https://hackaday.com/2026/08/11/titanic-esqe-telegraph-keeps-relationship-afloat/</link>
+            <description>Titanic-esqe Telegraph Keeps Relationship Afloat</description>
+            <pubDate>Wed Aug 12 05:00:15 2026</pubDate>
+            </item>
+            <item>
+            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: La TDT se vuelca con el eclipse: canal, horarios de la retransmisión y programación especial en streaming</title>
+            <link>https://www.adslzone.net/noticias/streaming-tv/eclipse-solar-tdt-horario-canal-streaming/</link>
+            <description>La TDT se vuelca con el eclipse: canal, horarios de la retransmisión y programación especial en streaming</description>
+            <pubDate>Wed Aug 12 04:04:53 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Is Manual Filament Tuning Still Worth It?</title>
+            <link>https://hackaday.com/2026/08/11/is-manual-filament-tuning-still-worth-it/</link>
+            <description>Is Manual Filament Tuning Still Worth It?</description>
+            <pubDate>Wed Aug 12 02:00:42 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: GNOME Shell search redesign use a floating overlay</title>
+            <link>https://www.omgubuntu.co.uk/2026/08/gnome-51-search-redesign</link>
+            <description>GNOME Shell search redesign use a floating overlay</description>
+            <pubDate>Tue Aug 11 23:33:46 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: Sony y TSMC unen fuerzas para fabricar sensores de imagen de nueva generación</title>
+            <link>https://www.hwlibre.com/sony-y-tsmc-unen-fuerzas-para-fabricar-sensores-de-imagen-de-nueva-generacion/</link>
+            <description>Sony y TSMC unen fuerzas para fabricar sensores de imagen de nueva generación</description>
+            <pubDate>Tue Aug 11 23:28:27 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Fixing a Dead Makita Battery with a 20 Cent Part</title>
+            <link>https://hackaday.com/2026/08/11/fixing-a-dead-makita-battery-with-a-20-cent-part/</link>
+            <description>Fixing a Dead Makita Battery with a 20 Cent Part</description>
+            <pubDate>Tue Aug 11 23:00:17 2026</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Un usuario le pidió a su agente de IA que le reservase hora en el gimnasio. Lo logró expulsando primero a otra persona de la lista</title>
+            <link>https://www.xataka.com/robotica-e-ia/usuario-le-pidio-a-su-agente-ia-que-le-reservase-hora-gimnasio-logro-expulsando-primero-a-otra-persona-lista</link>
+            <description>Un usuario le pidió a su agente de IA que le reservase hora en el gimnasio. Lo logró expulsando primero a otra persona de la lista</description>
+            <pubDate>Tue Aug 11 21:56:28 2026</pubDate>
+            </item>
+            <item>
             <title>The Hacker News: Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack</title>
             <link>https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html</link>
             <description>Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack</description>
@@ -22,53 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/digi-tv-nuevo-canal-tv-amc/</link>
             <description>Digi TV acaba de estrenar un nuevo canal con lo mejor de AMC para sus clientes</description>
             <pubDate>Tue Aug 11 19:59:15 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing</title>
-            <link>https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html</link>
-            <description>Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing</description>
-            <pubDate>Tue Aug 11 19:36:37 2026</pubDate>
-            </item>
-            <item>
-            <title>OMG! Ubuntu: ChatGPT desktop app is now available for Linux (in preview)</title>
-            <link>https://www.omgubuntu.co.uk/2026/08/chatgpt-desktop-app-linux-preview</link>
-            <description>ChatGPT desktop app is now available for Linux (in preview)</description>
-            <pubDate>Tue Aug 11 19:33:19 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: El 2027 ni siquiera ha comenzado y la IA ya ha hecho de las suyas: todo apunta a que la DRAM y HBM del año ya se han vendido</title>
-            <link>https://www.xataka.com/componentes/2027-siquiera-ha-comenzado-ia-ha-hecho-suyas-todo-apunta-a-que-dram-hbm-ano-se-han-vendido</link>
-            <description>El 2027 ni siquiera ha comenzado y la IA ya ha hecho de las suyas: todo apunta a que la DRAM y HBM del año ya se han vendido</description>
-            <pubDate>Tue Aug 11 19:31:15 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client</title>
-            <link>https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html</link>
-            <description>Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client</description>
-            <pubDate>Tue Aug 11 19:08:47 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La Voyager 2 se está apagando poco a poco. La NASA lleva años haciendo ingeniería para retrasar lo inevitable</title>
-            <link>https://www.xataka.com/espacio/voyager-2-se-esta-apagando-poco-a-poco-nasa-lleva-anos-haciendo-ingenieria-para-retrasar-inevitable</link>
-            <description>La Voyager 2 se está apagando poco a poco. La NASA lleva años haciendo ingeniería para retrasar lo inevitable</description>
-            <pubDate>Tue Aug 11 19:01:15 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka Smart Home: Tener avispas rondando por tu terraza, persianas o jardín puede ser peligroso. Estos trucos te ayudarán a conseguir que se vayan</title>
-            <link>https://www.xatakahome.com/hogar/tener-avispas-rondando-tu-terraza-persianas-jardin-puede-ser-peligroso-estos-trucos-te-ayudaran-a-conseguir-que-se-vayan</link>
-            <description>Tener avispas rondando por tu terraza, persianas o jardín puede ser peligroso. Estos trucos te ayudarán a conseguir que se vayan</description>
-            <pubDate>Tue Aug 11 19:01:15 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: El último iPhone se hunde en PcComponentes para la vuelta al cole: hazte con él hoy y ahórrate 120 €</title>
-            <link>https://www.adslzone.net/ofertas/smartphone-pccomponentes-iphone-17-pro-256/</link>
-            <description>El último iPhone se hunde en PcComponentes para la vuelta al cole: hazte con él hoy y ahórrate 120 €</description>
-            <pubDate>Tue Aug 11 18:57:32 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands</title>
-            <link>https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html</link>
-            <description>Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands</description>
-            <pubDate>Tue Aug 11 18:36:47 2026</pubDate>
             </item></channel>
 </rss>
