@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Hacking A Cat Litter Box</title>
+            <link>https://hackaday.com/2026/08/21/hacking-a-cat-litter-box/</link>
+            <description>Hacking A Cat Litter Box</description>
+            <pubDate>Sat Aug 22 05:00:46 2026</pubDate>
+            </item>
+            <item>
+            <title>It's FOSS: Proton Mail Wants to Organize Your Emails Automatically</title>
+            <link>https://feed.itsfoss.com/link/24361/17426034/proton-mail-categories</link>
+            <description>Proton Mail Wants to Organize Your Emails Automatically</description>
+            <pubDate>Sat Aug 22 04:40:17 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Postcard is a new email client for GNOME, built with AI</title>
+            <link>https://www.omgubuntu.co.uk/2026/08/postcard-gnome-email-client</link>
+            <description>Postcard is a new email client for GNOME, built with AI</description>
+            <pubDate>Sat Aug 22 02:05:38 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: How the Grid’s Harmonic Filters Keep the Power Clean</title>
+            <link>https://hackaday.com/2026/08/21/how-the-grids-harmonic-filters-keep-the-power-clean/</link>
+            <description>How the Grid’s Harmonic Filters Keep the Power Clean</description>
+            <pubDate>Sat Aug 22 02:00:46 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Building a Hammond Organ to Understand How They Work</title>
+            <link>https://hackaday.com/2026/08/21/building-a-hammond-organ-to-understand-how-they-work/</link>
+            <description>Building a Hammond Organ to Understand How They Work</description>
+            <pubDate>Fri Aug 21 23:00:50 2026</pubDate>
+            </item>
+            <item>
             <title>Xataka: China ha construido un “autobús escolar” vertical: un ascensor de 288 metros para niños que antes escalaban hasta clase</title>
             <link>https://www.xataka.com/magnet/china-ha-construido-autobus-escolar-vertical-ascensor-288-metros-para-ninos-que-antes-escalaban-clase</link>
             <description>China ha construido un “autobús escolar” vertical: un ascensor de 288 metros para niños que antes escalaban hasta clase</description>
@@ -40,35 +70,5 @@
             <link>https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html</link>
             <description>14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2</description>
             <pubDate>Fri Aug 21 18:53:00 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: HBO Max recupera la serie que ha cambiado la forma de ver televisión en streaming</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/hbo-max-the-pitt-tercera-temporada-2027/</link>
-            <description>HBO Max recupera la serie que ha cambiado la forma de ver televisión en streaming</description>
-            <pubDate>Fri Aug 21 18:33:26 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Anil Monnier, el hombre que fotografió el eclipse con un globo estratosférico: “La astronomía es fascinante, te hace sentir infinitamente pequeño ante la belleza del universo”</title>
-            <link>https://www.xataka.com/espacio/anil-monnier-hombre-que-fotografio-eclipse-globo-estratosferico-astronomia-fascinante-te-hace-sentir-infinitamente-pequeno-belleza-universo</link>
-            <description>Anil Monnier, el hombre que fotografió el eclipse con un globo estratosférico: “La astronomía es fascinante, te hace sentir infinitamente pequeño ante la belleza del universo”</description>
-            <pubDate>Fri Aug 21 18:31:33 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: PVC Pipe Turned DIY Digital Telescope</title>
-            <link>https://hackaday.com/2026/08/21/pvc-pipe-turned-diy-digital-telescope/</link>
-            <description>PVC Pipe Turned DIY Digital Telescope</description>
-            <pubDate>Fri Aug 21 18:30:44 2026</pubDate>
-            </item>
-            <item>
-            <title>Hardware libre: Madrid refuerza su liderazgo en centros de datos eficientes y con menor uso de agua</title>
-            <link>https://www.hwlibre.com/madrid-refuerza-su-liderazgo-en-centros-de-datos-eficientes-y-con-menor-uso-de-agua/</link>
-            <description>Madrid refuerza su liderazgo en centros de datos eficientes y con menor uso de agua</description>
-            <pubDate>Fri Aug 21 18:29:21 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Toda la familia OPPO Find X9 cae de precio con las ofertas de "La Vuelta al Cole" de OPPO</title>
-            <link>https://www.xataka.com/seleccion/toda-familia-oppo-find-x9-cae-precio-ofertas-vuelta-al-cole-oppo</link>
-            <description>Toda la familia OPPO Find X9 cae de precio con las ofertas de "La Vuelta al Cole" de OPPO</description>
-            <pubDate>Fri Aug 21 18:15:33 2026</pubDate>
             </item></channel>
 </rss>
