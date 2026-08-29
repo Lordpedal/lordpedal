@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Playing Snake with a Pneumatic Display</title>
+            <link>https://hackaday.com/2026/08/28/playing-snake-with-a-pneumatic-display/</link>
+            <description>Playing Snake with a Pneumatic Display</description>
+            <pubDate>Sat Aug 29 05:00:06 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: Duelo de Titanes: Comparativa entre Intel, AMD, Qualcomm y NVIDIA en el Mundo PC</title>
+            <link>https://www.hwlibre.com/duelo-de-titanes-comparativa-entre-intel-amd-qualcomm-y-nvidia-en-el-mundo-pc/</link>
+            <description>Duelo de Titanes: Comparativa entre Intel, AMD, Qualcomm y NVIDIA en el Mundo PC</description>
+            <pubDate>Sat Aug 29 03:44:33 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: PortCastelló se consolida como banco de pruebas para la robótica submarina</title>
+            <link>https://www.hwlibre.com/portcastello-se-consolida-como-banco-de-pruebas-para-la-robotica-submarina/</link>
+            <description>PortCastelló se consolida como banco de pruebas para la robótica submarina</description>
+            <pubDate>Sat Aug 29 03:22:27 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: This Library Needs to Be At Least… Three Times Bigger</title>
+            <link>https://hackaday.com/2026/08/28/this-library-needs-to-be-at-least-three-times-bigger/</link>
+            <description>This Library Needs to Be At Least… Three Times Bigger</description>
+            <pubDate>Sat Aug 29 02:00:58 2026</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: Maker Faire North Of 60: Making In The Yukon</title>
+            <link>https://makezine.com/article/maker-news/maker-faire-north-of-60-making-in-the-yukon/</link>
+            <description>Maker Faire North Of 60: Making In The Yukon</description>
+            <pubDate>Sat Aug 29 00:55:50 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reviving an SD Card With Shorted Capacitors</title>
+            <link>https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/</link>
+            <description>Reviving an SD Card With Shorted Capacitors</description>
+            <pubDate>Fri Aug 28 23:00:13 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Calibre ebook manager lets you generate AI book covers</title>
+            <link>https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers</link>
+            <description>Calibre ebook manager lets you generate AI book covers</description>
+            <pubDate>Fri Aug 28 22:59:40 2026</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network</title>
+            <link>https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html</link>
+            <description>Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network</description>
+            <pubDate>Fri Aug 28 21:30:52 2026</pubDate>
+            </item>
+            <item>
             <title>The Hacker News: Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable</title>
             <link>https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html</link>
             <description>Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable</description>
@@ -22,53 +70,5 @@
             <link>https://www.xataka.com/moviles/android-pondra-limite-a-ram-que-pueden-gastar-apps-gran-noticia-para-gama-baja</link>
             <description>Android pondrá límite a la RAM que pueden gastar las apps. Es una gran noticia para la gama baja</description>
             <pubDate>Fri Aug 28 20:01:04 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: DOOM Played on Series of 555 Timers</title>
-            <link>https://hackaday.com/2026/08/28/doom-played-on-series-of-555-timers/</link>
-            <description>DOOM Played on Series of 555 Timers</description>
-            <pubDate>Fri Aug 28 20:00:09 2026</pubDate>
-            </item>
-            <item>
-            <title>Hardware libre: El kernel Linux avanza con sus nuevas versiones y Torvalds pone límites a la IA</title>
-            <link>https://www.hwlibre.com/el-kernel-linux-avanza-con-sus-nuevas-versiones-y-torvalds-pone-limites-a-la-ia/</link>
-            <description>El kernel Linux avanza con sus nuevas versiones y Torvalds pone límites a la IA</description>
-            <pubDate>Fri Aug 28 19:17:59 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Estrena un smartwatch elegante de Xiaomi con Wear OS de Google con descuento: «Este reloj es una maravilla»</title>
-            <link>https://www.adslzone.net/ofertas/aliexpress-smartwatch-xiaomi-watch-2-pro-0826/</link>
-            <description>Estrena un smartwatch elegante de Xiaomi con Wear OS de Google con descuento: «Este reloj es una maravilla»</description>
-            <pubDate>Fri Aug 28 19:03:52 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: De enorme fábrica de aluminio a centro de datos para IA: Kentucky va a convertirse en el próximo gran nodo de datos para Anthropic</title>
-            <link>https://www.xataka.com/ingenieria-y-megaconstrucciones/enorme-fabrica-aluminio-a-centro-datos-para-ia-kentucky-va-a-convertirse-proximo-gran-nodo-datos-para-anthropic</link>
-            <description>De enorme fábrica de aluminio a centro de datos para IA: Kentucky va a convertirse en el próximo gran nodo de datos para Anthropic</description>
-            <pubDate>Fri Aug 28 19:01:04 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La IA prometía reducir la jornada laboral de los empleados. Por el momento ya ha conseguido tres horas libres a la semana</title>
-            <link>https://www.xataka.com/robotica-e-ia/ia-prometia-reducir-jornada-laboral-empleados-momento-ha-conseguido-tres-horas-libres-a-semana</link>
-            <description>La IA prometía reducir la jornada laboral de los empleados. Por el momento ya ha conseguido tres horas libres a la semana</description>
-            <pubDate>Fri Aug 28 18:46:59 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Casting Engine Parts from 3D Prints</title>
-            <link>https://hackaday.com/2026/08/28/casting-engine-parts-from-3d-prints/</link>
-            <description>Casting Engine Parts from 3D Prints</description>
-            <pubDate>Fri Aug 28 18:30:21 2026</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Gemini 3.5 Transcribe: La Revolución de Google para la Conversión de Voz a Texto en Entornos IT</title>
-            <link>https://nksistemas.com/gemini-3-5-transcribe-la-revolucion-de-google-para-la-conversion-de-voz-a-texto-en-entornos-it/</link>
-            <description>Gemini 3.5 Transcribe: La Revolución de Google para la Conversión de Voz a Texto en Entornos IT</description>
-            <pubDate>Fri Aug 28 18:19:02 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Hasta 280 euros de descuento y financiación al 0% en los nuevos Samsung Galaxy Fold y Galaxy Watch en MediaMarkt</title>
-            <link>https://www.xataka.com/seleccion/280-euros-descuento-financiacion-al-0-nuevos-samsung-galaxy-fold-galaxy-watch-mediamarkt</link>
-            <description>Hasta 280 euros de descuento y financiación al 0% en los nuevos Samsung Galaxy Fold y Galaxy Watch en MediaMarkt</description>
-            <pubDate>Fri Aug 28 18:15:04 2026</pubDate>
             </item></channel>
 </rss>
