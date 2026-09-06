@@ -6,6 +6,30 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: There’s Whole Computer Inside This Mouse</title>
+            <link>https://hackaday.com/2026/09/05/theres-whole-computer-inside-this-mouse/</link>
+            <description>There’s Whole Computer Inside This Mouse</description>
+            <pubDate>Sun Sep  6 05:00:13 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Can AI Now Design PCBs That Just Work?</title>
+            <link>https://hackaday.com/2026/09/05/can-ai-now-design-pcbs-that-just-work/</link>
+            <description>Can AI Now Design PCBs That Just Work?</description>
+            <pubDate>Sun Sep  6 02:00:46 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: GNOME Sushi gets a GTK4 revamp, new features</title>
+            <link>https://www.omgubuntu.co.uk/2026/09/gnome-sushi-gtk4-port</link>
+            <description>GNOME Sushi gets a GTK4 revamp, new features</description>
+            <pubDate>Sun Sep  6 01:22:59 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Running Apple ][ Software on a Commodore 64 — Silently</title>
+            <link>https://hackaday.com/2026/09/05/running-apple-software-on-a-commodore-64-silently/</link>
+            <description>Running Apple ][ Software on a Commodore 64 — Silently</description>
+            <pubDate>Sat Sep  5 23:00:36 2026</pubDate>
+            </item>
+            <item>
             <title>The Hacker News: Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores</title>
             <link>https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html</link>
             <description>Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores</description>
@@ -46,29 +70,5 @@
             <link>https://www.xataka.com/magnet/suroeste-peninsula-esta-lleno-piedras-talladas-milenarias-explicacion-aparente-huelva-tiene-respuesta</link>
             <description>El suroeste de la península está lleno de piedras talladas milenarias sin explicación aparente. Huelva tiene la respuesta</description>
             <pubDate>Sat Sep  5 18:00:28 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En 1961, un hombre conectó Stonehenge a un IBM. Encontró 56 agujeros y una teoría fascinante: "Está conectado al Sol y la Luna"</title>
-            <link>https://www.xataka.com/magnet/1961-hombre-conecto-stonehenge-a-ibm-encontro-56-agujeros-teoria-fascinante-esta-conectado-al-sol-luna</link>
-            <description>En 1961, un hombre conectó Stonehenge a un IBM. Encontró 56 agujeros y una teoría fascinante: "Está conectado al Sol y la Luna"</description>
-            <pubDate>Sat Sep  5 17:30:27 2026</pubDate>
-            </item>
-            <item>
-            <title>RedesZone : Portal sobre telecomunicaciones, redes y ciberseguridad: Señales que indican que tu aire acondicionado podría estar consumiendo más de lo normal</title>
-            <link>https://www.redeszone.net/noticias/power/senales-consumo-aire-acondicionado-mayor/</link>
-            <description>Señales que indican que tu aire acondicionado podría estar consumiendo más de lo normal</description>
-            <pubDate>Sat Sep  5 17:08:15 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Un canal local de la TDT vuelve por sorpresa con programas en directo y fútbol</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/regreso-canal-local-tdt-tuya-tv/</link>
-            <description>Un canal local de la TDT vuelve por sorpresa con programas en directo y fútbol</description>
-            <pubDate>Sat Sep  5 17:03:32 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Voicebox FX is a Blueprint for CircuitPython I2S Audio</title>
-            <link>https://hackaday.com/2026/09/05/voicebox-fx-is-a-blueprint-for-circuitpython-i2s-audio/</link>
-            <description>Voicebox FX is a Blueprint for CircuitPython I2S Audio</description>
-            <pubDate>Sat Sep  5 17:00:28 2026</pubDate>
             </item></channel>
 </rss>
