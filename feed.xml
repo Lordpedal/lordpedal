@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: The Concertina Goes Electronic</title>
+            <link>https://hackaday.com/2026/09/18/the-concertina-goes-electronic/</link>
+            <description>The Concertina Goes Electronic</description>
+            <pubDate>Sat Sep 19 05:00:20 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Laser is a new, modern CD ripper for Linux</title>
+            <link>https://www.omgubuntu.co.uk/2026/09/laser-cd-ripping-app-linux</link>
+            <description>Laser is a new, modern CD ripper for Linux</description>
+            <pubDate>Sat Sep 19 03:08:49 2026</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 19 de septiembre</title>
+            <link>https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-19-septiembre</link>
+            <description>Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 19 de septiembre</description>
+            <pubDate>Sat Sep 19 03:00:11 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: On Chip Debug for (Some) MicroPython</title>
+            <link>https://hackaday.com/2026/09/18/on-chip-debug-for-some-micropython/</link>
+            <description>On Chip Debug for (Some) MicroPython</description>
+            <pubDate>Sat Sep 19 02:00:47 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Sony’s First Computer</title>
+            <link>https://hackaday.com/2026/09/18/sonys-first-computer/</link>
+            <description>Sony’s First Computer</description>
+            <pubDate>Fri Sep 18 23:00:59 2026</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: FilaDC i10 Cabinet Dries Filament in the Background</title>
+            <link>https://makezine.com/article/digital-fabrication/3d-printing-workshop/filadc-i10-cabinet-dries-filament-in-the-background/</link>
+            <description>FilaDC i10 Cabinet Dries Filament in the Background</description>
+            <pubDate>Fri Sep 18 22:00:00 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: Digitalización del Conocimiento en la Industria</title>
+            <link>https://www.hwlibre.com/digitalizacion-del-conocimiento-en-la-industria/</link>
+            <description>Digitalización del Conocimiento en la Industria</description>
+            <pubDate>Fri Sep 18 21:48:40 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: RPCS3 esquiva un bug de NVIDIA y mejora su rendimiento hasta un 37% en GPUs GeForce</title>
+            <link>https://www.hwlibre.com/rpcs3-esquiva-un-bug-de-nvidia-y-mejora-su-rendimiento-hasta-un-37-en-gpus-geforce/</link>
+            <description>RPCS3 esquiva un bug de NVIDIA y mejora su rendimiento hasta un 37% en GPUs GeForce</description>
+            <pubDate>Fri Sep 18 21:26:06 2026</pubDate>
+            </item>
+            <item>
             <title>Xataka: "Quizá lo deje todo y me dedique a hacer anime el resto de mi vida": Michael B. Jordan tiene más de un proyecto de anime en marcha</title>
             <link>https://www.xataka.com/cine-y-tv/quiza-deje-todo-me-dedique-a-hacer-anime-resto-mi-vida-michael-b-jordan-tiene-proyecto-anime-marcha</link>
             <description>"Quizá lo deje todo y me dedique a hacer anime el resto de mi vida": Michael B. Jordan tiene más de un proyecto de anime en marcha</description>
@@ -22,53 +70,5 @@
             <link>https://www.adslzone.net/noticias/streaming-tv/canales-tdt-desaparecen-actualizacion-automatica-sony/</link>
             <description>Tus canales de TDT pueden desaparecer durante la noche sin que toques el mando</description>
             <pubDate>Fri Sep 18 19:55:59 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: MediaMarkt aprovecha el lanzamiento de los nuevos relojes y hunde el precio del Apple Watch SE: no te quedes sin él</title>
-            <link>https://www.adslzone.net/ofertas/mediamarkt-apple-watch-se-3-0926/</link>
-            <description>MediaMarkt aprovecha el lanzamiento de los nuevos relojes y hunde el precio del Apple Watch SE: no te quedes sin él</description>
-            <pubDate>Fri Sep 18 19:02:50 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Cuatro de cada diez webs usan WordPress. Su cofundador acaba de enfrentarse a una rebelión dentro de su propia empresa</title>
-            <link>https://www.xataka.com/empresas-y-economia/cuatro-cada-diez-webs-usan-wordpress-su-cofundador-acaba-enfrentarse-a-rebelion-dentro-su-propia-empresa</link>
-            <description>Cuatro de cada diez webs usan WordPress. Su cofundador acaba de enfrentarse a una rebelión dentro de su propia empresa</description>
-            <pubDate>Fri Sep 18 19:00:12 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: O2 confirma qué hacer si esperas un pedido y se retrasa: “para poder comprobarlo necesitamos tus datos”</title>
-            <link>https://www.adslzone.net/noticias/operadores/o2-confirma-que-hacer-retrasos-pedidos/</link>
-            <description>O2 confirma qué hacer si esperas un pedido y se retrasa: “para poder comprobarlo necesitamos tus datos”</description>
-            <pubDate>Fri Sep 18 18:33:33 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Reconstructing a Pin on a Pin Grid Array Package</title>
-            <link>https://hackaday.com/2026/09/18/reconstructing-a-pin-on-a-pin-grid-array-package/</link>
-            <description>Reconstructing a Pin on a Pin Grid Array Package</description>
-            <pubDate>Fri Sep 18 18:30:22 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Expulsar a los alumnos por mal comportamiento no funciona como pensábamos. La ciencia propone otra vía</title>
-            <link>https://www.xataka.com/investigacion/expulsar-a-alumnos-mal-comportamiento-no-funciona-como-pensabamos-ciencia-propone-otra-via</link>
-            <description>Expulsar a los alumnos por mal comportamiento no funciona como pensábamos. La ciencia propone otra vía</description>
-            <pubDate>Fri Sep 18 18:30:12 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: La IA amenaza millones de empleos de oficina. Los fondos de inversión han encontrado dónde refugiarse: fontaneros y electricistas</title>
-            <link>https://www.xataka.com/empresas-y-economia/ia-amenaza-millones-empleos-oficina-fondos-inversion-han-encontrado-donde-refugiarse-fontaneros-electricistas</link>
-            <description>La IA amenaza millones de empleos de oficina. Los fondos de inversión han encontrado dónde refugiarse: fontaneros y electricistas</description>
-            <pubDate>Fri Sep 18 18:16:34 2026</pubDate>
-            </item>
-            <item>
-            <title>Victorhck in the free world: #openSUSE Tumbleweed revisión de la semana 38 de 2026</title>
-            <link>https://victorhckinthefreeworld.com/2026/09/18/opensuse-tumbleweed-revision-de-la-semana-38-de-2026/</link>
-            <description>#openSUSE Tumbleweed revisión de la semana 38 de 2026</description>
-            <pubDate>Fri Sep 18 18:16:30 2026</pubDate>
-            </item>
-            <item>
-            <title>The Hacker News: Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root</title>
-            <link>https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html</link>
-            <description>Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root</description>
-            <pubDate>Fri Sep 18 18:02:24 2026</pubDate>
             </item></channel>
 </rss>
