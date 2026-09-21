@@ -6,6 +6,48 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Making a Copper-Oxide Photodetector from Scratch</title>
+            <link>https://hackaday.com/2026/09/20/making-a-copper-oxide-photodetector-from-scratch/</link>
+            <description>Making a Copper-Oxide Photodetector from Scratch</description>
+            <pubDate>Mon Sep 21 05:00:27 2026</pubDate>
+            </item>
+            <item>
+            <title>Xataka: Tesla ya sabe dónde cargará sus camiones en Europa: 21 sedes y más de 100 puntos de carga a nivel de megavatio</title>
+            <link>https://www.xataka.com/movilidad/tesla-sabe-donde-cargara-sus-camiones-europa-21-sedes-100-puntos-carga-a-nivel-megavatio</link>
+            <description>Tesla ya sabe dónde cargará sus camiones en Europa: 21 sedes y más de 100 puntos de carga a nivel de megavatio</description>
+            <pubDate>Mon Sep 21 05:00:23 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: September 20, 2026</title>
+            <link>https://hackaday.com/2026/09/20/hackaday-links-september-20-2026/</link>
+            <description>Hackaday Links: September 20, 2026</description>
+            <pubDate>Mon Sep 21 02:00:01 2026</pubDate>
+            </item>
+            <item>
+            <title>El blog de Lázaro: Cómo instalar y usar Trilium Web Clipper</title>
+            <link>https://elblogdelazaro.org/como-instalar-y-usar-trilium-web-clipper/</link>
+            <description>Cómo instalar y usar Trilium Web Clipper</description>
+            <pubDate>Mon Sep 21 02:00:00 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reviving TEMPEST Attacks with an Injected Signal</title>
+            <link>https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/</link>
+            <description>Reviving TEMPEST Attacks with an Injected Signal</description>
+            <pubDate>Sun Sep 20 23:00:06 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: Guía Completa para Crear un Robot Móvil con Arduino</title>
+            <link>https://www.hwlibre.com/guia-completa-para-crear-un-robot-movil-con-arduino/</link>
+            <description>Guía Completa para Crear un Robot Móvil con Arduino</description>
+            <pubDate>Sun Sep 20 22:45:35 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: El Mundial de Robótica afronta su gran final en Puerto Rico</title>
+            <link>https://www.hwlibre.com/el-mundial-de-robotica-afronta-su-gran-final-en-puerto-rico/</link>
+            <description>El Mundial de Robótica afronta su gran final en Puerto Rico</description>
+            <pubDate>Sun Sep 20 21:49:31 2026</pubDate>
+            </item>
+            <item>
             <title>EsGeeks: ¿Es Seguro U7BUY para Comprar Netflix Premium?</title>
             <link>https://esgeeks.com/u7buy-es-seguro/</link>
             <description>¿Es Seguro U7BUY para Comprar Netflix Premium?</description>
@@ -28,47 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/solucionar-problemas-catalogo-disney-movistar/</link>
             <description>Si no puedes ver todo el catálogo de Disney+ desde el desco de Movistar, la firma explica cómo solucionarlo en minutos: “Verifica si te carga…”</description>
             <pubDate>Sun Sep 20 19:57:20 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: "No tengo ni idea de cómo volar el avión": la historia de un pasajero que tuvo que hacerse con los mandos para sobrevivir</title>
-            <link>https://www.xataka.com/movilidad/no-tengo-idea-como-volar-avion-historia-pasajero-que-tuvo-que-hacerse-mandos-para-sobrevivir</link>
-            <description>"No tengo ni idea de cómo volar el avión": la historia de un pasajero que tuvo que hacerse con los mandos para sobrevivir</description>
-            <pubDate>Sun Sep 20 19:40:16 2026</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Alerta Crítica: Parches de Seguridad Urgentes para GitLab (CVE-2026-85706 y Más)</title>
-            <link>https://nksistemas.com/alerta-critica-parches-de-seguridad-urgentes-para-gitlab-cve-2026-85706-y-mas/</link>
-            <description>Alerta Crítica: Parches de Seguridad Urgentes para GitLab (CVE-2026-85706 y Más)</description>
-            <pubDate>Sun Sep 20 19:33:09 2026</pubDate>
-            </item>
-            <item>
-            <title>NKSistemas: Gzip 1.15: La Consolidación de un Gigante con Décadas de Errores Corregidos</title>
-            <link>https://nksistemas.com/gzip-1-15-la-consolidacion-de-un-gigante-con-decadas-de-errores-corregidos/</link>
-            <description>Gzip 1.15: La Consolidación de un Gigante con Décadas de Errores Corregidos</description>
-            <pubDate>Sun Sep 20 19:32:49 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Si quieres ver La Séptima el primero sin perderte nada apunta: horario definitivo y guía para sintonizar el nuevo canal de la TDT</title>
-            <link>https://www.adslzone.net/noticias/streaming-tv/septima-horario-resintonizacion-canal-tdt/</link>
-            <description>Si quieres ver La Séptima el primero sin perderte nada apunta: horario definitivo y guía para sintonizar el nuevo canal de la TDT</description>
-            <pubDate>Sun Sep 20 18:55:14 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: No es solo cuánto andas, es a qué ritmo: la velocidad al caminar como biomarcador de longevidad</title>
-            <link>https://www.xataka.com/medicina-y-salud/no-solo-cuanto-andas-a-que-ritmo-velocidad-al-caminar-como-biomarcador-longevidad</link>
-            <description>No es solo cuánto andas, es a qué ritmo: la velocidad al caminar como biomarcador de longevidad</description>
-            <pubDate>Sun Sep 20 18:30:12 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Cómo saber dónde has estado según Google Maps: puedes consultar todos tus viajes</title>
-            <link>https://www.adslzone.net/noticias/internet/como-saber-ubicacion-google-maps/</link>
-            <description>Cómo saber dónde has estado según Google Maps: puedes consultar todos tus viajes</description>
-            <pubDate>Sun Sep 20 18:02:42 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Durante décadas pensamos que los hombres cazaban y las mujeres cuidaban. La genética cuenta una historia mucho más compleja</title>
-            <link>https://www.xataka.com/investigacion/durante-decadas-pensamos-que-hombres-cazaban-mujeres-cuidaban-genetica-cuenta-historia-mucho-compleja</link>
-            <description>Durante décadas pensamos que los hombres cazaban y las mujeres cuidaban. La genética cuenta una historia mucho más compleja</description>
-            <pubDate>Sun Sep 20 18:00:13 2026</pubDate>
             </item></channel>
 </rss>
