@@ -6,6 +6,36 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Blog – Hackaday: Abusing SQL to Play DOOM</title>
+            <link>https://hackaday.com/2026/09/25/abusing-sql-to-play-doom/</link>
+            <description>Abusing SQL to Play DOOM</description>
+            <pubDate>Sat Sep 26 05:00:05 2026</pubDate>
+            </item>
+            <item>
+            <title>OMG! Ubuntu: Era, the new Rust-based calendar for GNOME, is now in beta</title>
+            <link>https://www.omgubuntu.co.uk/2026/09/era-rust-calendar-gnome-beta</link>
+            <description>Era, the new Rust-based calendar for GNOME, is now in beta</description>
+            <pubDate>Sat Sep 26 03:04:43 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: The Low-Level Waste Dumps in The Atlantic Have Become Ecosystems</title>
+            <link>https://hackaday.com/2026/09/25/the-low-level-waste-dumps-in-the-atlantic-have-become-ecosystems/</link>
+            <description>The Low-Level Waste Dumps in The Atlantic Have Become Ecosystems</description>
+            <pubDate>Sat Sep 26 02:00:15 2026</pubDate>
+            </item>
+            <item>
+            <title>Make: DIY Projects and Ideas for Makers: Joy And Mayhem at Maker Faire Bay Area</title>
+            <link>https://makezine.com/article/maker-news/maker-faire/joy-and-mayhem-at-maker-faire-bay-area/</link>
+            <description>Joy And Mayhem at Maker Faire Bay Area</description>
+            <pubDate>Sat Sep 26 01:10:10 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Reviving the PoE++ Feature on a Ubiquiti Switch</title>
+            <link>https://hackaday.com/2026/09/25/reviving-the-poe-feature-on-a-ubiquiti-switch/</link>
+            <description>Reviving the PoE++ Feature on a Ubiquiti Switch</description>
+            <pubDate>Fri Sep 25 23:00:20 2026</pubDate>
+            </item>
+            <item>
             <title>Xataka: Las empresas chinas lleva la delantera en modelos "pequeños" de IA. Ahora lo que quieren es justo lo contrario: modelos colosales</title>
             <link>https://www.xataka.com/robotica-e-ia/empresas-chinas-lleva-delantera-modelos-pequenos-ia-quieren-justo-contrario-modelos-colosales</link>
             <description>Las empresas chinas lleva la delantera en modelos "pequeños" de IA. Ahora lo que quieren es justo lo contrario: modelos colosales</description>
@@ -16,6 +46,12 @@
             <link>https://elpinguinotolkiano.wordpress.com/2026/09/25/derivados-de-firefox-para-android-round-2/</link>
             <description>(Derivados de) Firefox para Android, Round 2</description>
             <pubDate>Fri Sep 25 20:25:39 2026</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Claude Desktop: La aplicación de escritorio de Antropic para usar su Inteligencia Artificial sobre Linux</title>
+            <link>https://blog.desdelinux.net/claude-desktop/</link>
+            <description>Claude Desktop: La aplicación de escritorio de Antropic para usar su Inteligencia Artificial sobre Linux</description>
+            <pubDate>Fri Sep 25 20:04:15 2026</pubDate>
             </item>
             <item>
             <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Digi avisa qué debes hacer con la estafa del router: «Nunca te pediremos ningún código ni tampoco datos sensibles»</title>
@@ -34,41 +70,5 @@
             <link>https://hackaday.com/2026/09/25/pi-pico-recreates-the-heathkit-pocket-packet/</link>
             <description>Pi Pico Recreates The Heathkit Pocket Packet</description>
             <pubDate>Fri Sep 25 20:00:50 2026</pubDate>
-            </item>
-            <item>
-            <title>Linux Magazine News (path: lmi_news): KDE for People Initiative Calls for AI Ban in Plasma</title>
-            <link>http://www.linux-magazine.com/Online/News/KDE-for-People-Initiative-Calls-for-AI-Ban-in-Plasma</link>
-            <description>KDE for People Initiative Calls for AI Ban in Plasma</description>
-            <pubDate>Fri Sep 25 19:45:43 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: PcComponentes rebaja un 74% un smartwatch Samsung Galaxy</title>
-            <link>https://www.adslzone.net/ofertas/pccomponentes-smartwatch-samsung-galaxy-watch7-0926/</link>
-            <description>PcComponentes rebaja un 74% un smartwatch Samsung Galaxy</description>
-            <pubDate>Fri Sep 25 19:06:47 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Google se prepara para enviar chips de IA al espacio: es el primer paso para cumplir el sueño de los centros de datos espaciales</title>
-            <link>https://www.xataka.com/robotica-e-ia/google-se-prepara-para-enviar-chips-ia-al-espacio-primer-paso-para-cumplir-sueno-centros-datos-espaciales</link>
-            <description>Google se prepara para enviar chips de IA al espacio: es el primer paso para cumplir el sueño de los centros de datos espaciales</description>
-            <pubDate>Fri Sep 25 19:01:08 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Investigating a Rare Burnout 3 Beta Disc</title>
-            <link>https://hackaday.com/2026/09/25/investigating-a-rare-burnout-3-beta-disc/</link>
-            <description>Investigating a Rare Burnout 3 Beta Disc</description>
-            <pubDate>Fri Sep 25 18:30:39 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Aldi inaugura el 30 de septiembre la tienda con la que competirá con Mercadona, Lidl y Carrefour: “Cada semana encontrarás cosas nuevas”</title>
-            <link>https://www.adslzone.net/noticias/internet/aldi-tienda-murcia-competencia-mercadona-lidl-carrefour/</link>
-            <description>Aldi inaugura el 30 de septiembre la tienda con la que competirá con Mercadona, Lidl y Carrefour: “Cada semana encontrarás cosas nuevas”</description>
-            <pubDate>Fri Sep 25 18:03:16 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: China está viviendo su "momento DeepSeek" en tecnología sanitaria: así quiere convertirse en una potencia mundial de la salud</title>
-            <link>https://www.xataka.com/medicina-y-salud/china-esta-viviendo-su-momento-deepseek-tecnologia-sanitaria-asi-quiere-convertirse-potencia-mundial-salud</link>
-            <description>China está viviendo su "momento DeepSeek" en tecnología sanitaria: así quiere convertirse en una potencia mundial de la salud</description>
-            <pubDate>Fri Sep 25 18:01:08 2026</pubDate>
             </item></channel>
 </rss>
