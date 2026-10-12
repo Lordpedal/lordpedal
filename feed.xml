@@ -6,6 +6,54 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>Raspberry para torpes: GitHub Raspberry Pi septiembre 2026</title>
+            <link>https://raspberryparatorpes.net/hardware/github-raspberry-pi-septiembre-2026/</link>
+            <description>GitHub Raspberry Pi septiembre 2026</description>
+            <pubDate>Mon Oct 12 05:05:00 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: DECing Out the Homelab with an AlphaServer 2100</title>
+            <link>https://hackaday.com/2026/10/11/decing-out-the-homelab-with-an-alphaserver-2100/</link>
+            <description>DECing Out the Homelab with an AlphaServer 2100</description>
+            <pubDate>Mon Oct 12 05:00:36 2026</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Ya fue liberada la version Beta de Ubuntu 26.10 «Stonking Stingray»</title>
+            <link>https://blog.desdelinux.net/ya-fue-liberada-la-version-beta-de-ubuntu-26-10-stonking-stingray/</link>
+            <description>Ya fue liberada la version Beta de Ubuntu 26.10 «Stonking Stingray»</description>
+            <pubDate>Mon Oct 12 04:44:38 2026</pubDate>
+            </item>
+            <item>
+            <title>Desde Linux: Qt 6.12 LTS: Canvas Painter, StyleKit y compatibilidad con la CRA</title>
+            <link>https://blog.desdelinux.net/qt-6-12-lts-lanzamiento-novedades-canvas-painter-stylekit/</link>
+            <description>Qt 6.12 LTS: Canvas Painter, StyleKit y compatibilidad con la CRA</description>
+            <pubDate>Mon Oct 12 04:16:52 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Taking A Nokia 3310 Game Jam To The N’th Degree</title>
+            <link>https://hackaday.com/2026/10/11/taking-a-nokia-3310-game-jam-to-the-nth-degree/</link>
+            <description>Taking A Nokia 3310 Game Jam To The N’th Degree</description>
+            <pubDate>Mon Oct 12 02:00:59 2026</pubDate>
+            </item>
+            <item>
+            <title>El blog de Lázaro: Manejar subvolumenes btrfs en Fedora</title>
+            <link>https://elblogdelazaro.org/btrfs-fedora-ventajas-inconvenientes-subvolumenes/</link>
+            <description>Manejar subvolumenes btrfs en Fedora</description>
+            <pubDate>Mon Oct 12 02:00:00 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Hackaday Links: October 11, 2026</title>
+            <link>https://hackaday.com/2026/10/11/hackaday-links-october-11-2026/</link>
+            <description>Hackaday Links: October 11, 2026</description>
+            <pubDate>Sun Oct 11 23:00:39 2026</pubDate>
+            </item>
+            <item>
+            <title>Hardware libre: La IA se asienta en el mantenimiento y la seguridad del kernel Linux</title>
+            <link>https://www.hwlibre.com/la-ia-se-asienta-en-el-mantenimiento-y-la-seguridad-del-kernel-linux/</link>
+            <description>La IA se asienta en el mantenimiento y la seguridad del kernel Linux</description>
+            <pubDate>Sun Oct 11 22:55:22 2026</pubDate>
+            </item>
+            <item>
             <title>Blog – Hackaday: Littelfuse Announces Retirement of the EZ80</title>
             <link>https://hackaday.com/2026/10/11/littelfuse-announces-retirement-of-the-ez80/</link>
             <description>Littelfuse Announces Retirement of the EZ80</description>
@@ -22,53 +70,5 @@
             <link>https://www.omgubuntu.co.uk/2026/10/ubuntu-app-center-add-ons-media</link>
             <description>Ubuntu’s App Center makes it easy to install missing media codecs</description>
             <pubDate>Sun Oct 11 19:41:15 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Lotes de consolas y ordenadores a precios de risa: así afecta el relevo generacional a las subastas en Japón</title>
-            <link>https://www.adslzone.net/noticias/internet/subastas-japon-colecciones-fallecidos-videojuegos-consolas/</link>
-            <description>Lotes de consolas y ordenadores a precios de risa: así afecta el relevo generacional a las subastas en Japón</description>
-            <pubDate>Sun Oct 11 18:03:24 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: En 1971 soltaron 11 ovejas salvajes en el Parque Nacional del Teide para la caza mayor. Hoy son una pesadilla ecológica</title>
-            <link>https://www.xataka.com/ecologia-y-naturaleza/1971-liberaron-11-ovejas-salvajes-parque-nacional-teide-para-caza-mayor-hoy-pesadilla-ecologica</link>
-            <description>En 1971 soltaron 11 ovejas salvajes en el Parque Nacional del Teide para la caza mayor. Hoy son una pesadilla ecológica</description>
-            <pubDate>Sun Oct 11 18:00:26 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Por 8 euros, Lidl vende hoy una lámpara con sensor de movimiento que soluciona un problema cotidiano en casa</title>
-            <link>https://www.xataka.com/seleccion/8-euros-lidl-vende-hoy-lampara-sensor-movimiento-que-soluciona-problema-cotidiano-casa</link>
-            <description>Por 8 euros, Lidl vende hoy una lámpara con sensor de movimiento que soluciona un problema cotidiano en casa</description>
-            <pubDate>Sun Oct 11 17:46:25 2026</pubDate>
-            </item>
-            <item>
-            <title>RedesZone : Portal sobre telecomunicaciones, redes y ciberseguridad: He hecho estos cambios en Chrome y ahora el navegador funciona mejor y es más seguro</title>
-            <link>https://www.redeszone.net/noticias/seguridad/cambios-chrome-navegador-mejorar-rendimiento/</link>
-            <description>He hecho estos cambios en Chrome y ahora el navegador funciona mejor y es más seguro</description>
-            <pubDate>Sun Oct 11 17:05:25 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: ¿Te llaman del prefijo +31? Es de Países Bajos y estas llamadas están circulando en España</title>
-            <link>https://www.adslzone.net/noticias/seguridad/prefijo-31-llamadas-espana/</link>
-            <description>¿Te llaman del prefijo +31? Es de Países Bajos y estas llamadas están circulando en España</description>
-            <pubDate>Sun Oct 11 17:03:35 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Thorium Clocks Start Ticking with Lasers</title>
-            <link>https://hackaday.com/2026/10/11/thorium-clocks-start-ticking-with-lasers/</link>
-            <description>Thorium Clocks Start Ticking with Lasers</description>
-            <pubDate>Sun Oct 11 17:00:52 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Tu VO2 max puede decir más de tu salud que los pasos que das cada día. Tu reloj ya la calcula</title>
-            <link>https://www.xataka.com/medicina-y-salud/numero-que-tu-reloj-mide-predice-cuanto-viviras-mejor-que-peso-vo2-max</link>
-            <description>Tu VO2 max puede decir más de tu salud que los pasos que das cada día. Tu reloj ya la calcula</description>
-            <pubDate>Sun Oct 11 17:00:27 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: Uno de los mejores móviles Xiaomi Redmi de 2026 con tres días de batería tiene más de 150 euros de descuento en PcComponentes</title>
-            <link>https://www.adslzone.net/ofertas/pccomponentes-smartphone-redmi-note-17-pro-max-1026/</link>
-            <description>Uno de los mejores móviles Xiaomi Redmi de 2026 con tres días de batería tiene más de 150 euros de descuento en PcComponentes</description>
-            <pubDate>Sun Oct 11 16:06:32 2026</pubDate>
             </item></channel>
 </rss>
