@@ -6,6 +6,42 @@
 <description>...la culminación de un fin es el comienzo de una realidad.</description>
 
             <item>
+            <title>The Hacker News: A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats</title>
+            <link>https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html</link>
+            <description>A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats</description>
+            <pubDate>Sat Oct 31 05:33:41 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: Novelty Camera To USB Camera</title>
+            <link>https://hackaday.com/2026/10/30/novelty-camera-to-usb-camera/</link>
+            <description>Novelty Camera To USB Camera</description>
+            <pubDate>Sat Oct 31 05:00:23 2026</pubDate>
+            </item>
+            <item>
+            <title>The Hacker News: Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%</title>
+            <link>https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html</link>
+            <description>Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%</description>
+            <pubDate>Sat Oct 31 04:56:12 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: VR Headset Ditches the Base Stations with DIY Tracking</title>
+            <link>https://hackaday.com/2026/10/30/vr-headset-ditches-the-base-stations-with-diy-tracking/</link>
+            <description>VR Headset Ditches the Base Stations with DIY Tracking</description>
+            <pubDate>Sat Oct 31 02:00:41 2026</pubDate>
+            </item>
+            <item>
+            <title>Ubuntu Buzz !: Canonical Begins Work on Ubuntu 27.04 Tenacious T-Rex</title>
+            <link>http://www.ubuntubuzz.com/2026/10/canonical-begins-work-on-ubuntu-2704.html</link>
+            <description>Canonical Begins Work on Ubuntu 27.04 Tenacious T-Rex</description>
+            <pubDate>Fri Oct 30 23:06:19 2026</pubDate>
+            </item>
+            <item>
+            <title>Blog – Hackaday: A 1982 Modem for $100</title>
+            <link>https://hackaday.com/2026/10/30/a-1982-modem-for-100/</link>
+            <description>A 1982 Modem for $100</description>
+            <pubDate>Fri Oct 30 23:00:57 2026</pubDate>
+            </item>
+            <item>
             <title>Xataka: Google quería levantar un centro de datos en Finlandia. Empezó talando 330 hectáreas y acabó bajo investigación penal</title>
             <link>https://www.xataka.com/empresas-y-economia/google-queria-levantar-centro-datos-finlandia-empezo-talando-330-hectareas-acabo-investigacion-penal</link>
             <description>Google quería levantar un centro de datos en Finlandia. Empezó talando 330 hectáreas y acabó bajo investigación penal</description>
@@ -34,41 +70,5 @@
             <link>https://www.adslzone.net/noticias/operadores/compartir-digi-tv-fuera-casa-condiciones/</link>
             <description>Compartir Digi TV con alguien fuera de casa te puede salir caro: las cláusulas que casi nadie lee</description>
             <pubDate>Fri Oct 30 20:58:45 2026</pubDate>
-            </item>
-            <item>
-            <title>ADSLZone: noticias y tutoriales sobre tecnología, internet y operadores de fibra y móvil: PcComponentes lanza nueva oferta y deja en 300 euros justos una televisión con HDR10, Titan OS y luces Ambilight</title>
-            <link>https://www.adslzone.net/ofertas/pccomponentes-smart-tv-philips-qled-32pqs690112-1026/</link>
-            <description>PcComponentes lanza nueva oferta y deja en 300 euros justos una televisión con HDR10, Titan OS y luces Ambilight</description>
-            <pubDate>Fri Oct 30 20:06:07 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka Ciencia: Los gatos alimentados con dieta vegana aparecen con sobrepeso con menos frecuencia en una encuesta</title>
-            <link>https://www.xatakaciencia.com/biologia/gatos-alimentados-dieta-vegana-aparecen-sobrepeso-frecuencia-encuesta</link>
-            <description>Los gatos alimentados con dieta vegana aparecen con sobrepeso con menos frecuencia en una encuesta</description>
-            <pubDate>Fri Oct 30 20:01:28 2026</pubDate>
-            </item>
-            <item>
-            <title>Blog – Hackaday: Making Internal Combustion Engines Better With More Valves</title>
-            <link>https://hackaday.com/2026/10/30/making-internal-combustion-engines-better-with-more-valves/</link>
-            <description>Making Internal Combustion Engines Better With More Valves</description>
-            <pubDate>Fri Oct 30 20:00:11 2026</pubDate>
-            </item>
-            <item>
-            <title>56K: Jugar a Battle Chess 1, 2 y 3 en Linux en 2026 mientras comes helado de churro</title>
-            <link>https://56k.es/fanta/jugar-a-battle-chess-1-2-y-3-en-linux-en-2026-mientras-comes-helado-de-churro/</link>
-            <description>Jugar a Battle Chess 1, 2 y 3 en Linux en 2026 mientras comes helado de churro</description>
-            <pubDate>Fri Oct 30 19:55:57 2026</pubDate>
-            </item>
-            <item>
-            <title>Xataka: Blackstone advierte de que Anthropic se arriesga a salir a bolsa sin una buena calificación, un golpe para sus planes</title>
-            <link>https://www.xataka.com/empresas-y-economia/blackstone-advierte-que-anthropic-se-arriesga-a-salir-a-bolsa-buena-calificacion-crediticia-golpe-para-sus-planes</link>
-            <description>Blackstone advierte de que Anthropic se arriesga a salir a bolsa sin una buena calificación, un golpe para sus planes</description>
-            <pubDate>Fri Oct 30 19:41:00 2026</pubDate>
-            </item>
-            <item>
-            <title>Linux Magazine News (path: lmi_news): Working Exploit for a Linux Kernel Flaw Made Public</title>
-            <link>http://www.linux-magazine.com/Online/News/Working-Exploit-for-a-Linux-Kernel-Flaw-Made-Public</link>
-            <description>Working Exploit for a Linux Kernel Flaw Made Public</description>
-            <pubDate>Fri Oct 30 19:37:15 2026</pubDate>
             </item></channel>
 </rss>
